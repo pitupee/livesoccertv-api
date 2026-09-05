@@ -1,6 +1,7 @@
 import asyncio
 import json
 import os
+import sys
 import pycountry
 from datetime import datetime, timedelta
 from curl_cffi.requests import AsyncSession
@@ -13,6 +14,7 @@ MATCH_CONCURRENCY = 10
 TV_CONCURRENCY = 12
 TV_TIMEOUT = 30
 TV_RETRIES = 3
+NEAR_HORIZON_DAYS = 7
 ENABLE_TV_CHANNELS = True
 ENABLE_VENUE = True
 
@@ -229,7 +231,8 @@ async def process_day(session, days_offset, tv_index):
     matches = await get_fotmob_schedule(session, date_compact)
     if not matches:
         print(f"No matches found: {date_query}")
-        return
+        return {"offset": days_offset, "date": date_query,
+                "matches": 0, "with_tv": 0}
 
     total = len(matches)
     print(f"Found {total} matches via Fotmob")
@@ -259,16 +262,67 @@ async def process_day(session, days_offset, tv_index):
         f"({len(final_data)} matches, {with_tv} with TV channels)"
     )
 
+    return {"offset": days_offset, "date": date_query,
+            "matches": len(final_data), "with_tv": with_tv}
+
+
+def health_problems(tv_index, day_stats):
+    """Fotmob failing does not raise: the scrapers just return nothing and the
+    run writes thin files over good ones. A single empty day is normal — the
+    calendar has quiet days — so only look at signals that cannot legitimately
+    be zero across the whole run."""
+    problems = []
+
+    total_matches = sum(d["matches"] for d in day_stats)
+    if total_matches == 0:
+        problems.append(
+            "schedule endpoint returned no matches for any of "
+            f"{len(day_stats)} days"
+        )
+
+    if ENABLE_TV_CHANNELS:
+        if not tv_index:
+            problems.append("tvlistings returned nothing for all countries")
+
+        near = [d for d in day_stats if -1 <= d["offset"] <= NEAR_HORIZON_DAYS]
+        if near and sum(d["with_tv"] for d in near) == 0 and total_matches:
+            problems.append(
+                "no TV channels on any fixture within the next "
+                f"{NEAR_HORIZON_DAYS} days"
+            )
+
+    return problems
+
 
 async def main():
     cleanup_old_files()
+
+    day_stats = []
 
     async with AsyncSession() as session:
         tv_index = await build_tv_index(session) if ENABLE_TV_CHANNELS else {}
 
         for offset in range(-1, 31):
-            await process_day(session, offset, tv_index)
+            day_stats.append(await process_day(session, offset, tv_index))
             await asyncio.sleep(2)
+
+    total_matches = sum(d["matches"] for d in day_stats)
+    total_with_tv = sum(d["with_tv"] for d in day_stats)
+    print(
+        f"\nRun summary: {total_matches} matches over {len(day_stats)} days, "
+        f"{total_with_tv} with TV channels"
+    )
+
+    problems = health_problems(tv_index, day_stats)
+    if problems:
+        for p in problems:
+            print(f"[-] {p}", file=sys.stderr)
+        print(
+            "[-] Fotmob data looks broken, failing so the run is not silently "
+            "green",
+            file=sys.stderr,
+        )
+        sys.exit(1)
 
 
 if __name__ == "__main__":
