@@ -86,7 +86,15 @@
         "league_id": 228,
         "league": "A Lyga",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
+                "channels": [
+                    "LNK"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6050064,
@@ -283,7 +291,15 @@
         "league_id": 9676,
         "league": "Frauen-Bundesliga",
         "venue": "Ulrich-Haberland-Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Magenta Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5861924,
@@ -2268,7 +2284,16 @@
         "league_id": 252,
         "league": "HNL",
         "venue": "ŠRC Velika Gorica",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "MAX To Go",
+                    "Max Sport 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5868053,
