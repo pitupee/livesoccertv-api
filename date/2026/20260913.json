@@ -111,7 +111,16 @@
         "league_id": 176,
         "league": "1. Liga",
         "venue": "CITY ARENA – Štadión Antona Malatinského",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Markíza Dajto",
+                    "Voyo"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5772180,
@@ -2455,6 +2464,13 @@
                 ]
             },
             {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "Apple TV"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -2486,6 +2502,13 @@
                 ]
             },
             {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "Apple TV"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -2510,6 +2533,20 @@
         "venue": "Dignity Health Sports Park",
         "tv_channels": [
             {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "Apple TV"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "Apple TV"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -2533,6 +2570,20 @@
         "league": "Major League Soccer",
         "venue": "PayPal Park",
         "tv_channels": [
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "Apple TV"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "Apple TV"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -3330,7 +3381,18 @@
         "league_id": 8968,
         "league": "Primera Federacion - Group 1",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN",
+                    "FANPLAY TV",
+                    "Primera Federación",
+                    "TV FootballClub"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5883251,
@@ -3402,7 +3464,16 @@
         "league_id": 8968,
         "league": "Primera Federacion - Group 2",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "FANPLAY TV",
+                    "TV FootballClub"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5883643,
@@ -4926,6 +4997,16 @@
         "venue": "Millerntor-Stadion",
         "tv_channels": [
             {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "OneFootball PPV",
+                    "Sky Sport Bundesliga",
+                    "Sky Sport Top Event",
+                    "Sky X"
+                ]
+            },
+            {
                 "country": "Finland",
                 "country_code": "FI",
                 "channels": [
@@ -4973,6 +5054,21 @@
                     "TV 2 Play (NO)",
                     "V sport + NO",
                     "Viaplay NO"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Nova Sport 6",
+                    "Voyo"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN"
                 ]
             },
             {
@@ -5241,6 +5337,13 @@
                 "channels": [
                     "LPF Play"
                 ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "LPF Play"
+                ]
             }
         ]
     },
@@ -5262,6 +5365,13 @@
             {
                 "country": "Japan",
                 "country_code": "JP",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
                 "channels": [
                     "LPF Play"
                 ]
@@ -5289,6 +5399,13 @@
                 "channels": [
                     "LPF Play"
                 ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "LPF Play"
+                ]
             }
         ]
     },
@@ -5310,6 +5427,13 @@
             {
                 "country": "Japan",
                 "country_code": "JP",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
                 "channels": [
                     "LPF Play"
                 ]
@@ -5337,6 +5461,13 @@
                 "channels": [
                     "LPF Play"
                 ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "LPF Play"
+                ]
             }
         ]
     },
@@ -5358,6 +5489,13 @@
             {
                 "country": "Japan",
                 "country_code": "JP",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
                 "channels": [
                     "LPF Play"
                 ]
@@ -5385,6 +5523,13 @@
                 "channels": [
                     "LPF Play"
                 ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "LPF Play"
+                ]
             }
         ]
     },
@@ -5406,6 +5551,13 @@
             {
                 "country": "Japan",
                 "country_code": "JP",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
                 "channels": [
                     "LPF Play"
                 ]
@@ -5433,6 +5585,13 @@
                 "channels": [
                     "LPF Play"
                 ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "LPF Play"
+                ]
             }
         ]
     },
@@ -5457,6 +5616,13 @@
                 "channels": [
                     "LPF Play"
                 ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "LPF Play"
+                ]
             }
         ]
     },
@@ -5478,6 +5644,13 @@
             {
                 "country": "Japan",
                 "country_code": "JP",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
                 "channels": [
                     "LPF Play"
                 ]
@@ -5894,6 +6067,13 @@
                 ]
             },
             {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "country_code": "SK",
                 "channels": [
@@ -5960,6 +6140,13 @@
                 ]
             },
             {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "country_code": "SK",
                 "channels": [
@@ -5998,8 +6185,36 @@
                 ]
             },
             {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
                 "country": "Japan",
                 "country_code": "JP",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
                 "channels": [
                     "LPF Play"
                 ]
@@ -6029,8 +6244,36 @@
                 ]
             },
             {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
                 "country": "Japan",
                 "country_code": "JP",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
                 "channels": [
                     "LPF Play"
                 ]
@@ -6060,8 +6303,36 @@
                 ]
             },
             {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
                 "country": "Japan",
                 "country_code": "JP",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
                 "channels": [
                     "LPF Play"
                 ]
@@ -6093,6 +6364,13 @@
             {
                 "country": "Japan",
                 "country_code": "JP",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
                 "channels": [
                     "LPF Play"
                 ]
@@ -6203,6 +6481,13 @@
                 ]
             },
             {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "country_code": "IE",
                 "channels": [
@@ -6278,6 +6563,13 @@
             {
                 "country": "Japan",
                 "country_code": "JP",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -6939,6 +7231,13 @@
                 ]
             },
             {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "country_code": "IE",
                 "channels": [
@@ -7033,6 +7332,13 @@
             {
                 "country": "Poland",
                 "country_code": "PL",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -7930,10 +8236,27 @@
                 ]
             },
             {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Nova Sport 4",
+                    "Voyo"
+                ]
+            },
+            {
                 "country": "South Korea",
                 "country_code": "KR",
                 "channels": [
                     "Coupang Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN",
+                    "DAZN LaLiga",
+                    "LaLiga TV Bar"
                 ]
             },
             {
@@ -8563,6 +8886,13 @@
                 ]
             },
             {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "CazéTV YouTube"
+                ]
+            },
+            {
                 "country": "China",
                 "country_code": "CN",
                 "channels": [
@@ -8690,6 +9020,13 @@
                 ]
             },
             {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "China",
                 "country_code": "CN",
                 "channels": [
@@ -8750,10 +9087,25 @@
                 ]
             },
             {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Nova Sport 5",
+                    "Voyo"
+                ]
+            },
+            {
                 "country": "South Korea",
                 "country_code": "KR",
                 "channels": [
                     "Coupang Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN"
                 ]
             },
             {
@@ -8795,6 +9147,13 @@
                 ]
             },
             {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "China",
                 "country_code": "CN",
                 "channels": [
@@ -8855,10 +9214,25 @@
                 ]
             },
             {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Nova Sport 3",
+                    "Voyo"
+                ]
+            },
+            {
                 "country": "South Korea",
                 "country_code": "KR",
                 "channels": [
                     "Coupang Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN"
                 ]
             },
             {
@@ -8895,6 +9269,13 @@
             {
                 "country": "Andorra",
                 "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
                 "channels": [
                     "DAZN"
                 ]
@@ -8959,10 +9340,25 @@
                 ]
             },
             {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Nova Sport 2",
+                    "Voyo"
+                ]
+            },
+            {
                 "country": "South Korea",
                 "country_code": "KR",
                 "channels": [
                     "Coupang Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN"
                 ]
             },
             {
@@ -9000,6 +9396,13 @@
             {
                 "country": "Andorra",
                 "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
                 "channels": [
                     "DAZN"
                 ]
@@ -9066,10 +9469,26 @@
                 ]
             },
             {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Nova Sport 1",
+                    "Voyo"
+                ]
+            },
+            {
                 "country": "South Korea",
                 "country_code": "KR",
                 "channels": [
                     "Coupang Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN",
+                    "TV5MONDE"
                 ]
             },
             {
@@ -9451,6 +9870,15 @@
                 ]
             },
             {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "Sky Sports Premier League",
+                    "Sky Stream",
+                    "Sky X"
+                ]
+            },
+            {
                 "country": "Canada",
                 "country_code": "CA",
                 "channels": [
@@ -9557,10 +9985,25 @@
                 ]
             },
             {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "CANAL+ Sport",
+                    "Voyo"
+                ]
+            },
+            {
                 "country": "South Korea",
                 "country_code": "KR",
                 "channels": [
                     "Coupang Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN"
                 ]
             },
             {
@@ -10279,6 +10722,13 @@
                 ]
             },
             {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Belgium",
                 "country_code": "BE",
                 "channels": [
@@ -10358,10 +10808,25 @@
                 ]
             },
             {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Sport 1",
+                    "Voyo"
+                ]
+            },
+            {
                 "country": "South Africa",
                 "country_code": "ZA",
                 "channels": [
                     "SuperSport Football"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN"
                 ]
             },
             {

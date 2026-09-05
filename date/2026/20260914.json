@@ -2865,7 +2865,16 @@
         "league_id": 441,
         "league": "Premier League",
         "venue": "Stadion NSK Olimpiyskiy, Kyiv",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ukraine",
+                "country_code": "UA",
+                "channels": [
+                    "Kyivstar",
+                    "UPL TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5215519,
@@ -3146,7 +3155,19 @@
         "league_id": 189,
         "league": "Superliga",
         "venue": "Cluj Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Online",
+                    "Digi Sport 1",
+                    "Orange TV Go",
+                    "Prima Sport",
+                    "Prima TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5853501,
