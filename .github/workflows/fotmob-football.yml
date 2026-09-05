@@ -1,0 +1,38 @@
+name: Fotmob Football Fixtures
+
+on:
+  schedule:
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch Fotmob Football Data
+        run: python fetch_fotmob_football.py
+
+      - name: Commit if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add football-data.json
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Update fotmob football data [skip ci]"
+          git pull --rebase origin main
+          git push

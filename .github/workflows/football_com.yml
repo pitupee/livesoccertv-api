@@ -1,0 +1,33 @@
+name: Football_Com API
+
+on:
+  schedule:
+    - cron: "45 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install curl_cffi
+
+      - run: python football_com.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add today.json
+          git diff --staged --quiet && echo "No changes" && exit 0
+          git commit -m "Update today.json [$(date -u +%Y-%m-%d)]"
+          git pull --rebase origin main
+          git push
