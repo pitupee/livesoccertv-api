@@ -2,16 +2,37 @@
     {
         "match_id": 5795463,
         "kickoff": 1789835400,
-        "fixture": "Nottm Forest vs Coventry",
+        "fixture": "Nottingham Forest vs Coventry City",
         "league_id": 47,
         "league": "Premier League",
         "venue": "The City Ground",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports Main Event",
+                    "Sky Sports Premier League",
+                    "Sky Sports UHD",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "NBC",
+                    "NBC Sports 4K",
+                    "Peacock"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5795455,
         "kickoff": 1789909200,
-        "fixture": "Bournemouth vs Liverpool",
+        "fixture": "AFC Bournemouth vs Liverpool",
         "league_id": 47,
         "league": "Premier League",
         "venue": "Vitality Stadium",
@@ -20,7 +41,7 @@
     {
         "match_id": 5795460,
         "kickoff": 1789909200,
-        "fixture": "Leeds vs Crystal Palace",
+        "fixture": "Leeds United vs Crystal Palace",
         "league_id": 47,
         "league": "Premier League",
         "venue": "Elland Road",
@@ -29,7 +50,7 @@
     {
         "match_id": 5795461,
         "kickoff": 1789909200,
-        "fixture": "Man City vs Sunderland",
+        "fixture": "Manchester City vs Sunderland",
         "league_id": 47,
         "league": "Premier League",
         "venue": "Etihad Stadium",
@@ -38,7 +59,7 @@
     {
         "match_id": 5795459,
         "kickoff": 1789918200,
-        "fixture": "Fulham vs Man United",
+        "fixture": "Fulham vs Manchester United",
         "league_id": 47,
         "league": "Premier League",
         "venue": "Craven Cottage",
@@ -47,7 +68,7 @@
     {
         "match_id": 5881177,
         "kickoff": 1789835400,
-        "fixture": "VfB Stuttgart vs Dortmund",
+        "fixture": "VfB Stuttgart vs Borussia Dortmund",
         "league_id": 54,
         "league": "Bundesliga",
         "venue": "MHPArena",
@@ -56,7 +77,7 @@
     {
         "match_id": 5881170,
         "kickoff": 1789911000,
-        "fixture": "Leverkusen vs RB Leipzig",
+        "fixture": "Bayer Leverkusen vs RB Leipzig",
         "league_id": 54,
         "league": "Bundesliga",
         "venue": "BayArena",
@@ -209,7 +230,7 @@
     {
         "match_id": 5802945,
         "kickoff": 1789929900,
-        "fixture": "Marseille vs PSG",
+        "fixture": "Marseille vs Paris Saint-Germain",
         "league_id": 53,
         "league": "Ligue 1",
         "venue": "Orange Vélodrome",
@@ -218,7 +239,7 @@
     {
         "match_id": 5071368,
         "kickoff": 1789860600,
-        "fixture": "Montreal vs Columbus",
+        "fixture": "CF Montréal vs Columbus Crew",
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "Stade Saputo",
@@ -236,7 +257,7 @@
     {
         "match_id": 5071369,
         "kickoff": 1789860600,
-        "fixture": "New England vs Orlando",
+        "fixture": "New England Revolution vs Orlando City",
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "Gillette Stadium",
@@ -245,7 +266,7 @@
     {
         "match_id": 5071370,
         "kickoff": 1789860600,
-        "fixture": "San Jose vs LAFC",
+        "fixture": "San Jose Earthquakes vs Los Angeles FC",
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "Levi's Stadium",
@@ -254,7 +275,7 @@
     {
         "match_id": 5071372,
         "kickoff": 1789864200,
-        "fixture": "Dallas vs Austin FC",
+        "fixture": "FC Dallas vs Austin FC",
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "Toyota Stadium",
@@ -263,7 +284,7 @@
     {
         "match_id": 5071373,
         "kickoff": 1789864200,
-        "fixture": "Houston vs Cincinnati",
+        "fixture": "Houston Dynamo FC vs FC Cincinnati",
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "Shell Energy Stadium",
@@ -272,7 +293,7 @@
     {
         "match_id": 5071375,
         "kickoff": 1789864200,
-        "fixture": "Minnesota vs LA Galaxy",
+        "fixture": "Minnesota United vs LA Galaxy",
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "Allianz Field",
@@ -281,7 +302,7 @@
     {
         "match_id": 5071374,
         "kickoff": 1789864200,
-        "fixture": "Sporting KC vs Philadelphia",
+        "fixture": "Sporting Kansas City vs Philadelphia Union",
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "Sporting Park",
@@ -290,7 +311,7 @@
     {
         "match_id": 5071379,
         "kickoff": 1789864200,
-        "fixture": "St. Louis City vs Toronto",
+        "fixture": "St. Louis City vs Toronto FC",
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "Energizer Park",
@@ -299,7 +320,7 @@
     {
         "match_id": 5071371,
         "kickoff": 1789867800,
-        "fixture": "Colorado vs Seattle Sounders",
+        "fixture": "Colorado Rapids vs Seattle Sounders FC",
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "Dick's Sporting Goods Park",
@@ -308,7 +329,7 @@
     {
         "match_id": 5071376,
         "kickoff": 1789867800,
-        "fixture": "Nashville SC vs Chicago",
+        "fixture": "Nashville SC vs Chicago Fire FC",
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "GEODIS Park",
@@ -317,7 +338,7 @@
     {
         "match_id": 5071378,
         "kickoff": 1789867800,
-        "fixture": "Salt Lake vs Vancouver",
+        "fixture": "Real Salt Lake vs Vancouver Whitecaps",
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "America First Field",
@@ -326,7 +347,7 @@
     {
         "match_id": 5071377,
         "kickoff": 1789871400,
-        "fixture": "Portland vs Atlanta United",
+        "fixture": "Portland Timbers vs Atlanta United",
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "Providence Park",
@@ -713,7 +734,7 @@
     {
         "match_id": 5143382,
         "kickoff": 1789912800,
-        "fixture": "Notodden vs Arendal",
+        "fixture": "Notodden vs Arendal Fotball",
         "league_id": 204,
         "league": "2. Divisjon Avd. 1",
         "venue": "TBA",
@@ -1064,7 +1085,7 @@
     {
         "match_id": 5836848,
         "kickoff": 1789902000,
-        "fixture": "Wolves vs West Brom",
+        "fixture": "Wolverhampton Wanderers vs West Bromwich Albion",
         "league_id": 48,
         "league": "Championship",
         "venue": "Molineux Stadium",
@@ -1073,7 +1094,7 @@
     {
         "match_id": 5836844,
         "kickoff": 1789907400,
-        "fixture": "Norwich vs Bolton",
+        "fixture": "Norwich City vs Bolton Wanderers",
         "league_id": 48,
         "league": "Championship",
         "venue": "Carrow Road",
@@ -1271,7 +1292,7 @@
     {
         "match_id": 5105012,
         "kickoff": 1789916400,
-        "fixture": "Tromsø vs HamKam",
+        "fixture": "Tromsø vs Hamarkameratene",
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Romssa Arena",
@@ -1910,7 +1931,7 @@
     {
         "match_id": 5898724,
         "kickoff": 1789866000,
-        "fixture": "Atlético Morelia vs UDG",
+        "fixture": "Atlético Morelia vs Leones Negros",
         "league_id": 8976,
         "league": "Liga de Expansion MX Apertura",
         "venue": "Estadio Generalísimo José María Morelos y Pavón",
@@ -1919,7 +1940,7 @@
     {
         "match_id": 5898725,
         "kickoff": 1789866000,
-        "fixture": "Cancún FC vs Alebrijes",
+        "fixture": "Cancún FC vs Alebrijes Oaxaca",
         "league_id": 8976,
         "league": "Liga de Expansion MX Apertura",
         "venue": "Estadio Olímpico Andrés Quintana Roo",
@@ -1928,7 +1949,7 @@
     {
         "match_id": 5898726,
         "kickoff": 1789866000,
-        "fixture": "Jaibos vs Dorados",
+        "fixture": "Jaiba Brava del Tampico-Madero vs Dorados",
         "league_id": 8976,
         "league": "Liga de Expansion MX Apertura",
         "venue": "Estadio Tamaulipas",
@@ -2297,11 +2318,26 @@
     {
         "match_id": 5906462,
         "kickoff": 1789835400,
-        "fixture": "Hornchurch vs Scunthorpe",
+        "fixture": "Hornchurch vs Scunthorpe United",
         "league_id": 117,
         "league": "National League",
         "venue": "Hornchurch Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "DAZN US"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5865465,
@@ -2408,6 +2444,15 @@
         "fixture": "Soroksár SC vs Tiszakécske",
         "league_id": 9117,
         "league": "NB II",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6133345,
+        "kickoff": 1789902000,
+        "fixture": "Hødd (W) vs Tynset (W)",
+        "league_id": 333,
+        "league": "NM Kvinner",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -2945,7 +2990,7 @@
     {
         "match_id": 5793936,
         "kickoff": 1789836300,
-        "fixture": "Kilmarnock vs Hearts",
+        "fixture": "Kilmarnock vs Heart of Midlothian",
         "league_id": 64,
         "league": "Premiership",
         "venue": "The BBSP Stadium Rugby Park",
@@ -5276,7 +5321,7 @@
     {
         "match_id": 5908639,
         "kickoff": 1789837200,
-        "fixture": "Esenler Erokspor vs Karagümrük",
+        "fixture": "Esenler Erokspor vs Fatih Karagümrük",
         "league_id": 165,
         "league": "1. Lig",
         "venue": "Esenler Erokspor Stadyumu",
@@ -5387,7 +5432,7 @@
         "fixture": "Grêmio Prudente vs Linense",
         "league_id": 11646,
         "league": "Copa Paulista",
-        "venue": "TBA",
+        "venue": "Estádio Municipal Paulo Constantino",
         "tv_channels": []
     },
     {
@@ -5396,7 +5441,7 @@
         "fixture": "Comercial SP vs São José-SP",
         "league_id": 11646,
         "league": "Copa Paulista",
-        "venue": "TBA",
+        "venue": "Estádio Dr. Francisco de Palma Travassos",
         "tv_channels": []
     },
     {
@@ -5405,7 +5450,7 @@
         "fixture": "União São João vs Juventus-SP",
         "league_id": 11646,
         "league": "Copa Paulista",
-        "venue": "TBA",
+        "venue": "Estádio Dr. Hermínio Ometto",
         "tv_channels": []
     },
     {
@@ -5414,7 +5459,7 @@
         "fixture": "Primavera SP vs Noroeste",
         "league_id": 11646,
         "league": "Copa Paulista",
-        "venue": "TBA",
+        "venue": "Estádio Ítalo Mário Limongi",
         "tv_channels": []
     },
     {
@@ -5726,7 +5771,7 @@
     {
         "match_id": 1000014574,
         "kickoff": 1789858800,
-        "fixture": "San Luis vs Necaxa",
+        "fixture": "Atlético de San Luis vs Necaxa",
         "league_id": 230,
         "league": "Liga MX",
         "venue": "Estadio Libertad Financiera",
@@ -5744,7 +5789,7 @@
     {
         "match_id": 1000014576,
         "kickoff": 1789873200,
-        "fixture": "América vs Chivas",
+        "fixture": "CF América vs Chivas",
         "league_id": 230,
         "league": "Liga MX",
         "venue": "Estadio Banorte",
@@ -6527,7 +6572,7 @@
     {
         "match_id": 5105261,
         "kickoff": 1789916400,
-        "fixture": "Odd vs Egersund",
+        "fixture": "Odds Ballklubb vs Egersund",
         "league_id": 203,
         "league": "1. Divisjon",
         "venue": "Skagerak Arena",
@@ -6710,6 +6755,24 @@
         "fixture": "Juventud Unida Universitario vs San Martín Mendoza",
         "league_id": 9213,
         "league": "Federal A Relegation Zona B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6050474,
+        "kickoff": 1789916400,
+        "fixture": "Club Africain vs Zarzis",
+        "league_id": 544,
+        "league": "Ligue I",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6050478,
+        "kickoff": 1789916400,
+        "fixture": "CS Sfaxien vs CA Bizertin",
+        "league_id": 544,
+        "league": "Ligue I",
         "venue": "TBA",
         "tv_channels": []
     },
