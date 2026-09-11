@@ -464,7 +464,7 @@
         "fixture": "VfB Stuttgart (W) vs Union Berlin (W)",
         "league_id": 9676,
         "league": "Frauen-Bundesliga",
-        "venue": "TBA",
+        "venue": "GAZİ-Stadion auf der Waldau",
         "tv_channels": []
     },
     {
@@ -473,7 +473,7 @@
         "fixture": "VfL Wolfsburg (W) vs Hamburger SV (W)",
         "league_id": 9676,
         "league": "Frauen-Bundesliga",
-        "venue": "TBA",
+        "venue": "AOK Stadion",
         "tv_channels": []
     },
     {
@@ -491,15 +491,6 @@
         "fixture": "1B vs 2A",
         "league_id": 329,
         "league": "Gulf Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5862697,
-        "kickoff": 1791039600,
-        "fixture": "Górnik Łęczna vs Chojniczanka Chojnice",
-        "league_id": 8935,
-        "league": "II Liga",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -543,6 +534,15 @@
         "match_id": 5862700,
         "kickoff": 1791111600,
         "fixture": "Znicz Pruszków vs Stal Stalowa Wola",
+        "league_id": 8935,
+        "league": "II Liga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5862697,
+        "kickoff": 1791117000,
+        "fixture": "Górnik Łęczna vs Chojniczanka Chojnice",
         "league_id": 8935,
         "league": "II Liga",
         "venue": "TBA",
@@ -1449,30 +1449,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 5901173,
-        "kickoff": 1791043200,
-        "fixture": "Fleury Merogis U.S (W) vs Paris Saint Germain (W)",
-        "league_id": 9677,
-        "league": "Premiere Ligue",
-        "venue": "Essonne Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 5901174,
         "kickoff": 1791043200,
         "fixture": "Le Havre (W) vs Saint Malo (W)",
         "league_id": 9677,
         "league": "Premiere Ligue",
         "venue": "Stade CMA CGM Océane",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5901176,
-        "kickoff": 1791043200,
-        "fixture": "Nantes (W) vs Montpellier (W)",
-        "league_id": 9677,
-        "league": "Premiere Ligue",
-        "venue": "Stade Marcel-Saupin",
         "tv_channels": []
     },
     {
@@ -1485,8 +1467,26 @@
         "tv_channels": []
     },
     {
+        "match_id": 5901176,
+        "kickoff": 1791045000,
+        "fixture": "Nantes (W) vs Montpellier (W)",
+        "league_id": 9677,
+        "league": "Premiere Ligue",
+        "venue": "Stade Marcel-Saupin",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5901177,
+        "kickoff": 1791045000,
+        "fixture": "Strasbourg (W) vs Marseille (W)",
+        "league_id": 9677,
+        "league": "Premiere Ligue",
+        "venue": "Stade de la Meinau",
+        "tv_channels": []
+    },
+    {
         "match_id": 5908451,
-        "kickoff": 1791043200,
+        "kickoff": 1791054000,
         "fixture": "Paris FC (W) vs Lens (W)",
         "league_id": 9677,
         "league": "Premiere Ligue",
@@ -1494,12 +1494,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 5901177,
-        "kickoff": 1791043200,
-        "fixture": "Strasbourg (W) vs Marseille (W)",
+        "match_id": 5901173,
+        "kickoff": 1791118800,
+        "fixture": "Fleury Merogis U.S (W) vs Paris Saint Germain (W)",
         "league_id": 9677,
         "league": "Premiere Ligue",
-        "venue": "Stade de la Meinau",
+        "venue": "Essonne Stadium",
         "tv_channels": []
     },
     {
@@ -2367,24 +2367,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5981655,
-        "kickoff": 1791111600,
-        "fixture": "Tottenham Hotspur (W) vs London City Lionesses (W)",
-        "league_id": 9227,
-        "league": "WSL",
-        "venue": "BetWright Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5981656,
-        "kickoff": 1791115200,
-        "fixture": "Manchester United (W) vs Liverpool (W)",
-        "league_id": 9227,
-        "league": "WSL",
-        "venue": "Progress with Unity Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 5981657,
         "kickoff": 1791118800,
         "fixture": "Aston Villa (W) vs Crystal Palace (W)",
@@ -2412,6 +2394,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5981655,
+        "kickoff": 1791118800,
+        "fixture": "Tottenham Hotspur (W) vs London City Lionesses (W)",
+        "league_id": 9227,
+        "league": "WSL",
+        "venue": "BetWright Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 5981660,
         "kickoff": 1791118800,
         "fixture": "West Ham United (W) vs Chelsea (W)",
@@ -2422,7 +2413,7 @@
     },
     {
         "match_id": 5981661,
-        "kickoff": 1791120600,
+        "kickoff": 1791127800,
         "fixture": "Manchester City (W) vs Arsenal (W)",
         "league_id": 9227,
         "league": "WSL",
@@ -3453,6 +3444,15 @@
         "league_id": 10699,
         "league": "USL Super League",
         "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021953,
+        "kickoff": 1791140400,
+        "fixture": "Hartford Athletic vs Louisville City FC",
+        "league_id": 10654,
+        "league": "USL Cup",
+        "venue": "Trinity Health Stadium",
         "tv_channels": []
     }
 ]
