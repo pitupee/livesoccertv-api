@@ -90,6 +90,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5883662,
+        "kickoff": 1791397800,
+        "fixture": "Cartagena vs Real Murcia",
+        "league_id": 8968,
+        "league": "Primera Federacion - Group 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5953930,
         "kickoff": 1791398700,
         "fixture": "Gosport Borough vs Poole Town FC",
@@ -288,6 +297,33 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000021968,
+        "kickoff": 1791465000,
+        "fixture": "Al-Ain vs Kalba FC",
+        "league_id": 11027,
+        "league": "League Cup",
+        "venue": "Hazza Bin Zayed Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021969,
+        "kickoff": 1791465000,
+        "fixture": "Shabab Al-Ahli Dubai FC vs United FC",
+        "league_id": 11027,
+        "league": "League Cup",
+        "venue": "Rashid Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021970,
+        "kickoff": 1791474300,
+        "fixture": "Khorfakkan vs Al-Wasl",
+        "league_id": 11027,
+        "league": "League Cup",
+        "venue": "Saqr bin Mohammad al Qassimi Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 5175980,
         "kickoff": 1791385200,
         "fixture": "Inter Toronto FC vs Supra du Québec",
@@ -330,7 +366,23 @@
         "league_id": 274,
         "league": "Primera A",
         "venue": "Estadio Cincuentenario",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Win Fútbol +",
+                    "Win Play"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000013681,

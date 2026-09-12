@@ -315,6 +315,51 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000021970,
+        "kickoff": 1791474300,
+        "fixture": "Khorfakkan vs Al-Wasl",
+        "league_id": 11027,
+        "league": "League Cup",
+        "venue": "Saqr bin Mohammad al Qassimi Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021971,
+        "kickoff": 1791551400,
+        "fixture": "Ajman vs Baniyas",
+        "league_id": 11027,
+        "league": "League Cup",
+        "venue": "Ajman Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021972,
+        "kickoff": 1791551400,
+        "fixture": "Al-Wahda vs Al-Dhafra",
+        "league_id": 11027,
+        "league": "League Cup",
+        "venue": "Al Nahyan Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021973,
+        "kickoff": 1791560700,
+        "fixture": "Al-Nasr SC vs Hatta",
+        "league_id": 11027,
+        "league": "League Cup",
+        "venue": "Al Maktoum Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021974,
+        "kickoff": 1791560700,
+        "fixture": "Sharjah Cultural Club vs Al-Jazira",
+        "league_id": 11027,
+        "league": "League Cup",
+        "venue": "Sharjah Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000017250,
         "kickoff": 1791482400,
         "fixture": "Club Deportivo Moquegua vs Cienciano",
@@ -339,7 +384,23 @@
         "league_id": 274,
         "league": "Primera A",
         "venue": "Estadio Cincuentenario",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Win Fútbol +",
+                    "Win Play"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000014178,
@@ -572,7 +633,7 @@
         "fixture": "Borussia Dortmund vs Werder Bremen",
         "league_id": 54,
         "league": "Bundesliga",
-        "venue": "Signal Iduna Park",
+        "venue": "SIGNAL IDUNA PARK",
         "tv_channels": []
     },
     {
@@ -617,7 +678,7 @@
         "fixture": "Eintracht Braunschweig vs Holstein Kiel",
         "league_id": 146,
         "league": "2. Bundesliga",
-        "venue": "Eintracht Stadion",
+        "venue": "Eintracht-Stadion",
         "tv_channels": []
     },
     {
@@ -680,7 +741,7 @@
         "fixture": "SK Beveren vs Lommel",
         "league_id": 40,
         "league": "Belgian Pro League",
-        "venue": "Freethiel Stadion",
+        "venue": "Freethielstadion",
         "tv_channels": []
     },
     {
@@ -1324,7 +1385,7 @@
     },
     {
         "match_id": 5911566,
-        "kickoff": 1791563400,
+        "kickoff": 1791565200,
         "fixture": "Bayern München II vs Unterhaching",
         "league_id": 512,
         "league": "Regionalliga Bayern",
