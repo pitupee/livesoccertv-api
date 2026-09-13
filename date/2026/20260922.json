@@ -96,7 +96,15 @@
         "league_id": 9676,
         "league": "Frauen-Bundesliga",
         "venue": "Weserstadion Platz 11",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Magenta Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5976895,
@@ -315,9 +323,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 5874218,
+        "match_id": 5874220,
         "kickoff": 1790008200,
-        "fixture": "Etar vs FC Chernomorets Burgas",
+        "fixture": "Montana vs Hebar",
         "league_id": 9096,
         "league": "Second Professional League",
         "venue": "TBA",
@@ -474,7 +482,19 @@
         "league_id": 189,
         "league": "Superliga",
         "venue": "Stadionul Oţelul",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Online",
+                    "Digi Sport 1",
+                    "Orange TV Go",
+                    "Prima Sport",
+                    "Prima TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5853509,
@@ -483,7 +503,19 @@
         "league_id": 189,
         "league": "Superliga",
         "venue": "Stadionul Ilie Oană",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Online",
+                    "Digi Sport 1",
+                    "Orange TV Go",
+                    "Prima Sport",
+                    "Prima TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5200657,

@@ -30,8 +30,11 @@
                     "Servus TV Livestream",
                     "ServusTV On",
                     "Sky Go",
+                    "Sky Sport 2",
                     "Sky Sport Austria 1",
                     "Sky Sport Austria 2",
+                    "Sky Sport Mix",
+                    "Sky Stream",
                     "Sky X"
                 ]
             },
@@ -255,7 +258,8 @@
                 "channels": [
                     "CBS Sports Network",
                     "Fubo Sports",
-                    "Paramount+ (US)"
+                    "Paramount+ (US)",
+                    "TUDN (US)"
                 ]
             },
             {
@@ -306,6 +310,9 @@
                     "Sky Go",
                     "Sky Sport Austria 1",
                     "Sky Sport Austria 3",
+                    "Sky Sport Mix",
+                    "Sky Sport Top Event",
+                    "Sky Stream",
                     "Sky X"
                 ]
             },
@@ -525,7 +532,8 @@
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
-                    "HBO Max (UK)"
+                    "HBO Max (UK)",
+                    "TNT Sports 4"
                 ]
             },
             {
@@ -581,8 +589,12 @@
                 "country_code": "AT",
                 "channels": [
                     "Sky Go",
+                    "Sky Sport 1",
                     "Sky Sport Austria 1",
                     "Sky Sport Austria 5",
+                    "Sky Sport Mix",
+                    "Sky Sport Top Event",
+                    "Sky Stream",
                     "Sky X"
                 ]
             },
@@ -844,6 +856,8 @@
                     "Sky Go",
                     "Sky Sport Austria 1",
                     "Sky Sport Austria 7",
+                    "Sky Sport Top Event",
+                    "Sky Stream",
                     "Sky X"
                 ]
             },
@@ -1032,6 +1046,7 @@
                 "country_code": "GB",
                 "channels": [
                     "HBO Max (UK)",
+                    "TNT Sports 3",
                     "TNT Sports Ultimate"
                 ]
             },
@@ -1091,6 +1106,8 @@
                     "Sky Go",
                     "Sky Sport Austria 1",
                     "Sky Sport Austria 6",
+                    "Sky Sport Top Event",
+                    "Sky Stream",
                     "Sky X"
                 ]
             },
@@ -1353,8 +1370,12 @@
                 "country_code": "AT",
                 "channels": [
                     "Sky Go",
+                    "Sky Sport 1",
                     "Sky Sport Austria 1",
                     "Sky Sport Austria 4",
+                    "Sky Sport Mix",
+                    "Sky Sport Top Event",
+                    "Sky Stream",
                     "Sky X"
                 ]
             },
@@ -1564,7 +1585,8 @@
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
-                    "HBO Max (UK)"
+                    "HBO Max (UK)",
+                    "TNT Sports 4"
                 ]
             },
             {
@@ -1572,6 +1594,7 @@
                 "country_code": "US",
                 "channels": [
                     "Paramount+ (US)",
+                    "TUDN (US)",
                     "UniMás"
                 ]
             },
@@ -1621,6 +1644,8 @@
                 "channels": [
                     "Sky Go",
                     "Sky Sport Austria 1",
+                    "Sky Sport Top Event",
+                    "Sky Stream",
                     "Sky X"
                 ]
             },
@@ -1854,8 +1879,12 @@
                 "country_code": "AT",
                 "channels": [
                     "Sky Go",
+                    "Sky Sport 1",
                     "Sky Sport Austria 1",
                     "Sky Sport Austria 3",
+                    "Sky Sport Mix",
+                    "Sky Sport Top Event",
+                    "Sky Stream",
                     "Sky X"
                 ]
             },
@@ -2122,6 +2151,8 @@
                     "Sky Go",
                     "Sky Sport Austria 1",
                     "Sky Sport Austria 8",
+                    "Sky Sport Top Event",
+                    "Sky Stream",
                     "Sky X"
                 ]
             },
@@ -3119,14 +3150,6 @@
                 ]
             },
             {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "Premier Sports 1 ROI",
-                    "Premier Sports 2 ROI"
-                ]
-            },
-            {
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
@@ -3534,6 +3557,13 @@
                 ]
             },
             {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "Ziggo Sport 2"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
@@ -3579,6 +3609,13 @@
                 "country_code": "PH",
                 "channels": [
                     "beIN SPORTS CONNECT"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "CANAL+ Sport 6"
                 ]
             },
             {
@@ -5701,7 +5738,7 @@
     {
         "match_id": 5852092,
         "kickoff": 1789662600,
-        "fixture": "1E (W) vs 2D (W)",
+        "fixture": "1E (W) vs Japan U20 (W)",
         "league_id": 10369,
         "league": "Women's World Cup U20",
         "venue": "TBA",
@@ -5885,11 +5922,28 @@
                 ]
             },
             {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Fanatiz",
+                    "Sport TV 1"
+                ]
+            },
+            {
                 "country": "Switzerland",
                 "country_code": "CH",
                 "channels": [
+                    "Blue Sport 9 Direct",
+                    "Blue Sport 9 Live",
                     "OneFootball PPV",
                     "Sportdigital1+"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "beIN SPORTS USA"
                 ]
             },
             {
@@ -5980,6 +6034,13 @@
                 ]
             },
             {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "beIN Sport Canada Espanol"
+                ]
+            },
+            {
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
@@ -5999,14 +6060,14 @@
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Canal por confirmar"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Canal por confirmar"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -6021,35 +6082,35 @@
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Canal por confirmar"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Canal por confirmar"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "Canal por confirmar"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Canal por confirmar"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Canal por confirmar"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -6066,6 +6127,21 @@
                 "channels": [
                     "Disney+ Premium",
                     "ESPN"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Fanatiz",
+                    "Sport TV 2"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "beIN SPORTS USA Español"
                 ]
             },
             {
@@ -6220,17 +6296,8 @@
         ]
     },
     {
-        "match_id": 1000014115,
-        "kickoff": 1789686000,
-        "fixture": "Bucaramanga vs Águilas Doradas",
-        "league_id": 274,
-        "league": "Primera A",
-        "venue": "Estadio Américo Montanini",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000019053,
-        "kickoff": 1789684200,
+        "kickoff": 1789682400,
         "fixture": "Real Tomayapo vs Oriente Petrolero",
         "league_id": 144,
         "league": "Primera División",
@@ -6512,6 +6579,13 @@
                 "channels": [
                     "Disney+ Premium",
                     "ESPN"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "CANAL+ EXTRA 1"
                 ]
             },
             {
@@ -6833,6 +6907,13 @@
                 ]
             },
             {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Eleven Sports 1"
+                ]
+            },
+            {
                 "country": "Russian Federation",
                 "country_code": "RU",
                 "channels": [
@@ -6879,10 +6960,19 @@
                 ]
             },
             {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "BBC Sport online",
+                    "BBC iPlayer"
+                ]
+            },
+            {
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
-                    "Peacock (Español)"
+                    "Peacock (Español)",
+                    "Telemundo"
                 ]
             },
             {
@@ -6952,7 +7042,8 @@
                 "country": "Canada",
                 "country_code": "CA",
                 "channels": [
-                    "beIN Sport Canada"
+                    "beIN Sport Canada",
+                    "beIN Sport Canada Espanol"
                 ]
             },
             {
@@ -7113,6 +7204,20 @@
                 ]
             },
             {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Eleven Sports 3"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "country_code": "SK",
                 "channels": [
@@ -7154,6 +7259,14 @@
                 "country_code": "TR",
                 "channels": [
                     "beIN SPORTS CONNECT"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "beIN SPORTS USA",
+                    "beIN SPORTS USA Español"
                 ]
             },
             {
@@ -7326,7 +7439,9 @@
                 "country": "Italy",
                 "country_code": "IT",
                 "channels": [
-                    "DAZN Italia"
+                    "DAZN Italia",
+                    "NOW TV (IT)",
+                    "Sky Sport 4K (IT)"
                 ]
             },
             {
@@ -7385,6 +7500,13 @@
                 "channels": [
                     "Disney+ Premium",
                     "ESPN 3"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Eleven Sports 2"
                 ]
             },
             {
@@ -7607,6 +7729,13 @@
                 ]
             },
             {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Eleven Sports 2"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "country_code": "SK",
                 "channels": [
@@ -7758,6 +7887,13 @@
                 "country_code": "PE",
                 "channels": [
                     "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Eleven Sports 3"
                 ]
             },
             {
@@ -9057,7 +9193,8 @@
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
-                    "Sky Sport Mix"
+                    "Sky Sport Mix",
+                    "Sky Stream"
                 ]
             },
             {
@@ -9239,6 +9376,7 @@
                 "channels": [
                     "NOW",
                     "Sky Sports Football",
+                    "Sky Sports UHD",
                     "Sky Sports+ app"
                 ]
             },
@@ -9279,6 +9417,15 @@
                 "channels": [
                     "BBC Scotland",
                     "BBC Sport",
+                    "BBC iPlayer"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "BBC Scotland",
+                    "BBC Sport online",
                     "BBC iPlayer"
                 ]
             }
@@ -9437,6 +9584,13 @@
         "venue": "Stadion Miejski Widzewa Łódź",
         "tv_channels": [
             {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "CANAL+ Sport 3"
+                ]
+            },
+            {
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
@@ -9455,6 +9609,15 @@
         "league": "Ekstraklasa",
         "venue": "Synerise Arena - Stadion Miejski im. Henryka Reymana",
         "tv_channels": [
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "CANAL+ 4K ULTRA HD",
+                    "CANAL+ Sport 3",
+                    "CANAL+ Sport 4"
+                ]
+            },
             {
                 "country": "United States",
                 "country_code": "US",
@@ -9874,7 +10037,15 @@
         "league_id": 197,
         "league": "I Liga",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "TVP Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5944181,
@@ -9970,7 +10141,16 @@
         "league_id": 337,
         "league": "Liga Nacional - Apertura",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "DTVC+",
+                    "Deportes TVC"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5803263,
@@ -10095,6 +10275,13 @@
                 "country_code": "NO",
                 "channels": [
                     "Viaplay NO"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Fanatiz"
                 ]
             },
             {
@@ -10409,6 +10596,8 @@
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
+                    "BBC Sport online",
+                    "BBC iPlayer",
                     "LOITV (Int)"
                 ]
             }
@@ -10450,7 +10639,8 @@
                 "country": "Ireland",
                 "country_code": "IE",
                 "channels": [
-                    "LOITV (ROI)"
+                    "Virgin Media Play",
+                    "Virgin Media Two"
                 ]
             },
             {
@@ -10531,7 +10721,11 @@
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
-                    "Cymru Football TV"
+                    "BBC Sport online",
+                    "BBC iPlayer",
+                    "Cymru Football TV",
+                    "S4C",
+                    "S4C Clic"
                 ]
             }
         ]
@@ -11049,6 +11243,13 @@
                     "Orange TV Go",
                     "Prima Sport",
                     "Prima TV"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "Sportdigital Fussball"
                 ]
             }
         ]
@@ -11929,6 +12130,15 @@
                 ]
             },
             {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "Ziggo Sport",
+                    "Ziggo Sport 5",
+                    "Ziggo Sport Kanaal 14"
+                ]
+            },
+            {
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
@@ -11953,6 +12163,8 @@
                 "country": "Switzerland",
                 "country_code": "CH",
                 "channels": [
+                    "Blue Sport 4 Direct",
+                    "Blue Sport 4 Live",
                     "Sportdigital1+"
                 ]
             },
@@ -12169,6 +12381,31 @@
                 "channels": [
                     "L1 Max",
                     "L1 Play"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 1000014149,
+        "kickoff": 1789765200,
+        "fixture": "Águilas Doradas vs Deportivo Pereira",
+        "league_id": 274,
+        "league": "Primera A",
+        "venue": "Estadio Cincuentenario",
+        "tv_channels": [
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Win Fútbol +",
+                    "Win Play"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Fanatiz"
                 ]
             }
         ]
