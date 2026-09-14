@@ -98,10 +98,28 @@
         "venue": "Weserstadion Platz 11",
         "tv_channels": [
             {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "V Sport 2 Suomi",
+                    "Viaplay FI",
+                    "Viaplay TV (FI)"
+                ]
+            },
+            {
                 "country": "Germany",
                 "country_code": "DE",
                 "channels": [
-                    "Magenta Sport"
+                    "DAZN Deutschland",
+                    "Magenta Sport",
+                    "Sport1"
+                ]
+            },
+            {
+                "country": "Italy",
+                "country_code": "IT",
+                "channels": [
+                    "DAZN Italia"
                 ]
             }
         ]
@@ -167,7 +185,15 @@
         "league_id": 112,
         "league": "Liga Profesional Clausura",
         "venue": "Estadio José María Minella",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5116009,
@@ -176,7 +202,15 @@
         "league_id": 112,
         "league": "Liga Profesional Clausura",
         "venue": "Estadio Claudio Fabián Tapia",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5116015,
@@ -830,7 +864,23 @@
         "league_id": 179,
         "league": "Challenge Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Premier Sports 1 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Premier Sports 1 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5959594,
@@ -929,7 +979,16 @@
         "league_id": 142,
         "league": "EFL Trophy Northern Grp. A",
         "venue": "Wham Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6014405,
@@ -938,7 +997,16 @@
         "league_id": 142,
         "league": "EFL Trophy Northern Grp. A",
         "venue": "AIG Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6014862,
@@ -947,7 +1015,16 @@
         "league_id": 142,
         "league": "EFL Trophy Northern Grp. B",
         "venue": "Mornflake Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6014860,
@@ -956,7 +1033,16 @@
         "league_id": 142,
         "league": "EFL Trophy Northern Grp. B",
         "venue": "The Brick Community Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6014988,
@@ -965,7 +1051,16 @@
         "league_id": 142,
         "league": "EFL Trophy Northern Grp. C",
         "venue": "LNER Community Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6014991,
@@ -974,7 +1069,16 @@
         "league_id": 142,
         "league": "EFL Trophy Northern Grp. C",
         "venue": "Mbanq Valley Parade",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6015006,
@@ -983,7 +1087,16 @@
         "league_id": 142,
         "league": "EFL Trophy Northern Grp. D",
         "venue": "SMH Group Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6015012,
@@ -992,7 +1105,16 @@
         "league_id": 142,
         "league": "EFL Trophy Northern Grp. E",
         "venue": "Prenton Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6015563,
@@ -1001,7 +1123,16 @@
         "league_id": 142,
         "league": "EFL Trophy Northern Grp. F",
         "venue": "Pirelli Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6015564,
@@ -1010,7 +1141,16 @@
         "league_id": 142,
         "league": "EFL Trophy Northern Grp. F",
         "venue": "Meadow Lane",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6015571,
@@ -1019,7 +1159,16 @@
         "league_id": 142,
         "league": "EFL Trophy Northern Grp. G",
         "venue": "Oakwell",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6015572,
@@ -1028,7 +1177,16 @@
         "league_id": 142,
         "league": "EFL Trophy Northern Grp. G",
         "venue": "Boundary Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6015883,
@@ -1037,7 +1195,16 @@
         "league_id": 142,
         "league": "EFL Trophy Northern Grp. H",
         "venue": "Crown Oil Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6016267,
@@ -1046,7 +1213,16 @@
         "league_id": 142,
         "league": "EFL Trophy Southern Grp. A",
         "venue": "EV Charger Points Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6016295,
@@ -1055,7 +1231,16 @@
         "league_id": 142,
         "league": "EFL Trophy Southern Grp. B",
         "venue": "King Power Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6016296,
@@ -1064,7 +1249,16 @@
         "league_id": 142,
         "league": "EFL Trophy Southern Grp. B",
         "venue": "Pallet-Track Bescot Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6016309,
@@ -1073,7 +1267,16 @@
         "league_id": 142,
         "league": "EFL Trophy Southern Grp. D",
         "venue": "Kenilworth Road",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6016310,
@@ -1082,7 +1285,16 @@
         "league_id": 142,
         "league": "EFL Trophy Southern Grp. D",
         "venue": "Weston Homes Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6016316,
@@ -1091,7 +1303,16 @@
         "league_id": 142,
         "league": "EFL Trophy Southern Grp. E",
         "venue": "Home Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6016317,
@@ -1100,7 +1321,16 @@
         "league_id": 142,
         "league": "EFL Trophy Southern Grp. E",
         "venue": "The Nigel Eady County Ground",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6016322,
@@ -1109,7 +1339,16 @@
         "league_id": 142,
         "league": "EFL Trophy Southern Grp. G",
         "venue": "Priestfield Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6016329,
@@ -1118,7 +1357,16 @@
         "league_id": 142,
         "league": "EFL Trophy Southern Grp. H",
         "venue": "Stadium MK",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6016330,
@@ -1127,7 +1375,16 @@
         "league_id": 142,
         "league": "EFL Trophy Southern Grp. H",
         "venue": "Copperjax Community Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5948087,
@@ -1166,30 +1423,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 5953876,
-        "kickoff": 1790102700,
-        "fixture": "Basingstoke vs Gosport Borough",
-        "league_id": 8947,
-        "league": "Southern Premier Division South",
-        "venue": "Winklebury Sports Complex",
-        "tv_channels": []
-    },
-    {
         "match_id": 5953877,
         "kickoff": 1790102700,
         "fixture": "Berkhamsted vs Hanworth Villa",
         "league_id": 8947,
         "league": "Southern Premier Division South",
         "venue": "Broadwater",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5953878,
-        "kickoff": 1790102700,
-        "fixture": "Bracknell Town vs Havant and Waterlooville",
-        "league_id": 8947,
-        "league": "Southern Premier Division South",
-        "venue": "Larges Lane",
         "tv_channels": []
     },
     {
@@ -1280,7 +1519,22 @@
         "league_id": 9375,
         "league": "Women's Champions League",
         "venue": "Uhlsport Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Disney+ (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6148611,
@@ -1289,7 +1543,22 @@
         "league_id": 9375,
         "league": "Women's Champions League",
         "venue": "U-Power Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Disney+ (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6148591,
@@ -1298,7 +1567,22 @@
         "league_id": 9375,
         "league": "Women's Champions League",
         "venue": "Mangata Developments Stadium Meadow Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Disney+ (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6148599,
@@ -1307,7 +1591,22 @@
         "league_id": 9375,
         "league": "Women's Champions League",
         "venue": "Allianz Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Disney+ (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6148601,
@@ -1316,7 +1615,22 @@
         "league_id": 9375,
         "league": "Women's Champions League",
         "venue": "Estadio Alfredo Di Stéfano",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Disney+ (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000016722,
