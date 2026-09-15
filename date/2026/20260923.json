@@ -117,15 +117,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5959592,
-        "kickoff": 1790102700,
-        "fixture": "East Fife vs Motherwell B",
-        "league_id": 179,
-        "league": "Challenge Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5959593,
         "kickoff": 1790102700,
         "fixture": "East Kilbride vs Celtic B",
@@ -340,6 +331,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 6248859,
+        "kickoff": 1790112600,
+        "fixture": "2 de Mayo vs Sol de America",
+        "league_id": 10230,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6248860,
+        "kickoff": 1790190000,
+        "fixture": "Sportivo San Lorenzo vs 4 de Mayo",
+        "league_id": 10230,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6014404,
         "kickoff": 1790100000,
         "fixture": "Accrington Stanley vs Sunderland U21",
@@ -370,6 +379,7 @@
                 "country_code": "GB",
                 "channels": [
                     "NOW",
+                    "Sky Sports+ HD",
                     "Sky Sports+ app"
                 ]
             }
@@ -826,6 +836,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5949258,
+        "kickoff": 1790102700,
+        "fixture": "Cleethorpes Town vs Redcar Athletic",
+        "league_id": 8947,
+        "league": "Northern Premier Division",
+        "venue": "Bradley Community Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 5949254,
         "kickoff": 1790102700,
         "fixture": "Leek Town vs Hyde United",
@@ -1003,7 +1022,15 @@
         "league_id": 10699,
         "league": "USL Super League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Peacock"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6148576,
@@ -1013,6 +1040,13 @@
         "league": "Women's Champions League",
         "venue": "Uhlsport Park",
         "tv_channels": [
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "TV12"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -1024,6 +1058,9 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
+                    "ESPN Deportes",
+                    "ESPN Unlimited",
+                    "Fubo Sports",
                     "Paramount+ (US)"
                 ]
             }
@@ -1132,7 +1169,22 @@
         "league_id": 9375,
         "league": "Women's Champions League",
         "venue": "King Power at Den Dreef Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Disney+ (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6148613,
@@ -1141,7 +1193,22 @@
         "league_id": 9375,
         "league": "Women's Champions League",
         "venue": "Stade de Genève",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Disney+ (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6148584,
@@ -1150,7 +1217,22 @@
         "league_id": 9375,
         "league": "Women's Champions League",
         "venue": "Estadi Johan Cruyff",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Disney+ (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6148579,
@@ -1159,7 +1241,22 @@
         "league_id": 9375,
         "league": "Women's Champions League",
         "venue": "The Cherry Red Records Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Disney+ (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5852098,
@@ -1168,7 +1265,15 @@
         "league_id": 10369,
         "league": "Women's World Cup U20",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5852099,
@@ -1177,7 +1282,15 @@
         "league_id": 10369,
         "league": "Women's World Cup U20",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000021043,
@@ -1294,7 +1407,15 @@
         "league_id": 274,
         "league": "Primera A",
         "venue": "Estadio Atanasio Girardot",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000014160,
@@ -1546,7 +1667,29 @@
         "league_id": 10705,
         "league": "National League Cup Group C",
         "venue": "Mangata Developments Stadium Meadow Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NL+"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NL+"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "NL+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6103090,
