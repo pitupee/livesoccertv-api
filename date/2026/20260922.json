@@ -51,6 +51,69 @@
         "tv_channels": []
     },
     {
+        "match_id": 6258006,
+        "kickoff": 1790004600,
+        "fixture": "Shenavarsazi Qeshm vs Foolad Khuzestan B",
+        "league_id": 9372,
+        "league": "Azadegan League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6258007,
+        "kickoff": 1790006400,
+        "fixture": "Shahin Bandar Ameri vs Pars Jonoubi Jam",
+        "league_id": 9372,
+        "league": "Azadegan League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6258008,
+        "kickoff": 1790087400,
+        "fixture": "Mes Kerman vs Saipa",
+        "league_id": 9372,
+        "league": "Azadegan League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6258009,
+        "kickoff": 1790089200,
+        "fixture": "Havadar SC vs Beasat Kermanshah",
+        "league_id": 9372,
+        "league": "Azadegan League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6258010,
+        "kickoff": 1790090100,
+        "fixture": "Kara Gostar vs Mes Rafsanjan",
+        "league_id": 9372,
+        "league": "Azadegan League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6258011,
+        "kickoff": 1790092800,
+        "fixture": "Naft Gachsaran vs Ario Islamshahr",
+        "league_id": 9372,
+        "league": "Azadegan League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6258012,
+        "kickoff": 1790092800,
+        "fixture": "Naft Masjed Soleyman FC vs Naft Bandar Abbas",
+        "league_id": 9372,
+        "league": "Azadegan League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5165375,
         "kickoff": 1790002800,
         "fixture": "FC Rustavi vs Iberia 1999",
@@ -204,6 +267,7 @@
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
+                    "TV 2 Play (NO)",
                     "Viaplay NO"
                 ]
             },
@@ -276,7 +340,15 @@
         "league_id": 9906,
         "league": "Liga MX Femenil Apertura",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "Liga BBVA MX Femenil YouTube"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5977361,
@@ -285,7 +357,16 @@
         "league_id": 9906,
         "league": "Liga MX Femenil Apertura",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "FOX One",
+                    "Tubi"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5977362,
@@ -294,7 +375,23 @@
         "league_id": 9906,
         "league": "Liga MX Femenil Apertura",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "ViX Gratis"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "Liga BBVA MX Femenil YouTube",
+                    "ViX Gratis"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5977363,
@@ -303,218 +400,13 @@
         "league_id": 9906,
         "league": "Liga MX Femenil Apertura",
         "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5116008,
-        "kickoff": 1790011800,
-        "fixture": "Aldosivi vs Atlético Tucumán",
-        "league_id": 112,
-        "league": "Liga Profesional Clausura",
-        "venue": "Estadio José María Minella",
         "tv_channels": [
-            {
-                "country": "Argentina",
-                "country_code": "AR",
-                "channels": [
-                    "TNT Sports Premium",
-                    "TNT Sports en HBO MAX"
-                ]
-            },
-            {
-                "country": "Bolivia",
-                "country_code": "BO",
-                "channels": [
-                    "TyC Sports Internacional"
-                ]
-            },
-            {
-                "country": "Chile",
-                "country_code": "CL",
-                "channels": [
-                    "TyC Sports Internacional"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "country_code": "CO",
-                "channels": [
-                    "TyC Sports Internacional"
-                ]
-            },
-            {
-                "country": "Costa Rica",
-                "country_code": "CR",
-                "channels": [
-                    "TyC Sports Internacional"
-                ]
-            },
-            {
-                "country": "Dominican Republic",
-                "country_code": "DO",
-                "channels": [
-                    "TyC Sports Internacional"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "country_code": "EC",
-                "channels": [
-                    "TyC Sports Internacional"
-                ]
-            },
-            {
-                "country": "Guatemala",
-                "country_code": "GT",
-                "channels": [
-                    "TyC Sports Internacional"
-                ]
-            },
-            {
-                "country": "Honduras",
-                "country_code": "HN",
-                "channels": [
-                    "TyC Sports Internacional"
-                ]
-            },
             {
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "TyC Sports Internacional"
-                ]
-            },
-            {
-                "country": "Nicaragua",
-                "country_code": "NI",
-                "channels": [
-                    "TyC Sports Internacional"
-                ]
-            },
-            {
-                "country": "Panama",
-                "country_code": "PA",
-                "channels": [
-                    "TyC Sports Internacional"
-                ]
-            },
-            {
-                "country": "Paraguay",
-                "country_code": "PY",
-                "channels": [
-                    "TyC Sports Internacional"
-                ]
-            },
-            {
-                "country": "Peru",
-                "country_code": "PE",
-                "channels": [
-                    "TyC Sports Internacional"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "Fanatiz"
-                ]
-            },
-            {
-                "country": "Uruguay",
-                "country_code": "UY",
-                "channels": [
-                    "TyC Sports Internacional"
-                ]
-            },
-            {
-                "country": "Venezuela",
-                "country_code": "VE",
-                "channels": [
-                    "TyC Sports Internacional"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5116009,
-        "kickoff": 1790028000,
-        "fixture": "Barracas Central vs Independiente Rivadavia",
-        "league_id": 112,
-        "league": "Liga Profesional Clausura",
-        "venue": "Estadio Claudio Fabián Tapia",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "country_code": "AR",
-                "channels": [
-                    "TNT Sports Premium",
-                    "TNT Sports en HBO MAX"
-                ]
-            },
-            {
-                "country": "Bolivia",
-                "country_code": "BO",
-                "channels": [
-                    "TyC Sports Internacional"
-                ]
-            },
-            {
-                "country": "Chile",
-                "country_code": "CL",
-                "channels": [
-                    "TyC Sports Internacional"
-                ]
-            },
-            {
-                "country": "Dominican Republic",
-                "country_code": "DO",
-                "channels": [
-                    "TyC Sports Internacional"
-                ]
-            },
-            {
-                "country": "Paraguay",
-                "country_code": "PY",
-                "channels": [
-                    "TyC Sports Internacional"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "Fanatiz"
-                ]
-            },
-            {
-                "country": "Uruguay",
-                "country_code": "UY",
-                "channels": [
-                    "TyC Sports Internacional"
-                ]
-            },
-            {
-                "country": "Venezuela",
-                "country_code": "VE",
-                "channels": [
-                    "TyC Sports Internacional"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5116015,
-        "kickoff": 1790036100,
-        "fixture": "Lanús vs Estudiantes",
-        "league_id": 112,
-        "league": "Liga Profesional Clausura",
-        "venue": "Estadio Ciudad de Lanús - Néstor Díaz Pérez",
-        "tv_channels": [
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "Fanatiz"
+                    "FOX One",
+                    "Tubi"
                 ]
             }
         ]
@@ -526,7 +418,15 @@
         "league_id": 9039,
         "league": "LPF Apertura",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "FOX"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5144023,
@@ -626,6 +526,376 @@
         "league": "3. Divisjon Avd. 1",
         "venue": "TBA",
         "tv_channels": []
+    },
+    {
+        "match_id": 5113083,
+        "kickoff": 1790013600,
+        "fixture": "Tristán Suárez vs Atlanta",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "Estadio 20 de Octubre",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5113080,
+        "kickoff": 1790020800,
+        "fixture": "Nueva Chicago vs Patronato de Parana",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "Estadio República de Mataderos",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5911194,
@@ -865,7 +1135,17 @@
         "league_id": 11646,
         "league": "Copa Paulista",
         "venue": "Mercado Livre Arena Pacaembu",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "BR IN TV",
+                    "Metrópoles",
+                    "Ulisses TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000021033,
@@ -972,7 +1252,15 @@
         "league_id": 9125,
         "league": "Primera B",
         "venue": "Estadio Municipal de Mosquera",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000013727,
@@ -981,7 +1269,15 @@
         "league_id": 9125,
         "league": "Primera B",
         "venue": "Estadio Olímpico Jaime Morón León",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000013725,
@@ -990,7 +1286,15 @@
         "league_id": 9125,
         "league": "Primera B",
         "venue": "Estadio Olímpico Pascual Guerrero",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000013726,
@@ -999,7 +1303,15 @@
         "league_id": 9125,
         "league": "Primera B",
         "venue": "Estadio Daniel Villa Zapata",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000021920,
@@ -1079,7 +1391,17 @@
         "league_id": 8814,
         "league": "Série B",
         "venue": "Arena Pantanal",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Disney+ Premium",
+                    "SportyNet",
+                    "Xsports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000015139,
@@ -1295,6 +1617,13 @@
         "venue": "Wham Stadium",
         "tv_channels": [
             {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -1312,6 +1641,13 @@
         "league": "EFL Trophy Northern Grp. A",
         "venue": "AIG Stadium",
         "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -1332,6 +1668,13 @@
         "venue": "Mornflake Stadium",
         "tv_channels": [
             {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -1349,6 +1692,13 @@
         "league": "EFL Trophy Northern Grp. B",
         "venue": "The Brick Community Stadium",
         "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -1368,6 +1718,13 @@
         "venue": "LNER Community Stadium",
         "tv_channels": [
             {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -1385,6 +1742,13 @@
         "league": "EFL Trophy Northern Grp. C",
         "venue": "Mbanq Valley Parade",
         "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -1404,6 +1768,13 @@
         "venue": "SMH Group Stadium",
         "tv_channels": [
             {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -1421,6 +1792,13 @@
         "league": "EFL Trophy Northern Grp. E",
         "venue": "Prenton Park",
         "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -1440,6 +1818,13 @@
         "venue": "Pirelli Stadium",
         "tv_channels": [
             {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -1457,6 +1842,13 @@
         "league": "EFL Trophy Northern Grp. F",
         "venue": "Meadow Lane",
         "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -1476,6 +1868,13 @@
         "venue": "Oakwell",
         "tv_channels": [
             {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -1493,6 +1892,13 @@
         "league": "EFL Trophy Northern Grp. G",
         "venue": "Boundary Park",
         "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -1512,6 +1918,13 @@
         "venue": "Crown Oil Arena",
         "tv_channels": [
             {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -1529,6 +1942,13 @@
         "league": "EFL Trophy Southern Grp. A",
         "venue": "EV Charger Points Stadium",
         "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -1548,6 +1968,13 @@
         "venue": "King Power Stadium",
         "tv_channels": [
             {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -1565,6 +1992,13 @@
         "league": "EFL Trophy Southern Grp. B",
         "venue": "Pallet-Track Bescot Stadium",
         "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -1584,6 +2018,13 @@
         "venue": "Kenilworth Road",
         "tv_channels": [
             {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -1601,6 +2042,13 @@
         "league": "EFL Trophy Southern Grp. D",
         "venue": "Weston Homes Stadium",
         "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -1620,6 +2068,13 @@
         "venue": "Home Park",
         "tv_channels": [
             {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -1637,6 +2092,13 @@
         "league": "EFL Trophy Southern Grp. E",
         "venue": "The Nigel Eady County Ground",
         "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -1656,6 +2118,13 @@
         "venue": "Priestfield Stadium",
         "tv_channels": [
             {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -1673,6 +2142,13 @@
         "league": "EFL Trophy Southern Grp. H",
         "venue": "Stadium MK",
         "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -1692,6 +2168,13 @@
         "venue": "Copperjax Community Stadium",
         "tv_channels": [
             {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -1700,6 +2183,15 @@
                 ]
             }
         ]
+    },
+    {
+        "match_id": 5948046,
+        "kickoff": 1790102700,
+        "fixture": "Brentwood Town vs Maldon & Tiptree",
+        "league_id": 8947,
+        "league": "Isthmian Premier Division",
+        "venue": "Brentwood Centre Arena",
+        "tv_channels": []
     },
     {
         "match_id": 5948087,
@@ -1853,10 +2345,59 @@
         "venue": "Uhlsport Park",
         "tv_channels": [
             {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "country_code": "SE",
                 "channels": [
                     "TV12"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "Disney+"
                 ]
             },
             {
@@ -1887,6 +2428,55 @@
         "venue": "U-Power Stadium",
         "tv_channels": [
             {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -1910,6 +2500,55 @@
         "league": "Women's Champions League",
         "venue": "Mangata Developments Stadium Meadow Park",
         "tv_channels": [
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "Disney+"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -1935,6 +2574,55 @@
         "venue": "Allianz Stadium",
         "tv_channels": [
             {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -1958,6 +2646,56 @@
         "league": "Women's Champions League",
         "venue": "Estadio Alfredo Di Stéfano",
         "tv_channels": [
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Disney+",
+                    "Esport3"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "Disney+"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",

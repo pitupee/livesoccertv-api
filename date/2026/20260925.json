@@ -6,7 +6,16 @@
         "league_id": 9806,
         "league": "UEFA Nations League A Grp. 2",
         "venue": "Johan Cruijff ArenA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Virgin Media Play",
+                    "Virgin Media Two"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5181826,
@@ -33,7 +42,21 @@
         "league_id": 9806,
         "league": "UEFA Nations League A Grp. 4",
         "venue": "Estádio José Alvalade",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "BBC One Wales",
+                    "BBC Sport online",
+                    "BBC Two",
+                    "BBC Two Northern Ireland",
+                    "BBC iPlayer",
+                    "S4C",
+                    "S4C Clic"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5181812,
@@ -51,7 +74,16 @@
         "league_id": 9807,
         "league": "UEFA Nations League B Grp. 3",
         "venue": "Stadiumi Fadil Vokrri",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "RTÉ Player",
+                    "RTÉ2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5181874,
@@ -177,6 +209,24 @@
         "league_id": 10608,
         "league": "Africa Cup of Nations Qualification Grp. L",
         "venue": "Godswill Akpabio International Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6232978,
+        "kickoff": 1790326800,
+        "fixture": "Bangladesh vs Malaysia",
+        "league_id": 13287,
+        "league": "ASEAN Cup Premier Division Grp. A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6232979,
+        "kickoff": 1790341200,
+        "fixture": "Indonesia vs Singapore",
+        "league_id": 13287,
+        "league": "ASEAN Cup Premier Division Grp. A",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -546,7 +596,15 @@
         "league_id": 8970,
         "league": "Ligue 3",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000014157,
@@ -591,7 +649,16 @@
         "league_id": 9806,
         "league": "UEFA Nations League A Grp. 1",
         "venue": "Stadio Olimpico",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Virgin Media Play",
+                    "Virgin Media Two"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5181789,
@@ -609,7 +676,19 @@
         "league_id": 9807,
         "league": "UEFA Nations League B Grp. 2",
         "venue": "Boris Paichadze Dinamo Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "BBC Sport online",
+                    "BBC Two",
+                    "BBC Two Northern Ireland",
+                    "BBC Two Wales",
+                    "BBC iPlayer"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5181801,
