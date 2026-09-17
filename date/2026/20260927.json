@@ -27,6 +27,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 5181894,
+        "kickoff": 1790438400,
+        "fixture": "San Marino vs Finland",
+        "league_id": 9808,
+        "league": "UEFA Nations League C Grp. 1",
+        "venue": "Stadio Olimpico di Serravalle",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5181895,
+        "kickoff": 1790448300,
+        "fixture": "Albania vs Belarus",
+        "league_id": 9808,
+        "league": "UEFA Nations League C Grp. 1",
+        "venue": "Arena Kombëtare",
+        "tv_channels": []
+    },
+    {
         "match_id": 5181933,
         "kickoff": 1790438400,
         "fixture": "Faroe Islands vs Kazakhstan",
@@ -60,24 +78,6 @@
         "league_id": 9808,
         "league": "UEFA Nations League C Grp. 4",
         "venue": "Laugardalsvöllur",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5181895,
-        "kickoff": 1790448300,
-        "fixture": "Albania vs Belarus",
-        "league_id": 9808,
-        "league": "UEFA Nations League C Grp. 1",
-        "venue": "Arena Kombëtare",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5181894,
-        "kickoff": 1790448300,
-        "fixture": "San Marino vs Finland",
-        "league_id": 9808,
-        "league": "UEFA Nations League C Grp. 1",
-        "venue": "Stadio Olimpico di Serravalle",
         "tv_channels": []
     },
     {
@@ -1895,7 +1895,7 @@
         "fixture": "Almagro vs Nueva Chicago",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Tres de Febrero",
         "tv_channels": []
     },
     {
@@ -1904,7 +1904,7 @@
         "fixture": "Almirante Brown vs Acassuso",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Fragata Presidente Sarmiento",
         "tv_channels": []
     },
     {
@@ -1913,7 +1913,7 @@
         "fixture": "Atlanta vs Agropecuario",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Don León Kolbovski",
         "tv_channels": []
     },
     {
@@ -1922,7 +1922,7 @@
         "fixture": "Los Andes vs Deportivo Morón",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Eduardo Gallardón",
         "tv_channels": []
     },
     {
@@ -1931,7 +1931,7 @@
         "fixture": "Club Atlético Mitre vs San Telmo",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Aurinegro",
         "tv_channels": []
     },
     {
@@ -1940,7 +1940,7 @@
         "fixture": "Gimnasia Jujuy vs San Martín de Tucumán",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio 23 de Agosto",
         "tv_channels": []
     },
     {
@@ -1949,7 +1949,7 @@
         "fixture": "Patronato de Parana vs San Martín San Juan",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Presbítero Bartolomé Grella",
         "tv_channels": []
     },
     {
@@ -1958,7 +1958,7 @@
         "fixture": "CA Ferrocarril Midland vs Tristán Suárez",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Ferrocarril Midland",
         "tv_channels": []
     },
     {
@@ -1967,7 +1967,7 @@
         "fixture": "Deportivo Maipú vs Temperley",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Omar Higinio Sperdutti",
         "tv_channels": []
     },
     {
@@ -1976,7 +1976,7 @@
         "fixture": "Racing de Córdoba vs Godoy Cruz",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Miguel Sancho",
         "tv_channels": []
     },
     {
@@ -1985,7 +1985,7 @@
         "fixture": "Gimnasia y Tiro vs Atlético Rafaela",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio El Gigante del Norte",
         "tv_channels": []
     },
     {
@@ -3057,7 +3057,15 @@
         "league_id": 10872,
         "league": "Northern Super League",
         "venue": "York Lions Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "CBC"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000009222,

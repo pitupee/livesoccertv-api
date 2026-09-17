@@ -324,7 +324,15 @@
         "league_id": 208,
         "league": "3. Liga",
         "venue": "Heinz von Heiden-Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Magenta Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5903832,
@@ -1242,7 +1250,15 @@
         "league_id": 218,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "LOITV (Int)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5101285,
@@ -1251,7 +1267,15 @@
         "league_id": 218,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "LOITV (Int)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5101286,
@@ -1260,7 +1284,15 @@
         "league_id": 218,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "LOITV (Int)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5101287,
@@ -1269,7 +1301,15 @@
         "league_id": 218,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "LOITV (Int)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5101288,
@@ -2565,7 +2605,15 @@
         "league_id": 126,
         "league": "Premier Division",
         "venue": "Eamonn Deacy Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "LOITV (Int)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5882103,
@@ -3918,6 +3966,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 5181894,
+        "kickoff": 1790438400,
+        "fixture": "San Marino vs Finland",
+        "league_id": 9808,
+        "league": "UEFA Nations League C Grp. 1",
+        "venue": "Stadio Olimpico di Serravalle",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5181895,
+        "kickoff": 1790448300,
+        "fixture": "Albania vs Belarus",
+        "league_id": 9808,
+        "league": "UEFA Nations League C Grp. 1",
+        "venue": "Arena Kombëtare",
+        "tv_channels": []
+    },
+    {
         "match_id": 5181933,
         "kickoff": 1790438400,
         "fixture": "Faroe Islands vs Kazakhstan",
@@ -3951,24 +4017,6 @@
         "league_id": 9808,
         "league": "UEFA Nations League C Grp. 4",
         "venue": "Laugardalsvöllur",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5181895,
-        "kickoff": 1790448300,
-        "fixture": "Albania vs Belarus",
-        "league_id": 9808,
-        "league": "UEFA Nations League C Grp. 1",
-        "venue": "Arena Kombëtare",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5181894,
-        "kickoff": 1790448300,
-        "fixture": "San Marino vs Finland",
-        "league_id": 9808,
-        "league": "UEFA Nations League C Grp. 1",
-        "venue": "Stadio Olimpico di Serravalle",
         "tv_channels": []
     },
     {
@@ -4554,7 +4602,15 @@
         "league_id": 10872,
         "league": "Northern Super League",
         "venue": "York Lions Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "CBC"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000007317,
