@@ -77,7 +77,7 @@
         "fixture": "Jordan vs Syria",
         "league_id": 114,
         "league": "Friendlies",
-        "venue": "TBA",
+        "venue": "King Abdullah International Stadium",
         "tv_channels": []
     },
     {
@@ -86,7 +86,7 @@
         "fixture": "Bolivia vs Paraguay",
         "league_id": 114,
         "league": "Friendlies",
-        "venue": "TBA",
+        "venue": "Audi Field",
         "tv_channels": []
     },
     {
@@ -123,7 +123,22 @@
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "ScottsMiracle-Gro Field",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Apple TV (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Apple TV (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5143603,
@@ -339,15 +354,6 @@
         "league_id": 140,
         "league": "LaLiga2",
         "venue": "Estadio Ontime Butarque",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5898732,
-        "kickoff": 1790550000,
-        "fixture": "Tapatío vs Tepatitlán FC",
-        "league_id": 8976,
-        "league": "Liga de Expansion MX Apertura",
-        "venue": "Estadio Akron",
         "tv_channels": []
     },
     {
@@ -837,42 +843,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5884845,
-        "kickoff": 1790521200,
-        "fixture": "La Nucía vs Mallorca B",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884843,
-        "kickoff": 1790524800,
-        "fixture": "Alcoyano vs Deportiva Minera",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884851,
-        "kickoff": 1790524800,
-        "fixture": "Yeclano vs Elche Ilicitano",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884846,
-        "kickoff": 1790528400,
-        "fixture": "Lorca Deportiva vs Castellonense",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5885556,
         "kickoff": 1790521200,
         "fixture": "CF Talavera de la Reina vs Real Valladolid B",
@@ -918,20 +888,38 @@
         "tv_channels": []
     },
     {
-        "match_id": 5885555,
+        "match_id": 5885551,
         "kickoff": 1790524800,
-        "fixture": "Gimnástica Segoviana vs San Sebastian de los Reyes",
+        "fixture": "Navalcarnero vs Conquense",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 5",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 5885551,
+        "match_id": 5884843,
         "kickoff": 1790524800,
-        "fixture": "Navalcarnero vs Conquense",
+        "fixture": "Alcoyano vs Deportiva Minera",
         "league_id": 9138,
-        "league": "Segunda Federacion - Group 5",
+        "league": "Segunda Federacion - Group 3",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5884851,
+        "kickoff": 1790524800,
+        "fixture": "Yeclano vs Elche Ilicitano",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 3",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5884846,
+        "kickoff": 1790528400,
+        "fixture": "Lorca Deportiva vs Castellonense",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 3",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -977,7 +965,7 @@
         "fixture": "Carpi vs ArzignanoChiampo",
         "league_id": 147,
         "league": "Serie C Grp. A",
-        "venue": "TBA",
+        "venue": "Stadio Sandro Cabassi",
         "tv_channels": []
     },
     {
@@ -986,7 +974,7 @@
         "fixture": "Renate vs Treviso",
         "league_id": 147,
         "league": "Serie C Grp. A",
-        "venue": "TBA",
+        "venue": "Stadio Mino Favini",
         "tv_channels": []
     },
     {
@@ -995,7 +983,7 @@
         "fixture": "AlbinoLeffe vs Alcione",
         "league_id": 147,
         "league": "Serie C Grp. A",
-        "venue": "TBA",
+        "venue": "AlbinoLeffe Stadium",
         "tv_channels": []
     },
     {
@@ -1004,7 +992,7 @@
         "fixture": "Perugia vs Reggiana",
         "league_id": 147,
         "league": "Serie C Grp. B",
-        "venue": "TBA",
+        "venue": "Stadio Renato Curi",
         "tv_channels": []
     },
     {
@@ -1022,7 +1010,7 @@
         "fixture": "Pescara vs Spezia",
         "league_id": 147,
         "league": "Serie C Grp. B",
-        "venue": "TBA",
+        "venue": "Stadio Adriatico - Giovanni Cornacchia",
         "tv_channels": []
     },
     {
@@ -1031,7 +1019,7 @@
         "fixture": "Scafatese vs Team Altamura",
         "league_id": 147,
         "league": "Serie C Grp. C",
-        "venue": "TBA",
+        "venue": "Stadio Raffaele Guariglia",
         "tv_channels": []
     },
     {
@@ -1040,7 +1028,7 @@
         "fixture": "Casarano vs Monopoli",
         "league_id": 147,
         "league": "Serie C Grp. C",
-        "venue": "TBA",
+        "venue": "Stadio Giuseppe Capozza",
         "tv_channels": []
     },
     {
@@ -1049,7 +1037,7 @@
         "fixture": "Foggia vs Sorrento",
         "league_id": 147,
         "league": "Serie C Grp. C",
-        "venue": "TBA",
+        "venue": "Stadio Comunale Pino Zaccheria",
         "tv_channels": []
     },
     {
@@ -1131,7 +1119,15 @@
         "league_id": 10369,
         "league": "Women's World Cup U20",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5981654,
@@ -1140,7 +1136,15 @@
         "league_id": 9227,
         "league": "WSL",
         "venue": "Stamford Bridge",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000014586,
@@ -1284,6 +1288,15 @@
         "league_id": 8971,
         "league": "Série C",
         "venue": "Arena Simon",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016481,
+        "kickoff": 1790521200,
+        "fixture": "Motherwell vs Spartans FC",
+        "league_id": 10791,
+        "league": "SWPL 1",
+        "venue": "The Bumblebee Stadium",
         "tv_channels": []
     },
     {
