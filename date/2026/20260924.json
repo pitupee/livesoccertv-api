@@ -15,6 +15,13 @@
                 ]
             },
             {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
                 "country": "Finland",
                 "country_code": "FI",
                 "channels": [
@@ -101,6 +108,7 @@
                 "country_code": "US",
                 "channels": [
                     "Fubo Sports",
+                    "Tubi (US)",
                     "fubo Sports Network"
                 ]
             }
@@ -140,7 +148,16 @@
         "league_id": 114,
         "league": "Friendlies",
         "venue": "Miyagi Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "TVer",
+                    "フジテレビ系列"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6280195,
@@ -220,6 +237,13 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Apple TV"
+                ]
+            },
+            {
                 "country": "Italy",
                 "country_code": "IT",
                 "channels": [
@@ -269,7 +293,7 @@
         "fixture": "Namibia vs Congo",
         "league_id": 10608,
         "league": "Africa Cup of Nations Qualification Grp. G",
-        "venue": "Obed Itani Chilume Stadium",
+        "venue": "Botswana National Stadium",
         "tv_channels": [
             {
                 "country": "Canada",
@@ -429,7 +453,16 @@
         "league_id": 9091,
         "league": "Cup",
         "venue": "Estadio Bicentenario La Granja",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "HBO MAX",
+                    "TNT Sports Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6162927,
@@ -438,7 +471,16 @@
         "league_id": 9091,
         "league": "Cup",
         "venue": "Estadio Tierra de Campeones Ramón Estay Saavedra",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "HBO MAX",
+                    "TNT Sports Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6162926,
@@ -447,7 +489,15 @@
         "league_id": 9091,
         "league": "Cup",
         "venue": "Estadio Municipal Nicolás Chahuán Nazar",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "HBO MAX"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6162928,
@@ -456,7 +506,16 @@
         "league_id": 9091,
         "league": "Cup",
         "venue": "Estadio Codelco El Teniente",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "HBO MAX",
+                    "TNT Sports Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6248860,
@@ -465,7 +524,15 @@
         "league_id": 10230,
         "league": "Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Tigo Sports + Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6248861,
@@ -474,7 +541,15 @@
         "league_id": 10230,
         "league": "Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Tigo Sports + Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6248862,
@@ -483,7 +558,15 @@
         "league_id": 10230,
         "league": "Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Tigo Sports + Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6052035,
@@ -494,85 +577,8 @@
         "venue": "Alinma Bank Stadium at King Abdullah Sport City",
         "tv_channels": [
             {
-                "country": "Australia",
-                "country_code": "AU",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
                 "country": "Austria",
                 "country_code": "AT",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Bolivia",
-                "country_code": "BO",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Chile",
-                "country_code": "CL",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "country_code": "CO",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Costa Rica",
-                "country_code": "CR",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Dominican Republic",
-                "country_code": "DO",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "country_code": "EC",
                 "channels": [
                     "DAZN",
                     "OneFootball PPV",
@@ -589,102 +595,12 @@
                 ]
             },
             {
-                "country": "Guatemala",
-                "country_code": "GT",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Honduras",
-                "country_code": "HN",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Japan",
-                "country_code": "JP",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Nicaragua",
-                "country_code": "NI",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Panama",
-                "country_code": "PA",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Paraguay",
-                "country_code": "PY",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Poland",
-                "country_code": "PL",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
                 "country": "Switzerland",
                 "country_code": "CH",
                 "channels": [
                     "DAZN",
                     "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
+                    "Sportdigital Fussball"
                 ]
             },
             {
@@ -693,17 +609,6 @@
                 "channels": [
                     "ESPN Select",
                     "ESPN Unlimited"
-                ]
-            },
-            {
-                "country": "Venezuela",
-                "country_code": "VE",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
                 ]
             }
         ]
@@ -725,6 +630,13 @@
         "league": "National League Cup Group C",
         "venue": "Mangata Developments Stadium Meadow Park",
         "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NL+"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -840,7 +752,22 @@
         "league_id": 335,
         "league": "Primera Division - Apertura",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "FOX"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "FOX"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5962415,
@@ -915,13 +842,6 @@
                 ]
             },
             {
-                "country": "Australia",
-                "country_code": "AU",
-                "channels": [
-                    "Disney+"
-                ]
-            },
-            {
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
@@ -932,7 +852,7 @@
                 "country": "Bolivia",
                 "country_code": "BO",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -946,49 +866,49 @@
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Colombia",
                 "country_code": "CO",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Ecuador",
                 "country_code": "EC",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -1002,28 +922,28 @@
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
-                    "Disney+"
+                    "WOWOWオンデマンド"
                 ]
             },
             {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Paraguay",
                 "country_code": "PY",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -1096,7 +1016,7 @@
                 "country": "Venezuela",
                 "country_code": "VE",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             }
         ]
@@ -1118,13 +1038,6 @@
                 ]
             },
             {
-                "country": "Australia",
-                "country_code": "AU",
-                "channels": [
-                    "Disney+"
-                ]
-            },
-            {
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
@@ -1135,49 +1048,56 @@
                 "country": "Bolivia",
                 "country_code": "BO",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN 2"
                 ]
             },
             {
                 "country": "Brazil",
                 "country_code": "BR",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN 4"
                 ]
             },
             {
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Colombia",
                 "country_code": "CO",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Ecuador",
                 "country_code": "EC",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -1191,14 +1111,16 @@
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -1212,28 +1134,38 @@
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
-                    "Disney+"
+                    "WOWOWオンデマンド"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "TVC Deportes"
                 ]
             },
             {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Paraguay",
                 "country_code": "PY",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN 2"
                 ]
             },
             {
@@ -1276,7 +1208,8 @@
                 "country": "Switzerland",
                 "country_code": "CH",
                 "channels": [
-                    "Disney+"
+                    "Disney+",
+                    "RTS 2"
                 ]
             },
             {
@@ -1309,7 +1242,8 @@
                 "country": "Venezuela",
                 "country_code": "VE",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             }
         ]
@@ -1330,13 +1264,6 @@
                 ]
             },
             {
-                "country": "Australia",
-                "country_code": "AU",
-                "channels": [
-                    "Disney+"
-                ]
-            },
-            {
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
@@ -1347,49 +1274,52 @@
                 "country": "Bolivia",
                 "country_code": "BO",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Brazil",
                 "country_code": "BR",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Colombia",
                 "country_code": "CO",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Ecuador",
                 "country_code": "EC",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -1404,14 +1334,16 @@
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -1425,14 +1357,23 @@
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
-                    "Disney+"
+                    "WOWOWオンデマンド",
+                    "WOWOWライブ"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "TVC Deportes"
                 ]
             },
             {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -1447,14 +1388,15 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Paraguay",
                 "country_code": "PY",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -1496,7 +1438,8 @@
                 "country": "Switzerland",
                 "country_code": "CH",
                 "channels": [
-                    "Disney+"
+                    "Disney+",
+                    "L'Équipe TV"
                 ]
             },
             {
@@ -1510,10 +1453,12 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
+                    "CBS Sports Golazo",
                     "ESPN Deportes",
                     "ESPN Unlimited",
                     "Fubo Sports",
-                    "Paramount+ (US)"
+                    "Paramount+ (US)",
+                    "Pluto (US)"
                 ]
             },
             {
@@ -1527,7 +1472,7 @@
                 "country": "Venezuela",
                 "country_code": "VE",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             }
         ]
@@ -1549,24 +1494,20 @@
                 ]
             },
             {
-                "country": "Australia",
-                "country_code": "AU",
-                "channels": [
-                    "Disney+"
-                ]
-            },
-            {
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
-                    "Disney+"
+                    "Disney+",
+                    "ORF ON App",
+                    "ORF Sport +"
                 ]
             },
             {
                 "country": "Bolivia",
                 "country_code": "BO",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN 2"
                 ]
             },
             {
@@ -1580,49 +1521,52 @@
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Colombia",
                 "country_code": "CO",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Ecuador",
                 "country_code": "EC",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -1636,28 +1580,29 @@
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
-                    "Disney+"
+                    "WOWOWオンデマンド"
                 ]
             },
             {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Paraguay",
                 "country_code": "PY",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN 2"
                 ]
             },
             {
@@ -1733,7 +1678,8 @@
                 "country": "Venezuela",
                 "country_code": "VE",
                 "channels": [
-                    "Disney+"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             }
         ]
@@ -1821,7 +1767,7 @@
     {
         "match_id": 5852099,
         "kickoff": 1790181000,
-        "fixture": "North Korea U20/Canada U20 (W) vs Nigeria U20/Colombia U20 (W)",
+        "fixture": "North Korea U20 (W) vs Colombia U20 (W)",
         "league_id": 10369,
         "league": "Women's World Cup U20",
         "venue": "TBA",
@@ -1882,7 +1828,8 @@
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "Fanatiz1"
                 ]
             },
             {
@@ -2083,6 +2030,14 @@
         "venue": "Estadio Olímpico Pascual Guerrero",
         "tv_channels": [
             {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Win Fútbol +",
+                    "Win Play"
+                ]
+            },
+            {
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
@@ -2155,7 +2110,16 @@
         "league_id": 11129,
         "league": "UEFA Women's Europa Cup - 2nd Qualifying Round",
         "venue": "NV ARENA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "ORF ON App",
+                    "ORF Sport +"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000021847,
@@ -2247,24 +2211,23 @@
                 "country": "Australia",
                 "country_code": "AU",
                 "channels": [
-                    "RTL",
-                    "RTL+ Plus"
+                    "Stan Sport",
+                    "beIN Sports Connect"
                 ]
             },
             {
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
-                    "RTL",
-                    "RTL+ Plus"
+                    "Noch zu bestätigen"
                 ]
             },
             {
                 "country": "Bolivia",
                 "country_code": "BO",
                 "channels": [
-                    "RTL",
-                    "RTL+ Plus"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -2285,40 +2248,40 @@
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
-                    "RTL",
-                    "RTL+ Plus"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Colombia",
                 "country_code": "CO",
                 "channels": [
-                    "RTL",
-                    "RTL+ Plus"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "RTL",
-                    "RTL+ Plus"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "RTL",
-                    "RTL+ Plus"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Ecuador",
                 "country_code": "EC",
                 "channels": [
-                    "RTL",
-                    "RTL+ Plus"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -2333,6 +2296,7 @@
                 "country": "France",
                 "country_code": "FR",
                 "channels": [
+                    "L'Équipe live",
                     "L'Équipe live foot",
                     "RTL Television (FR)"
                 ]
@@ -2349,24 +2313,22 @@
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "RTL",
-                    "RTL+ Plus"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "RTL",
-                    "RTL+ Plus"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Ireland",
                 "country_code": "IE",
                 "channels": [
-                    "RTL",
-                    "RTL+ Plus",
                     "Virgin Media Play",
                     "Virgin Media Two"
                 ]
@@ -2383,8 +2345,7 @@
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
-                    "RTL",
-                    "RTL+ Plus"
+                    "DAZN"
                 ]
             },
             {
@@ -2405,8 +2366,8 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "RTL",
-                    "RTL+ Plus"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -2421,16 +2382,16 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "RTL",
-                    "RTL+ Plus"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Paraguay",
                 "country_code": "PY",
                 "channels": [
-                    "RTL",
-                    "RTL+ Plus"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -2445,8 +2406,7 @@
                 "country": "Poland",
                 "country_code": "PL",
                 "channels": [
-                    "RTL",
-                    "RTL+ Plus"
+                    "Polsat Sport 1"
                 ]
             },
             {
@@ -2484,8 +2444,10 @@
                 "country": "Switzerland",
                 "country_code": "CH",
                 "channels": [
+                    "RSI La 2",
                     "RTL",
-                    "RTL+ Plus"
+                    "RTS 2",
+                    "SRF zwei"
                 ]
             },
             {
@@ -2507,8 +2469,8 @@
                 "country": "Venezuela",
                 "country_code": "VE",
                 "channels": [
-                    "RTL",
-                    "RTL+ Plus"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             }
         ]
@@ -2532,7 +2494,8 @@
                 "country": "Australia",
                 "country_code": "AU",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Stan Sport",
+                    "beIN Sports Connect"
                 ]
             },
             {
@@ -2546,7 +2509,7 @@
                 "country": "Bolivia",
                 "country_code": "BO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -2567,35 +2530,35 @@
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Colombia",
                 "country_code": "CO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Ecuador",
                 "country_code": "EC",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -2609,6 +2572,7 @@
                 "country": "France",
                 "country_code": "FR",
                 "channels": [
+                    "L'Équipe live",
                     "L'Équipe live foot"
                 ]
             },
@@ -2616,28 +2580,28 @@
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Ireland",
                 "country_code": "IE",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "To be confirmed"
                 ]
             },
             {
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "DAZN"
                 ]
             },
             {
@@ -2651,7 +2615,7 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -2666,14 +2630,14 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Paraguay",
                 "country_code": "PY",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -2687,7 +2651,7 @@
                 "country": "Poland",
                 "country_code": "PL",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Polsat Sport Premium 1"
                 ]
             },
             {
@@ -2730,6 +2694,7 @@
                 "country_code": "US",
                 "channels": [
                     "Fubo Sports",
+                    "Tubi (US)",
                     "fubo Sports Network"
                 ]
             },
@@ -2744,7 +2709,7 @@
                 "country": "Venezuela",
                 "country_code": "VE",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             }
         ]
@@ -2769,7 +2734,8 @@
                 "country": "Australia",
                 "country_code": "AU",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Stan Sport",
+                    "beIN Sports Connect"
                 ]
             },
             {
@@ -2783,7 +2749,8 @@
                 "country": "Bolivia",
                 "country_code": "BO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN 2"
                 ]
             },
             {
@@ -2804,35 +2771,40 @@
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN 2"
                 ]
             },
             {
                 "country": "Colombia",
                 "country_code": "CO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN 2"
                 ]
             },
             {
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN 5"
                 ]
             },
             {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN 5"
                 ]
             },
             {
                 "country": "Ecuador",
                 "country_code": "EC",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN 2"
                 ]
             },
             {
@@ -2844,24 +2816,33 @@
                 ]
             },
             {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "L'Équipe live"
+                ]
+            },
+            {
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN 5"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN 5"
                 ]
             },
             {
                 "country": "Ireland",
                 "country_code": "IE",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "To be confirmed"
                 ]
             },
             {
@@ -2876,7 +2857,7 @@
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "DAZN"
                 ]
             },
             {
@@ -2890,7 +2871,8 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN 5"
                 ]
             },
             {
@@ -2905,14 +2887,16 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN 5"
                 ]
             },
             {
                 "country": "Paraguay",
                 "country_code": "PY",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN 2"
                 ]
             },
             {
@@ -2927,7 +2911,7 @@
                 "country": "Poland",
                 "country_code": "PL",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Polsat Sport 3"
                 ]
             },
             {
@@ -2988,7 +2972,8 @@
                 "country": "Venezuela",
                 "country_code": "VE",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN 2"
                 ]
             }
         ]
@@ -3012,7 +2997,8 @@
                 "country": "Australia",
                 "country_code": "AU",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Stan Sport",
+                    "beIN Sports Connect"
                 ]
             },
             {
@@ -3026,7 +3012,7 @@
                 "country": "Bolivia",
                 "country_code": "BO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -3047,35 +3033,35 @@
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Colombia",
                 "country_code": "CO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Ecuador",
                 "country_code": "EC",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -3086,31 +3072,42 @@
                 ]
             },
             {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "L'Équipe live"
+                ]
+            },
+            {
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Ireland",
                 "country_code": "IE",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "BBC Sport",
+                    "BBC Two",
+                    "BBC iPlayer",
+                    "S4C",
+                    "S4C Online"
                 ]
             },
             {
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "DAZN"
                 ]
             },
             {
@@ -3132,7 +3129,7 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -3147,14 +3144,14 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Paraguay",
                 "country_code": "PY",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -3168,7 +3165,7 @@
                 "country": "Poland",
                 "country_code": "PL",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Polsat Sport 2"
                 ]
             },
             {
@@ -3239,7 +3236,7 @@
                 "country": "Venezuela",
                 "country_code": "VE",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             }
         ]
@@ -3263,21 +3260,23 @@
                 "country": "Australia",
                 "country_code": "AU",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Stan Sport",
+                    "beIN Sports Connect"
                 ]
             },
             {
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "ORF 1",
+                    "ORF ON App"
                 ]
             },
             {
                 "country": "Bolivia",
                 "country_code": "BO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -3298,35 +3297,35 @@
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Colombia",
                 "country_code": "CO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Ecuador",
                 "country_code": "EC",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -3340,6 +3339,7 @@
                 "country": "France",
                 "country_code": "FR",
                 "channels": [
+                    "L'Équipe live",
                     "L'Équipe live foot"
                 ]
             },
@@ -3347,28 +3347,28 @@
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Ireland",
                 "country_code": "IE",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "To be confirmed"
                 ]
             },
             {
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "DAZN"
                 ]
             },
             {
@@ -3382,7 +3382,7 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -3397,14 +3397,14 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Paraguay",
                 "country_code": "PY",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -3418,7 +3418,7 @@
                 "country": "Poland",
                 "country_code": "PL",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Polsat Sport Premium 2"
                 ]
             },
             {
@@ -3453,7 +3453,7 @@
                 "country": "Switzerland",
                 "country_code": "CH",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "ORF 1"
                 ]
             },
             {
@@ -3467,7 +3467,7 @@
                 "country": "Venezuela",
                 "country_code": "VE",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             }
         ]
@@ -3491,7 +3491,8 @@
                 "country": "Australia",
                 "country_code": "AU",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Stan Sport",
+                    "beIN Sports Connect"
                 ]
             },
             {
@@ -3505,7 +3506,7 @@
                 "country": "Bolivia",
                 "country_code": "BO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -3526,35 +3527,35 @@
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Colombia",
                 "country_code": "CO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Ecuador",
                 "country_code": "EC",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -3568,6 +3569,7 @@
                 "country": "France",
                 "country_code": "FR",
                 "channels": [
+                    "L'Équipe live",
                     "L'Équipe live foot"
                 ]
             },
@@ -3575,30 +3577,30 @@
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Ireland",
                 "country_code": "IE",
                 "channels": [
-                    "Noch zu bestätigen",
                     "RTÉ Player",
-                    "RTÉ2"
+                    "RTÉ2",
+                    "RTÉ2 +1"
                 ]
             },
             {
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "DAZN"
                 ]
             },
             {
@@ -3612,7 +3614,7 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -3627,14 +3629,14 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Paraguay",
                 "country_code": "PY",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -3648,7 +3650,7 @@
                 "country": "Poland",
                 "country_code": "PL",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "kanał do potwierdzenia"
                 ]
             },
             {
@@ -3697,7 +3699,7 @@
                 "country": "Venezuela",
                 "country_code": "VE",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             }
         ]
@@ -3722,7 +3724,8 @@
                 "country": "Australia",
                 "country_code": "AU",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Stan Sport",
+                    "beIN Sports Connect"
                 ]
             },
             {
@@ -3736,7 +3739,8 @@
                 "country": "Bolivia",
                 "country_code": "BO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN 2"
                 ]
             },
             {
@@ -3757,35 +3761,40 @@
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Colombia",
                 "country_code": "CO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Ecuador",
                 "country_code": "EC",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -3807,21 +3816,23 @@
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Ireland",
                 "country_code": "IE",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "To be confirmed"
                 ]
             },
             {
@@ -3836,7 +3847,7 @@
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "DAZN"
                 ]
             },
             {
@@ -3859,7 +3870,8 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -3873,14 +3885,16 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Paraguay",
                 "country_code": "PY",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN 2"
                 ]
             },
             {
@@ -3895,7 +3909,7 @@
                 "country": "Poland",
                 "country_code": "PL",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "kanał do potwierdzenia"
                 ]
             },
             {
@@ -3953,7 +3967,8 @@
                 "country": "Venezuela",
                 "country_code": "VE",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             }
         ]
@@ -3977,7 +3992,8 @@
                 "country": "Australia",
                 "country_code": "AU",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Stan Sport",
+                    "beIN Sports Connect"
                 ]
             },
             {
@@ -3991,7 +4007,7 @@
                 "country": "Bolivia",
                 "country_code": "BO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -4012,35 +4028,35 @@
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Colombia",
                 "country_code": "CO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Ecuador",
                 "country_code": "EC",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -4054,21 +4070,21 @@
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Ireland",
                 "country_code": "IE",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "To be confirmed"
                 ]
             },
             {
@@ -4083,7 +4099,7 @@
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "DAZN"
                 ]
             },
             {
@@ -4097,7 +4113,7 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -4112,14 +4128,14 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Paraguay",
                 "country_code": "PY",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -4133,7 +4149,7 @@
                 "country": "Poland",
                 "country_code": "PL",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "kanał do potwierdzenia"
                 ]
             },
             {
@@ -4182,7 +4198,7 @@
                 "country": "Venezuela",
                 "country_code": "VE",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "Disney+ Premium"
                 ]
             }
         ]
@@ -4319,15 +4335,6 @@
         ]
     },
     {
-        "match_id": 6150375,
-        "kickoff": 1790262000,
-        "fixture": "Difaâ El Jadida vs CODM Meknès",
-        "league_id": 530,
-        "league": "Botola Pro",
-        "venue": "Ben M'Hamed El Abdi Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 6150376,
         "kickoff": 1790262000,
         "fixture": "FAR Rabat vs Raja Casablanca",
@@ -4337,57 +4344,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 6150377,
-        "kickoff": 1790262000,
-        "fixture": "KACM vs Hassania Agadir",
-        "league_id": 530,
-        "league": "Botola Pro",
-        "venue": "Stade de Marrakech",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6150378,
-        "kickoff": 1790262000,
-        "fixture": "MAS Fès vs Renaissance Club Zemamra",
-        "league_id": 530,
-        "league": "Botola Pro",
-        "venue": "Fez Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6150379,
-        "kickoff": 1790262000,
-        "fixture": "MAT Tetouan vs RS Berkane",
-        "league_id": 530,
-        "league": "Botola Pro",
-        "venue": "Saniat Rmel Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6150380,
-        "kickoff": 1790262000,
-        "fixture": "Union Touarga Sport vs FUS Rabat",
-        "league_id": 530,
-        "league": "Botola Pro",
-        "venue": "Al Medina Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 6150374,
-        "kickoff": 1790262000,
+        "kickoff": 1790280000,
         "fixture": "US Amal Tiznit vs Ittihad Tanger",
         "league_id": 530,
         "league": "Botola Pro",
         "venue": "Stade El Massira",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6150381,
-        "kickoff": 1790262000,
-        "fixture": "Wydad Casablanca vs Widad Temara",
-        "league_id": 530,
-        "league": "Botola Pro",
-        "venue": "Stade Mohamed V",
         "tv_channels": []
     },
     {
@@ -4397,7 +4359,43 @@
         "league_id": 9821,
         "league": "CONCACAF Nations League B Grp. 1",
         "venue": "Windsor Park Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "FOX+"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "FOX+"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "FOX+"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "FOX+"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "FOX+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 4785751,
@@ -4426,85 +4424,8 @@
         "venue": "Alinma Bank Stadium at King Abdullah Sport City",
         "tv_channels": [
             {
-                "country": "Australia",
-                "country_code": "AU",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
                 "country": "Austria",
                 "country_code": "AT",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Bolivia",
-                "country_code": "BO",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Chile",
-                "country_code": "CL",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "country_code": "CO",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Costa Rica",
-                "country_code": "CR",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Dominican Republic",
-                "country_code": "DO",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "country_code": "EC",
                 "channels": [
                     "DAZN",
                     "OneFootball PPV",
@@ -4521,102 +4442,12 @@
                 ]
             },
             {
-                "country": "Guatemala",
-                "country_code": "GT",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Honduras",
-                "country_code": "HN",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Japan",
-                "country_code": "JP",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Nicaragua",
-                "country_code": "NI",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Panama",
-                "country_code": "PA",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Paraguay",
-                "country_code": "PY",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Poland",
-                "country_code": "PL",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
                 "country": "Switzerland",
                 "country_code": "CH",
                 "channels": [
                     "DAZN",
                     "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
+                    "Sportdigital Fussball"
                 ]
             },
             {
@@ -4625,17 +4456,6 @@
                 "channels": [
                     "ESPN Select",
                     "ESPN Unlimited"
-                ]
-            },
-            {
-                "country": "Venezuela",
-                "country_code": "VE",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
                 ]
             }
         ]
@@ -4649,85 +4469,8 @@
         "venue": "Prince Abdullah Al Faisal Sports City Stadium",
         "tv_channels": [
             {
-                "country": "Australia",
-                "country_code": "AU",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
                 "country": "Austria",
                 "country_code": "AT",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Bolivia",
-                "country_code": "BO",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Chile",
-                "country_code": "CL",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "country_code": "CO",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Costa Rica",
-                "country_code": "CR",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Dominican Republic",
-                "country_code": "DO",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "country_code": "EC",
                 "channels": [
                     "DAZN",
                     "OneFootball PPV",
@@ -4744,102 +4487,12 @@
                 ]
             },
             {
-                "country": "Guatemala",
-                "country_code": "GT",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Honduras",
-                "country_code": "HN",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Japan",
-                "country_code": "JP",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Nicaragua",
-                "country_code": "NI",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Panama",
-                "country_code": "PA",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Paraguay",
-                "country_code": "PY",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Poland",
-                "country_code": "PL",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
                 "country": "Switzerland",
                 "country_code": "CH",
                 "channels": [
                     "DAZN",
                     "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
+                    "Sportdigital Fussball"
                 ]
             },
             {
@@ -4848,17 +4501,6 @@
                 "channels": [
                     "ESPN Select",
                     "ESPN Unlimited"
-                ]
-            },
-            {
-                "country": "Venezuela",
-                "country_code": "VE",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
                 ]
             }
         ]
