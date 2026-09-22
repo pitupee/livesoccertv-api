@@ -21,6 +21,7 @@
                 "country_code": "JP",
                 "channels": [
                     "TBS",
+                    "TVer",
                     "U-NEXT"
                 ]
             }
@@ -51,7 +52,36 @@
         "league_id": 9833,
         "league": "Asian Games Grp. B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Indonesia",
+                "country_code": "ID",
+                "channels": [
+                    "Vidio"
+                ]
+            },
+            {
+                "country": "Philippines",
+                "country_code": "PH",
+                "channels": [
+                    "Cignal Play"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "meWATCH"
+                ]
+            },
+            {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "AIS PLAY"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6258009,
@@ -1111,7 +1141,8 @@
                 "country": "Germany",
                 "country_code": "DE",
                 "channels": [
-                    "DAZN Deutschland"
+                    "DAZN Deutschland",
+                    "Sportdigital+"
                 ]
             },
             {
@@ -1156,7 +1187,8 @@
                 "country": "Germany",
                 "country_code": "DE",
                 "channels": [
-                    "DAZN Deutschland"
+                    "DAZN Deutschland",
+                    "Sportdigital+"
                 ]
             },
             {
@@ -1209,19 +1241,30 @@
                 "country_code": "RO",
                 "channels": [
                     "Digi Online",
-                    "Digi Sport 1 Romania"
+                    "Digi Sport 1",
+                    "Digi Sport 1 Romania",
+                    "Prima Sport"
                 ]
             }
         ]
     },
     {
         "match_id": 5989699,
-        "kickoff": 1790096400,
+        "kickoff": 1790092800,
         "fixture": "US Biskra vs JS Saoura",
         "league_id": 516,
         "league": "Ligue 1",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "ENTV DZ",
+                    "Télévision Algérienne"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5989695,
@@ -1230,7 +1273,15 @@
         "league_id": 516,
         "league": "Ligue 1",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "ENTV DZ"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5144546,
@@ -1482,7 +1533,7 @@
                 "country_code": "CL",
                 "channels": [
                     "Disney+ Premium",
-                    "ESPN 2"
+                    "ESPN"
                 ]
             },
             {
@@ -1490,7 +1541,7 @@
                 "country_code": "CO",
                 "channels": [
                     "Disney+ Premium",
-                    "ESPN"
+                    "ESPN 2"
                 ]
             },
             {
@@ -1499,6 +1550,16 @@
                 "channels": [
                     "Disney+ Premium",
                     "ESPN"
+                ]
+            },
+            {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Cablenet Sports 2",
+                    "Cablenet Sports 2 HD",
+                    "Cablenet TV Go",
+                    "Cytavision on the Go"
                 ]
             },
             {
@@ -1514,7 +1575,14 @@
                 "country_code": "EC",
                 "channels": [
                     "Disney+ Premium",
-                    "ESPN"
+                    "ESPN 2"
+                ]
+            },
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "ZDF Livestream"
                 ]
             },
             {
@@ -1619,7 +1687,8 @@
                 "country": "Sweden",
                 "country_code": "SE",
                 "channels": [
-                    "TV12"
+                    "TV12",
+                    "TV4 Play Sport"
                 ]
             },
             {
@@ -1662,7 +1731,7 @@
                 "country_code": "VE",
                 "channels": [
                     "Disney+ Premium",
-                    "ESPN"
+                    "ESPN 2"
                 ]
             }
         ]
@@ -1725,6 +1794,15 @@
                 ]
             },
             {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Cablenet Sports 3",
+                    "Cablenet TV Go",
+                    "Cytavision on the Go"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
@@ -1764,6 +1842,13 @@
                 "country_code": "JP",
                 "channels": [
                     "WOWOWオンデマンド"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "TVC Deportes 2"
                 ]
             },
             {
@@ -1926,6 +2011,15 @@
                 ]
             },
             {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Cablenet Sports 1",
+                    "Cablenet TV Go",
+                    "Cytavision on the Go"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
@@ -1965,6 +2059,13 @@
                 "country_code": "JP",
                 "channels": [
                     "WOWOWオンデマンド"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "TVC Deportes 2"
                 ]
             },
             {
@@ -2165,6 +2266,13 @@
                 ]
             },
             {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "Megasports"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
@@ -2320,6 +2428,16 @@
                 "channels": [
                     "Disney+ Premium",
                     "ESPN"
+                ]
+            },
+            {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Cablenet Sports 2",
+                    "Cablenet Sports 2 HD",
+                    "Cablenet TV Go",
+                    "Cytavision on the Go"
                 ]
             },
             {
@@ -2586,6 +2704,13 @@
                 ]
             },
             {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "TVC Deportes 2"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
@@ -2733,7 +2858,7 @@
                 "country_code": "CO",
                 "channels": [
                     "Disney+ Premium",
-                    "ESPN"
+                    "ESPN 2"
                 ]
             },
             {
@@ -2757,7 +2882,7 @@
                 "country_code": "EC",
                 "channels": [
                     "Disney+ Premium",
-                    "ESPN"
+                    "ESPN 2"
                 ]
             },
             {
@@ -2903,7 +3028,7 @@
                 "country_code": "VE",
                 "channels": [
                     "Disney+ Premium",
-                    "ESPN"
+                    "ESPN 2"
                 ]
             }
         ]
@@ -3244,6 +3369,13 @@
                 ]
             },
             {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "TVC Deportes 2"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
@@ -3362,6 +3494,42 @@
                 ]
             },
             {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "DAZN Deutschland"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "DAZN Free"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "TUDN",
+                    "ViX Gratis"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "DAZN (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "DAZN NO"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -3377,6 +3545,16 @@
                     "FOX Sports online",
                     "Fubo Sports"
                 ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "DAZN",
+                    "DSports 2",
+                    "Televen",
+                    "Televen Max"
+                ]
             }
         ]
     },
@@ -3386,13 +3564,65 @@
         "fixture": "North Korea U20 (W) vs Colombia U20 (W)",
         "league_id": 10369,
         "league": "Women's World Cup U20",
-        "venue": "TBA",
+        "venue": "Stadion Miejski im. Władysława Króla",
         "tv_channels": [
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "TSN+",
+                    "TSN3"
+                ]
+            },
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "DAZN Deutschland"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "DAZN Free"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "TUDN",
+                    "ViX Gratis"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "DAZN (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "DAZN NO"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
                     "DAZN UK"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "DAZN",
+                    "DSports 2"
                 ]
             }
         ]
@@ -3528,8 +3758,7 @@
                 "channels": [
                     "FOX Deportes",
                     "FOX One",
-                    "FOX Sports online",
-                    "Fanatiz"
+                    "FOX Sports online"
                 ]
             }
         ]
@@ -3551,10 +3780,10 @@
                 ]
             },
             {
-                "country": "United States",
-                "country_code": "US",
+                "country": "Saint Barthélemy",
+                "country_code": "BL",
                 "channels": [
-                    "Fanatiz"
+                    "Sport TV"
                 ]
             }
         ]
@@ -3666,6 +3895,23 @@
         "league_id": 11017,
         "league": "QSL Cup",
         "venue": "Grand Hamad Stadium (Al-Arabi Stadium)",
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Shoof"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5190725,
+        "kickoff": 1790116200,
+        "fixture": "Criciúma vs Operário-PR",
+        "league_id": 8814,
+        "league": "Série B",
+        "venue": "Estádio Heriberto Hülse",
         "tv_channels": []
     },
     {
@@ -3693,7 +3939,15 @@
         "league_id": 11129,
         "league": "UEFA Women's Europa Cup - 2nd Qualifying Round",
         "venue": "Městský stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "VG TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000021854,
@@ -3865,6 +4119,14 @@
                 ]
             },
             {
+                "country": "India",
+                "country_code": "IN",
+                "channels": [
+                    "SONY LIV",
+                    "SONY Ten 1"
+                ]
+            },
+            {
                 "country": "New Zealand",
                 "country_code": "NZ",
                 "channels": [
@@ -3915,6 +4177,7 @@
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
+                    "TV 2 Play (NO)",
                     "Viaplay NO"
                 ]
             },
