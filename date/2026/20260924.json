@@ -8,10 +8,25 @@
         "venue": "Palms Sports Arena",
         "tv_channels": [
             {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "beIN SPORTS 3"
+                ]
+            },
+            {
                 "country": "Azerbaijan",
                 "country_code": "AZ",
                 "channels": [
                     "CBC Sport"
+                ]
+            },
+            {
+                "country": "Bangladesh",
+                "country_code": "BD",
+                "channels": [
+                    "SONY TEN 1",
+                    "Sony LIV"
                 ]
             },
             {
@@ -29,9 +44,17 @@
                 ]
             },
             {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "DAZN Deutschland"
+                ]
+            },
+            {
                 "country": "Iceland",
                 "country_code": "IS",
                 "channels": [
+                    "Viaplay",
                     "Viaplay Iceland"
                 ]
             },
@@ -59,10 +82,41 @@
                 ]
             },
             {
+                "country": "Pakistan",
+                "country_code": "PK",
+                "channels": [
+                    "SONY TEN 1",
+                    "Sony LIV"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN",
+                    "DAZN App Gratis"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "country_code": "SE",
                 "channels": [
                     "Viaplay SE"
+                ]
+            },
+            {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "MONOMAX"
+                ]
+            },
+            {
+                "country": "Ukraine",
+                "country_code": "UA",
+                "channels": [
+                    "MEGOGO Football 1",
+                    "Megogo"
                 ]
             },
             {
@@ -91,6 +145,21 @@
                 ]
             },
             {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "DAZN Deutschland"
+                ]
+            },
+            {
+                "country": "Iceland",
+                "country_code": "IS",
+                "channels": [
+                    "Viaplay",
+                    "Viaplay Iceland"
+                ]
+            },
+            {
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
@@ -106,10 +175,33 @@
                 ]
             },
             {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN",
+                    "DAZN App Gratis"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "country_code": "SE",
                 "channels": [
                     "Viaplay SE"
+                ]
+            },
+            {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "MONOMAX"
+                ]
+            },
+            {
+                "country": "Ukraine",
+                "country_code": "UA",
+                "channels": [
+                    "MEGOGO Football 2",
+                    "Megogo"
                 ]
             },
             {
@@ -147,6 +239,13 @@
                     "TVer",
                     "フジテレビ系列"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "AUF.TV"
+                ]
             }
         ]
     },
@@ -157,7 +256,16 @@
         "league_id": 114,
         "league": "Friendlies",
         "venue": "Suwon World Cup Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "TC Teleivisión",
+                    "Teleamazonas"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6280196,
@@ -455,6 +563,13 @@
         "venue": "Botswana National Stadium",
         "tv_channels": [
             {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "beIN SPORTS 3"
+                ]
+            },
+            {
                 "country": "Canada",
                 "country_code": "CA",
                 "channels": [
@@ -539,6 +654,69 @@
         "venue": "TCIFA National Stadium",
         "tv_channels": [
             {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
@@ -556,6 +734,69 @@
         "league": "CONCACAF Nations League C Grp. 3",
         "venue": "Bethlehem Soccer Stadium",
         "tv_channels": [
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
             {
                 "country": "United States",
                 "country_code": "US",
@@ -576,6 +817,76 @@
         "league": "CONCACAF Nations League C Grp. 2",
         "venue": "Sir Vivian Richards Stadium",
         "tv_channels": [
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "OneSoccer"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
             {
                 "country": "United States",
                 "country_code": "US",
@@ -813,7 +1124,15 @@
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "NPFL Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6103091,
@@ -822,7 +1141,15 @@
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "NPFL Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6103092,
@@ -831,7 +1158,15 @@
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "NPFL Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6103097,
@@ -840,7 +1175,15 @@
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "NPFL Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6103093,
@@ -849,7 +1192,15 @@
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "NPFL Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6103094,
@@ -858,7 +1209,15 @@
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "NPFL Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6103095,
@@ -867,7 +1226,15 @@
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "NPFL Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6103096,
@@ -876,7 +1243,15 @@
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "NPFL Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6103098,
@@ -894,7 +1269,15 @@
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "NPFL Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5975006,
@@ -1023,6 +1406,13 @@
                 ]
             },
             {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "OneSoccer"
+                ]
+            },
+            {
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
@@ -1041,6 +1431,16 @@
                 "country_code": "CR",
                 "channels": [
                     "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Cablenet Sports 2",
+                    "Cablenet Sports 2 HD",
+                    "Cablenet TV Go",
+                    "Cytavision on the Go"
                 ]
             },
             {
@@ -1069,6 +1469,13 @@
                 "country_code": "HN",
                 "channels": [
                     "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "India",
+                "country_code": "IN",
+                "channels": [
+                    "Tata Play Fancode Sports"
                 ]
             },
             {
@@ -1249,6 +1656,15 @@
                 "channels": [
                     "Disney+ Premium",
                     "ESPN"
+                ]
+            },
+            {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Cablenet Sports 3",
+                    "Cablenet TV Go",
+                    "Cytavision on the Go"
                 ]
             },
             {
@@ -1475,6 +1891,16 @@
                 ]
             },
             {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Cablenet Sports 2",
+                    "Cablenet Sports 2 HD",
+                    "Cablenet TV Go",
+                    "Cytavision on the Go"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
@@ -1661,6 +2087,13 @@
                 ]
             },
             {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "ESPN 2"
+                ]
+            },
+            {
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
@@ -1685,6 +2118,13 @@
                 ]
             },
             {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "OneSoccer"
+                ]
+            },
+            {
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
@@ -1705,6 +2145,15 @@
                 "country_code": "CR",
                 "channels": [
                     "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Cablenet Sports 3",
+                    "Cablenet TV Go",
+                    "Cytavision on the Go"
                 ]
             },
             {
@@ -1888,7 +2337,7 @@
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
-                    "Youtube UK"
+                    "WSL Youtube"
                 ]
             }
         ]
@@ -1900,7 +2349,15 @@
         "league_id": 9717,
         "league": "Women's League Cup",
         "venue": "Progress with Unity Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "MUTV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6006649,
@@ -1947,11 +2404,73 @@
         "venue": "Stadion Miejski im. Władysława Króla",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DGO",
+                    "DSports 2",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "DSports 2"
+                ]
+            },
+            {
                 "country": "Canada",
                 "country_code": "CA",
                 "channels": [
                     "TSN+",
                     "TSN3"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DAZN",
+                    "DGO",
+                    "DSports 2",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Amazon Prime Video",
+                    "Canal RCN App",
+                    "Canal RCN YouTube",
+                    "Caracol TV",
+                    "DAZN",
+                    "DGO",
+                    "DSports 2",
+                    "Gol Caracol YouTube",
+                    "Paramount+",
+                    "RCN TV",
+                    "ditu"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "DAZN",
+                    "DGO",
+                    "DSports 2",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "DAZN (FI)"
                 ]
             },
             {
@@ -1991,10 +2510,59 @@
                 ]
             },
             {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Popu TV"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "DAZN",
+                    "DGO",
+                    "DSports 2",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "RTVE Play",
+                    "Teledeporte"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "DAZN Sverige"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
                     "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Universo"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "DAZN",
+                    "DGO",
+                    "DSports 2",
+                    "Paramount+"
                 ]
             },
             {
@@ -2238,6 +2806,13 @@
         "venue": "The Stadium at Langley Events Centre",
         "tv_channels": [
             {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "OneSoccer"
+                ]
+            },
+            {
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
@@ -2446,6 +3021,7 @@
                 "country_code": "AU",
                 "channels": [
                     "Stan Sport",
+                    "beIN SPORTS 3",
                     "beIN Sports Connect"
                 ]
             },
@@ -2586,7 +3162,7 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "Canal por confirmar"
+                    "SKY Sports"
                 ]
             },
             {
@@ -2662,6 +3238,7 @@
                 "country": "Spain",
                 "country_code": "ES",
                 "channels": [
+                    "DAZN",
                     "RTVE Play",
                     "Teledeporte"
                 ]
@@ -2806,6 +3383,7 @@
                 "country": "France",
                 "country_code": "FR",
                 "channels": [
+                    "L'Équipe live",
                     "L'Équipe live foot"
                 ]
             },
@@ -2848,7 +3426,7 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "Canal por confirmar"
+                    "SKY Sports"
                 ]
             },
             {
@@ -2912,7 +3490,7 @@
                 "country": "Spain",
                 "country_code": "ES",
                 "channels": [
-                    "Canal por confirmar"
+                    "DAZN"
                 ]
             },
             {
@@ -2975,6 +3553,7 @@
                 "country_code": "AU",
                 "channels": [
                     "Stan Sport",
+                    "beIN SPORTS 2",
                     "beIN Sports Connect"
                 ]
             },
@@ -3053,6 +3632,13 @@
                 "channels": [
                     "MTV Katsomo",
                     "MTV Urheilu 3"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "L'Équipe live"
                 ]
             },
             {
@@ -3172,7 +3758,7 @@
                 "country": "Spain",
                 "country_code": "ES",
                 "channels": [
-                    "Canal por confirmar"
+                    "DAZN"
                 ]
             },
             {
@@ -3238,6 +3824,7 @@
                 "country_code": "AU",
                 "channels": [
                     "Stan Sport",
+                    "beIN SPORTS 1",
                     "beIN Sports Connect"
                 ]
             },
@@ -3340,6 +3927,15 @@
                 ]
             },
             {
+                "country": "India",
+                "country_code": "IN",
+                "channels": [
+                    "SONY LIV",
+                    "SONY Ten 2",
+                    "SONY Ten 5"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "country_code": "IE",
                 "channels": [
@@ -3362,7 +3958,7 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "Canal por confirmar"
+                    "SKY Sports"
                 ]
             },
             {
@@ -3435,7 +4031,7 @@
                 "country": "Spain",
                 "country_code": "ES",
                 "channels": [
-                    "Canal por confirmar"
+                    "DAZN"
                 ]
             },
             {
@@ -3587,6 +4183,7 @@
                 "country": "France",
                 "country_code": "FR",
                 "channels": [
+                    "L'Équipe live",
                     "L'Équipe live foot"
                 ]
             },
@@ -3693,7 +4290,7 @@
                 "country": "Spain",
                 "country_code": "ES",
                 "channels": [
-                    "Canal por confirmar"
+                    "DAZN"
                 ]
             },
             {
@@ -3823,6 +4420,7 @@
                 "country": "France",
                 "country_code": "FR",
                 "channels": [
+                    "L'Équipe live",
                     "L'Équipe live foot"
                 ]
             },
@@ -3931,7 +4529,7 @@
                 "country": "Spain",
                 "country_code": "ES",
                 "channels": [
-                    "Canal por confirmar"
+                    "DAZN"
                 ]
             },
             {
@@ -4199,7 +4797,8 @@
                 "country": "Spain",
                 "country_code": "ES",
                 "channels": [
-                    "Canal por confirmar"
+                    "DAZN",
+                    "DAZN App Gratis"
                 ]
             },
             {
@@ -4446,7 +5045,7 @@
                 "country": "Spain",
                 "country_code": "ES",
                 "channels": [
-                    "Canal por confirmar"
+                    "DAZN"
                 ]
             },
             {
@@ -4487,6 +5086,13 @@
         "league": "Africa Cup of Nations Qualification Grp. E",
         "venue": "Stade des Martyrs de la Pentecôte",
         "tv_channels": [
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "beIN SPORTS 3"
+                ]
+            },
             {
                 "country": "Canada",
                 "country_code": "CA",
@@ -4561,7 +5167,15 @@
         "league_id": 10608,
         "league": "Africa Cup of Nations Qualification Grp. H",
         "venue": "11 June Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6040345,
@@ -4647,6 +5261,20 @@
         "venue": "Windsor Park Stadium",
         "tv_channels": [
             {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
@@ -4668,6 +5296,20 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
@@ -4679,6 +5321,41 @@
                 "country_code": "PA",
                 "channels": [
                     "FOX+"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "CONCACAF YouTube"
                 ]
             }
         ]

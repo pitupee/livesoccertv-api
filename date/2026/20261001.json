@@ -6,7 +6,38 @@
         "league_id": 114,
         "league": "Friendlies",
         "venue": "S. Dariaus ir S. Girėno stadionas",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "DAZN Deutschland"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "TV 2 Play (NO)",
+                    "Viaplay NO"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Viaplay SE"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "FOX Soccer Plus",
+                    "FOX Sports online"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6266052,
@@ -87,7 +118,18 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Audi Field",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "FOX",
+                    "FOX One",
+                    "FOX Sports online",
+                    "Fubo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6278622,
@@ -105,7 +147,15 @@
         "league_id": 206,
         "league": "Cup",
         "venue": "Flint ESSO Arena A KG",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "Direktesport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6144872,
@@ -123,7 +173,15 @@
         "league_id": 206,
         "league": "Cup",
         "venue": "AKA Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "Direktesport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6146353,
@@ -207,21 +265,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 4785876,
-        "kickoff": 1790784000,
-        "fixture": "Portugal U21 vs Gibraltar U21",
-        "league_id": 10437,
-        "league": "EURO U21 Qualification Grp. B",
-        "venue": "Estádio de São Miguel",
-        "tv_channels": []
-    },
-    {
         "match_id": 4785878,
         "kickoff": 1790793000,
         "fixture": "Scotland U21 vs Azerbaijan U21",
         "league_id": 10437,
         "league": "EURO U21 Qualification Grp. B",
         "venue": "The BBSP Stadium Rugby Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 4785876,
+        "kickoff": 1790794800,
+        "fixture": "Portugal U21 vs Gibraltar U21",
+        "league_id": 10437,
+        "league": "EURO U21 Qualification Grp. B",
+        "venue": "Estádio de São Miguel",
         "tv_channels": []
     },
     {
@@ -240,7 +298,16 @@
         "league_id": 10437,
         "league": "EURO U21 Qualification Grp. E",
         "venue": "Arena Katowice",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Viaplay SE",
+                    "Viaplay Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 4785848,
@@ -294,7 +361,16 @@
         "league_id": 329,
         "league": "Gulf Cup Grp. B",
         "venue": "Prince Abdullah Al Faisal Sports City Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6052086,
@@ -303,7 +379,23 @@
         "league_id": 329,
         "league": "Gulf Cup Grp. B",
         "venue": "Alinma Bank Stadium at King Abdullah Sport City",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "DAZN Deutschland"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5948088,
@@ -346,6 +438,62 @@
                 ]
             },
             {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "DAZN Canada"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "DAZN (FI)"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "DAZN.com (FR)"
+                ]
+            },
+            {
+                "country": "Italy",
+                "country_code": "IT",
+                "channels": [
+                    "DAZN Italia"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "DAZN (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "DAZN NO"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
@@ -377,6 +525,62 @@
                 ]
             },
             {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "DAZN Canada"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "DAZN (FI)"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "DAZN.com (FR)"
+                ]
+            },
+            {
+                "country": "Italy",
+                "country_code": "IT",
+                "channels": [
+                    "DAZN Italia"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "DAZN (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "DAZN NO"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
@@ -392,7 +596,15 @@
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "NPFL Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6103063,
@@ -401,7 +613,15 @@
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "NPFL Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6103068,
@@ -427,7 +647,15 @@
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "NPFL Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5975019,
@@ -499,7 +727,17 @@
         "league_id": 8972,
         "league": "USL Championship",
         "venue": "Maimonides Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited",
+                    "SNY"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109975,
@@ -508,7 +746,16 @@
         "league_id": 8972,
         "league": "USL Championship",
         "venue": "South Dade Kia Field at Pitbull Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109976,
@@ -517,7 +764,16 @@
         "league_id": 8972,
         "league": "USL Championship",
         "venue": "Centreville Bank Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "CBS Sports Network",
+                    "Fubo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109974,
@@ -570,6 +826,13 @@
         "venue": "Stade Jean Bouin",
         "tv_channels": [
             {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "Disney+ (FR)"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -604,6 +867,9 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
+                    "ESPN Deportes",
+                    "ESPN Unlimited",
+                    "Fubo Sports",
                     "Paramount+ (US)"
                 ]
             }
@@ -618,6 +884,13 @@
         "venue": "Groupama Stadium",
         "tv_channels": [
             {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "la chaine L'Équipe"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -628,6 +901,10 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
+                    "CBS Sports Network",
+                    "ESPN Deportes",
+                    "ESPN Unlimited",
+                    "Fubo Sports",
                     "Paramount+ (US)"
                 ]
             }
@@ -664,7 +941,22 @@
         "league_id": 9375,
         "league": "Women's Champions League",
         "venue": "Generali Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Disney+ (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6148627,
@@ -673,7 +965,22 @@
         "league_id": 9375,
         "league": "Women's Champions League",
         "venue": "Capelli Sport Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Disney+ (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6148617,
@@ -682,7 +989,22 @@
         "league_id": 9375,
         "league": "Women's Champions League",
         "venue": "Joie Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Disney+ (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6148582,
@@ -691,7 +1013,22 @@
         "league_id": 9375,
         "league": "Women's Champions League",
         "venue": "Campus PSG",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Disney+ (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6006653,
@@ -808,7 +1145,18 @@
         "league_id": 9986,
         "league": "Premier League",
         "venue": "TD Place Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "FOX One",
+                    "FOX Sports 2",
+                    "FOX Sports online",
+                    "Fubo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000014067,
@@ -835,7 +1183,15 @@
         "league_id": 11129,
         "league": "UEFA Women's Europa Cup - 2nd Qualifying Round",
         "venue": "Intility Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "Direktesport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000021869,
@@ -844,7 +1200,15 @@
         "league_id": 11129,
         "league": "UEFA Women's Europa Cup - 2nd Qualifying Round",
         "venue": "Koteng Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "VG TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000021870,
@@ -961,7 +1325,16 @@
         "league_id": 9296,
         "league": "USL League One",
         "venue": "CHI Memorial Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5181829,
@@ -1186,15 +1559,6 @@
         "league_id": 11017,
         "league": "QSL Cup",
         "venue": "Al Seliah Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000018972,
-        "kickoff": 1790874900,
-        "fixture": "Al Ula vs Al Hilal",
-        "league_id": 10783,
-        "league": "Women's Premier League",
-        "venue": "Prince Mohammed bin Abdul Aziz Stadium",
         "tv_channels": []
     }
 ]
