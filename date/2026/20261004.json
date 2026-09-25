@@ -15,7 +15,16 @@
         "league_id": 9806,
         "league": "UEFA Nations League A Grp. 3",
         "venue": "Estadio Municipal Carlos Tartiere",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Virgin Media Play",
+                    "Virgin Media Two"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5181780,
@@ -329,7 +338,7 @@
         "fixture": "Hamburger SV vs FC København",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Volksparkstadion",
         "tv_channels": []
     },
     {
@@ -348,6 +357,15 @@
         "league_id": 9821,
         "league": "CONCACAF Nations League B Grp. 4",
         "venue": "FFB Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6284089,
+        "kickoff": 1791043200,
+        "fixture": "Raufoss vs Start",
+        "league_id": 206,
+        "league": "Cup",
+        "venue": "NAMMO stadion",
         "tv_channels": []
     },
     {
@@ -522,13 +540,30 @@
         "tv_channels": []
     },
     {
+        "match_id": 4785885,
+        "kickoff": 1791046800,
+        "fixture": "France U21 vs Luxembourg U21",
+        "league_id": 10437,
+        "league": "EURO U21 Qualification Grp. C",
+        "venue": "Stade du Moustoir - Yves Allainmat",
+        "tv_channels": []
+    },
+    {
         "match_id": 5934537,
         "kickoff": 1791042900,
         "fixture": "Eintracht Frankfurt (W) vs Bayern München (W)",
         "league_id": 9676,
         "league": "Frauen-Bundesliga",
         "venue": "Stadion am Brentanobad",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Magenta Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5934541,
@@ -954,85 +989,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 5989848,
-        "kickoff": 1791039600,
-        "fixture": "CR Bélouizdad vs Olympique Akbou",
-        "league_id": 516,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5989853,
-        "kickoff": 1791039600,
-        "fixture": "CR Temouchent vs ASO Chlef",
-        "league_id": 516,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5989849,
-        "kickoff": 1791039600,
-        "fixture": "CS Constantine vs JS El Biar",
-        "league_id": 516,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5989847,
-        "kickoff": 1791039600,
-        "fixture": "ES Ben Aknoun vs USM Alger",
-        "league_id": 516,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5989851,
-        "kickoff": 1791039600,
-        "fixture": "JS Kabylie vs US Biskra",
-        "league_id": 516,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5989846,
-        "kickoff": 1791039600,
-        "fixture": "MB Rouissat vs JS Saoura",
-        "league_id": 516,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5989852,
-        "kickoff": 1791039600,
-        "fixture": "MC Alger vs ES Sétif",
-        "league_id": 516,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5989850,
-        "kickoff": 1791039600,
-        "fixture": "MC Oran vs USM Khenchela",
-        "league_id": 516,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5886546,
         "kickoff": 1791053100,
         "fixture": "Amiens vs Villefranche Beaujolais",
         "league_id": 8970,
         "league": "Ligue 3",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5886548,
@@ -1041,7 +1012,15 @@
         "league_id": 8970,
         "league": "Ligue 3",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5886549,
@@ -1050,7 +1029,15 @@
         "league_id": 8970,
         "league": "Ligue 3",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5886550,
@@ -1059,7 +1046,15 @@
         "league_id": 8970,
         "league": "Ligue 3",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5886551,
@@ -1068,7 +1063,15 @@
         "league_id": 8970,
         "league": "Ligue 3",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5886552,
@@ -1086,7 +1089,15 @@
         "league_id": 8970,
         "league": "Ligue 3",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5886554,
@@ -1095,7 +1106,15 @@
         "league_id": 8970,
         "league": "Ligue 3",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5954347,
@@ -1684,107 +1703,62 @@
     },
     {
         "match_id": 5113480,
-        "kickoff": 1791057600,
+        "kickoff": 1791050400,
         "fixture": "Acassuso vs Ciudad de Bolívar",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5113093,
-        "kickoff": 1791057600,
-        "fixture": "Agropecuario vs CA Ferrocarril Midland",
-        "league_id": 8965,
-        "league": "Primera Nacional",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5113096,
-        "kickoff": 1791057600,
-        "fixture": "Atlético Güemes vs Colegiales",
-        "league_id": 8965,
-        "league": "Primera Nacional",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5113094,
-        "kickoff": 1791057600,
-        "fixture": "Atlético Rafaela vs Atlanta",
-        "league_id": 8965,
-        "league": "Primera Nacional",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5113482,
-        "kickoff": 1791057600,
-        "fixture": "CA Chaco For Ever vs CA Defensores de Belgrano",
-        "league_id": 8965,
-        "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio La Quema",
         "tv_channels": []
     },
     {
         "match_id": 5113487,
-        "kickoff": 1791057600,
+        "kickoff": 1791050400,
         "fixture": "CA San Miguel vs Club Atlético Mitre",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5113481,
-        "kickoff": 1791057600,
-        "fixture": "Central Norte vs Racing de Córdoba",
-        "league_id": 8965,
-        "league": "Primera Nacional",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5113095,
-        "kickoff": 1791057600,
-        "fixture": "Chacarita Juniors vs Patronato de Parana",
-        "league_id": 8965,
-        "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Malvinas Argentinas",
         "tv_channels": []
     },
     {
         "match_id": 5113483,
-        "kickoff": 1791057600,
+        "kickoff": 1791050400,
         "fixture": "Colón vs Club Atlético Estudiantes",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Brigadier General Estanislao López",
         "tv_channels": []
     },
     {
         "match_id": 5113484,
-        "kickoff": 1791057600,
+        "kickoff": 1791050400,
         "fixture": "Deportivo Morón vs All Boys",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Nuevo Francisco Urbano",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5113100,
+        "kickoff": 1791050400,
+        "fixture": "Temperley vs Gimnasia Jujuy",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "Estadio Alfredo Martín Beranger",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5113101,
+        "kickoff": 1791050400,
+        "fixture": "Tristán Suárez vs Quilmes",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "Estadio 20 de Octubre",
         "tv_channels": []
     },
     {
         "match_id": 5113485,
         "kickoff": 1791057600,
         "fixture": "Ferro Carril Oeste vs Deportivo Madryn",
-        "league_id": 8965,
-        "league": "Primera Nacional",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5113486,
-        "kickoff": 1791057600,
-        "fixture": "Godoy Cruz vs Los Andes",
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "TBA",
@@ -1800,18 +1774,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 5113099,
-        "kickoff": 1791057600,
-        "fixture": "San Martín de Tucumán vs Gimnasia y Tiro",
+        "match_id": 5113093,
+        "kickoff": 1791136800,
+        "fixture": "Agropecuario vs CA Ferrocarril Midland",
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 5113098,
-        "kickoff": 1791057600,
-        "fixture": "San Martín San Juan vs Almagro",
+        "match_id": 5113095,
+        "kickoff": 1791138600,
+        "fixture": "Chacarita Juniors vs Patronato de Parana",
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "TBA",
@@ -1819,7 +1793,7 @@
     },
     {
         "match_id": 5113488,
-        "kickoff": 1791057600,
+        "kickoff": 1791138600,
         "fixture": "San Telmo vs Almirante Brown",
         "league_id": 8965,
         "league": "Primera Nacional",
@@ -1827,18 +1801,54 @@
         "tv_channels": []
     },
     {
-        "match_id": 5113100,
-        "kickoff": 1791057600,
-        "fixture": "Temperley vs Gimnasia Jujuy",
+        "match_id": 5113096,
+        "kickoff": 1791144000,
+        "fixture": "Atlético Güemes vs Colegiales",
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 5113101,
-        "kickoff": 1791057600,
-        "fixture": "Tristán Suárez vs Quilmes",
+        "match_id": 5113482,
+        "kickoff": 1791144000,
+        "fixture": "CA Chaco For Ever vs CA Defensores de Belgrano",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5113481,
+        "kickoff": 1791144000,
+        "fixture": "Central Norte vs Racing de Córdoba",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5113098,
+        "kickoff": 1791144000,
+        "fixture": "San Martín San Juan vs Almagro",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5113094,
+        "kickoff": 1791145800,
+        "fixture": "Atlético Rafaela vs Atlanta",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5113486,
+        "kickoff": 1791147600,
+        "fixture": "Godoy Cruz vs Los Andes",
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "TBA",
@@ -1953,6 +1963,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5884535,
+        "kickoff": 1791043200,
+        "fixture": "Espanyol B vs Náxara",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5884534,
         "kickoff": 1791126000,
         "fixture": "Arnedo vs Ebro",
@@ -1971,15 +1990,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5884535,
-        "kickoff": 1791126000,
-        "fixture": "Espanyol B vs Náxara",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5884537,
         "kickoff": 1791126000,
         "fixture": "Osasuna B vs SD Tarazona",
@@ -1992,15 +2002,6 @@
         "match_id": 5921260,
         "kickoff": 1791126000,
         "fixture": "Osasuna B vs CF Calamocha",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884559,
-        "kickoff": 1791126000,
-        "fixture": "Reus vs CE Manresa",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 2",
         "venue": "TBA",
@@ -2034,9 +2035,27 @@
         "tv_channels": []
     },
     {
+        "match_id": 5884559,
+        "kickoff": 1791133200,
+        "fixture": "Reus vs CE Manresa",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5885591,
         "kickoff": 1791043200,
         "fixture": "CD Guadalajara vs Gimnástica Segoviana",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 5",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6147832,
+        "kickoff": 1791052200,
+        "fixture": "CD Atlético Paso vs Real Madrid C",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 5",
         "venue": "TBA",
@@ -2106,15 +2125,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6147832,
-        "kickoff": 1791126000,
-        "fixture": "CD Atlético Paso vs Real Madrid C",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 5",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5885275,
         "kickoff": 1791046800,
         "fixture": "CD Estepona vs Don Benito",
@@ -2127,6 +2137,15 @@
         "match_id": 5885279,
         "kickoff": 1791106200,
         "fixture": "Sevilla Atletico vs CD Badajoz",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 4",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5885280,
+        "kickoff": 1791108000,
+        "fixture": "Atletico Sanluqueño CF vs Mijas-Las Lagunas",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 4",
         "venue": "TBA",
@@ -2154,15 +2173,6 @@
         "match_id": 5885281,
         "kickoff": 1791111600,
         "fixture": "UD Tamaraceite vs CA Antoniano",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 4",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5885280,
-        "kickoff": 1791126000,
-        "fixture": "Atletico Sanluqueño CF vs Mijas-Las Lagunas",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 4",
         "venue": "TBA",
@@ -2242,7 +2252,7 @@
     },
     {
         "match_id": 5884886,
-        "kickoff": 1791126000,
+        "kickoff": 1791108000,
         "fixture": "Mallorca B vs Alcoyano",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 3",
@@ -2643,7 +2653,15 @@
         "league_id": 10210,
         "league": "Women's Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "LOITV (Int)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5101110,
@@ -2652,7 +2670,15 @@
         "league_id": 10210,
         "league": "Women's Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "LOITV (Int)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5101111,
@@ -2661,7 +2687,15 @@
         "league_id": 10210,
         "league": "Women's Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "LOITV (Int)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5981657,
@@ -2715,6 +2749,24 @@
         "league_id": 9227,
         "league": "WSL",
         "venue": "Etihad Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022185,
+        "kickoff": 1791050400,
+        "fixture": "União São João vs Grêmio Prudente",
+        "league_id": 11646,
+        "league": "Copa Paulista - Semi-finals",
+        "venue": "Estádio Dr. Hermínio Ometto",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022184,
+        "kickoff": 1791064800,
+        "fixture": "São José-SP vs Noroeste",
+        "league_id": 11646,
+        "league": "Copa Paulista - Semi-finals",
+        "venue": "Estádio Municipal Dr. Mário Martins Pereira",
         "tv_channels": []
     },
     {
@@ -2853,15 +2905,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000014170,
-        "kickoff": 1791076500,
-        "fixture": "Independiente Medellín vs Santa Fe",
-        "league_id": 274,
-        "league": "Primera A",
-        "venue": "Estadio Metropolitano de Itagüí",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000014175,
         "kickoff": 1791140400,
         "fixture": "Deportivo Pasto vs Fortaleza FC",
@@ -2962,7 +3005,7 @@
     },
     {
         "match_id": 1000013739,
-        "kickoff": 1791068400,
+        "kickoff": 1791076800,
         "fixture": "Real Cartagena vs Boca Juniors de Cali",
         "league_id": 9125,
         "league": "Primera B",
@@ -3246,7 +3289,16 @@
         "league_id": 9806,
         "league": "UEFA Nations League A Grp. 4",
         "venue": "Estádio Do Dragão",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Virgin Media Play",
+                    "Virgin Media Three"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5181868,
@@ -3273,7 +3325,16 @@
         "league_id": 9807,
         "league": "UEFA Nations League B Grp. 3",
         "venue": "TSC Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Virgin Media Play",
+                    "Virgin Media Two"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5181877,
