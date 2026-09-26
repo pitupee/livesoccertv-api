@@ -42,7 +42,21 @@
         "league_id": 9806,
         "league": "UEFA Nations League A Grp. 4",
         "venue": "Cardiff City Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "BBC Sport online",
+                    "BBC Two",
+                    "BBC Two Northern Ireland",
+                    "BBC Two Wales",
+                    "BBC iPlayer",
+                    "S4C",
+                    "S4C Clic"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5181818,
@@ -348,7 +362,15 @@
         "league_id": 9676,
         "league": "Frauen-Bundesliga",
         "venue": "Max-Morlock-Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Magenta Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5862697,
@@ -411,6 +433,33 @@
         "league_id": 140,
         "league": "LaLiga2",
         "venue": "Estadio Bahrain Victorious Nuevo Arcángel de Córdoba",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6315922,
+        "kickoff": 1791129600,
+        "fixture": "Boston River vs Juventud de las Piedras",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Clausura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6315923,
+        "kickoff": 1791140400,
+        "fixture": "Cerro vs Montevideo Wanderers",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Clausura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6315924,
+        "kickoff": 1791153000,
+        "fixture": "Racing vs Club Atletico Peñarol",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Clausura",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -501,7 +550,15 @@
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "NPFL Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6103117,
@@ -519,7 +576,15 @@
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "NPFL Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6103113,
@@ -555,7 +620,15 @@
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "NPFL Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6103118,
@@ -564,7 +637,15 @@
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "NPFL Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6103119,
@@ -573,16 +654,33 @@
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "NPFL Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5161664,
-        "kickoff": 1791129600,
+        "kickoff": 1791133200,
         "fixture": "Gotham FC (W) vs Angel City FC (W)",
         "league_id": 9134,
         "league": "NWSL",
         "venue": "Sports Illustrated Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "ABC",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5161665,
@@ -591,7 +689,15 @@
         "league_id": 9134,
         "league": "NWSL",
         "venue": "Northwestern Medicine Field at Martin Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "CBS Sports Network"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5161666,
@@ -600,7 +706,15 @@
         "league_id": 9134,
         "league": "NWSL",
         "venue": "Shell Energy Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Roku Sports (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5975040,
@@ -743,7 +857,7 @@
         "fixture": "Agropecuario vs CA Ferrocarril Midland",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Ofelia Rosenzuaig",
         "tv_channels": []
     },
     {
@@ -752,7 +866,7 @@
         "fixture": "Chacarita Juniors vs Patronato de Parana",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio de Chacarita Juniors",
         "tv_channels": []
     },
     {
@@ -761,7 +875,7 @@
         "fixture": "San Telmo vs Almirante Brown",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Dr. Osvaldo Francisco Baletto",
         "tv_channels": []
     },
     {
@@ -770,7 +884,7 @@
         "fixture": "Atlético Güemes vs Colegiales",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Arturo Jiya Miranda",
         "tv_channels": []
     },
     {
@@ -779,7 +893,7 @@
         "fixture": "CA Chaco For Ever vs CA Defensores de Belgrano",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Juan Alberto García",
         "tv_channels": []
     },
     {
@@ -788,7 +902,7 @@
         "fixture": "Central Norte vs Racing de Córdoba",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Padre Ernesto Martearena",
         "tv_channels": []
     },
     {
@@ -797,7 +911,7 @@
         "fixture": "San Martín San Juan vs Almagro",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Ingeniero Hilario Sánchez",
         "tv_channels": []
     },
     {
@@ -806,7 +920,7 @@
         "fixture": "Atlético Rafaela vs Atlanta",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Nuevo Monumental",
         "tv_channels": []
     },
     {
@@ -815,7 +929,7 @@
         "fixture": "Godoy Cruz vs Los Andes",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Feliciano Gambarte",
         "tv_channels": []
     },
     {
@@ -824,6 +938,33 @@
         "fixture": "San Martín de Tucumán vs Gimnasia y Tiro",
         "league_id": 8965,
         "league": "Primera Nacional",
+        "venue": "Estadio La Ciudadela",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6315930,
+        "kickoff": 1791129600,
+        "fixture": "Fénix vs Uruguay Montevideo",
+        "league_id": 9122,
+        "league": "Segunda Division",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6315931,
+        "kickoff": 1791140400,
+        "fixture": "Plaza Colonia vs Cerrito",
+        "league_id": 9122,
+        "league": "Segunda Division",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6315932,
+        "kickoff": 1791151200,
+        "fixture": "La Luz vs River Plate",
+        "league_id": 9122,
+        "league": "Segunda Division",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -1194,7 +1335,15 @@
         "league_id": 10699,
         "league": "USL Super League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Peacock"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5981661,
@@ -1203,7 +1352,26 @@
         "league_id": 9227,
         "league": "WSL",
         "venue": "Etihad Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports Main Event",
+                    "Sky Sports Premier League",
+                    "Sky Sports UHD",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000019544,
@@ -1221,7 +1389,23 @@
         "league_id": 112,
         "league": "Liga Profesional",
         "venue": "Estadio Alberto José Armando",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Premier Sports 1 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Premier Sports 1 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000019552,
@@ -1356,7 +1540,16 @@
         "league_id": 10791,
         "league": "SWPL 1",
         "venue": "Petershill Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "BBC Sport online",
+                    "BBC iPlayer"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000021953,

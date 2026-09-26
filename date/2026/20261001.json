@@ -92,6 +92,13 @@
                 ]
             },
             {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
@@ -179,7 +186,7 @@
         "fixture": "Cook Islands vs Tahiti",
         "league_id": 114,
         "league": "Friendlies",
-        "venue": "TBA",
+        "venue": "CIFA Academy Field 1",
         "tv_channels": []
     },
     {
@@ -188,7 +195,7 @@
         "fixture": "Panama vs New Zealand",
         "league_id": 114,
         "league": "Friendlies",
-        "venue": "Estadio Rommel Fernandez",
+        "venue": "Nissan Stadium",
         "tv_channels": []
     },
     {
@@ -197,7 +204,7 @@
         "fixture": "Japan vs Ecuador",
         "league_id": 114,
         "league": "Friendlies",
-        "venue": "TBA",
+        "venue": "Nissan Stadium",
         "tv_channels": [
             {
                 "country": "Ecuador",
@@ -206,6 +213,14 @@
                     "Ecuador TV",
                     "TC Teleivisión",
                     "Teleamazonas"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "TBS",
+                    "TVer"
                 ]
             }
         ]
@@ -235,7 +250,29 @@
         "league_id": 10608,
         "league": "Africa Cup of Nations Qualification Grp. D",
         "venue": "Al Salam Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "beIN SPORTS 3"
+                ]
+            },
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "beIN Sport Canada"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "beIN SPORTS (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6040250,
@@ -246,10 +283,26 @@
         "venue": "Stade du 28 Septembre",
         "tv_channels": [
             {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "beIN SPORTS 2"
+                ]
+            },
+            {
                 "country": "Canada",
                 "country_code": "CA",
                 "channels": [
-                    "beIN Sport Canada"
+                    "beIN Sport Canada",
+                    "beIN Sport Canada Espanol"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "beIN SPORTS (US)",
+                    "beIN SPORTS en Español (US)"
                 ]
             }
         ]
@@ -499,6 +552,13 @@
         "venue": "Arena Katowice",
         "tv_channels": [
             {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "TVP Sport"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "country_code": "SE",
                 "channels": [
@@ -543,6 +603,13 @@
         "venue": "MFA Centenary Stadium",
         "tv_channels": [
             {
+                "country": "Belgium",
+                "country_code": "BE",
+                "channels": [
+                    "DAZN1 Belgium"
+                ]
+            },
+            {
                 "country": "Canada",
                 "country_code": "CA",
                 "channels": [
@@ -564,6 +631,13 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
                 "country": "Italy",
                 "country_code": "IT",
                 "channels": [
@@ -578,6 +652,13 @@
                 ]
             },
             {
+                "country": "New Zealand",
+                "country_code": "NZ",
+                "channels": [
+                    "DAZN New Zealand"
+                ]
+            },
+            {
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
@@ -589,6 +670,14 @@
                 "country_code": "SK",
                 "channels": [
                     "ProSieben MAXX"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN",
+                    "DAZN App Gratis"
                 ]
             },
             {
@@ -641,6 +730,13 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "SBS On Demand"
+                ]
+            },
+            {
                 "country": "Canada",
                 "country_code": "CA",
                 "channels": [
@@ -687,6 +783,14 @@
                 "country_code": "NO",
                 "channels": [
                     "DAZN NO"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN",
+                    "DAZN App Gratis"
                 ]
             },
             {
@@ -721,6 +825,13 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "SBS On Demand"
+                ]
+            },
+            {
                 "country": "Canada",
                 "country_code": "CA",
                 "channels": [
@@ -767,6 +878,14 @@
                 "country_code": "NO",
                 "channels": [
                     "DAZN NO"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN",
+                    "DAZN App Gratis"
                 ]
             },
             {
@@ -835,15 +954,8 @@
                 "country": "Switzerland",
                 "country_code": "CH",
                 "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "ESPN Select",
-                    "ESPN Unlimited"
+                    "OneFootball PPV",
+                    "Sportdigital Fussball 2"
                 ]
             }
         ]
@@ -889,14 +1001,6 @@
                     "DAZN",
                     "OneFootball PPV",
                     "Sportdigital Fussball"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "ESPN Select",
-                    "ESPN Unlimited"
                 ]
             }
         ]
@@ -1932,6 +2036,13 @@
                 ]
             },
             {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "WOWOWオンデマンド"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
@@ -1985,6 +2096,14 @@
                 "country_code": "ES",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Disney+ Sverige",
+                    "TV4 Play Sport"
                 ]
             },
             {
@@ -2058,6 +2177,13 @@
                 "country_code": "BR",
                 "channels": [
                     "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "OneSoccer"
                 ]
             },
             {
@@ -2142,6 +2268,13 @@
                 ]
             },
             {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "WOWOWオンデマンド"
+                ]
+            },
+            {
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
@@ -2211,6 +2344,13 @@
                 "country_code": "ES",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Disney+ Sverige"
                 ]
             },
             {
@@ -2366,6 +2506,13 @@
                 ]
             },
             {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "WOWOWオンデマンド"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
@@ -2424,6 +2571,13 @@
                 "channels": [
                     "Disney+",
                     "TV3"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Disney+ Sverige"
                 ]
             },
             {
@@ -2508,6 +2662,13 @@
                 ]
             },
             {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "OneSoccer"
+                ]
+            },
+            {
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
@@ -2585,6 +2746,13 @@
                 ]
             },
             {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "WOWOWオンデマンド"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
@@ -2653,6 +2821,13 @@
                 ]
             },
             {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Disney+ Sverige"
+                ]
+            },
+            {
                 "country": "Switzerland",
                 "country_code": "CH",
                 "channels": [
@@ -2670,7 +2845,6 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
-                    "CBS Sports Network",
                     "ESPN Deportes",
                     "ESPN Unlimited",
                     "Fubo Sports",
@@ -2800,6 +2974,14 @@
                 ]
             },
             {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "WOWOWオンデマンド",
+                    "WOWOWライブ"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
@@ -2855,6 +3037,13 @@
                 "country_code": "ES",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Disney+ Sverige"
                 ]
             },
             {
@@ -2937,6 +3126,13 @@
                 ]
             },
             {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "OneSoccer"
+                ]
+            },
+            {
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
@@ -2996,6 +3192,13 @@
                 ]
             },
             {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "WOWOWオンデマンド"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
@@ -3051,6 +3254,13 @@
                 "country_code": "ES",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Disney+ Sverige"
                 ]
             },
             {
@@ -3188,6 +3398,13 @@
                 ]
             },
             {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "WOWOWオンデマンド"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
@@ -3219,7 +3436,8 @@
                 "country": "Poland",
                 "country_code": "PL",
                 "channels": [
-                    "Disney+"
+                    "Disney+",
+                    "TVP Sport"
                 ]
             },
             {
@@ -3241,6 +3459,13 @@
                 "country_code": "ES",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Disney+ Sverige"
                 ]
             },
             {
@@ -3319,6 +3544,13 @@
                 ]
             },
             {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "OneSoccer"
+                ]
+            },
+            {
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
@@ -3378,6 +3610,14 @@
                 ]
             },
             {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "WOWOWオンデマンド",
+                    "WOWOWライブ"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
@@ -3433,6 +3673,13 @@
                 "country_code": "ES",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Disney+ Sverige"
                 ]
             },
             {
@@ -3574,6 +3821,13 @@
                 ]
             },
             {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "WOWOWオンデマンド"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
@@ -3627,6 +3881,13 @@
                 "country_code": "ES",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Disney+ Sverige"
                 ]
             },
             {
@@ -3961,6 +4222,13 @@
         "venue": "TD Place Stadium",
         "tv_channels": [
             {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "OneSoccer"
+                ]
+            },
+            {
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
@@ -3986,6 +4254,13 @@
                 "channels": [
                     "Win Fútbol +",
                     "Win Play"
+                ]
+            },
+            {
+                "country": "Saint Barthélemy",
+                "country_code": "BL",
+                "channels": [
+                    "Sport TV"
                 ]
             },
             {
@@ -4235,7 +4510,8 @@
                 "country": "Australia",
                 "country_code": "AU",
                 "channels": [
-                    "Stan Sport"
+                    "Stan Sport",
+                    "beIN SPORTS 3"
                 ]
             },
             {
@@ -4396,6 +4672,14 @@
                 ]
             },
             {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "Ziggo Sport",
+                    "Ziggo Sport Kanaal 14"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
@@ -4449,14 +4733,14 @@
                 "country": "Poland",
                 "country_code": "PL",
                 "channels": [
-                    "kanał do potwierdzenia"
+                    "Polsat Sport 1"
                 ]
             },
             {
                 "country": "Portugal",
                 "country_code": "PT",
                 "channels": [
-                    "Canal a confirmar"
+                    "Sport TV 2"
                 ]
             },
             {
@@ -4479,6 +4763,7 @@
                 "country": "South Africa",
                 "country_code": "ZA",
                 "channels": [
+                    "DStv App",
                     "SuperSport GOtv Football"
                 ]
             },
@@ -4524,7 +4809,9 @@
                 "country_code": "US",
                 "channels": [
                     "Fubo Sports",
+                    "Plex (US)",
                     "Tubi (US)",
+                    "Xumo Play (US)",
                     "fubo Sports Network"
                 ]
             },
@@ -4579,7 +4866,8 @@
                 "country": "Australia",
                 "country_code": "AU",
                 "channels": [
-                    "Stan Sport"
+                    "Stan Sport",
+                    "beIN SPORTS 2"
                 ]
             },
             {
@@ -4783,7 +5071,7 @@
                 "country": "Poland",
                 "country_code": "PL",
                 "channels": [
-                    "kanał do potwierdzenia"
+                    "Polsat Sport 2"
                 ]
             },
             {
@@ -4882,7 +5170,8 @@
                 "country": "Australia",
                 "country_code": "AU",
                 "channels": [
-                    "Stan Sport"
+                    "Stan Sport",
+                    "beIN SPORTS 1"
                 ]
             },
             {
@@ -5067,14 +5356,14 @@
                 "country": "Poland",
                 "country_code": "PL",
                 "channels": [
-                    "kanał do potwierdzenia"
+                    "Polsat Sport 3"
                 ]
             },
             {
                 "country": "Portugal",
                 "country_code": "PT",
                 "channels": [
-                    "Canal a confirmar"
+                    "RTP1"
                 ]
             },
             {
@@ -5088,6 +5377,7 @@
                 "country": "South Africa",
                 "country_code": "ZA",
                 "channels": [
+                    "DStv App",
                     "SuperSport MaXimo 1"
                 ]
             },
@@ -5233,6 +5523,14 @@
                 ]
             },
             {
+                "country": "Ghana",
+                "country_code": "GH",
+                "channels": [
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport Laliga ROA"
+                ]
+            },
+            {
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
@@ -5279,6 +5577,13 @@
                 ]
             },
             {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "SuperSport GOtv LaLiga"
+                ]
+            },
+            {
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
@@ -5311,7 +5616,7 @@
                 "country": "Poland",
                 "country_code": "PL",
                 "channels": [
-                    "kanał do potwierdzenia"
+                    "Polsat Sport Premium 1"
                 ]
             },
             {
@@ -5327,6 +5632,14 @@
                 "channels": [
                     "Sport 2",
                     "Voyo"
+                ]
+            },
+            {
+                "country": "South Africa",
+                "country_code": "ZA",
+                "channels": [
+                    "DStv App",
+                    "SuperSport GOtv LaLiga"
                 ]
             },
             {
@@ -5353,6 +5666,14 @@
                 ]
             },
             {
+                "country": "Tanzania",
+                "country_code": "TZ",
+                "channels": [
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport Laliga ROA"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -5360,7 +5681,9 @@
                     "BBC Two",
                     "BBC Two Northern Ireland",
                     "BBC Two Wales",
-                    "BBC iPlayer"
+                    "BBC iPlayer",
+                    "S4C",
+                    "S4C Clic"
                 ]
             },
             {
@@ -5369,6 +5692,7 @@
                 "channels": [
                     "FOX One",
                     "FOX Sports 1",
+                    "FOX Sports 2",
                     "FOX Sports online",
                     "Fubo Sports"
                 ]
@@ -5566,14 +5890,14 @@
                 "country": "Poland",
                 "country_code": "PL",
                 "channels": [
-                    "kanał do potwierdzenia"
+                    "Polsat Sport Premium 2"
                 ]
             },
             {
                 "country": "Portugal",
                 "country_code": "PT",
                 "channels": [
-                    "Canal a confirmar"
+                    "Sport TV 6"
                 ]
             },
             {
@@ -5878,7 +6202,8 @@
                 "country": "Australia",
                 "country_code": "AU",
                 "channels": [
-                    "Stan Sport"
+                    "Stan Sport",
+                    "beIN SPORTS 3"
                 ]
             },
             {
@@ -6006,6 +6331,15 @@
                 ]
             },
             {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "Ziggo Sport",
+                    "Ziggo Sport 2",
+                    "Ziggo Sport Kanaal 14"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
@@ -6055,7 +6389,7 @@
                 "country": "Portugal",
                 "country_code": "PT",
                 "channels": [
-                    "Canal a confirmar"
+                    "Sport TV 2"
                 ]
             },
             {
@@ -6725,6 +7059,13 @@
             {
                 "country": "Japan",
                 "country_code": "JP",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
                 "channels": [
                     "CONCACAF YouTube"
                 ]
