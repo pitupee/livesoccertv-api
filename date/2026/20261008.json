@@ -123,7 +123,15 @@
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "NPFL Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5998320,
@@ -360,15 +368,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000019553,
-        "kickoff": 1791412200,
-        "fixture": "Sarmiento vs River Plate",
-        "league_id": 112,
-        "league": "Liga Profesional",
-        "venue": "Estadio Eva Perón de Junín",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000021975,
         "kickoff": 1791462600,
         "fixture": "Aluminium Arak vs Malavan",
@@ -456,7 +455,22 @@
         "league_id": 9125,
         "league": "Primera B",
         "venue": "Estadio Olímpico Pascual Guerrero",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bangladesh",
+                "country_code": "BD",
+                "channels": [
+                    "T Sports"
+                ]
+            },
+            {
+                "country": "Bosnia and Herzegovina",
+                "country_code": "BA",
+                "channels": [
+                    "Arena Cloud"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000013686,
@@ -698,7 +712,7 @@
         "fixture": "Al Akhdoud vs Al-Ula FC",
         "league_id": 10721,
         "league": "Saudi First Division",
-        "venue": "Dhamak Club Stadium",
+        "venue": "King Fahd Sport City Stadium",
         "tv_channels": []
     }
 ]
