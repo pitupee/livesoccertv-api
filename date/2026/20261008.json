@@ -1,5 +1,14 @@
 [
     {
+        "match_id": 6356391,
+        "kickoff": 1791410400,
+        "fixture": "Antofagasta vs Universidad de Chile",
+        "league_id": 9091,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6162937,
         "kickoff": 1791410400,
         "fixture": "Coquimbo Unido vs Cobreloa",
@@ -36,17 +45,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5989833,
-        "kickoff": 1791385200,
-        "fixture": "CR Bélouizdad vs USM Khenchela",
-        "league_id": 516,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5989834,
-        "kickoff": 1791385200,
+        "kickoff": 1791392400,
         "fixture": "CS Constantine vs US Biskra",
         "league_id": 516,
         "league": "Ligue 1",
@@ -55,7 +55,7 @@
     },
     {
         "match_id": 5989832,
-        "kickoff": 1791385200,
+        "kickoff": 1791392400,
         "fixture": "ES Ben Aknoun vs JS El Biar",
         "league_id": 516,
         "league": "Ligue 1",
@@ -63,9 +63,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 5989836,
-        "kickoff": 1791385200,
-        "fixture": "JS Kabylie vs ASO Chlef",
+        "match_id": 5989833,
+        "kickoff": 1791399600,
+        "fixture": "CR Bélouizdad vs USM Khenchela",
         "league_id": 516,
         "league": "Ligue 1",
         "venue": "TBA",
@@ -73,7 +73,7 @@
     },
     {
         "match_id": 5989831,
-        "kickoff": 1791385200,
+        "kickoff": 1791478800,
         "fixture": "JS Saoura vs Olympique Akbou",
         "league_id": 516,
         "league": "Ligue 1",
@@ -82,7 +82,7 @@
     },
     {
         "match_id": 5989830,
-        "kickoff": 1791385200,
+        "kickoff": 1791478800,
         "fixture": "MB Rouissat vs USM Alger",
         "league_id": 516,
         "league": "Ligue 1",
@@ -90,17 +90,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5989837,
-        "kickoff": 1791385200,
-        "fixture": "MC Alger vs CR Temouchent",
-        "league_id": 516,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5989835,
-        "kickoff": 1791385200,
+        "kickoff": 1791486000,
         "fixture": "MC Oran vs ES Sétif",
         "league_id": 516,
         "league": "Ligue 1",
@@ -158,7 +149,15 @@
         "league_id": 9066,
         "league": "Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Tanzania",
+                "country_code": "TZ",
+                "channels": [
+                    "Azam Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5998323,
@@ -167,7 +166,15 @@
         "league_id": 9066,
         "league": "Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Tanzania",
+                "country_code": "TZ",
+                "channels": [
+                    "Azam Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5883662,
@@ -194,7 +201,15 @@
         "league_id": 51,
         "league": "Veikkausliiga Championship Group",
         "venue": "Markku.fi Areena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6145876,
@@ -386,6 +401,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000021980,
+        "kickoff": 1791465300,
+        "fixture": "Gol Gohar vs Esteghlal Khuzestan",
+        "league_id": 523,
+        "league": "Persian Gulf",
+        "venue": "Gol Gohar Sport Complex",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000021977,
         "kickoff": 1791466200,
         "fixture": "Tractor vs Esteghlal",
@@ -419,7 +443,18 @@
         "league_id": 9986,
         "league": "Premier League",
         "venue": "York Lions Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "FOX One",
+                    "FOX Sports 2",
+                    "Fox Sports online",
+                    "Fubo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000008675,
@@ -428,7 +463,25 @@
         "league_id": 9986,
         "league": "Premier League",
         "venue": "Hamilton Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "TSN+",
+                    "TSN1"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "FOX Sports 2",
+                    "Fox Sports online",
+                    "Fubo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000014127,
@@ -506,7 +559,15 @@
         "league_id": 268,
         "league": "Série A",
         "venue": "Estádio Municipal Cícero de Souza Marques",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5103650,
@@ -515,7 +576,15 @@
         "league_id": 268,
         "league": "Série A",
         "venue": "Estádio José Pinheiro Borda",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5103653,
@@ -524,7 +593,15 @@
         "league_id": 268,
         "league": "Série A",
         "venue": "Estádio Estadual Jornalista Edgar Augusto Proença",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5103652,
@@ -533,7 +610,15 @@
         "league_id": 268,
         "league": "Série A",
         "venue": "Estádio Manoel Barradas",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5103645,
@@ -542,7 +627,15 @@
         "league_id": 268,
         "league": "Série A",
         "venue": "Estádio Olímpico Nilton Santos",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5103649,
@@ -605,7 +698,16 @@
         "league_id": 9296,
         "league": "USL League One",
         "venue": "Paradise Coast Sports Complex",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109587,
@@ -614,7 +716,16 @@
         "league_id": 9296,
         "league": "USL League One",
         "venue": "Covenant Health Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109586,
@@ -659,7 +770,23 @@
         "league_id": 126,
         "league": "Premier Division",
         "venue": "Tallaght Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Virgin Media Play",
+                    "Virgin Media Two"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "LOITV (Int)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6028571,
@@ -668,7 +795,15 @@
         "league_id": 524,
         "league": "Stars League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Almanasa"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6028576,
@@ -677,7 +812,15 @@
         "league_id": 524,
         "league": "Stars League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Almanasa"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5853456,
@@ -708,11 +851,19 @@
     },
     {
         "match_id": 1000018462,
-        "kickoff": 1791473400,
+        "kickoff": 1791478800,
         "fixture": "Al Akhdoud vs Al-Ula FC",
         "league_id": 10721,
         "league": "Saudi First Division",
         "venue": "King Fahd Sport City Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Thmanyah"
+                ]
+            }
+        ]
     }
 ]
