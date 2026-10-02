@@ -6,7 +6,15 @@
         "league_id": 47,
         "league": "Premier League",
         "venue": "Anfield",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "NBC Sports 4K"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5795468,
@@ -639,9 +647,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 5944186,
+        "match_id": 5944185,
         "kickoff": 1791736200,
-        "fixture": "Teuta Durrës vs Skënderbeu",
+        "fixture": "Partizani vs KF Tirana",
+        "league_id": 260,
+        "league": "Kategoria Superiore",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5944187,
+        "kickoff": 1791736200,
+        "fixture": "Vllaznia vs FC Dinamo City",
         "league_id": 260,
         "league": "Kategoria Superiore",
         "venue": "TBA",
@@ -1004,7 +1021,7 @@
         "fixture": "Bukovyna Chernivtsi vs Polissya Zhytomyr",
         "league_id": 441,
         "league": "Premier League",
-        "venue": "Stadion Ukrajina",
+        "venue": "Tonkocheyev Stadium",
         "tv_channels": []
     },
     {
@@ -1256,7 +1273,7 @@
         "fixture": "Deportivo Madryn vs CA Chaco For Ever",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Abel Sastre",
         "tv_channels": []
     },
     {
@@ -1265,7 +1282,7 @@
         "fixture": "Almirante Brown vs CA San Miguel",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Fragata Presidente Sarmiento",
         "tv_channels": []
     },
     {
@@ -1274,7 +1291,7 @@
         "fixture": "Atlanta vs San Martín de Tucumán",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Don León Kolbovski",
         "tv_channels": []
     },
     {
@@ -1283,7 +1300,7 @@
         "fixture": "CA Defensores de Belgrano vs Acassuso",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Juan Pasquale",
         "tv_channels": []
     },
     {
@@ -1292,7 +1309,7 @@
         "fixture": "Club Atlético Estudiantes vs Deportivo Morón",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Ciudad de Caseros",
         "tv_channels": []
     },
     {
@@ -1301,7 +1318,7 @@
         "fixture": "Gimnasia Jujuy vs Gimnasia y Tiro",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio 23 de Agosto",
         "tv_channels": []
     },
     {
@@ -1310,7 +1327,7 @@
         "fixture": "Patronato de Parana vs Atlético Güemes",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Presbítero Bartolomé Grella",
         "tv_channels": []
     },
     {
@@ -1319,7 +1336,7 @@
         "fixture": "Temperley vs Nueva Chicago",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Alfredo Martín Beranger",
         "tv_channels": []
     },
     {
@@ -1328,7 +1345,7 @@
         "fixture": "Central Norte vs Ferro Carril Oeste",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Padre Ernesto Martearena",
         "tv_channels": []
     },
     {
@@ -1337,7 +1354,7 @@
         "fixture": "Club Atlético Mitre vs Colón",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Aurinegro",
         "tv_channels": []
     },
     {
@@ -1346,7 +1363,7 @@
         "fixture": "Deportivo Maipú vs San Martín San Juan",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Omar Higinio Sperdutti",
         "tv_channels": []
     },
     {
@@ -1355,7 +1372,7 @@
         "fixture": "Ciudad de Bolívar vs San Telmo",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Municipal Eva Perón",
         "tv_channels": []
     },
     {
@@ -1364,7 +1381,7 @@
         "fixture": "Racing de Córdoba vs Los Andes",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Miguel Sancho",
         "tv_channels": []
     },
     {
@@ -2012,7 +2029,7 @@
         "fixture": "Hapoel Jerusalem FC vs Maccabi Haifa",
         "league_id": 127,
         "league": "Ligat ha'Al",
-        "venue": "Rehovot Stadium",
+        "venue": "Teddi Malcha Stadium",
         "tv_channels": []
     },
     {
