@@ -1598,6 +1598,13 @@
         "venue": "York Lions Stadium",
         "tv_channels": [
             {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "OneSoccer"
+                ]
+            },
+            {
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
@@ -1621,6 +1628,7 @@
                 "country": "Canada",
                 "country_code": "CA",
                 "channels": [
+                    "OneSoccer",
                     "TSN+",
                     "TSN1"
                 ]
@@ -1987,7 +1995,11 @@
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "OneFootball PPV",
+                    "Sportdigital Fussball",
+                    "Sportdigital+ App",
+                    "Sportdigital.de"
                 ]
             },
             {
@@ -2132,14 +2144,18 @@
                 "country": "Spain",
                 "country_code": "ES",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "M+ #Vamos Bar",
+                    "M+ Vamos"
                 ]
             },
             {
                 "country": "Switzerland",
                 "country_code": "CH",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "OneFootball PPV",
+                    "Sportdigital Fussball"
                 ]
             },
             {
@@ -2578,7 +2594,8 @@
                 "country": "Argentina",
                 "country_code": "AR",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "Flow Sports"
                 ]
             },
             {
@@ -2699,7 +2716,8 @@
                 "country": "Paraguay",
                 "country_code": "PY",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "Flow Eventos HD"
                 ]
             },
             {
@@ -2756,7 +2774,8 @@
                 "country": "Uruguay",
                 "country_code": "UY",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "Flow"
                 ]
             },
             {

@@ -6,7 +6,15 @@
         "league_id": 47,
         "league": "Premier League",
         "venue": "Coventry Building Society Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "USA Network"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5868085,
@@ -726,6 +734,15 @@
         "league_id": 147,
         "league": "Serie C Grp. C",
         "venue": "Stadio Comunale Alberto De Cristofaro",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5990495,
+        "kickoff": 1791900000,
+        "fixture": "Juventus Next Gen vs Lumezzane",
+        "league_id": 147,
+        "league": "Serie C Grp. A",
+        "venue": "Stadio Giuseppe Moccagatta",
         "tv_channels": []
     },
     {
