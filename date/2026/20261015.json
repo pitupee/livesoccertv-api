@@ -743,8 +743,23 @@
         "fixture": "Sportivo San Lorenzo vs Sportivo Trinidense",
         "league_id": 199,
         "league": "Division Profesional",
-        "venue": "TBA",
-        "tv_channels": []
+        "venue": "Estadio Gunther Vogel",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Fútbol Paraguayo"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Tigo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000017431,
@@ -761,7 +776,7 @@
         "fixture": "Nacional vs Recoleta",
         "league_id": 199,
         "league": "Division Profesional",
-        "venue": "TBA",
+        "venue": "Estadio Arsenio Erico",
         "tv_channels": []
     },
     {
