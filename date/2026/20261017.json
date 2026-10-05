@@ -4752,6 +4752,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5885595,
+        "kickoff": 1792231200,
+        "fixture": "Atletico Madrid C vs Gimnástica Segoviana",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 5",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5884170,
         "kickoff": 1792245600,
         "fixture": "Rayo Cantabria vs CD Basconia",
@@ -6003,6 +6012,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000017437,
+        "kickoff": 1792189200,
+        "fixture": "Recoleta vs Rubio Ñú",
+        "league_id": 199,
+        "league": "Division Profesional",
+        "venue": "Estadio Ricardo Gregor",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017438,
+        "kickoff": 1792267200,
+        "fixture": "Guaraní vs Nacional",
+        "league_id": 199,
+        "league": "Division Profesional",
+        "venue": "Estadio La Arboleda",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000015732,
         "kickoff": 1792164600,
         "fixture": "Karviná vs Dukla Praha",
@@ -6777,6 +6804,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000022069,
+        "kickoff": 1792182600,
+        "fixture": "Deportivo Cuenca vs Técnico Universitario",
+        "league_id": 246,
+        "league": "Serie A - Relegation Round",
+        "venue": "Estadio Alejandro Serrano Aguilar Banco del Austro",
+        "tv_channels": []
+    },
+    {
         "match_id": 5190769,
         "kickoff": 1792189800,
         "fixture": "Ponte Preta vs Atlético-GO",
@@ -7164,27 +7200,27 @@
         "tv_channels": []
     },
     {
-        "match_id": 6306799,
-        "kickoff": 1792252800,
-        "fixture": "Belasitsa Petrich/Dobrudzha Dobrich vs Bdin Vidin/Montana",
-        "league_id": 271,
-        "league": "Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6306790,
         "kickoff": 1792252800,
-        "fixture": "Benkovski Isperih/Akademik Svishtov vs Slavia Sofia",
+        "fixture": "Akademik Svishtov vs Slavia Sofia",
         "league_id": 271,
         "league": "Cup",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 6306796,
+        "match_id": 6306793,
         "kickoff": 1792252800,
-        "fixture": "Chavdar Troyan/Marek Dupnitsa vs Cherno More Varna",
+        "fixture": "Beroe vs Ludogorets Razgrad",
+        "league_id": 271,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6306799,
+        "kickoff": 1792252800,
+        "fixture": "Dobrudzha Dobrich vs Montana",
         "league_id": 271,
         "league": "Cup",
         "venue": "TBA",
@@ -7200,6 +7236,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 6306794,
+        "kickoff": 1792252800,
+        "fixture": "FC Chernomorets Burgas vs Botev Plovdiv",
+        "league_id": 271,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6306787,
         "kickoff": 1792252800,
         "fixture": "Fratria vs Botev Vratsa",
@@ -7209,27 +7254,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 6306798,
-        "kickoff": 1792252800,
-        "fixture": "Lokomotiv Mezdra/Pirin Blagoevgrad vs Yambol/Hebar",
-        "league_id": 271,
-        "league": "Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6306793,
-        "kickoff": 1792252800,
-        "fixture": "Minyor Pernik/Beroe vs Ludogorets Razgrad",
-        "league_id": 271,
-        "league": "Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6306785,
         "kickoff": 1792252800,
-        "fixture": "Natsional Sofia/Lokomotiv Gorna Oryahovitsa vs Septemvri Sofia",
+        "fixture": "Lokomotiv Gorna Oryahovitsa vs Septemvri Sofia",
+        "league_id": 271,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6306796,
+        "kickoff": 1792252800,
+        "fixture": "Marek Dupnitsa vs Cherno More Varna",
         "league_id": 271,
         "league": "Cup",
         "venue": "TBA",
@@ -7238,16 +7274,7 @@
     {
         "match_id": 6306788,
         "kickoff": 1792252800,
-        "fixture": "Neftochimic Burgas 1962/Sportist Svoge vs CSKA 1948",
-        "league_id": 271,
-        "league": "Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6306791,
-        "kickoff": 1792252800,
-        "fixture": "Oborishte/Yantra vs Lokomotiv Plovdiv",
+        "fixture": "Neftochimic Burgas 1962 vs CSKA 1948",
         "league_id": 271,
         "league": "Cup",
         "venue": "TBA",
@@ -7256,7 +7283,25 @@
     {
         "match_id": 6306797,
         "kickoff": 1792252800,
-        "fixture": "Rodopa Smolyan/Nesebar vs CSKA Sofia",
+        "fixture": "Nesebar vs CSKA Sofia",
+        "league_id": 271,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6306798,
+        "kickoff": 1792252800,
+        "fixture": "Pirin Blagoevgrad vs Hebar",
+        "league_id": 271,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6306792,
+        "kickoff": 1792252800,
+        "fixture": "Rilski Sportist vs Dunav Ruse",
         "league_id": 271,
         "league": "Cup",
         "venue": "TBA",
@@ -7274,7 +7319,7 @@
     {
         "match_id": 6306786,
         "kickoff": 1792252800,
-        "fixture": "Spartak Plovdiv/Botev Ihtiman vs Arda Kardzhali",
+        "fixture": "Spartak Plovdiv vs Arda Kardzhali",
         "league_id": 271,
         "league": "Cup",
         "venue": "TBA",
@@ -7290,18 +7335,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 6306794,
+        "match_id": 6306791,
         "kickoff": 1792252800,
-        "fixture": "Volov Shumen/FC Chernomorets Burgas vs Botev Plovdiv",
-        "league_id": 271,
-        "league": "Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6306792,
-        "kickoff": 1792252800,
-        "fixture": "Zagorets Nova Zagora/Rilski Sportist vs Dunav Ruse",
+        "fixture": "Yantra vs Lokomotiv Plovdiv",
         "league_id": 271,
         "league": "Cup",
         "venue": "TBA",
@@ -7421,6 +7457,15 @@
         "fixture": "US Monastir vs PS Sakiet Eddaïer",
         "league_id": 544,
         "league": "Ligue I",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5974730,
+        "kickoff": 1792251000,
+        "fixture": "FC Progrès Niederkorn vs UN Käerjeng 97",
+        "league_id": 229,
+        "league": "National Division",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -7944,6 +7989,24 @@
         "league_id": 274,
         "league": "Primera A",
         "venue": "Estadio de La Independencia",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022026,
+        "kickoff": 1792263600,
+        "fixture": "CSD Macará vs Independiente del Valle",
+        "league_id": 246,
+        "league": "Serie A - Championship Round",
+        "venue": "Estadio Bellavista Universidad Indoamérica",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022054,
+        "kickoff": 1792254600,
+        "fixture": "Libertad vs Guayaquil City",
+        "league_id": 246,
+        "league": "Serie A - Copa Sudamericana Play-off",
+        "venue": "Estadio Federativo Reina del Cisne",
         "tv_channels": []
     },
     {

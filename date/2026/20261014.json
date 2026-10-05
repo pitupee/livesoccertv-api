@@ -24,6 +24,16 @@
                     "HBO Max (UK)",
                     "TNT Sports 2"
                 ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)",
+                    "TUDN (US)",
+                    "UniMás",
+                    "ViX"
+                ]
             }
         ]
     },
@@ -49,6 +59,14 @@
                 "channels": [
                     "HBO Max (UK)",
                     "TNT Sports 4"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)",
+                    "ViX"
                 ]
             }
         ]
@@ -80,6 +98,14 @@
                     "TNT Sports 1",
                     "TNT Sports Ultimate"
                 ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)",
+                    "ViX"
+                ]
             }
         ]
     },
@@ -105,6 +131,16 @@
                 "channels": [
                     "Prime Video (UK)"
                 ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)",
+                    "TUDN (US)",
+                    "UniMás",
+                    "ViX"
+                ]
             }
         ]
     },
@@ -121,7 +157,8 @@
                 "country_code": "IE",
                 "channels": [
                     "NOW ROI",
-                    "TNT Sports 2"
+                    "TNT Sports 2",
+                    "TNT Sports 8"
                 ]
             },
             {
@@ -137,7 +174,8 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
-                    "DAZN US (Español)"
+                    "DAZN US (Español)",
+                    "Paramount+ (US)"
                 ]
             }
         ]
@@ -151,11 +189,26 @@
         "venue": "Stadio Giuseppe Meazza",
         "tv_channels": [
             {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "TNT Sports 5"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
                     "HBO Max (UK)",
                     "TNT Sports 5"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)",
+                    "ViX"
                 ]
             }
         ]
@@ -172,9 +225,7 @@
                 "country": "Ireland",
                 "country_code": "IE",
                 "channels": [
-                    "NOW ROI",
-                    "Sky Sports Football",
-                    "Sky Sports+ app"
+                    "TNT Sports 7"
                 ]
             },
             {
@@ -183,6 +234,14 @@
                 "channels": [
                     "HBO Max (UK)",
                     "TNT Sports 7"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)",
+                    "ViX"
                 ]
             }
         ]
@@ -200,7 +259,8 @@
                 "country_code": "IE",
                 "channels": [
                     "NOW ROI",
-                    "TNT Sports 4"
+                    "TNT Sports 4",
+                    "TNT Sports 9"
                 ]
             },
             {
@@ -210,6 +270,14 @@
                     "HBO Max (UK)",
                     "TNT Sports 4",
                     "TNT Sports 9"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)",
+                    "ViX"
                 ]
             }
         ]
@@ -223,6 +291,13 @@
         "venue": "Estadio de la Cerámica",
         "tv_channels": [
             {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "TNT Sports 6"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -234,7 +309,8 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
-                    "DAZN US (Español)"
+                    "DAZN US (Español)",
+                    "Paramount+ (US)"
                 ]
             }
         ]
@@ -246,7 +322,32 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Stadion Feijenoord",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "TNT Sports 4"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 4"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)",
+                    "ViX"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106405,
@@ -255,7 +356,35 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Raiffeisen Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "TNT Sports 2",
+                    "Virgin Media Play",
+                    "Virgin Media Two"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 2"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)",
+                    "TUDN (US)",
+                    "UniMás"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106284,
@@ -264,7 +393,32 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Villa Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "TNT Sports 2"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 2"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)",
+                    "ViX"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106315,
@@ -273,7 +427,31 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Aspmyra Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "TNT Sports 5"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 5"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)",
+                    "ViX"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106254,
@@ -282,7 +460,35 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Etihad Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "RTÉ Player",
+                    "RTÉ2",
+                    "TNT Sports 1",
+                    "TNT Sports Ultimate"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 1",
+                    "TNT Sports Ultimate"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106299,
@@ -291,7 +497,31 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Estadio La Cartuja de Sevilla",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "TNT Sports 6"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 6"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)",
+                    "ViX"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106274,
@@ -300,7 +530,37 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Stadio Olimpico",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "TNT Sports 10",
+                    "TNT Sports 4",
+                    "Virgin Media Play",
+                    "Virgin Media Two"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 10",
+                    "TNT Sports 4"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)",
+                    "TUDN (US)",
+                    "UniMás"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106337,
@@ -309,7 +569,31 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Stamford Bridge",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "TNT Sports 8"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 8"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)",
+                    "ViX"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106396,
@@ -318,7 +602,31 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Štadión Tehelné pole",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "TNT Sports 7"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 7"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)",
+                    "ViX"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5105288,
@@ -399,7 +707,15 @@
         "league_id": 208,
         "league": "3. Liga",
         "venue": "Ostseestadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Magenta Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5905931,
@@ -408,7 +724,15 @@
         "league_id": 208,
         "league": "3. Liga",
         "venue": "Stadion an der Hafenstraße",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Magenta Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5905932,
@@ -417,7 +741,15 @@
         "league_id": 208,
         "league": "3. Liga",
         "venue": "Stadion Ludwigspark",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Magenta Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5905934,
@@ -426,7 +758,15 @@
         "league_id": 208,
         "league": "3. Liga",
         "venue": "Heinz von Heiden-Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Magenta Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5905933,
@@ -435,7 +775,15 @@
         "league_id": 208,
         "league": "3. Liga",
         "venue": "WIRmachenDRUCK Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Magenta Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5905930,
@@ -853,6 +1201,13 @@
                     "NOW",
                     "Sky Sports+ app"
                 ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
             }
         ]
     },
@@ -919,7 +1274,24 @@
         "league_id": 48,
         "league": "Championship",
         "venue": "Carrow Road",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5836872,
@@ -928,7 +1300,16 @@
         "league_id": 48,
         "league": "Championship",
         "venue": "Fratton Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5836873,
@@ -937,7 +1318,26 @@
         "league_id": 48,
         "league": "Championship",
         "venue": "MATRADE Loftus Road",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ HD",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ HD",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5836870,
@@ -946,7 +1346,30 @@
         "league_id": 48,
         "league": "Championship",
         "venue": "ProAmpac Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports Football",
+                    "Sky Sports Main Event",
+                    "Sky Sports Main Event UHD",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports Football",
+                    "Sky Sports Main Event",
+                    "Sky Sports Main Event UHD",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5794336,
@@ -964,7 +1387,16 @@
         "league_id": 142,
         "league": "EFL Trophy Northern Grp. F",
         "venue": "Meadow Lane",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6015574,
@@ -973,7 +1405,16 @@
         "league_id": 142,
         "league": "EFL Trophy Northern Grp. G",
         "venue": "Boundary Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6016269,
@@ -982,7 +1423,16 @@
         "league_id": 142,
         "league": "EFL Trophy Southern Grp. A",
         "venue": "EV Charger Points Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6016298,
@@ -991,7 +1441,16 @@
         "league_id": 142,
         "league": "EFL Trophy Southern Grp. B",
         "venue": "Pallet-Track Bescot Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6016307,
@@ -1000,7 +1459,16 @@
         "league_id": 142,
         "league": "EFL Trophy Southern Grp. C",
         "venue": "Select Car Leasing Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6016324,
@@ -1009,7 +1477,16 @@
         "league_id": 142,
         "league": "EFL Trophy Southern Grp. G",
         "venue": "Priestfield Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6277388,
@@ -1197,7 +1674,7 @@
         "fixture": "Yokohama FC vs Urawa Red Diamonds",
         "league_id": 224,
         "league": "League Cup",
-        "venue": "TBA",
+        "venue": "NHK Spring Mitsuzawa Football Stadium",
         "tv_channels": []
     },
     {
@@ -1206,7 +1683,7 @@
         "fixture": "Gainare Tottori vs Cerezo Osaka",
         "league_id": 224,
         "league": "League Cup",
-        "venue": "TBA",
+        "venue": "Axis Bird Stadium",
         "tv_channels": []
     },
     {
@@ -1215,7 +1692,7 @@
         "fixture": "Júbilo Iwata vs Kawasaki Frontale",
         "league_id": 224,
         "league": "League Cup",
-        "venue": "TBA",
+        "venue": "Yamaha Stadium",
         "tv_channels": []
     },
     {
@@ -1224,7 +1701,7 @@
         "fixture": "Matsumoto Yamaga vs Sanfrecce Hiroshima",
         "league_id": 224,
         "league": "League Cup",
-        "venue": "TBA",
+        "venue": "Sunpro Alwin Stadium",
         "tv_channels": []
     },
     {
@@ -1233,7 +1710,7 @@
         "fixture": "Mito Hollyhock vs FC Tokyo",
         "league_id": 224,
         "league": "League Cup",
-        "venue": "TBA",
+        "venue": "K’s Denki Stadium",
         "tv_channels": []
     },
     {
@@ -1251,7 +1728,7 @@
         "fixture": "Sagan Tosu vs Avispa Fukuoka",
         "league_id": 224,
         "league": "League Cup",
-        "venue": "TBA",
+        "venue": "Ekimae Real Estate Stadium",
         "tv_channels": []
     },
     {
@@ -1260,7 +1737,7 @@
         "fixture": "Yokohama F.Marinos vs Shimizu S-Pulse",
         "league_id": 224,
         "league": "League Cup",
-        "venue": "TBA",
+        "venue": "Nissan Stadium",
         "tv_channels": []
     },
     {
@@ -1324,7 +1801,15 @@
         "league_id": 10705,
         "league": "National League Cup Group A",
         "venue": "The Shay Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NL+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6000878,
@@ -1333,7 +1818,15 @@
         "league_id": 10705,
         "league": "National League Cup Group A",
         "venue": "Gateshead International Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NL+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6000879,
@@ -1342,7 +1835,15 @@
         "league_id": 10705,
         "league": "National League Cup Group A",
         "venue": "Attis Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NL+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6000916,
@@ -1351,7 +1852,15 @@
         "league_id": 10705,
         "league": "National League Cup Group C",
         "venue": "Victoria Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NL+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6000917,
@@ -1360,7 +1869,15 @@
         "league_id": 10705,
         "league": "National League Cup Group C",
         "venue": "Damson Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NL+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6000930,
@@ -1369,7 +1886,15 @@
         "league_id": 10705,
         "league": "National League Cup Group D",
         "venue": "The Jakemans Community Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NL+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6000931,
@@ -1378,7 +1903,15 @@
         "league_id": 10705,
         "league": "National League Cup Group D",
         "venue": "Borough Sports Ground",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NL+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6000932,
@@ -1387,7 +1920,15 @@
         "league_id": 10705,
         "league": "National League Cup Group D",
         "venue": "Truro Sports Hub",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NL+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6000933,
@@ -1396,7 +1937,15 @@
         "league_id": 10705,
         "league": "National League Cup Group D",
         "venue": "The Laithwaite Community Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NL+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6000897,
@@ -1405,7 +1954,15 @@
         "league_id": 10705,
         "league": "National League Cup Group B",
         "venue": "Rare Breed Meat Co. Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NL+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6000898,
@@ -1414,7 +1971,15 @@
         "league_id": 10705,
         "league": "National League Cup Group B",
         "venue": "The EBB Stadium at The Recreation Ground",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NL+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6000899,
@@ -1423,7 +1988,15 @@
         "league_id": 10705,
         "league": "National League Cup Group B",
         "venue": "Sussex Transport Community Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NL+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5907522,
@@ -1612,7 +2185,15 @@
         "league_id": 9066,
         "league": "Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Tanzania",
+                "country_code": "TZ",
+                "channels": [
+                    "Azam Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5833804,
@@ -2062,7 +2643,16 @@
         "league_id": 10357,
         "league": "Women's World Cup Qualification UEFA Playoff",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "BBC Sport online",
+                    "BBC iPlayer"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5793813,
@@ -2071,7 +2661,17 @@
         "league_id": 10357,
         "league": "Women's World Cup Qualification UEFA Playoff",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "BBC Scotland",
+                    "BBC Sport online",
+                    "BBC iPlayer"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5793803,
@@ -2080,7 +2680,17 @@
         "league_id": 10357,
         "league": "Women's World Cup Qualification UEFA Playoff",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "BBC One Wales",
+                    "BBC Sport online",
+                    "BBC iPlayer"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5793791,
@@ -2089,7 +2699,23 @@
         "league_id": 10357,
         "league": "Women's World Cup Qualification UEFA Playoff",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "ITV4"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "ITV4",
+                    "ITVX"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5793795,
@@ -2125,7 +2751,17 @@
         "league_id": 165,
         "league": "1. Lig",
         "venue": "Siltaş Yapı Pendik Stadyumu",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "Digiturk Play",
+                    "TRT Spor",
+                    "beIN SPORTS CONNECT"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5908661,
@@ -2251,7 +2887,16 @@
         "league_id": 537,
         "league": "Premier Soccer League",
         "venue": "Chatsworth Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "South Africa",
+                "country_code": "ZA",
+                "channels": [
+                    "DStv",
+                    "DStv App"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5955104,
@@ -2260,7 +2905,16 @@
         "league_id": 537,
         "league": "Premier Soccer League",
         "venue": "FNB Stadium (Soccer City)",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "South Africa",
+                "country_code": "ZA",
+                "channels": [
+                    "DStv",
+                    "DStv App"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5955106,
@@ -2269,7 +2923,16 @@
         "league_id": 537,
         "league": "Premier Soccer League",
         "venue": "Princess Magogo Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "South Africa",
+                "country_code": "ZA",
+                "channels": [
+                    "DStv",
+                    "DStv App"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5955108,
@@ -2278,7 +2941,16 @@
         "league_id": 537,
         "league": "Premier Soccer League",
         "venue": "Orlando Amstel Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "South Africa",
+                "country_code": "ZA",
+                "channels": [
+                    "DStv",
+                    "DStv App"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000007972,
@@ -2287,7 +2959,15 @@
         "league_id": 248,
         "league": "Premium liiga",
         "venue": "Pärnu Rannastaadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Estonia",
+                "country_code": "EE",
+                "channels": [
+                    "Soccernet"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000007973,
@@ -2341,7 +3021,15 @@
         "league_id": 10721,
         "league": "Saudi First Division",
         "venue": "Al-Bukiryah Club Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Thmanyah"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000018476,
@@ -2350,7 +3038,15 @@
         "league_id": 10721,
         "league": "Saudi First Division",
         "venue": "King Abdullah Sport City Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Thmanyah"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000018469,
@@ -2359,7 +3055,15 @@
         "league_id": 10721,
         "league": "Saudi First Division",
         "venue": "Prince Mohammed bin Abdul Aziz Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Thmanyah"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000018470,
@@ -2593,7 +3297,15 @@
         "league_id": 9741,
         "league": "UEFA Youth League - League Stage",
         "venue": "Stadio Tre Fontane",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "UEFA.tv"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000021116,
@@ -2620,7 +3332,25 @@
         "league_id": 9741,
         "league": "UEFA Youth League - League Stage",
         "venue": "Joie Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "TNT Sports 3"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 3",
+                    "UEFA.tv"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000021115,
@@ -2665,6 +3395,15 @@
         "league_id": 512,
         "league": "Regionalliga Southwest",
         "venue": "Fritz-Walter-Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6140215,
+        "kickoff": 1791990000,
+        "fixture": "Olympiacos B vs Athens Kallithea FC",
+        "league_id": 8815,
+        "league": "Super League 2",
+        "venue": "TBA",
         "tv_channels": []
     }
 ]

@@ -964,6 +964,13 @@
                 "channels": [
                     "Migu"
                 ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Replay"
+                ]
             }
         ]
     },
@@ -1021,6 +1028,13 @@
         "venue": "Stadionul Petre Libardi",
         "tv_channels": [
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "MAXtv To Go"
+                ]
+            },
+            {
                 "country": "Romania",
                 "country_code": "RO",
                 "channels": [
@@ -1042,6 +1056,13 @@
         "venue": "Sepsi Duna Aréna",
         "tv_channels": [
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "MAXtv To Go"
+                ]
+            },
+            {
                 "country": "Romania",
                 "country_code": "RO",
                 "channels": [
@@ -1053,6 +1074,42 @@
                 ]
             }
         ]
+    },
+    {
+        "match_id": 5200659,
+        "kickoff": 1791552600,
+        "fixture": "Kokand 1912 vs Mashal Muborak",
+        "league_id": 540,
+        "league": "Superliga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5200658,
+        "kickoff": 1791554400,
+        "fixture": "Buxoro vs Andijon",
+        "league_id": 540,
+        "league": "Superliga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5200663,
+        "kickoff": 1791554400,
+        "fixture": "Pakhtakor Tashkent vs Bunyodkor Tashkent",
+        "league_id": 540,
+        "league": "Superliga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5200660,
+        "kickoff": 1791556200,
+        "fixture": "Nasaf Qarshi vs Dinamo Samarkand",
+        "league_id": 540,
+        "league": "Superliga",
+        "venue": "TBA",
+        "tv_channels": []
     },
     {
         "match_id": 6145876,
@@ -1488,21 +1545,11 @@
         "venue": "TBA",
         "tv_channels": [
             {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "BBC Sport",
-                    "BBC Two Wales",
-                    "BBC iPlayer",
-                    "S4C",
-                    "S4C Online"
-                ]
-            },
-            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
                     "BBC Sport online",
+                    "BBC Two Wales",
                     "BBC iPlayer",
                     "S4C",
                     "S4C Clic"
@@ -2691,7 +2738,7 @@
         "fixture": "Qatar SC vs Al-Rayyan",
         "league_id": 535,
         "league": "Qatar Stars League",
-        "venue": "Suheim Bin Hamad Stadium (Qatar SC Stadium)",
+        "venue": "Lusail Stadium",
         "tv_channels": []
     },
     {
@@ -2781,6 +2828,7 @@
                 "country": "Spain",
                 "country_code": "ES",
                 "channels": [
+                    "M+ #Vamos Bar 2",
                     "M+ Vamos 2"
                 ]
             },
@@ -3075,6 +3123,7 @@
                 "country": "France",
                 "country_code": "FR",
                 "channels": [
+                    "DAZN 1 (FR)",
                     "DAZN.com (FR)"
                 ]
             },
@@ -3105,6 +3154,13 @@
                 "country_code": "PL",
                 "channels": [
                     "Polsat Sport 3"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "M+ #Vamos Bar"
                 ]
             },
             {
@@ -3169,6 +3225,13 @@
                 ]
             },
             {
+                "country": "Bosnia and Herzegovina",
+                "country_code": "BA",
+                "channels": [
+                    "Moja TV"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "country_code": "BR",
                 "channels": [
@@ -3194,6 +3257,13 @@
                 "country_code": "CR",
                 "channels": [
                     "Fanatiz"
+                ]
+            },
+            {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Cytavision on the Go"
                 ]
             },
             {
@@ -3299,6 +3369,21 @@
                 "country_code": "PT",
                 "channels": [
                     "Fanatiz"
+                ]
+            },
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Prima Play"
+                ]
+            },
+            {
+                "country": "Russian Federation",
+                "country_code": "RU",
+                "channels": [
+                    "Sportbox.ru",
+                    "matchtv.ru"
                 ]
             },
             {
@@ -4050,14 +4135,6 @@
                 ]
             },
             {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "BBC Sport",
-                    "BBC iPlayer"
-                ]
-            },
-            {
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
@@ -4170,6 +4247,8 @@
                 "country_code": "ES",
                 "channels": [
                     "DAZN",
+                    "LaLiga TV M2",
+                    "M+ Liga de Campeones 2",
                     "M+ Vamos 2"
                 ]
             },
@@ -4412,13 +4491,6 @@
                 ]
             },
             {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "LaLiga TV"
-                ]
-            },
-            {
                 "country": "Italy",
                 "country_code": "IT",
                 "channels": [
@@ -4596,6 +4668,7 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
+                    "ESPN Deportes",
                     "ESPN Select",
                     "ESPN Unlimited",
                     "Fubo Sports"
@@ -6993,10 +7066,52 @@
         "venue": "BBBank Wildpark",
         "tv_channels": [
             {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "DAZN Canada"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "DAZN (FI)"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "DAZN.com (FR)"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "country_code": "IE",
                 "channels": [
                     "DFB Play"
+                ]
+            },
+            {
+                "country": "Italy",
+                "country_code": "IT",
+                "channels": [
+                    "DAZN Italia"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "DAZN (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "DAZN NO"
                 ]
             },
             {
@@ -7014,6 +7129,20 @@
                 "channels": [
                     "DAZN",
                     "DAZN App Gratis"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "DAZN US"
                 ]
             }
         ]
@@ -8419,7 +8548,8 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
-                    "beIN SPORTS (US)"
+                    "beIN SPORTS (US)",
+                    "beIN SPORTS 3"
                 ]
             },
             {
@@ -8437,24 +8567,6 @@
                 ]
             }
         ]
-    },
-    {
-        "match_id": 5200661,
-        "kickoff": 1791558000,
-        "fixture": "Neftchi Fargona vs Xorazm",
-        "league_id": 540,
-        "league": "Superliga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5200663,
-        "kickoff": 1791558000,
-        "fixture": "Pakhtakor Tashkent vs Bunyodkor Tashkent",
-        "league_id": 540,
-        "league": "Superliga",
-        "venue": "TBA",
-        "tv_channels": []
     },
     {
         "match_id": 5739523,
@@ -8971,6 +9083,24 @@
                 ]
             }
         ]
+    },
+    {
+        "match_id": 1000022052,
+        "kickoff": 1791568800,
+        "fixture": "Libertad vs Leones del Norte",
+        "league_id": 246,
+        "league": "Serie A - Copa Sudamericana Play-off",
+        "venue": "Estadio Federativo Reina del Cisne",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022065,
+        "kickoff": 1791577800,
+        "fixture": "Delfín vs Mushuc Runa",
+        "league_id": 246,
+        "league": "Serie A - Relegation Round",
+        "venue": "Estadio Jocay",
+        "tv_channels": []
     },
     {
         "match_id": 5163784,
