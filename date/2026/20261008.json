@@ -27,6 +27,42 @@
         ]
     },
     {
+        "match_id": 6368802,
+        "kickoff": 1791397800,
+        "fixture": "Cerrito vs Montevideo Wanderers",
+        "league_id": 10342,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "DGO",
+                    "DSports Uruguay + Plus"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6368806,
+        "kickoff": 1791414000,
+        "fixture": "Plaza Colonia vs Juventud de las Piedras",
+        "league_id": 10342,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "DGO",
+                    "DSports Uruguay + Plus"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 6019552,
         "kickoff": 1791468000,
         "fixture": "Pyramids FC vs Olympic El Qanah FC",
@@ -60,7 +96,15 @@
         "league_id": 516,
         "league": "Ligue 1",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "ENTV DZ"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5989832,
@@ -69,7 +113,15 @@
         "league_id": 516,
         "league": "Ligue 1",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "ENTV DZ"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5989833,
@@ -78,7 +130,15 @@
         "league_id": 516,
         "league": "Ligue 1",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "ENTV DZ"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5989831,
@@ -114,7 +174,15 @@
         "league_id": 333,
         "league": "NM Kvinner",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "Direktesport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6303168,
@@ -123,7 +191,15 @@
         "league_id": 333,
         "league": "NM Kvinner",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "Direktesport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5949282,
@@ -227,6 +303,13 @@
         "league": "Primera Federacion - Group 2",
         "venue": "TBA",
         "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN Spain"
+                ]
+            },
             {
                 "country": "Spain",
                 "country_code": "ES",
@@ -340,6 +423,13 @@
                 "country_code": "FI",
                 "channels": [
                     "Ruutu+ Urheilu"
+                ]
+            },
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "OneFootball Deutschland"
                 ]
             },
             {
@@ -542,6 +632,13 @@
                 ]
             },
             {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "OneFootball Deutschland"
+                ]
+            },
+            {
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
@@ -738,6 +835,13 @@
                 "country_code": "FI",
                 "channels": [
                     "Ruutu+ Urheilu"
+                ]
+            },
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "OneFootball Deutschland"
                 ]
             },
             {
@@ -1645,38 +1749,6 @@
         ]
     },
     {
-        "match_id": 1000014127,
-        "kickoff": 1791422400,
-        "fixture": "Atlético Nacional vs Tolima",
-        "league_id": 274,
-        "league": "Primera A",
-        "venue": "Estadio Atanasio Girardot",
-        "tv_channels": [
-            {
-                "country": "Colombia",
-                "country_code": "CO",
-                "channels": [
-                    "Win Fútbol +",
-                    "Win Play"
-                ]
-            },
-            {
-                "country": "Saint Barthélemy",
-                "country_code": "BL",
-                "channels": [
-                    "Sport TV"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "Fanatiz"
-                ]
-            }
-        ]
-    },
-    {
         "match_id": 1000013743,
         "kickoff": 1791406800,
         "fixture": "Leones vs Barranquilla FC",
@@ -2125,6 +2197,13 @@
                 "country_code": "PT",
                 "channels": [
                     "Fanatiz"
+                ]
+            },
+            {
+                "country": "Serbia",
+                "country_code": "RS",
+                "channels": [
+                    "Arena Cloud"
                 ]
             },
             {
@@ -2733,6 +2812,7 @@
                 "country": "Portugal",
                 "country_code": "PT",
                 "channels": [
+                    "Canal 11",
                     "Fanatiz"
                 ]
             },
@@ -2798,6 +2878,14 @@
                 ]
             },
             {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Win Play",
+                    "Win Sports"
+                ]
+            },
+            {
                 "country": "Ecuador",
                 "country_code": "EC",
                 "channels": [
@@ -2810,6 +2898,8 @@
                 "country_code": "PE",
                 "channels": [
                     "Fanatiz",
+                    "L1",
+                    "L1 Max",
                     "L1 Play"
                 ]
             },
@@ -2818,6 +2908,14 @@
                 "country_code": "PT",
                 "channels": [
                     "Fanatiz"
+                ]
+            },
+            {
+                "country": "Russian Federation",
+                "country_code": "RU",
+                "channels": [
+                    "Sportbox.ru",
+                    "matchtv.ru"
                 ]
             },
             {
@@ -2971,15 +3069,6 @@
         ]
     },
     {
-        "match_id": 6368799,
-        "kickoff": 1791489600,
-        "fixture": "Club Atletico Peñarol vs Montevideo City Torque",
-        "league_id": 10342,
-        "league": "Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6019542,
         "kickoff": 1791478800,
         "fixture": "Zamalek SC vs ZED FC",
@@ -3029,15 +3118,7 @@
         "league_id": 524,
         "league": "Stars League",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Montenegro",
-                "country_code": "ME",
-                "channels": [
-                    "Almanasa"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 6028576,
@@ -3063,7 +3144,16 @@
         "league_id": 189,
         "league": "Superliga",
         "venue": "Stadionul Dr. Constantin Rădulescu",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Sportdigital FUSSBALL",
+                    "Sportdigital+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000017250,
