@@ -6,7 +6,15 @@
         "league_id": 9091,
         "league": "Cup",
         "venue": "Estadio Regional Calvo y Bascuñán",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "HBO MAX"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6162937,
@@ -63,26 +71,17 @@
         ]
     },
     {
-        "match_id": 6019552,
-        "kickoff": 1791468000,
-        "fixture": "Pyramids FC vs Olympic El Qanah FC",
+        "match_id": 6019542,
+        "kickoff": 1791392400,
+        "fixture": "Zamalek SC vs ZED FC",
         "league_id": 10270,
-        "league": "League Cup Grp. B",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6019562,
-        "kickoff": 1791468000,
-        "fixture": "Asyut Petroleum vs Al Ahly SC",
-        "league_id": 10270,
-        "league": "League Cup Grp. C",
+        "league": "League Cup Grp. A",
         "venue": "TBA",
         "tv_channels": []
     },
     {
         "match_id": 6019574,
-        "kickoff": 1791468000,
+        "kickoff": 1791392400,
         "fixture": "Ceramica Cleopatra vs Al Masry SC",
         "league_id": 10270,
         "league": "League Cup Grp. D",
@@ -166,6 +165,23 @@
         "league": "Ligue 1",
         "venue": "TBA",
         "tv_channels": []
+    },
+    {
+        "match_id": 6303170,
+        "kickoff": 1791390600,
+        "fixture": "Sandefjord (W) vs Odds Ballklubb (W)",
+        "league_id": 333,
+        "league": "NM Kvinner",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "Direktesport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6303163,
@@ -1677,7 +1693,7 @@
     },
     {
         "match_id": 1000021978,
-        "kickoff": 1791470700,
+        "kickoff": 1791472500,
         "fixture": "Sepahan vs Fajr Sepasi",
         "league_id": 523,
         "league": "Persian Gulf",
@@ -1782,12 +1798,204 @@
         "venue": "Estadio Olímpico Pascual Guerrero",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
                 "country": "Colombia",
                 "country_code": "CO",
                 "channels": [
                     "Win Fútbol +",
                     "Win Play",
                     "Win Sports"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 1000013685,
+        "kickoff": 1791491400,
+        "fixture": "Atlético FC vs Real Cartagena",
+        "league_id": 9125,
+        "league": "Primera B",
+        "venue": "Estadio Olímpico Pascual Guerrero",
+        "tv_channels": [
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Win Fútbol +"
                 ]
             }
         ]
@@ -1801,10 +2009,185 @@
         "venue": "Estadio Francisco Rivera Escobar",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
                 "country": "Colombia",
                 "country_code": "CO",
                 "channels": [
-                    "Canal por confirmar"
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "Win Sports TV YouTube"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "Win Sports TV YouTube"
                 ]
             }
         ]
@@ -2071,6 +2454,7 @@
                 "country": "Brazil",
                 "country_code": "BR",
                 "channels": [
+                    "CazeTV",
                     "CazéTV YouTube",
                     "Premiere",
                     "RecordTV"
@@ -2157,10 +2541,24 @@
                 ]
             },
             {
+                "country": "Mongolia",
+                "country_code": "MN",
+                "channels": [
+                    "Arena Cloud"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
                     "Fanatiz"
+                ]
+            },
+            {
+                "country": "North Macedonia",
+                "country_code": "MK",
+                "channels": [
+                    "Arena Cloud"
                 ]
             },
             {
@@ -2973,7 +3371,8 @@
                 "country": "Brazil",
                 "country_code": "BR",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             }
         ]
@@ -2992,6 +3391,7 @@
                 "channels": [
                     "Disney+ Premium",
                     "SportyNet",
+                    "SportyNet YouTube",
                     "Xsports"
                 ]
             }
@@ -3069,22 +3469,23 @@
         ]
     },
     {
-        "match_id": 6019542,
-        "kickoff": 1791478800,
-        "fixture": "Zamalek SC vs ZED FC",
-        "league_id": 10270,
-        "league": "League Cup Grp. A",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5976914,
         "kickoff": 1791471600,
         "fixture": "ASU Politehnica Timișoara vs Steaua București",
         "league_id": 9113,
         "league": "Liga II",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Online",
+                    "Orange TV Go",
+                    "Prima Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5100976,
