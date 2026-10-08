@@ -6,7 +6,30 @@
         "league_id": 47,
         "league": "Premier League",
         "venue": "St. James' Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports Main Event",
+                    "Sky Sports Main Event UHD",
+                    "Sky Sports Premier League",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports Main Event",
+                    "Sky Sports Main Event UHD",
+                    "Sky Sports Premier League",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5795475,
@@ -810,6 +833,42 @@
         "tv_channels": []
     },
     {
+        "match_id": 6408794,
+        "kickoff": 1792260000,
+        "fixture": "CODM Meknès vs Union Touarga Sport",
+        "league_id": 530,
+        "league": "Botola Pro",
+        "venue": "Meknes Honor Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6408795,
+        "kickoff": 1792267200,
+        "fixture": "Difaâ El Jadida vs MAT Tetouan",
+        "league_id": 530,
+        "league": "Botola Pro",
+        "venue": "Ben M'Hamed El Abdi Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6408796,
+        "kickoff": 1792346400,
+        "fixture": "Widad Temara vs KACM",
+        "league_id": 530,
+        "league": "Botola Pro",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6408797,
+        "kickoff": 1792353600,
+        "fixture": "Wydad Casablanca vs US Amal Tiznit",
+        "league_id": 530,
+        "league": "Botola Pro",
+        "venue": "Stade Mohamed V",
+        "tv_channels": []
+    },
+    {
         "match_id": 5845999,
         "kickoff": 1792249200,
         "fixture": "Austria Lustenau vs LASK",
@@ -887,7 +946,7 @@
         "fixture": "Enugu Rangers vs MC Alger",
         "league_id": 10619,
         "league": "CAF Champions League Qualification",
-        "venue": "TBA",
+        "venue": "MKO Abiola Stadium",
         "tv_channels": []
     },
     {
@@ -896,7 +955,7 @@
         "fixture": "Scottland vs Petro Atlético",
         "league_id": 10619,
         "league": "CAF Champions League Qualification",
-        "venue": "TBA",
+        "venue": "National Sports Stadium",
         "tv_channels": []
     },
     {
@@ -905,7 +964,7 @@
         "fixture": "Sidaama Buna vs Al Hilal Omdurman",
         "league_id": 10619,
         "league": "CAF Champions League Qualification",
-        "venue": "TBA",
+        "venue": "Dire Dawa Stadium",
         "tv_channels": []
     },
     {
@@ -914,7 +973,7 @@
         "fixture": "Wiliete Benguela vs Mamelodi Sundowns FC",
         "league_id": 10619,
         "league": "CAF Champions League Qualification",
-        "venue": "TBA",
+        "venue": "Estádio Nacional da Tundavala",
         "tv_channels": []
     },
     {
@@ -923,7 +982,7 @@
         "fixture": "Horoya AC vs Al-Merreikh",
         "league_id": 10619,
         "league": "CAF Champions League Qualification",
-        "venue": "TBA",
+        "venue": "Stade du 28 Septembre",
         "tv_channels": []
     },
     {
@@ -932,7 +991,7 @@
         "fixture": "Asswehly SC vs Espérance",
         "league_id": 10619,
         "league": "CAF Champions League Qualification",
-        "venue": "TBA",
+        "venue": "Misurata Stadium",
         "tv_channels": []
     },
     {
@@ -941,7 +1000,7 @@
         "fixture": "Teungueth FC vs Colombe",
         "league_id": 10619,
         "league": "CAF Champions League Qualification",
-        "venue": "TBA",
+        "venue": "Stade Léopold Sédar Senghor",
         "tv_channels": []
     },
     {
@@ -2201,7 +2260,7 @@
         "fixture": "Atlético Madrid (W) vs Madrid CFF (W)",
         "league_id": 9907,
         "league": "Liga F",
-        "venue": "Centro Deportivo Wanda Alcalá de Henares",
+        "venue": "Centro Deportivo Wanda",
         "tv_channels": []
     },
     {
@@ -2235,15 +2294,6 @@
         "match_id": 5977384,
         "kickoff": 1792346400,
         "fixture": "Pumas (W) vs Atlas (W)",
-        "league_id": 9906,
-        "league": "Liga MX Femenil Apertura",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5977385,
-        "kickoff": 1792346760,
-        "fixture": "Chivas (W) vs Necaxa (W)",
         "league_id": 9906,
         "league": "Liga MX Femenil Apertura",
         "venue": "TBA",
@@ -3309,7 +3359,33 @@
         "league_id": 64,
         "league": "Premiership",
         "venue": "Dens Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports Football",
+                    "Sky Sports Main Event",
+                    "Sky Sports Main Event UHD",
+                    "Sky Sports Premier League",
+                    "Sky Sports UHD 2",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports Football",
+                    "Sky Sports Main Event",
+                    "Sky Sports Main Event UHD",
+                    "Sky Sports UHD 2",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5793947,
@@ -3623,7 +3699,7 @@
         "fixture": "Acassuso vs Deportivo Madryn",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio La Quema",
         "tv_channels": []
     },
     {
@@ -3632,7 +3708,7 @@
         "fixture": "Agropecuario vs Colegiales",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Ofelia Rosenzuaig",
         "tv_channels": []
     },
     {
@@ -3668,7 +3744,7 @@
         "fixture": "CA San Miguel vs Ciudad de Bolívar",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Malvinas Argentinas",
         "tv_channels": []
     },
     {
@@ -3677,7 +3753,7 @@
         "fixture": "Chacarita Juniors vs Deportivo Maipú",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio de Chacarita Juniors",
         "tv_channels": []
     },
     {
@@ -3686,7 +3762,7 @@
         "fixture": "Colón vs Almirante Brown",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Brigadier General Estanislao López",
         "tv_channels": []
     },
     {
@@ -3776,7 +3852,7 @@
         "fixture": "Tristán Suárez vs Patronato de Parana",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio 20 de Octubre",
         "tv_channels": []
     },
     {
@@ -4059,6 +4135,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5884576,
+        "kickoff": 1792317600,
+        "fixture": "Reus vs Espanyol B",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5921262,
         "kickoff": 1792333800,
         "fixture": "CF Calamocha vs Peña Sport",
@@ -4071,15 +4156,6 @@
         "match_id": 5884572,
         "kickoff": 1792335600,
         "fixture": "Arnedo vs Tudelano",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884576,
-        "kickoff": 1792335600,
-        "fixture": "Reus vs Espanyol B",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 2",
         "venue": "TBA",
@@ -4842,33 +4918,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5200668,
-        "kickoff": 1792249200,
-        "fixture": "Dinamo Samarkand vs Buxoro",
-        "league_id": 540,
-        "league": "Superliga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5200670,
-        "kickoff": 1792249200,
-        "fixture": "Lokomotiv Tashkent vs Nasaf Qarshi",
-        "league_id": 540,
-        "league": "Superliga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5200672,
-        "kickoff": 1792249200,
-        "fixture": "Navbahor Namangan vs Pakhtakor Tashkent",
-        "league_id": 540,
-        "league": "Superliga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5739527,
         "kickoff": 1792324800,
         "fixture": "Lyngby vs Nordsjælland",
@@ -5310,18 +5359,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 5101115,
-        "kickoff": 1792249200,
-        "fixture": "Shelbourne (W) vs Athlone Town (W)",
+        "match_id": 5101116,
+        "kickoff": 1792252800,
+        "fixture": "Peamount United (W) vs Galway United (W)",
         "league_id": 10210,
         "league": "Women's Premier Division",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 5101116,
-        "kickoff": 1792252800,
-        "fixture": "Peamount United (W) vs Galway United (W)",
+        "match_id": 5101115,
+        "kickoff": 1792262100,
+        "fixture": "Shelbourne (W) vs Athlone Town (W)",
         "league_id": 10210,
         "league": "Women's Premier Division",
         "venue": "TBA",
@@ -5342,7 +5391,7 @@
         "fixture": "Crystal Palace (W) vs West Ham United (W)",
         "league_id": 9227,
         "league": "WSL",
-        "venue": "Borough Sports Ground",
+        "venue": "The 360 Engage Stadium",
         "tv_channels": []
     },
     {
@@ -6215,7 +6264,7 @@
         "fixture": "Siwelele vs Polokwane City",
         "league_id": 537,
         "league": "Premier Soccer League",
-        "venue": "Dr. Petrus Molemela Stadium",
+        "venue": "Free State Toyota Stadium",
         "tv_channels": []
     },
     {
