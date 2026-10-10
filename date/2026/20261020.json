@@ -6,7 +6,15 @@
         "league_id": 47,
         "league": "Premier League",
         "venue": "Tottenham Hotspur Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "USA Network"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5868095,
@@ -288,15 +296,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5948140,
-        "kickoff": 1792521900,
-        "fixture": "St Albans vs Enfield Town",
-        "league_id": 8947,
-        "league": "Isthmian Premier Division",
-        "venue": "Clarence Park",
-        "tv_channels": []
-    },
-    {
         "match_id": 5948141,
         "kickoff": 1792521900,
         "fixture": "Three Bridges vs Eastbourne Borough",
@@ -356,6 +355,15 @@
         "fixture": "Maccabi Bnei Raina vs Hapoel Rishon LeZion",
         "league_id": 128,
         "league": "Leumit League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6417178,
+        "kickoff": 1792450800,
+        "fixture": "Nacional vs Deportivo Maldonado",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Clausura",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -1176,6 +1184,33 @@
         "league_id": 11023,
         "league": "FA Cup - 2nd Round",
         "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000019579,
+        "kickoff": 1792447200,
+        "fixture": "Newell's Old Boys vs Central Córdoba de Santiago",
+        "league_id": 112,
+        "league": "Liga Profesional",
+        "venue": "Estadio Marcelo Alberto Bielsa",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000019584,
+        "kickoff": 1792447200,
+        "fixture": "Sarmiento vs Barracas Central",
+        "league_id": 112,
+        "league": "Liga Profesional",
+        "venue": "Estadio Eva Perón de Junín",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000019577,
+        "kickoff": 1792455300,
+        "fixture": "Deportivo Riestra vs Unión",
+        "league_id": 112,
+        "league": "Liga Profesional",
+        "venue": "Estadio Guillermo Laza",
         "tv_channels": []
     },
     {
