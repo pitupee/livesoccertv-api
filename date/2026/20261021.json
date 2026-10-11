@@ -6,7 +6,24 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "TNT Sports 3"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 3"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106422,
@@ -15,7 +32,24 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Bakı Olimpiya Stadionu",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "TNT Sports 2"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106287,
@@ -24,7 +58,16 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Estádio Do Dragão",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 8"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106248,
@@ -33,7 +76,23 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Anfield",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Premier Sports 1 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Prime Video (UK)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106257,
@@ -42,7 +101,26 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Etihad Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "TNT Sports 1",
+                    "TNT Sports Ultimate"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 1",
+                    "TNT Sports Ultimate"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106234,
@@ -51,7 +129,26 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Parc des Princes",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "TNT Sports 2",
+                    "TNT Sports 9"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 2",
+                    "TNT Sports 9"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106277,
@@ -60,7 +157,23 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Stadio Olimpico",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "TNT Sports 7"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 7"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106320,
@@ -69,7 +182,23 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Stadio Diego Armando Maradona",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "TNT Sports 5"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 5"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106397,
@@ -78,7 +207,23 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "MHPArena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "TNT Sports 6"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 6"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106410,
@@ -240,7 +385,15 @@
         "league_id": 123,
         "league": "Championship",
         "venue": "KDM Group East End Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "SPFL Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6356356,
@@ -257,7 +410,7 @@
         "fixture": "Unión La Calera vs Coquimbo Unido",
         "league_id": 9091,
         "league": "Cup",
-        "venue": "TBA",
+        "venue": "Estadio Municipal Nicolás Chahuán Nazar",
         "tv_channels": []
     },
     {
@@ -717,7 +870,24 @@
         "league_id": 108,
         "league": "League One",
         "venue": "The Cherry Red Records Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837220,
@@ -726,7 +896,24 @@
         "league_id": 108,
         "league": "League One",
         "venue": "Bloomfield Road",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837221,
@@ -735,7 +922,24 @@
         "league_id": 108,
         "league": "League One",
         "venue": "Copperjax Community Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837222,
@@ -744,7 +948,24 @@
         "league_id": 108,
         "league": "League One",
         "venue": "Pirelli Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837223,
@@ -753,7 +974,24 @@
         "league_id": 108,
         "league": "League One",
         "venue": "Cledara Abbey Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837224,
@@ -762,7 +1000,24 @@
         "league_id": 108,
         "league": "League One",
         "venue": "Club Doncaster Sports Village",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837225,
@@ -771,7 +1026,24 @@
         "league_id": 108,
         "league": "League One",
         "venue": "Accu Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837226,
@@ -780,7 +1052,24 @@
         "league_id": 108,
         "league": "League One",
         "venue": "Kenilworth Road",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837227,
@@ -789,7 +1078,24 @@
         "league_id": 108,
         "league": "League One",
         "venue": "Meadow Lane",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837228,
@@ -798,7 +1104,24 @@
         "league_id": 108,
         "league": "League One",
         "venue": "The Kassam Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837229,
@@ -807,7 +1130,24 @@
         "league_id": 108,
         "league": "League One",
         "venue": "SPORTA Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837230,
@@ -825,7 +1165,24 @@
         "league_id": 109,
         "league": "League Two",
         "venue": "The Hive Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837992,
@@ -834,7 +1191,24 @@
         "league_id": 109,
         "league": "League Two",
         "venue": "Memorial Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837993,
@@ -843,7 +1217,24 @@
         "league_id": 109,
         "league": "League Two",
         "venue": "EV Charger Points Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837994,
@@ -852,7 +1243,24 @@
         "league_id": 109,
         "league": "League Two",
         "venue": "SMH Group Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837995,
@@ -861,7 +1269,24 @@
         "league_id": 109,
         "league": "League Two",
         "venue": "Broadfield Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837996,
@@ -870,7 +1295,24 @@
         "league_id": 109,
         "league": "League Two",
         "venue": "St James Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837998,
@@ -879,7 +1321,24 @@
         "league_id": 109,
         "league": "League Two",
         "venue": "Sixfields Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837999,
@@ -888,7 +1347,24 @@
         "league_id": 109,
         "league": "League Two",
         "venue": "Crown Oil Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5838000,
@@ -897,7 +1373,24 @@
         "league_id": 109,
         "league": "League Two",
         "venue": "AESSEAL New York Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5838001,
@@ -906,7 +1399,24 @@
         "league_id": 109,
         "league": "League Two",
         "venue": "Pallet-Track Bescot Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5838002,
@@ -915,7 +1425,24 @@
         "league_id": 109,
         "league": "League Two",
         "venue": "LNER Community Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837997,
@@ -924,7 +1451,30 @@
         "league_id": 109,
         "league": "League Two",
         "venue": "Priestfield Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports Football",
+                    "Sky Sports Main Event",
+                    "Sky Sports Main Event UHD",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports Football",
+                    "Sky Sports Main Event",
+                    "Sky Sports Main Event UHD",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5977385,
@@ -951,7 +1501,15 @@
         "league_id": 10705,
         "league": "National League Cup Group A",
         "venue": "Grosvenor Vale",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NL+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6000918,
@@ -960,7 +1518,15 @@
         "league_id": 10705,
         "league": "National League Cup Group C",
         "venue": "Mangata Developments Stadium Meadow Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NL+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5907546,
@@ -1176,7 +1742,15 @@
         "league_id": 129,
         "league": "Premiership",
         "venue": "Inver Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NIFL TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5953481,
@@ -1410,7 +1984,24 @@
         "league_id": 48,
         "league": "Championship",
         "venue": "Molineux Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000021776,
@@ -1500,6 +2091,15 @@
         "league_id": 274,
         "league": "Primera A",
         "venue": "Estadio Metropolitano de Techo",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000014189,
+        "kickoff": 1792539000,
+        "fixture": "Cúcuta vs Atlético Nacional",
+        "league_id": 274,
+        "league": "Primera A",
+        "venue": "Estadio General Santander",
         "tv_channels": []
     },
     {
