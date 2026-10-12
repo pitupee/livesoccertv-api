@@ -69,7 +69,15 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Estadio Bernabéu",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "DAZN US (Español)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106281,
@@ -384,7 +392,22 @@
         "league_id": 8978,
         "league": "League Cup",
         "venue": "Q Radio Arena at Milltown",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NIFL TV (Int)"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NIFL TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837230,
@@ -393,7 +416,19 @@
         "league_id": 108,
         "league": "League One",
         "venue": "Select Car Leasing Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports Football",
+                    "Sky Sports Main Event",
+                    "Sky Sports Main Event UHD",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6303172,
@@ -761,8 +796,23 @@
         "fixture": "Sportivo Trinidense vs Libertad",
         "league_id": 199,
         "league": "Division Profesional",
-        "venue": "TBA",
-        "tv_channels": []
+        "venue": "Estadio Martín Torres",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Fútbol Paraguayo"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Tigo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000022109,

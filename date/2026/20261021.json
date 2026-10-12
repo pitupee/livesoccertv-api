@@ -22,6 +22,13 @@
                     "HBO Max (UK)",
                     "TNT Sports 3"
                 ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
             }
         ]
     },
@@ -48,6 +55,13 @@
                     "HBO Max (UK)",
                     "TNT Sports 2"
                 ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
             }
         ]
     },
@@ -65,6 +79,13 @@
                 "channels": [
                     "HBO Max (UK)",
                     "TNT Sports 8"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
                 ]
             }
         ]
@@ -90,6 +111,13 @@
                 "country_code": "GB",
                 "channels": [
                     "Prime Video (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
                 ]
             }
         ]
@@ -119,6 +147,14 @@
                     "TNT Sports 1",
                     "TNT Sports Ultimate"
                 ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "DAZN US (Español)",
+                    "Paramount+ (US)"
+                ]
             }
         ]
     },
@@ -147,6 +183,13 @@
                     "TNT Sports 2",
                     "TNT Sports 9"
                 ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
             }
         ]
     },
@@ -171,6 +214,13 @@
                 "channels": [
                     "HBO Max (UK)",
                     "TNT Sports 7"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
                 ]
             }
         ]
@@ -197,6 +247,13 @@
                     "HBO Max (UK)",
                     "TNT Sports 5"
                 ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
             }
         ]
     },
@@ -221,6 +278,14 @@
                 "channels": [
                     "HBO Max (UK)",
                     "TNT Sports 6"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "DAZN US (Español)",
+                    "Paramount+ (US)"
                 ]
             }
         ]
@@ -295,7 +360,15 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Estadio Bernabéu",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "DAZN US (Español)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106281,
@@ -861,7 +934,22 @@
         "league_id": 8978,
         "league": "League Cup",
         "venue": "Q Radio Arena at Milltown",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NIFL TV (Int)"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NIFL TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837219,
@@ -1156,7 +1244,19 @@
         "league_id": 108,
         "league": "League One",
         "venue": "Select Car Leasing Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports Football",
+                    "Sky Sports Main Event",
+                    "Sky Sports Main Event UHD",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5837991,
@@ -1744,6 +1844,13 @@
         "venue": "Inver Park",
         "tv_channels": [
             {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NIFL TV (Int)"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -1990,6 +2097,7 @@
                 "country_code": "IE",
                 "channels": [
                     "NOW ROI",
+                    "Sky Sports+ HD",
                     "Sky Sports+ app"
                 ]
             },
@@ -1998,6 +2106,7 @@
                 "country_code": "GB",
                 "channels": [
                     "NOW",
+                    "Sky Sports+ HD",
                     "Sky Sports+ app"
                 ]
             }
@@ -2028,7 +2137,15 @@
         "league_id": 230,
         "league": "Liga MX",
         "venue": "Estadio Akron",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Peacock (Español)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000014607,
@@ -2046,7 +2163,16 @@
         "league_id": 230,
         "league": "Liga MX",
         "venue": "Estadio Olímpico Benito Juárez",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Estrella TV",
+                    "Peacock (Español)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000014609,
@@ -2055,7 +2181,16 @@
         "league_id": 230,
         "league": "Liga MX",
         "venue": "Estadio Universitario",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Estrella TV",
+                    "Peacock (Español)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000016740,
@@ -2136,7 +2271,15 @@
         "league_id": 10721,
         "league": "Saudi First Division",
         "venue": "Al-Jouf University Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Thmanyah"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000018482,
@@ -2145,7 +2288,15 @@
         "league_id": 10721,
         "league": "Saudi First Division",
         "venue": "Prince Hathloul Bin Abdul Aziz Sport City Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Thmanyah"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000018483,
