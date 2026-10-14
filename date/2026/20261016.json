@@ -168,7 +168,6 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Indonesia"
                 ]
             },
@@ -200,7 +199,6 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -282,7 +280,6 @@
                 "country": "Philippines",
                 "country_code": "PH",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Philippines"
                 ]
             },
@@ -391,11 +388,19 @@
         "venue": "Enea Stadion",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport Digitalb"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
                     "Canal+",
-                    "Canal+ Live 6"
+                    "Canal+ Live 6",
+                    "Movistar+"
                 ]
             },
             {
@@ -410,8 +415,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -492,14 +496,14 @@
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
                 "country": "Croatia",
                 "country_code": "HR",
                 "channels": [
-                    "Arena Sport 9 Croatia",
+                    "Arena Sport",
                     "MAXtv To Go"
                 ]
             },
@@ -518,7 +522,7 @@
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -574,21 +578,22 @@
                 "channels": [
                     "Cosmote Sport 6",
                     "Magenta TV",
-                    "MagentaSport 6"
+                    "MagentaSport 6",
+                    "MagentaTV"
                 ]
             },
             {
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -611,7 +616,6 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Indonesia"
                 ]
             },
@@ -665,7 +669,6 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -681,7 +684,7 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -719,7 +722,7 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -742,7 +745,7 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -765,7 +768,6 @@
                 "country": "Philippines",
                 "country_code": "PH",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Philippines"
                 ]
             },
@@ -797,14 +799,14 @@
                 "country_code": "RS",
                 "channels": [
                     "Arena Cloud",
-                    "Arena Sport 1"
+                    "Arena Sport 1",
+                    "Arena Sport 1 Serbia"
                 ]
             },
             {
                 "country": "Singapore",
                 "country_code": "SG",
                 "channels": [
-                    "StarHub TV+",
                     "beIN Sports Connect Singapore"
                 ]
             },
@@ -865,7 +867,8 @@
                 "country_code": "GB",
                 "channels": [
                     "HBO Max (UK)",
-                    "TNT Sports 6"
+                    "TNT Sports 6",
+                    "TNT Sports Extra"
                 ]
             },
             {
@@ -907,7 +910,8 @@
                 "country_code": "AL",
                 "channels": [
                     "Super Sport 3 HD",
-                    "SuperSport 3 Digitalb"
+                    "SuperSport 3 Digitalb",
+                    "SuperSport Digitalb"
                 ]
             },
             {
@@ -915,7 +919,8 @@
                 "country_code": "AD",
                 "channels": [
                     "Canal+ Foot",
-                    "Canal+ Live 3"
+                    "Canal+ Live 3",
+                    "Movistar+"
                 ]
             },
             {
@@ -930,8 +935,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -1019,13 +1023,14 @@
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
                 "country": "Croatia",
                 "country_code": "HR",
                 "channels": [
+                    "Arena Sport",
                     "Arena Sport 7",
                     "MAXtv To Go"
                 ]
@@ -1042,10 +1047,17 @@
                 ]
             },
             {
+                "country": "Czechia",
+                "country_code": "CZ",
+                "channels": [
+                    "Sport 1"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -1108,21 +1120,22 @@
                 "country_code": "GR",
                 "channels": [
                     "Magenta TV",
-                    "MagentaSport 8"
+                    "MagentaSport 8",
+                    "MagentaTV"
                 ]
             },
             {
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -1154,7 +1167,6 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Indonesia"
                 ]
             },
@@ -1212,8 +1224,7 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS 1",
-                    "beIN SPORTS CONNECT",
+                    "beIN Sports 1 Malaysia",
                     "beIN Sports Connect Malaysia",
                     "sooka"
                 ]
@@ -1231,7 +1242,7 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -1278,7 +1289,7 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -1303,7 +1314,7 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -1326,7 +1337,6 @@
                 "country": "Philippines",
                 "country_code": "PH",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Philippines"
                 ]
             },
@@ -1363,7 +1373,7 @@
                 "country": "Singapore",
                 "country_code": "SG",
                 "channels": [
-                    "StarHub TV+",
+                    "beIN SPORTS 1",
                     "beIN Sports Connect Singapore"
                 ]
             },
@@ -1473,10 +1483,18 @@
         "venue": "Stadion Z'dežele",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport Digitalb"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "Canal+"
+                    "Canal+",
+                    "Movistar+"
                 ]
             },
             {
@@ -1490,8 +1508,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -1570,7 +1587,14 @@
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Arena Sport"
                 ]
             },
             {
@@ -1585,7 +1609,7 @@
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -1630,21 +1654,22 @@
                 "channels": [
                     "Cosmote Sport 7",
                     "Magenta TV",
-                    "MagentaSport 7"
+                    "MagentaSport 7",
+                    "MagentaTV"
                 ]
             },
             {
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -1667,7 +1692,6 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Indonesia"
                 ]
             },
@@ -1705,7 +1729,6 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -1713,7 +1736,7 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -1743,7 +1766,7 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -1758,7 +1781,7 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -1779,7 +1802,6 @@
                 "country": "Philippines",
                 "country_code": "PH",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Philippines"
                 ]
             },
@@ -1912,14 +1934,16 @@
                 "country_code": "AL",
                 "channels": [
                     "Super Sport 2 HD",
-                    "SuperSport 2 Digitalb"
+                    "SuperSport 2 Digitalb",
+                    "SuperSport Digitalb"
                 ]
             },
             {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "Canal+"
+                    "Canal+",
+                    "Movistar+"
                 ]
             },
             {
@@ -1934,8 +1958,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -2025,13 +2048,15 @@
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports",
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
                 "country": "Croatia",
                 "country_code": "HR",
                 "channels": [
+                    "Arena Sport",
                     "Arena Sport 3 Croatia",
                     "MAXtv To Go"
                 ]
@@ -2050,7 +2075,8 @@
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports",
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -2110,21 +2136,24 @@
                 "country_code": "GR",
                 "channels": [
                     "Magenta TV",
-                    "MagentaSport 9"
+                    "MagentaSport 9",
+                    "MagentaTV"
                 ]
             },
             {
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports",
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports",
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -2156,7 +2185,6 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Indonesia"
                 ]
             },
@@ -2165,6 +2193,13 @@
                 "country_code": "IE",
                 "channels": [
                     "TNT Sports 5"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 2"
                 ]
             },
             {
@@ -2212,7 +2247,6 @@
                 "country_code": "MY",
                 "channels": [
                     "Bein Sports 3",
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Malaysia",
                     "sooka"
                 ]
@@ -2229,7 +2263,8 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports",
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -2274,7 +2309,8 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports",
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -2297,7 +2333,7 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -2320,7 +2356,6 @@
                 "country": "Philippines",
                 "country_code": "PH",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Philippines"
                 ]
             },
@@ -2343,9 +2378,7 @@
                 "country_code": "RO",
                 "channels": [
                     "Digi Sport 3 Romania",
-                    "Orange TV Go",
-                    "Prima Play",
-                    "Prima Sport 2"
+                    "Prima Play"
                 ]
             },
             {
@@ -2367,7 +2400,7 @@
                 "country": "Singapore",
                 "country_code": "SG",
                 "channels": [
-                    "StarHub TV+",
+                    "Bein Sports 3",
                     "beIN Sports Connect Singapore"
                 ]
             },
@@ -2475,10 +2508,18 @@
         "venue": "epet ARENA",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport Digitalb"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "Canal+"
+                    "Canal+",
+                    "Movistar+"
                 ]
             },
             {
@@ -2492,8 +2533,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -2567,9 +2607,17 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Arena Sport"
+                ]
+            },
+            {
                 "country": "Czechia",
                 "country_code": "CZ",
                 "channels": [
+                    "Nova Sport 5",
                     "Oneplay"
                 ]
             },
@@ -2657,7 +2705,6 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Indonesia"
                 ]
             },
@@ -2693,7 +2740,6 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -2701,7 +2747,7 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "Canal por confirmar"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -2767,7 +2813,6 @@
                 "country": "Philippines",
                 "country_code": "PH",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Philippines"
                 ]
             },
@@ -2890,11 +2935,19 @@
         "venue": "Estádio Dr. Magalhães Pessoa",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport Digitalb"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
                     "Canal+",
-                    "Canal+ Live 4"
+                    "Canal+ Live 4",
+                    "Movistar+"
                 ]
             },
             {
@@ -2908,8 +2961,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -2990,6 +3042,13 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Arena Sport"
+                ]
+            },
+            {
                 "country": "Cyprus",
                 "country_code": "CY",
                 "channels": [
@@ -3063,7 +3122,8 @@
                 "country": "Greece",
                 "country_code": "GR",
                 "channels": [
-                    "Magenta TV"
+                    "Magenta TV",
+                    "MagentaTV"
                 ]
             },
             {
@@ -3100,7 +3160,6 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Indonesia"
                 ]
             },
@@ -3155,7 +3214,6 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -3171,7 +3229,7 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "Canal por confirmar"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -3261,7 +3319,6 @@
                 "country": "Philippines",
                 "country_code": "PH",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Philippines"
                 ]
             },
@@ -3372,7 +3429,8 @@
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
-                    "HBO Max (UK)"
+                    "HBO Max (UK)",
+                    "TNT Sports 2"
                 ]
             },
             {
@@ -3419,8 +3477,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -3513,14 +3570,13 @@
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Canal por confirmar"
+                    "FOX+"
                 ]
             },
             {
                 "country": "Croatia",
                 "country_code": "HR",
                 "channels": [
-                    "Arena Sport 8",
                     "MAXtv To Go"
                 ]
             },
@@ -3582,14 +3638,14 @@
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Canal por confirmar"
+                    "FOX+"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Canal por confirmar"
+                    "FOX+"
                 ]
             },
             {
@@ -3612,7 +3668,6 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Indonesia"
                 ]
             },
@@ -3652,7 +3707,6 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -3707,7 +3761,7 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Canal por confirmar"
+                    "FOX+"
                 ]
             },
             {
@@ -3737,7 +3791,7 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Canal por confirmar"
+                    "FOX+"
                 ]
             },
             {
@@ -3760,7 +3814,6 @@
                 "country": "Philippines",
                 "country_code": "PH",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Philippines"
                 ]
             },
@@ -3782,9 +3835,7 @@
                 "country": "Romania",
                 "country_code": "RO",
                 "channels": [
-                    "Digi Online",
                     "Digi Sport 4",
-                    "Orange TV Go",
                     "Prima Play"
                 ]
             },
@@ -3800,7 +3851,8 @@
                 "country_code": "RS",
                 "channels": [
                     "Arena Cloud",
-                    "Arena Sport 6"
+                    "Arena Sport 6",
+                    "Arena Sport 6 Serbia"
                 ]
             },
             {
@@ -3877,7 +3929,8 @@
                 "country_code": "GB",
                 "channels": [
                     "HBO Max (UK)",
-                    "TNT Sports 7"
+                    "TNT Sports 7",
+                    "TNT Sports Extra"
                 ]
             },
             {
@@ -3915,11 +3968,19 @@
         "venue": "Vitality Stadium",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport Digitalb"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
                     "Canal+",
-                    "Canal+ Live 6"
+                    "Canal+ Live 6",
+                    "Movistar+"
                 ]
             },
             {
@@ -3934,8 +3995,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -4025,6 +4085,7 @@
                 "country": "Croatia",
                 "country_code": "HR",
                 "channels": [
+                    "Arena Sport",
                     "Arena Sport 10 Croatia",
                     "MAXtv To Go"
                 ]
@@ -4102,7 +4163,8 @@
                 "country": "Greece",
                 "country_code": "GR",
                 "channels": [
-                    "Magenta TV"
+                    "Magenta TV",
+                    "MagentaTV"
                 ]
             },
             {
@@ -4139,7 +4201,6 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Indonesia"
                 ]
             },
@@ -4196,7 +4257,6 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Malaysia",
                     "sooka"
                 ]
@@ -4299,7 +4359,6 @@
                 "country": "Philippines",
                 "country_code": "PH",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Philippines"
                 ]
             },
@@ -4336,7 +4395,6 @@
                 "country": "Singapore",
                 "country_code": "SG",
                 "channels": [
-                    "StarHub TV+",
                     "beIN Sports Connect Singapore"
                 ]
             },
@@ -4448,14 +4506,16 @@
                 "country_code": "AL",
                 "channels": [
                     "Super Sport 3 HD",
-                    "SuperSport 3 Digitalb"
+                    "SuperSport 3 Digitalb",
+                    "SuperSport Digitalb"
                 ]
             },
             {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "Canal+"
+                    "Canal+",
+                    "Movistar+"
                 ]
             },
             {
@@ -4566,13 +4626,15 @@
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube",
+                    "FOX+"
                 ]
             },
             {
                 "country": "Croatia",
                 "country_code": "HR",
                 "channels": [
+                    "Arena Sport",
                     "Arena Sport 7",
                     "MAXtv To Go"
                 ]
@@ -4581,7 +4643,7 @@
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -4647,21 +4709,24 @@
                 "channels": [
                     "Cosmote Sport 6",
                     "Magenta TV",
-                    "MagentaSport 6"
+                    "MagentaSport 6",
+                    "MagentaTV"
                 ]
             },
             {
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube",
+                    "FOX+"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube",
+                    "FOX+"
                 ]
             },
             {
@@ -4679,12 +4744,19 @@
                 ]
             },
             {
+                "country": "India",
+                "country_code": "IN",
+                "channels": [
+                    "SONY LIV",
+                    "SONY Ten 1"
+                ]
+            },
+            {
                 "country": "Indonesia",
                 "country_code": "ID",
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Indonesia"
                 ]
             },
@@ -4710,7 +4782,8 @@
                 "channels": [
                     "NOW TV (IT)",
                     "Sky Sport 255",
-                    "Sky Sport Calcio"
+                    "Sky Sport Calcio",
+                    "TV8 (IT)"
                 ]
             },
             {
@@ -4748,7 +4821,6 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -4765,7 +4837,7 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -4803,7 +4875,8 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube",
+                    "FOX+"
                 ]
             },
             {
@@ -4834,7 +4907,8 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube",
+                    "FOX+"
                 ]
             },
             {
@@ -4857,7 +4931,6 @@
                 "country": "Philippines",
                 "country_code": "PH",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Philippines"
                 ]
             },
@@ -4880,7 +4953,6 @@
                 "country_code": "RO",
                 "channels": [
                     "Digi Sport 3 Romania",
-                    "Orange TV Go",
                     "Prima Play"
                 ]
             },
@@ -5025,7 +5097,8 @@
                 "country_code": "AL",
                 "channels": [
                     "Super Sport 2 HD",
-                    "SuperSport 2 Digitalb"
+                    "SuperSport 2 Digitalb",
+                    "SuperSport Digitalb"
                 ]
             },
             {
@@ -5033,7 +5106,8 @@
                 "country_code": "AD",
                 "channels": [
                     "CANAL+ Sport",
-                    "Canal+"
+                    "Canal+",
+                    "Movistar+"
                 ]
             },
             {
@@ -5048,8 +5122,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -5145,6 +5218,7 @@
                 "country": "Croatia",
                 "country_code": "HR",
                 "channels": [
+                    "Arena Sport",
                     "Arena Sport 3 Croatia",
                     "MAXtv To Go"
                 ]
@@ -5228,7 +5302,8 @@
                 "channels": [
                     "Cosmote Sport 7",
                     "Magenta TV",
-                    "MagentaSport 7"
+                    "MagentaSport 7",
+                    "MagentaTV"
                 ]
             },
             {
@@ -5261,12 +5336,19 @@
                 ]
             },
             {
+                "country": "India",
+                "country_code": "IN",
+                "channels": [
+                    "SONY LIV",
+                    "SONY Ten 2"
+                ]
+            },
+            {
                 "country": "Indonesia",
                 "country_code": "ID",
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Indonesia"
                 ]
             },
@@ -5275,6 +5357,13 @@
                 "country_code": "IE",
                 "channels": [
                     "TNT Sports 5"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 2"
                 ]
             },
             {
@@ -5323,7 +5412,6 @@
                 "country_code": "MY",
                 "channels": [
                     "Bein Sports 3",
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Malaysia",
                     "sooka"
                 ]
@@ -5434,7 +5522,6 @@
                 "country": "Philippines",
                 "country_code": "PH",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Philippines"
                 ]
             },
@@ -5456,9 +5543,7 @@
                 "country": "Romania",
                 "country_code": "RO",
                 "channels": [
-                    "Digi Online",
                     "Digi Sport 2",
-                    "Orange TV Go",
                     "Prima Play"
                 ]
             },
@@ -5481,7 +5566,7 @@
                 "country": "Singapore",
                 "country_code": "SG",
                 "channels": [
-                    "StarHub TV+",
+                    "Bein Sports 3",
                     "beIN Sports Connect Singapore"
                 ]
             },
@@ -5617,8 +5702,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -5784,7 +5868,6 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Indonesia"
                 ]
             },
@@ -5815,7 +5898,6 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -5823,7 +5905,7 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "Canal por confirmar"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -5905,7 +5987,6 @@
                 "country": "Philippines",
                 "country_code": "PH",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Philippines"
                 ]
             },
@@ -5953,6 +6034,13 @@
                 ]
             },
             {
+                "country": "Slovenia",
+                "country_code": "SI",
+                "channels": [
+                    "SportKlub 1 Slovenia"
+                ]
+            },
+            {
                 "country": "Spain",
                 "country_code": "ES",
                 "channels": [
@@ -5986,6 +6074,7 @@
                 "country": "Ukraine",
                 "country_code": "UA",
                 "channels": [
+                    "MEGOGO Football 8",
                     "Megogo"
                 ]
             },
@@ -6029,11 +6118,19 @@
         "venue": "Groupama Aréna",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport Digitalb"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
                     "Canal+",
-                    "Canal+ Live 7"
+                    "Canal+ Live 7",
+                    "Movistar+"
                 ]
             },
             {
@@ -6047,8 +6144,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -6118,14 +6214,28 @@
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Arena Sport"
+                ]
+            },
+            {
+                "country": "Czechia",
+                "country_code": "CZ",
+                "channels": [
+                    "Sport 1"
                 ]
             },
             {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -6168,21 +6278,22 @@
                 "country": "Greece",
                 "country_code": "GR",
                 "channels": [
-                    "Magenta TV"
+                    "Magenta TV",
+                    "MagentaTV"
                 ]
             },
             {
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -6190,6 +6301,13 @@
                 "country_code": "HK",
                 "channels": [
                     "beIN Sports Connect Hong Kong"
+                ]
+            },
+            {
+                "country": "Hungary",
+                "country_code": "HU",
+                "channels": [
+                    "M4 Sport"
                 ]
             },
             {
@@ -6205,7 +6323,6 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Indonesia"
                 ]
             },
@@ -6220,14 +6337,16 @@
                 "country": "Laos",
                 "country_code": "LA",
                 "channels": [
-                    "Go3 Extra Sports Estonia"
+                    "Go3 Extra Sports Estonia",
+                    "Go3 Extra Sports Latvia"
                 ]
             },
             {
                 "country": "Liechtenstein",
                 "country_code": "LI",
                 "channels": [
-                    "Go3 Extra Sports Estonia"
+                    "Go3 Extra Sports Estonia",
+                    "Go3 Extra Sports Lithuania"
                 ]
             },
             {
@@ -6241,7 +6360,6 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -6249,7 +6367,7 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -6264,14 +6382,16 @@
                 "country": "Montenegro",
                 "country_code": "ME",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN SPORTS XTRA 8"
                 ]
             },
             {
                 "country": "Morocco",
                 "country_code": "MA",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN SPORTS XTRA 8"
                 ]
             },
             {
@@ -6285,7 +6405,7 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -6308,7 +6428,7 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -6329,7 +6449,6 @@
                 "country": "Philippines",
                 "country_code": "PH",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Philippines"
                 ]
             },
@@ -6463,10 +6582,18 @@
         "venue": "SNP Arena",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport Digitalb"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "Canal+"
+                    "Canal+",
+                    "Movistar+"
                 ]
             },
             {
@@ -6480,8 +6607,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -6569,13 +6695,15 @@
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube",
+                    "FOX"
                 ]
             },
             {
                 "country": "Croatia",
                 "country_code": "HR",
                 "channels": [
+                    "Arena Sport",
                     "Arena Sport 8",
                     "MAXtv To Go"
                 ]
@@ -6584,7 +6712,7 @@
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -6631,7 +6759,6 @@
                     "RTL",
                     "RTL+",
                     "Sky Sport 1",
-                    "Sky Top Event",
                     "WOW"
                 ]
             },
@@ -6640,21 +6767,24 @@
                 "country_code": "GR",
                 "channels": [
                     "Magenta TV",
-                    "MagentaSport 8"
+                    "MagentaSport 8",
+                    "MagentaTV"
                 ]
             },
             {
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube",
+                    "FOX"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube",
+                    "FOX"
                 ]
             },
             {
@@ -6677,7 +6807,6 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Indonesia"
                 ]
             },
@@ -6731,7 +6860,6 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -6747,7 +6875,7 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -6785,7 +6913,8 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube",
+                    "FOX"
                 ]
             },
             {
@@ -6808,7 +6937,8 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube",
+                    "FOX"
                 ]
             },
             {
@@ -6829,7 +6959,6 @@
                 "country": "Philippines",
                 "country_code": "PH",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Philippines"
                 ]
             },
@@ -6929,7 +7058,8 @@
                 "country_code": "GB",
                 "channels": [
                     "HBO Max (UK)",
-                    "TNT Sports 7"
+                    "TNT Sports 7",
+                    "TNT Sports Extra"
                 ]
             },
             {
@@ -6976,8 +7106,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -7120,7 +7249,6 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Indonesia"
                 ]
             },
@@ -7152,7 +7280,6 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -7160,21 +7287,23 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "Canal por confirmar"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Montenegro",
                 "country_code": "ME",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN SPORTS XTRA 6"
                 ]
             },
             {
                 "country": "Morocco",
                 "country_code": "MA",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN SPORTS XTRA 6"
                 ]
             },
             {
@@ -7217,7 +7346,6 @@
                 "country": "Philippines",
                 "country_code": "PH",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Philippines"
                 ]
             },
@@ -7338,14 +7466,16 @@
                 "country_code": "AL",
                 "channels": [
                     "Super Sport 4 HD",
-                    "SuperSport 4 Digitalb"
+                    "SuperSport 4 Digitalb",
+                    "SuperSport Digitalb"
                 ]
             },
             {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "Canal+"
+                    "Canal+",
+                    "Movistar+"
                 ]
             },
             {
@@ -7360,8 +7490,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -7454,13 +7583,15 @@
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports",
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
                 "country": "Croatia",
                 "country_code": "HR",
                 "channels": [
+                    "Arena Sport",
                     "Arena Sport 9 Croatia",
                     "MAXtv To Go"
                 ]
@@ -7480,7 +7611,8 @@
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports",
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -7544,21 +7676,24 @@
                     "Cosmote Sport 4",
                     "Magenta Sport 4K",
                     "Magenta TV",
-                    "MagentaSport 4"
+                    "MagentaSport 4",
+                    "MagentaTV"
                 ]
             },
             {
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports",
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports",
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -7576,12 +7711,19 @@
                 ]
             },
             {
+                "country": "India",
+                "country_code": "IN",
+                "channels": [
+                    "SONY LIV",
+                    "SONY Ten 3"
+                ]
+            },
+            {
                 "country": "Indonesia",
                 "country_code": "ID",
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Indonesia"
                 ]
             },
@@ -7627,7 +7769,6 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -7635,7 +7776,8 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports",
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -7673,7 +7815,8 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports",
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -7704,7 +7847,7 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports Premium YouTube"
                 ]
             },
             {
@@ -7727,7 +7870,6 @@
                 "country": "Philippines",
                 "country_code": "PH",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Philippines"
                 ]
             },
@@ -7749,8 +7891,6 @@
                 "country": "Romania",
                 "country_code": "RO",
                 "channels": [
-                    "Digi Online",
-                    "Orange TV Go",
                     "Prima Play"
                 ]
             },
@@ -7851,7 +7991,8 @@
                 "country_code": "GB",
                 "channels": [
                     "HBO Max (UK)",
-                    "TNT Sports 6"
+                    "TNT Sports 6",
+                    "TNT Sports Extra"
                 ]
             },
             {
@@ -7906,8 +8047,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -8059,7 +8199,6 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Indonesia"
                 ]
             },
@@ -8090,7 +8229,6 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -8098,21 +8236,23 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "Canal por confirmar"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Montenegro",
                 "country_code": "ME",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN SPORTS XTRA 7"
                 ]
             },
             {
                 "country": "Morocco",
                 "country_code": "MA",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN SPORTS XTRA 7"
                 ]
             },
             {
@@ -8169,7 +8309,6 @@
                 "country": "Philippines",
                 "country_code": "PH",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Philippines"
                 ]
             },
@@ -8278,11 +8417,19 @@
         "venue": "Roazhon Park",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport Digitalb"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
                     "Canal+ Foot",
-                    "Canal+ Live 3"
+                    "Canal+ Live 3",
+                    "Movistar+"
                 ]
             },
             {
@@ -8366,7 +8513,14 @@
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports YouTube"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Arena Sport"
                 ]
             },
             {
@@ -8384,7 +8538,7 @@
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports YouTube"
                 ]
             },
             {
@@ -8429,21 +8583,22 @@
                 "channels": [
                     "Cosmote Sport 5",
                     "Magenta TV",
-                    "MagentaSport 5"
+                    "MagentaSport 5",
+                    "MagentaTV"
                 ]
             },
             {
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports YouTube"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports YouTube"
                 ]
             },
             {
@@ -8466,7 +8621,6 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Indonesia"
                 ]
             },
@@ -8511,7 +8665,6 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -8519,21 +8672,23 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports YouTube"
                 ]
             },
             {
                 "country": "Montenegro",
                 "country_code": "ME",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN SPORTS XTRA 5"
                 ]
             },
             {
                 "country": "Morocco",
                 "country_code": "MA",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN SPORTS XTRA 5"
                 ]
             },
             {
@@ -8547,7 +8702,7 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports YouTube"
                 ]
             },
             {
@@ -8562,7 +8717,7 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Canal por confirmar"
+                    "Claro Sports YouTube"
                 ]
             },
             {
@@ -8583,7 +8738,6 @@
                 "country": "Philippines",
                 "country_code": "PH",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Philippines"
                 ]
             },
@@ -8671,7 +8825,8 @@
                 "country_code": "GB",
                 "channels": [
                     "HBO Max (UK)",
-                    "TNT Sports 8"
+                    "TNT Sports 8",
+                    "TNT Sports Extra"
                 ]
             },
             {
@@ -8707,11 +8862,19 @@
         "venue": "Stadion Vasil Levski",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport Digitalb"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
                     "CANAL+ Sport",
-                    "Canal+"
+                    "Canal+",
+                    "Movistar+"
                 ]
             },
             {
@@ -8725,8 +8888,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -8810,6 +8972,13 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Arena Sport"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
@@ -8849,6 +9018,7 @@
                 "country": "Georgia",
                 "country_code": "GE",
                 "channels": [
+                    "Setanta Sports Georgia",
                     "Silk TV"
                 ]
             },
@@ -8867,6 +9037,13 @@
                 ]
             },
             {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "beIN Sports Connect Hong Kong"
+                ]
+            },
+            {
                 "country": "Iceland",
                 "country_code": "IS",
                 "channels": [
@@ -8879,7 +9056,8 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Indonesia"
                 ]
             },
             {
@@ -8887,6 +9065,13 @@
                 "country_code": "IE",
                 "channels": [
                     "TNT Sports 10"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 1"
                 ]
             },
             {
@@ -8901,6 +9086,14 @@
                 "country": "Laos",
                 "country_code": "LA",
                 "channels": [
+                    "Go3 Extra Sports Estonia",
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
+                "channels": [
                     "Go3 Extra Sports Estonia"
                 ]
             },
@@ -8908,7 +9101,8 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Malaysia"
                 ]
             },
             {
@@ -8938,6 +9132,7 @@
                 "country": "Montenegro",
                 "country_code": "ME",
                 "channels": [
+                    "beIN SPORTS CONNECT",
                     "beIN Sports 5"
                 ]
             },
@@ -8945,6 +9140,7 @@
                 "country": "Morocco",
                 "country_code": "MA",
                 "channels": [
+                    "beIN SPORTS CONNECT",
                     "beIN Sports 5"
                 ]
             },
@@ -8974,6 +9170,7 @@
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
+                    "TV 2 Play (NO)",
                     "Viaplay NO"
                 ]
             },
@@ -9013,11 +9210,25 @@
                 ]
             },
             {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Sport"
+                ]
+            },
+            {
                 "country": "Serbia",
                 "country_code": "RS",
                 "channels": [
                     "Arena Cloud",
                     "Arena Sport 8"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "beIN Sports Connect Singapore"
                 ]
             },
             {
@@ -9058,9 +9269,17 @@
                 ]
             },
             {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "beIN SPORTS CONNECT"
+                ]
+            },
+            {
                 "country": "Ukraine",
                 "country_code": "UA",
                 "channels": [
+                    "MEGOGO Football 8",
                     "Megogo"
                 ]
             },
@@ -9069,7 +9288,8 @@
                 "country_code": "GB",
                 "channels": [
                     "HBO Max (UK)",
-                    "TNT Sports 10"
+                    "TNT Sports 10",
+                    "TNT Sports Extra"
                 ]
             },
             {
@@ -9108,15 +9328,18 @@
                 "country": "Albania",
                 "country_code": "AL",
                 "channels": [
+                    "RTSH 1",
                     "Super Sport 1 HD",
-                    "SuperSport 1 Digitalb"
+                    "SuperSport 1 Digitalb",
+                    "SuperSport Digitalb"
                 ]
             },
             {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "Canal+"
+                    "Canal+",
+                    "Movistar+"
                 ]
             },
             {
@@ -9130,8 +9353,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -9191,6 +9413,13 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Arena Sport"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
@@ -9230,6 +9459,7 @@
                 "country": "Georgia",
                 "country_code": "GE",
                 "channels": [
+                    "Setanta Sports Georgia",
                     "Silk TV"
                 ]
             },
@@ -9245,6 +9475,13 @@
                 "country_code": "HN",
                 "channels": [
                     "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "beIN Sports Connect Hong Kong"
                 ]
             },
             {
@@ -9264,6 +9501,13 @@
                 ]
             },
             {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 1"
+                ]
+            },
+            {
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
@@ -9273,6 +9517,13 @@
             {
                 "country": "Laos",
                 "country_code": "LA",
+                "channels": [
+                    "Go3 Extra Sports Estonia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
                 "channels": [
                     "Go3 Extra Sports Estonia"
                 ]
@@ -9292,6 +9543,20 @@
                 ]
             },
             {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "beIN SPORTS XTRA 7"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "beIN SPORTS XTRA 7"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
@@ -9302,6 +9567,7 @@
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
+                    "TV 2 Play (NO)",
                     "Viaplay NO"
                 ]
             },
@@ -9341,6 +9607,20 @@
                 ]
             },
             {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Sport"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "beIN Sports Connect Singapore"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "country_code": "SK",
                 "channels": [
@@ -9373,6 +9653,13 @@
                 "country_code": "CH",
                 "channels": [
                     "Noch zu bestätigen"
+                ]
+            },
+            {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
@@ -9432,8 +9719,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -9575,6 +9861,13 @@
                 ]
             },
             {
+                "country": "Liechtenstein",
+                "country_code": "LI",
+                "channels": [
+                    "Go3 Extra Sports Estonia"
+                ]
+            },
+            {
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
@@ -9589,6 +9882,20 @@
                 ]
             },
             {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "beIN SPORTS XTRA 8"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "beIN SPORTS XTRA 8"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
@@ -9599,6 +9906,7 @@
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
+                    "TV 2 Play (NO)",
                     "Viaplay NO"
                 ]
             },
@@ -9706,10 +10014,18 @@
         "venue": "Stadion Poljud",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport Digitalb"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "Canal+"
+                    "Canal+",
+                    "Movistar+"
                 ]
             },
             {
@@ -9723,8 +10039,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -9806,7 +10121,9 @@
                 "country": "Croatia",
                 "country_code": "HR",
                 "channels": [
+                    "Arena Sport",
                     "Arena Sport 1",
+                    "MAX To Go",
                     "MAXtv To Go"
                 ]
             },
@@ -9850,6 +10167,7 @@
                 "country": "Georgia",
                 "country_code": "GE",
                 "channels": [
+                    "Setanta Sports Georgia",
                     "Silk TV"
                 ]
             },
@@ -9875,6 +10193,13 @@
                 ]
             },
             {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "beIN Sports Connect Hong Kong"
+                ]
+            },
+            {
                 "country": "Iceland",
                 "country_code": "IS",
                 "channels": [
@@ -9887,7 +10212,8 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Indonesia"
                 ]
             },
             {
@@ -9895,6 +10221,13 @@
                 "country_code": "IE",
                 "channels": [
                     "TNT Sports 9"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 1"
                 ]
             },
             {
@@ -9908,6 +10241,14 @@
                 "country": "Laos",
                 "country_code": "LA",
                 "channels": [
+                    "Go3 Extra Sports Estonia",
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
+                "channels": [
                     "Go3 Extra Sports Estonia"
                 ]
             },
@@ -9915,7 +10256,8 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Malaysia"
                 ]
             },
             {
@@ -9988,6 +10330,7 @@
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
+                    "TV 2 Play (NO)",
                     "Viaplay NO"
                 ]
             },
@@ -10027,6 +10370,13 @@
                 ]
             },
             {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Sport"
+                ]
+            },
+            {
                 "country": "Serbia",
                 "country_code": "RS",
                 "channels": [
@@ -10035,10 +10385,24 @@
                 ]
             },
             {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "beIN Sports Connect Singapore"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "country_code": "SK",
                 "channels": [
                     "Kanál bude upresnený"
+                ]
+            },
+            {
+                "country": "Slovenia",
+                "country_code": "SI",
+                "channels": [
+                    "SportKlub 1 Slovenia"
                 ]
             },
             {
@@ -10072,6 +10436,13 @@
                 ]
             },
             {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "beIN SPORTS CONNECT"
+                ]
+            },
+            {
                 "country": "Ukraine",
                 "country_code": "UA",
                 "channels": [
@@ -10084,7 +10455,8 @@
                 "country_code": "GB",
                 "channels": [
                     "HBO Max (UK)",
-                    "TNT Sports 9"
+                    "TNT Sports 9",
+                    "TNT Sports Extra"
                 ]
             },
             {
@@ -10120,10 +10492,18 @@
         "venue": "Tammelan stadion",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport Digitalb"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "Canal+"
+                    "Canal+",
+                    "Movistar+"
                 ]
             },
             {
@@ -10211,6 +10591,13 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Arena Sport"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
@@ -10251,6 +10638,7 @@
                 "country": "Georgia",
                 "country_code": "GE",
                 "channels": [
+                    "Setanta Sports Georgia",
                     "Silk TV"
                 ]
             },
@@ -10269,6 +10657,13 @@
                 ]
             },
             {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "beIN Sports Connect Hong Kong"
+                ]
+            },
+            {
                 "country": "Iceland",
                 "country_code": "IS",
                 "channels": [
@@ -10281,7 +10676,15 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Indonesia"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 1"
                 ]
             },
             {
@@ -10295,6 +10698,14 @@
                 "country": "Laos",
                 "country_code": "LA",
                 "channels": [
+                    "Go3 Extra Sports Estonia",
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
+                "channels": [
                     "Go3 Extra Sports Estonia"
                 ]
             },
@@ -10302,7 +10713,8 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Malaysia"
                 ]
             },
             {
@@ -10344,6 +10756,7 @@
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
+                    "TV 2 Play (NO)",
                     "Viaplay NO"
                 ]
             },
@@ -10383,6 +10796,20 @@
                 ]
             },
             {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Sport"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "beIN Sports Connect Singapore"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "country_code": "SK",
                 "channels": [
@@ -10415,6 +10842,13 @@
                 "country_code": "CH",
                 "channels": [
                     "Noch zu bestätigen"
+                ]
+            },
+            {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
@@ -10464,10 +10898,18 @@
         "venue": "AIL Arena",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport Digitalb"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "Canal+"
+                    "Canal+",
+                    "Movistar+"
                 ]
             },
             {
@@ -10481,8 +10923,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -10557,6 +10998,7 @@
                 "country": "Croatia",
                 "country_code": "HR",
                 "channels": [
+                    "Arena Sport",
                     "Arena Sport 5 Croatia",
                     "MAXtv To Go"
                 ]
@@ -10601,6 +11043,7 @@
                 "country": "Georgia",
                 "country_code": "GE",
                 "channels": [
+                    "Setanta Sports Georgia",
                     "Silk TV"
                 ]
             },
@@ -10619,12 +11062,27 @@
                 ]
             },
             {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "beIN Sports Connect Hong Kong"
+                ]
+            },
+            {
                 "country": "Indonesia",
                 "country_code": "ID",
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Indonesia"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 1"
                 ]
             },
             {
@@ -10639,6 +11097,14 @@
                 "country": "Laos",
                 "country_code": "LA",
                 "channels": [
+                    "Go3 Extra Sports Estonia",
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
+                "channels": [
                     "Go3 Extra Sports Estonia"
                 ]
             },
@@ -10646,7 +11112,8 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Malaysia"
                 ]
             },
             {
@@ -10670,6 +11137,20 @@
                 "channels": [
                     "ARENA SPORT PREMIUM 1",
                     "Arena Cloud"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "beIN SPORTS XTRA 9"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "beIN SPORTS XTRA 9"
                 ]
             },
             {
@@ -10730,11 +11211,25 @@
                 ]
             },
             {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Sport"
+                ]
+            },
+            {
                 "country": "Serbia",
                 "country_code": "RS",
                 "channels": [
                     "ARENA SPORT PREMIUM 1",
                     "Arena Cloud"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "beIN Sports Connect Singapore"
                 ]
             },
             {
@@ -10784,6 +11279,13 @@
                 ]
             },
             {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "beIN SPORTS CONNECT"
+                ]
+            },
+            {
                 "country": "Ukraine",
                 "country_code": "UA",
                 "channels": [
@@ -10830,10 +11332,18 @@
         "venue": "Olympia",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport Digitalb"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "Canal+"
+                    "Canal+",
+                    "Movistar+"
                 ]
             },
             {
@@ -10907,6 +11417,13 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Arena Sport"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
@@ -10946,6 +11463,7 @@
                 "country": "Georgia",
                 "country_code": "GE",
                 "channels": [
+                    "Setanta Sports Georgia",
                     "Silk TV"
                 ]
             },
@@ -10964,6 +11482,13 @@
                 ]
             },
             {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "beIN Sports Connect Hong Kong"
+                ]
+            },
+            {
                 "country": "Iceland",
                 "country_code": "IS",
                 "channels": [
@@ -10976,7 +11501,15 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Indonesia"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 1"
                 ]
             },
             {
@@ -10990,6 +11523,14 @@
                 "country": "Laos",
                 "country_code": "LA",
                 "channels": [
+                    "Go3 Extra Sports Estonia",
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
+                "channels": [
                     "Go3 Extra Sports Estonia"
                 ]
             },
@@ -10997,7 +11538,8 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Malaysia"
                 ]
             },
             {
@@ -11005,6 +11547,20 @@
                 "country_code": "MX",
                 "channels": [
                     "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "beIN SPORTS XTRA 6"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "beIN SPORTS XTRA 6"
                 ]
             },
             {
@@ -11018,6 +11574,7 @@
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
+                    "TV 2 Play (NO)",
                     "Viaplay NO"
                 ]
             },
@@ -11057,6 +11614,20 @@
                 ]
             },
             {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Sport"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "beIN Sports Connect Singapore"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "country_code": "SK",
                 "channels": [
@@ -11090,6 +11661,13 @@
                 "country_code": "CH",
                 "channels": [
                     "Noch zu bestätigen"
+                ]
+            },
+            {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
@@ -11156,8 +11734,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -11229,7 +11806,6 @@
                 "country": "Croatia",
                 "country_code": "HR",
                 "channels": [
-                    "Arena Sport 10 Croatia",
                     "MAXtv To Go"
                 ]
             },
@@ -11314,7 +11890,8 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Indonesia"
                 ]
             },
             {
@@ -11328,6 +11905,14 @@
                 "country": "Laos",
                 "country_code": "LA",
                 "channels": [
+                    "Go3 Extra Sports Estonia",
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
+                "channels": [
                     "Go3 Extra Sports Estonia"
                 ]
             },
@@ -11335,7 +11920,8 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Malaysia"
                 ]
             },
             {
@@ -11351,6 +11937,20 @@
                 "channels": [
                     "Arena Cloud",
                     "Arena Premium 5"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "beIN SPORTS XTRA 5"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "beIN SPORTS XTRA 5"
                 ]
             },
             {
@@ -11372,6 +11972,7 @@
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
+                    "TV 2 Play (NO)",
                     "Viaplay NO"
                 ]
             },
@@ -11494,10 +12095,18 @@
         "venue": "Stadions Skonto",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport Digitalb"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "Canal+"
+                    "Canal+",
+                    "Movistar+"
                 ]
             },
             {
@@ -11511,8 +12120,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -11572,6 +12180,13 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Arena Sport"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
@@ -11611,6 +12226,7 @@
                 "country": "Georgia",
                 "country_code": "GE",
                 "channels": [
+                    "Setanta Sports Georgia",
                     "Silk TV"
                 ]
             },
@@ -11629,6 +12245,13 @@
                 ]
             },
             {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "beIN Sports Connect Hong Kong"
+                ]
+            },
+            {
                 "country": "Iceland",
                 "country_code": "IS",
                 "channels": [
@@ -11641,7 +12264,15 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Indonesia"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 1"
                 ]
             },
             {
@@ -11663,6 +12294,7 @@
                 "country": "Liechtenstein",
                 "country_code": "LI",
                 "channels": [
+                    "Go3 Extra Sports Estonia",
                     "Go3 Extra Sports Lithuania"
                 ]
             },
@@ -11670,7 +12302,8 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Malaysia"
                 ]
             },
             {
@@ -11678,6 +12311,20 @@
                 "country_code": "MX",
                 "channels": [
                     "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "beIN SPORTS XTRA 4"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "beIN SPORTS XTRA 4"
                 ]
             },
             {
@@ -11691,6 +12338,7 @@
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
+                    "TV 2 Play (NO)",
                     "Viaplay NO"
                 ]
             },
@@ -11730,6 +12378,20 @@
                 ]
             },
             {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Sport"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "beIN Sports Connect Singapore"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "country_code": "SK",
                 "channels": [
@@ -11762,6 +12424,13 @@
                 "country_code": "CH",
                 "channels": [
                     "Noch zu bestätigen"
+                ]
+            },
+            {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
@@ -11877,7 +12546,7 @@
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Canal por confirmar"
+                    "FOX"
                 ]
             },
             {
@@ -11920,14 +12589,14 @@
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Canal por confirmar"
+                    "FOX"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Canal por confirmar"
+                    "FOX"
                 ]
             },
             {
@@ -11963,6 +12632,13 @@
             {
                 "country": "Laos",
                 "country_code": "LA",
+                "channels": [
+                    "Go3 Extra Sports Estonia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
                 "channels": [
                     "Go3 Extra Sports Estonia"
                 ]
@@ -12007,13 +12683,14 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Canal por confirmar"
+                    "FOX"
                 ]
             },
             {
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
+                    "TV 2 Play (NO)",
                     "Viaplay NO"
                 ]
             },
@@ -12021,7 +12698,7 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Canal por confirmar"
+                    "FOX"
                 ]
             },
             {
@@ -12093,7 +12770,8 @@
                 "country_code": "GB",
                 "channels": [
                     "HBO Max (UK)",
-                    "TNT Sports 8"
+                    "TNT Sports 8",
+                    "TNT Sports Extra"
                 ]
             },
             {
@@ -12129,10 +12807,18 @@
         "venue": "New Balance Arena",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport Digitalb"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "Canal+"
+                    "Canal+",
+                    "Movistar+"
                 ]
             },
             {
@@ -12222,6 +12908,13 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Arena Sport"
+                ]
+            },
+            {
                 "country": "Cyprus",
                 "country_code": "CY",
                 "channels": [
@@ -12272,6 +12965,7 @@
                 "country": "Georgia",
                 "country_code": "GE",
                 "channels": [
+                    "Setanta Sports Georgia",
                     "Silk TV"
                 ]
             },
@@ -12297,6 +12991,13 @@
                 ]
             },
             {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "beIN Sports Connect Hong Kong"
+                ]
+            },
+            {
                 "country": "Iceland",
                 "country_code": "IS",
                 "channels": [
@@ -12309,7 +13010,8 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Indonesia"
                 ]
             },
             {
@@ -12317,6 +13019,13 @@
                 "country_code": "IE",
                 "channels": [
                     "TNT Sports 9"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 1"
                 ]
             },
             {
@@ -12340,6 +13049,14 @@
                 "country": "Laos",
                 "country_code": "LA",
                 "channels": [
+                    "Go3 Extra Sports Estonia",
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
+                "channels": [
                     "Go3 Extra Sports Estonia"
                 ]
             },
@@ -12347,7 +13064,8 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Malaysia"
                 ]
             },
             {
@@ -12397,6 +13115,7 @@
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
+                    "TV 2 Play (NO)",
                     "Viaplay NO"
                 ]
             },
@@ -12433,6 +13152,20 @@
                 "country_code": "PT",
                 "channels": [
                     "Canal a confirmar"
+                ]
+            },
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Sport"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "beIN Sports Connect Singapore"
                 ]
             },
             {
@@ -12473,6 +13206,13 @@
                 ]
             },
             {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "beIN SPORTS CONNECT"
+                ]
+            },
+            {
                 "country": "Ukraine",
                 "country_code": "UA",
                 "channels": [
@@ -12484,7 +13224,8 @@
                 "country_code": "GB",
                 "channels": [
                     "HBO Max (UK)",
-                    "TNT Sports 9"
+                    "TNT Sports 9",
+                    "TNT Sports Extra"
                 ]
             },
             {
@@ -12530,8 +13271,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -12646,7 +13386,8 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Indonesia"
                 ]
             },
             {
@@ -12660,6 +13401,14 @@
                 "country": "Laos",
                 "country_code": "LA",
                 "channels": [
+                    "Go3 Extra Sports Estonia",
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
+                "channels": [
                     "Go3 Extra Sports Estonia"
                 ]
             },
@@ -12667,7 +13416,8 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Malaysia"
                 ]
             },
             {
@@ -12681,6 +13431,7 @@
                 "country": "Montenegro",
                 "country_code": "ME",
                 "channels": [
+                    "beIN SPORTS CONNECT",
                     "beIN Sports English 2"
                 ]
             },
@@ -12688,6 +13439,7 @@
                 "country": "Morocco",
                 "country_code": "MA",
                 "channels": [
+                    "beIN SPORTS CONNECT",
                     "beIN Sports English 2"
                 ]
             },
@@ -12809,10 +13561,18 @@
         "venue": "American Express Stadium",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport Digitalb"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "Canal+"
+                    "Canal+",
+                    "Movistar+"
                 ]
             },
             {
@@ -12872,7 +13632,8 @@
                 "country": "Canada",
                 "country_code": "CA",
                 "channels": [
-                    "DAZN Canada"
+                    "DAZN Canada",
+                    "OneSoccer"
                 ]
             },
             {
@@ -12900,6 +13661,7 @@
                 "country": "Croatia",
                 "country_code": "HR",
                 "channels": [
+                    "Arena Sport",
                     "Arena Sport 5 Croatia"
                 ]
             },
@@ -12921,6 +13683,7 @@
                 "country": "Estonia",
                 "country_code": "EE",
                 "channels": [
+                    "Go3",
                     "Go3 Extra Sports Estonia"
                 ]
             },
@@ -12943,6 +13706,7 @@
                 "country": "Georgia",
                 "country_code": "GE",
                 "channels": [
+                    "Setanta Sports Georgia",
                     "Silk TV"
                 ]
             },
@@ -12975,10 +13739,26 @@
                 ]
             },
             {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "beIN Sports Connect Hong Kong"
+                ]
+            },
+            {
                 "country": "Iceland",
                 "country_code": "IS",
                 "channels": [
                     "Viaplay Iceland"
+                ]
+            },
+            {
+                "country": "India",
+                "country_code": "IN",
+                "channels": [
+                    "SONY LIV",
+                    "SONY Ten 4",
+                    "SONY Ten 5"
                 ]
             },
             {
@@ -12987,7 +13767,8 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Indonesia"
                 ]
             },
             {
@@ -12996,6 +13777,13 @@
                 "channels": [
                     "NOW ROI",
                     "TNT Sports 2"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 1"
                 ]
             },
             {
@@ -13010,13 +13798,17 @@
                 "country": "Laos",
                 "country_code": "LA",
                 "channels": [
-                    "Go3 Extra Sports Estonia"
+                    "Go3",
+                    "Go3 Extra Sports Estonia",
+                    "Go3 Extra Sports Latvia"
                 ]
             },
             {
                 "country": "Liechtenstein",
                 "country_code": "LI",
                 "channels": [
+                    "Go3",
+                    "Go3 Extra Sports Estonia",
                     "Go3 Extra Sports Lithuania"
                 ]
             },
@@ -13024,7 +13816,8 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Malaysia"
                 ]
             },
             {
@@ -13090,6 +13883,7 @@
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
+                    "TV 2 Play (NO)",
                     "V sport 2 NO",
                     "Viaplay NO"
                 ]
@@ -13130,11 +13924,25 @@
                 ]
             },
             {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Sport"
+                ]
+            },
+            {
                 "country": "Serbia",
                 "country_code": "RS",
                 "channels": [
                     "Arena Cloud",
                     "Arena Sport 8"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "beIN Sports Connect Singapore"
                 ]
             },
             {
@@ -13188,6 +13996,13 @@
                 ]
             },
             {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "beIN SPORTS CONNECT"
+                ]
+            },
+            {
                 "country": "Ukraine",
                 "country_code": "UA",
                 "channels": [
@@ -13198,7 +14013,8 @@
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
-                    "HBO Max (UK)"
+                    "HBO Max (UK)",
+                    "TNT Sports 2"
                 ]
             },
             {
@@ -13234,10 +14050,18 @@
         "venue": "Parken",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport Digitalb"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "Canal+"
+                    "Canal+",
+                    "Movistar+"
                 ]
             },
             {
@@ -13327,6 +14151,13 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Arena Sport"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
@@ -13366,6 +14197,7 @@
                 "country": "Georgia",
                 "country_code": "GE",
                 "channels": [
+                    "Setanta Sports Georgia",
                     "Silk TV"
                 ]
             },
@@ -13381,6 +14213,13 @@
                 "country_code": "HN",
                 "channels": [
                     "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "beIN Sports Connect Hong Kong"
                 ]
             },
             {
@@ -13400,6 +14239,13 @@
                 ]
             },
             {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 1"
+                ]
+            },
+            {
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
@@ -13410,6 +14256,13 @@
             {
                 "country": "Laos",
                 "country_code": "LA",
+                "channels": [
+                    "Go3 Extra Sports Estonia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
                 "channels": [
                     "Go3 Extra Sports Estonia"
                 ]
@@ -13483,6 +14336,7 @@
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
+                    "TV 2 Play (NO)",
                     "Viaplay NO"
                 ]
             },
@@ -13522,11 +14376,25 @@
                 ]
             },
             {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Sport"
+                ]
+            },
+            {
                 "country": "Serbia",
                 "country_code": "RS",
                 "channels": [
                     "Arena Cloud",
                     "Arena Premium 5"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "beIN Sports Connect Singapore"
                 ]
             },
             {
@@ -13563,6 +14431,13 @@
                 "country_code": "CH",
                 "channels": [
                     "Noch zu bestätigen"
+                ]
+            },
+            {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
@@ -13612,10 +14487,18 @@
         "venue": "De Grolsch Veste",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport Digitalb"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "Canal+"
+                    "Canal+",
+                    "Movistar+"
                 ]
             },
             {
@@ -13689,6 +14572,13 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Arena Sport"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
@@ -13728,6 +14618,7 @@
                 "country": "Georgia",
                 "country_code": "GE",
                 "channels": [
+                    "Setanta Sports Georgia",
                     "Silk TV"
                 ]
             },
@@ -13746,6 +14637,13 @@
                 ]
             },
             {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "beIN Sports Connect Hong Kong"
+                ]
+            },
+            {
                 "country": "Iceland",
                 "country_code": "IS",
                 "channels": [
@@ -13758,7 +14656,15 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Indonesia"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 1"
                 ]
             },
             {
@@ -13772,6 +14678,14 @@
                 "country": "Laos",
                 "country_code": "LA",
                 "channels": [
+                    "Go3 Extra Sports Estonia",
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
+                "channels": [
                     "Go3 Extra Sports Estonia"
                 ]
             },
@@ -13779,7 +14693,8 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Malaysia"
                 ]
             },
             {
@@ -13787,6 +14702,20 @@
                 "country_code": "MX",
                 "channels": [
                     "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "beIN SPORTS XTRA 4"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "beIN SPORTS XTRA 4"
                 ]
             },
             {
@@ -13808,6 +14737,7 @@
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
+                    "TV 2 Play (NO)",
                     "Viaplay NO"
                 ]
             },
@@ -13847,6 +14777,20 @@
                 ]
             },
             {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Sport"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "beIN Sports Connect Singapore"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "country_code": "SK",
                 "channels": [
@@ -13882,6 +14826,13 @@
                     "Blue Sport 4 Direct F",
                     "Blue Sport 4 Live D",
                     "Blue Sport D 1"
+                ]
+            },
+            {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
@@ -13931,10 +14882,18 @@
         "venue": "Europa-Park Stadion",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport Digitalb"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "Canal+"
+                    "Canal+",
+                    "Movistar+"
                 ]
             },
             {
@@ -13948,8 +14907,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -14015,6 +14973,13 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Arena Sport"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
@@ -14054,6 +15019,7 @@
                 "country": "Georgia",
                 "country_code": "GE",
                 "channels": [
+                    "Setanta Sports Georgia",
                     "Silk TV"
                 ]
             },
@@ -14081,6 +15047,13 @@
                 ]
             },
             {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "beIN Sports Connect Hong Kong"
+                ]
+            },
+            {
                 "country": "Iceland",
                 "country_code": "IS",
                 "channels": [
@@ -14093,7 +15066,8 @@
                 "channels": [
                     "Vidio",
                     "Vidio TV",
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Indonesia"
                 ]
             },
             {
@@ -14101,6 +15075,13 @@
                 "country_code": "IE",
                 "channels": [
                     "TNT Sports 10"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 1"
                 ]
             },
             {
@@ -14116,6 +15097,14 @@
                 "country": "Laos",
                 "country_code": "LA",
                 "channels": [
+                    "Go3 Extra Sports Estonia",
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
+                "channels": [
                     "Go3 Extra Sports Estonia"
                 ]
             },
@@ -14123,7 +15112,8 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports Connect Malaysia"
                 ]
             },
             {
@@ -14145,6 +15135,7 @@
                 "country": "Montenegro",
                 "country_code": "ME",
                 "channels": [
+                    "beIN SPORTS CONNECT",
                     "beIN SPORTS XTRA"
                 ]
             },
@@ -14152,6 +15143,7 @@
                 "country": "Morocco",
                 "country_code": "MA",
                 "channels": [
+                    "beIN SPORTS CONNECT",
                     "beIN SPORTS XTRA"
                 ]
             },
@@ -14166,6 +15158,7 @@
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
+                    "TV 2 Play (NO)",
                     "Viaplay NO"
                 ]
             },
@@ -14202,6 +15195,20 @@
                 "country_code": "PT",
                 "channels": [
                     "Canal a confirmar"
+                ]
+            },
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Sport"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "beIN Sports Connect Singapore"
                 ]
             },
             {
@@ -14242,6 +15249,13 @@
                 ]
             },
             {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "beIN SPORTS CONNECT"
+                ]
+            },
+            {
                 "country": "Ukraine",
                 "country_code": "UA",
                 "channels": [
@@ -14253,7 +15267,8 @@
                 "country_code": "GB",
                 "channels": [
                     "HBO Max (UK)",
-                    "TNT Sports 10"
+                    "TNT Sports 10",
+                    "TNT Sports Extra"
                 ]
             },
             {
@@ -14289,10 +15304,18 @@
         "venue": "Tynecastle Park",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport Digitalb"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "Canal+"
+                    "Canal+",
+                    "Movistar+"
                 ]
             },
             {
@@ -14306,8 +15329,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
-                    "FAST TV",
-                    "FastTV"
+                    "FAST TV"
                 ]
             },
             {
@@ -14367,6 +15389,13 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Arena Sport"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
@@ -14406,6 +15435,7 @@
                 "country": "Georgia",
                 "country_code": "GE",
                 "channels": [
+                    "Setanta Sports Georgia",
                     "Silk TV"
                 ]
             },
@@ -14421,6 +15451,13 @@
                 "country_code": "HN",
                 "channels": [
                     "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "beIN Sports Connect Hong Kong"
                 ]
             },
             {
@@ -14448,6 +15485,13 @@
                 ]
             },
             {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 1"
+                ]
+            },
+            {
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
@@ -14457,6 +15501,13 @@
             {
                 "country": "Laos",
                 "country_code": "LA",
+                "channels": [
+                    "Go3 Extra Sports Estonia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
                 "channels": [
                     "Go3 Extra Sports Estonia"
                 ]
@@ -14484,6 +15535,20 @@
                 ]
             },
             {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "beIN SPORTS XTRA 9"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "beIN SPORTS XTRA 9"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
@@ -14494,6 +15559,7 @@
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
+                    "TV 2 Play (NO)",
                     "V sport 3 NO",
                     "Viaplay NO"
                 ]
@@ -14534,6 +15600,20 @@
                 ]
             },
             {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Sport"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "beIN Sports Connect Singapore"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "country_code": "SK",
                 "channels": [
@@ -14566,6 +15646,13 @@
                 "country_code": "CH",
                 "channels": [
                     "Noch zu bestätigen"
+                ]
+            },
+            {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
@@ -14768,6 +15855,13 @@
                 ]
             },
             {
+                "country": "Liechtenstein",
+                "country_code": "LI",
+                "channels": [
+                    "Go3 Extra Sports Estonia"
+                ]
+            },
+            {
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
@@ -14792,6 +15886,7 @@
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
+                    "TV 2 Play (NO)",
                     "Viaplay NO"
                 ]
             },
@@ -15081,6 +16176,7 @@
                 "country_code": "IN",
                 "channels": [
                     "SONY LIV",
+                    "SONY Ten 2",
                     "Youtube IN"
                 ]
             }
@@ -15095,10 +16191,24 @@
         "venue": "One Call Stadium",
         "tv_channels": [
             {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "beIN SPORTS 3"
+                ]
+            },
+            {
                 "country": "Canada",
                 "country_code": "CA",
                 "channels": [
                     "DAZN Canada"
+                ]
+            },
+            {
+                "country": "Czechia",
+                "country_code": "CZ",
+                "channels": [
+                    "Nova Sport 4"
                 ]
             },
             {
@@ -15145,7 +16255,8 @@
                 "country": "Sweden",
                 "country_code": "SE",
                 "channels": [
-                    "Viaplay SE"
+                    "Viaplay SE",
+                    "Viaplay Sport"
                 ]
             },
             {
@@ -15396,7 +16507,7 @@
     },
     {
         "match_id": 5909182,
-        "kickoff": 1792153800,
+        "kickoff": 1792144800,
         "fixture": "Obolon Kyiv vs Veres Rivne",
         "league_id": 441,
         "league": "Premier League",
@@ -15821,7 +16932,9 @@
                 "country": "Russian Federation",
                 "country_code": "RU",
                 "channels": [
+                    "Match TV",
                     "Match! Premier",
+                    "Sportbox.ru",
                     "matchtv.ru"
                 ]
             },
@@ -16077,6 +17190,13 @@
                 ]
             },
             {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "beIN SPORTS 3"
+                ]
+            },
+            {
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
@@ -16095,13 +17215,6 @@
                     "ESPN",
                     "Pluto TV",
                     "Telefé YouTube"
-                ]
-            },
-            {
-                "country": "Bosnia and Herzegovina",
-                "country_code": "BA",
-                "channels": [
-                    "Moja TV"
                 ]
             },
             {
@@ -16156,7 +17269,8 @@
                 "country": "Croatia",
                 "country_code": "HR",
                 "channels": [
-                    "Arena Sport 2 Croatia"
+                    "Arena Sport 2 Croatia",
+                    "MAXtv To Go"
                 ]
             },
             {
@@ -16247,13 +17361,6 @@
                 ]
             },
             {
-                "country": "New Zealand",
-                "country_code": "NZ",
-                "channels": [
-                    "beIN Sports Connect New Zealand"
-                ]
-            },
-            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
@@ -16340,13 +17447,6 @@
                 ]
             },
             {
-                "country": "Ukraine",
-                "country_code": "UA",
-                "channels": [
-                    "Megogo"
-                ]
-            },
-            {
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
@@ -16427,7 +17527,8 @@
                 "country": "Australia",
                 "country_code": "AU",
                 "channels": [
-                    "Paramount+"
+                    "Paramount+",
+                    "TEN"
                 ]
             },
             {
@@ -16509,10 +17610,26 @@
         "venue": "Estadio Rodrigo Paz Delgado",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "TyC Sports Play"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "country_code": "BR",
                 "channels": [
                     "SporTV"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "ChileVisión",
+                    "ChileVisión Web",
+                    "Chilevisión YouTube"
                 ]
             }
         ]
@@ -16524,7 +17641,15 @@
         "league_id": 11021,
         "league": "Copa Libertadores Femenina",
         "venue": "Estadio Banco Guayaquil",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "TyC Sports Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000022157,
@@ -16533,7 +17658,22 @@
         "league_id": 11021,
         "league": "Copa Libertadores Femenina",
         "venue": "Estadio Banco Guayaquil",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "TyC Sports Play"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "SporTV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000022153,
@@ -16542,7 +17682,15 @@
         "league_id": 11021,
         "league": "Copa Libertadores Femenina",
         "venue": "Estadio Rodrigo Paz Delgado",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "TyC Sports Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000022162,
@@ -16551,7 +17699,15 @@
         "league_id": 11021,
         "league": "Copa Libertadores Femenina",
         "venue": "Estadio Rodrigo Paz Delgado",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "TyC Sports Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000022168,
@@ -16560,7 +17716,15 @@
         "league_id": 11021,
         "league": "Copa Libertadores Femenina",
         "venue": "Estadio Banco Guayaquil",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "TyC Sports Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000015735,
@@ -16690,7 +17854,15 @@
         "league_id": 9125,
         "league": "Primera B",
         "venue": "Estadio Romelio Martínez",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000013751,
@@ -16809,174 +17981,6 @@
                 "country_code": "ME",
                 "channels": [
                     "Thmanyah"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5970153,
-        "kickoff": 1792087200,
-        "fixture": "Al Ahli vs Al Nassr FC",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "Alinma Bank Stadium at King Abdullah Sport City",
-        "tv_channels": [
-            {
-                "country": "Albania",
-                "country_code": "AL",
-                "channels": [
-                    "SuperSport 6"
-                ]
-            },
-            {
-                "country": "Andorra",
-                "country_code": "AD",
-                "channels": [
-                    "DAZN France"
-                ]
-            },
-            {
-                "country": "Australia",
-                "country_code": "AU",
-                "channels": [
-                    "Fox Sports 5",
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Austria",
-                "country_code": "AT",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Bosnia and Herzegovina",
-                "country_code": "BA",
-                "channels": [
-                    "Moja TV"
-                ]
-            },
-            {
-                "country": "France",
-                "country_code": "FR",
-                "channels": [
-                    "DAZN 1 (FR)",
-                    "DAZN.com (FR)"
-                ]
-            },
-            {
-                "country": "Germany",
-                "country_code": "DE",
-                "channels": [
-                    "DAZN Deutschland",
-                    "Sportdigital FUSSBALL",
-                    "Sportdigital+"
-                ]
-            },
-            {
-                "country": "Ghana",
-                "country_code": "GH",
-                "channels": [
-                    "DStv Now",
-                    "ESPN Africa"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "OneFootball PPV",
-                    "Saudi Pro League YouTube"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "country_code": "MX",
-                "channels": [
-                    "FOX One"
-                ]
-            },
-            {
-                "country": "Montenegro",
-                "country_code": "ME",
-                "channels": [
-                    "Thmanyah"
-                ]
-            },
-            {
-                "country": "Nigeria",
-                "country_code": "NG",
-                "channels": [
-                    "ESPN Africa"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "country_code": "PT",
-                "channels": [
-                    "Sport TV 1"
-                ]
-            },
-            {
-                "country": "Romania",
-                "country_code": "RO",
-                "channels": [
-                    "Orange TV Go"
-                ]
-            },
-            {
-                "country": "South Africa",
-                "country_code": "ZA",
-                "channels": [
-                    "ESPN Africa"
-                ]
-            },
-            {
-                "country": "Spain",
-                "country_code": "ES",
-                "channels": [
-                    "M+ Vamos 2"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "country_code": "CH",
-                "channels": [
-                    "DAZN",
-                    "OneFootball PPV",
-                    "SI Solocalcio",
-                    "Sportdigital Fussball"
-                ]
-            },
-            {
-                "country": "Tanzania",
-                "country_code": "TZ",
-                "channels": [
-                    "DStv Now",
-                    "ESPN Africa"
-                ]
-            },
-            {
-                "country": "Ukraine",
-                "country_code": "UA",
-                "channels": [
-                    "Megogo"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "FOX Deportes",
-                    "FOX One",
-                    "FOX Soccer Plus",
-                    "Fox Sports online",
-                    "Fubo Sports"
                 ]
             }
         ]
@@ -17107,6 +18111,7 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
+                    "FOX",
                     "FOX One",
                     "OneFootball"
                 ]
@@ -17203,286 +18208,6 @@
                 "country_code": "VE",
                 "channels": [
                     "OneFootball"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5970160,
-        "kickoff": 1792162800,
-        "fixture": "Al Riyadh vs Al Hilal",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "SHG Arena",
-        "tv_channels": [
-            {
-                "country": "Australia",
-                "country_code": "AU",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Bosnia and Herzegovina",
-                "country_code": "BA",
-                "channels": [
-                    "Moja TV"
-                ]
-            },
-            {
-                "country": "Germany",
-                "country_code": "DE",
-                "channels": [
-                    "DAZN Deutschland",
-                    "Sportdigital FUSSBALL2",
-                    "Sportdigital+"
-                ]
-            },
-            {
-                "country": "Ghana",
-                "country_code": "GH",
-                "channels": [
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Montenegro",
-                "country_code": "ME",
-                "channels": [
-                    "Thmanyah"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "country_code": "PT",
-                "channels": [
-                    "Sport TV 1"
-                ]
-            },
-            {
-                "country": "Spain",
-                "country_code": "ES",
-                "channels": [
-                    "M+ #Vamos Bar",
-                    "M+ Vamos"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "country_code": "CH",
-                "channels": [
-                    "Sportdigital Fussball 2"
-                ]
-            },
-            {
-                "country": "Tanzania",
-                "country_code": "TZ",
-                "channels": [
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Ukraine",
-                "country_code": "UA",
-                "channels": [
-                    "Megogo"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "FOX One",
-                    "FOX Sports 2",
-                    "Fox Sports online",
-                    "Fubo Sports"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5970157,
-        "kickoff": 1792173600,
-        "fixture": "Al Ittihad vs Al Shabab",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "Prince Abdullah Al Faisal Sports City Stadium",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "country_code": "AR",
-                "channels": [
-                    "Somos FOX YouTube"
-                ]
-            },
-            {
-                "country": "Australia",
-                "country_code": "AU",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Austria",
-                "country_code": "AT",
-                "channels": [
-                    "DAZN"
-                ]
-            },
-            {
-                "country": "Bolivia",
-                "country_code": "BO",
-                "channels": [
-                    "Somos FOX YouTube"
-                ]
-            },
-            {
-                "country": "Bosnia and Herzegovina",
-                "country_code": "BA",
-                "channels": [
-                    "Moja TV"
-                ]
-            },
-            {
-                "country": "Brazil",
-                "country_code": "BR",
-                "channels": [
-                    "Somos FOX YouTube"
-                ]
-            },
-            {
-                "country": "Chile",
-                "country_code": "CL",
-                "channels": [
-                    "Somos FOX YouTube"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "country_code": "CO",
-                "channels": [
-                    "Somos FOX YouTube"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "country_code": "EC",
-                "channels": [
-                    "Somos FOX YouTube"
-                ]
-            },
-            {
-                "country": "Germany",
-                "country_code": "DE",
-                "channels": [
-                    "DAZN Deutschland",
-                    "Sportdigital FUSSBALL2",
-                    "Sportdigital+"
-                ]
-            },
-            {
-                "country": "Ghana",
-                "country_code": "GH",
-                "channels": [
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "country_code": "MX",
-                "channels": [
-                    "FOX",
-                    "FOX One"
-                ]
-            },
-            {
-                "country": "Montenegro",
-                "country_code": "ME",
-                "channels": [
-                    "Thmanyah"
-                ]
-            },
-            {
-                "country": "Paraguay",
-                "country_code": "PY",
-                "channels": [
-                    "Somos FOX YouTube"
-                ]
-            },
-            {
-                "country": "Peru",
-                "country_code": "PE",
-                "channels": [
-                    "Somos FOX YouTube"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "country_code": "PT",
-                "channels": [
-                    "Sport TV 6"
-                ]
-            },
-            {
-                "country": "Spain",
-                "country_code": "ES",
-                "channels": [
-                    "M+ #Vamos Bar",
-                    "M+ Vamos"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "country_code": "CH",
-                "channels": [
-                    "DAZN",
-                    "SI Solocalcio"
-                ]
-            },
-            {
-                "country": "Tanzania",
-                "country_code": "TZ",
-                "channels": [
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "FOX Deportes",
-                    "FOX One",
-                    "FOX Soccer Plus",
-                    "Fox Sports online",
-                    "Fubo Sports"
-                ]
-            },
-            {
-                "country": "Uruguay",
-                "country_code": "UY",
-                "channels": [
-                    "Somos FOX YouTube"
-                ]
-            },
-            {
-                "country": "Venezuela",
-                "country_code": "VE",
-                "channels": [
-                    "Somos FOX YouTube"
                 ]
             }
         ]
@@ -17606,6 +18331,13 @@
                 ]
             },
             {
+                "country": "Czechia",
+                "country_code": "CZ",
+                "channels": [
+                    "Nova Sport 3"
+                ]
+            },
+            {
                 "country": "Ecuador",
                 "country_code": "EC",
                 "channels": [
@@ -17617,7 +18349,8 @@
                 "country": "Estonia",
                 "country_code": "EE",
                 "channels": [
-                    "Go3 Extra Sports Estonia"
+                    "Go3 Extra Sports Estonia",
+                    "Setanta Sports 2"
                 ]
             },
             {
@@ -17645,8 +18378,21 @@
                     "Sky Bundesliga 1",
                     "Sky Bundesliga UHD",
                     "Sky Showcase",
-                    "Sky Top Event",
                     "WOW"
+                ]
+            },
+            {
+                "country": "Greece",
+                "country_code": "GR",
+                "channels": [
+                    "Nova Sports 3"
+                ]
+            },
+            {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "Bein Sports 2"
                 ]
             },
             {
@@ -17668,7 +18414,8 @@
                 "country_code": "LA",
                 "channels": [
                     "Go3 Extra Sports Estonia",
-                    "Go3 Extra Sports Latvia"
+                    "Go3 Extra Sports Latvia",
+                    "Setanta Sports 2"
                 ]
             },
             {
@@ -17676,7 +18423,15 @@
                 "country_code": "LI",
                 "channels": [
                     "Go3 Extra Sports Estonia",
-                    "Go3 Extra Sports Lithuania"
+                    "Go3 Extra Sports Lithuania",
+                    "Setanta Sports 2"
+                ]
+            },
+            {
+                "country": "Malaysia",
+                "country_code": "MY",
+                "channels": [
+                    "Bein Sports 3"
                 ]
             },
             {
@@ -17759,6 +18514,20 @@
                 ]
             },
             {
+                "country": "Serbia",
+                "country_code": "RS",
+                "channels": [
+                    "Arena Sport 2 Serbia"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "Bein Sports 3"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "country_code": "SK",
                 "channels": [
@@ -17798,6 +18567,20 @@
                     "Sky Sport Bundesliga 1",
                     "Sky Sport Bundesliga UHD",
                     "beIN SPORTS CH"
+                ]
+            },
+            {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "AIS PLAY"
+                ]
+            },
+            {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "S Sport Plus"
                 ]
             },
             {
@@ -17846,9 +18629,7 @@
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "DAZN",
-                    "DAZN France",
-                    "DAZN Spain"
+                    "DAZN"
                 ]
             },
             {
@@ -17870,6 +18651,7 @@
                 "country": "Australia",
                 "country_code": "AU",
                 "channels": [
+                    "beIN SPORTS 2",
                     "beIN Sports Connect"
                 ]
             },
@@ -17900,13 +18682,6 @@
                 "channels": [
                     "Disney+ Premium",
                     "ESPN 2"
-                ]
-            },
-            {
-                "country": "Bosnia and Herzegovina",
-                "country_code": "BA",
-                "channels": [
-                    "Moja TV"
                 ]
             },
             {
@@ -17955,6 +18730,21 @@
                 ]
             },
             {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Cytavision Sports 4K",
+                    "Cytavision Sports 8"
+                ]
+            },
+            {
+                "country": "Czechia",
+                "country_code": "CZ",
+                "channels": [
+                    "Nova Sport 5"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
@@ -17967,6 +18757,13 @@
                 "channels": [
                     "Disney+ Premium",
                     "ESPN 2"
+                ]
+            },
+            {
+                "country": "Estonia",
+                "country_code": "EE",
+                "channels": [
+                    "Setanta Sports"
                 ]
             },
             {
@@ -18002,6 +18799,13 @@
                 ]
             },
             {
+                "country": "Greece",
+                "country_code": "GR",
+                "channels": [
+                    "Magenta Sport 3 League"
+                ]
+            },
+            {
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
@@ -18022,7 +18826,8 @@
                 "country_code": "HK",
                 "channels": [
                     "M Plus Live",
-                    "Now Player"
+                    "Now Player",
+                    "Now Sports 2"
                 ]
             },
             {
@@ -18036,7 +18841,6 @@
                 "country": "Indonesia",
                 "country_code": "ID",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Indonesia"
                 ]
             },
@@ -18055,12 +18859,33 @@
                 ]
             },
             {
+                "country": "Laos",
+                "country_code": "LA",
+                "channels": [
+                    "Setanta Sports"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
+                "channels": [
+                    "Setanta Sports"
+                ]
+            },
+            {
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "beIN SPORTS CONNECT",
+                    "beIN Sports 1 Malaysia",
                     "beIN Sports Connect Malaysia",
                     "sooka"
+                ]
+            },
+            {
+                "country": "Malta",
+                "country_code": "MT",
+                "channels": [
+                    "TSN4"
                 ]
             },
             {
@@ -18110,7 +18935,8 @@
                 "country": "Nigeria",
                 "country_code": "NG",
                 "channels": [
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport Laliga Nigeria"
                 ]
             },
             {
@@ -18157,7 +18983,6 @@
                 "country": "Philippines",
                 "country_code": "PH",
                 "channels": [
-                    "beIN SPORTS CONNECT",
                     "beIN Sports Connect Philippines"
                 ]
             },
@@ -18183,11 +19008,17 @@
                 ]
             },
             {
+                "country": "Serbia",
+                "country_code": "RS",
+                "channels": [
+                    "Arena Sport Premium 2"
+                ]
+            },
+            {
                 "country": "Singapore",
                 "country_code": "SG",
                 "channels": [
-                    "StarHub TV+",
-                    "beIN SPORTS CONNECT",
+                    "beIN SPORTS 1",
                     "beIN Sports Connect Singapore"
                 ]
             },
@@ -18203,7 +19034,8 @@
                 "country": "South Africa",
                 "country_code": "ZA",
                 "channels": [
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport Laliga"
                 ]
             },
             {
@@ -18258,7 +19090,8 @@
                 "country": "Türkiye",
                 "country_code": "TR",
                 "channels": [
-                    "S Sport"
+                    "S Sport 2",
+                    "S Sport Plus"
                 ]
             },
             {
@@ -18306,12 +19139,17 @@
         "venue": "Stade Marie-Marvingt",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "Super Sport 4 HD"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "DAZN",
-                    "DAZN France",
-                    "DAZN Spain"
+                    "DAZN"
                 ]
             },
             {
@@ -18335,13 +19173,6 @@
                 "channels": [
                     "Disney+ Premium",
                     "ESPN 4"
-                ]
-            },
-            {
-                "country": "Bosnia and Herzegovina",
-                "country_code": "BA",
-                "channels": [
-                    "Moja TV"
                 ]
             },
             {
@@ -18391,6 +19222,28 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Arena Sport 3 Croatia",
+                    "MAXtv To Go"
+                ]
+            },
+            {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Cablenet Sports 2 HD"
+                ]
+            },
+            {
+                "country": "Czechia",
+                "country_code": "CZ",
+                "channels": [
+                    "Nova Sport 4"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
@@ -18435,6 +19288,7 @@
                 "country_code": "GH",
                 "channels": [
                     "DStv Now",
+                    "SuperSport Kickoff",
                     "SuperSport MaXimo 1"
                 ]
             },
@@ -18452,6 +19306,13 @@
                 "channels": [
                     "Disney+ Premium",
                     "ESPN 5"
+                ]
+            },
+            {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "beIN Sports 3 Hong Kong"
                 ]
             },
             {
@@ -18473,13 +19334,15 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "FOX One"
+                    "FOX One",
+                    "Tubi"
                 ]
             },
             {
                 "country": "Montenegro",
                 "country_code": "ME",
                 "channels": [
+                    "Bein Sports 3",
                     "TOD",
                     "beIN SPORTS CONNECT"
                 ]
@@ -18488,6 +19351,7 @@
                 "country": "Morocco",
                 "country_code": "MA",
                 "channels": [
+                    "Bein Sports 3",
                     "TOD",
                     "beIN SPORTS CONNECT"
                 ]
@@ -18511,6 +19375,7 @@
                 "country": "Nigeria",
                 "country_code": "NG",
                 "channels": [
+                    "SuperSport Kickoff",
                     "SuperSport MaXimo 1"
                 ]
             },
@@ -18562,6 +19427,13 @@
                 ]
             },
             {
+                "country": "Serbia",
+                "country_code": "RS",
+                "channels": [
+                    "Arena Sport 5"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "country_code": "SK",
                 "channels": [
@@ -18570,9 +19442,17 @@
                 ]
             },
             {
+                "country": "Slovenia",
+                "country_code": "SI",
+                "channels": [
+                    "Arena Sport 3"
+                ]
+            },
+            {
                 "country": "South Africa",
                 "country_code": "ZA",
                 "channels": [
+                    "SuperSport Kickoff",
                     "SuperSport MaXimo 1"
                 ]
             },
@@ -18610,6 +19490,7 @@
                 "country_code": "TZ",
                 "channels": [
                     "DStv Now",
+                    "SuperSport Kickoff",
                     "SuperSport MaXimo 1"
                 ]
             },
@@ -18675,9 +19556,7 @@
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
-                    "DAZN",
-                    "DAZN France",
-                    "DAZN Spain"
+                    "DAZN"
                 ]
             },
             {
@@ -18691,7 +19570,8 @@
                 "country": "Australia",
                 "country_code": "AU",
                 "channels": [
-                    "DAZN"
+                    "DAZN",
+                    "beIN SPORTS 1"
                 ]
             },
             {
@@ -18713,13 +19593,6 @@
                 "country_code": "BO",
                 "channels": [
                     "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Bosnia and Herzegovina",
-                "country_code": "BA",
-                "channels": [
-                    "Moja TV"
                 ]
             },
             {
@@ -18765,6 +19638,21 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Arena Sport 2 Croatia",
+                    "MAXtv To Go"
+                ]
+            },
+            {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Cytavision Sports 4"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
@@ -18802,6 +19690,20 @@
                 ]
             },
             {
+                "country": "Ghana",
+                "country_code": "GH",
+                "channels": [
+                    "SuperSport Football"
+                ]
+            },
+            {
+                "country": "Greece",
+                "country_code": "GR",
+                "channels": [
+                    "MagentaSport 2"
+                ]
+            },
+            {
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
@@ -18819,7 +19721,8 @@
                 "country": "Hong Kong",
                 "country_code": "HK",
                 "channels": [
-                    "M Plus Live"
+                    "M Plus Live",
+                    "beIN Sports 1 Hong Kong"
                 ]
             },
             {
@@ -18842,6 +19745,20 @@
                 "country_code": "JP",
                 "channels": [
                     "DAZN"
+                ]
+            },
+            {
+                "country": "Malaysia",
+                "country_code": "MY",
+                "channels": [
+                    "Astro Football"
+                ]
+            },
+            {
+                "country": "Malta",
+                "country_code": "MT",
+                "channels": [
+                    "TSN 3"
                 ]
             },
             {
@@ -18877,6 +19794,13 @@
                 "country_code": "NI",
                 "channels": [
                     "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "SuperSport Football"
                 ]
             },
             {
@@ -18925,7 +19849,15 @@
                 "country": "Russian Federation",
                 "country_code": "RU",
                 "channels": [
+                    "Match! Football 1",
                     "matchtv.ru"
+                ]
+            },
+            {
+                "country": "Serbia",
+                "country_code": "RS",
+                "channels": [
+                    "Arena Sport 3"
                 ]
             },
             {
@@ -18934,6 +19866,27 @@
                 "channels": [
                     "Sport 1",
                     "Voyo"
+                ]
+            },
+            {
+                "country": "Slovenia",
+                "country_code": "SI",
+                "channels": [
+                    "ARENA SPORT PREMIUM 1"
+                ]
+            },
+            {
+                "country": "South Africa",
+                "country_code": "ZA",
+                "channels": [
+                    "SuperSport Football"
+                ]
+            },
+            {
+                "country": "South Korea",
+                "country_code": "KR",
+                "channels": [
+                    "SPOTV NOW"
                 ]
             },
             {
@@ -18958,10 +19911,18 @@
                 ]
             },
             {
+                "country": "Tanzania",
+                "country_code": "TZ",
+                "channels": [
+                    "SuperSport Football"
+                ]
+            },
+            {
                 "country": "Türkiye",
                 "country_code": "TR",
                 "channels": [
-                    "S Sport"
+                    "S Sport",
+                    "S Sport Plus"
                 ]
             },
             {
@@ -19106,6 +20067,13 @@
                 ]
             },
             {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "beIN SPORTS 3"
+                ]
+            },
+            {
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
@@ -19175,6 +20143,20 @@
                 ]
             },
             {
+                "country": "Greece",
+                "country_code": "GR",
+                "channels": [
+                    "NovaSports Extra 1"
+                ]
+            },
+            {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "beIN Sports 3 Hong Kong"
+                ]
+            },
+            {
                 "country": "Iceland",
                 "country_code": "IS",
                 "channels": [
@@ -19187,6 +20169,13 @@
                 "channels": [
                     "Bundesliga App",
                     "Bundesliga YouTube"
+                ]
+            },
+            {
+                "country": "Malta",
+                "country_code": "MT",
+                "channels": [
+                    "TSN8 Malta"
                 ]
             },
             {
@@ -19240,6 +20229,13 @@
                 ]
             },
             {
+                "country": "Serbia",
+                "country_code": "RS",
+                "channels": [
+                    "Arena Sport 2 Serbia"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "country_code": "SK",
                 "channels": [
@@ -19259,6 +20255,13 @@
                 "country_code": "CH",
                 "channels": [
                     "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "S Sport Plus"
                 ]
             },
             {
@@ -19286,17 +20289,17 @@
         "venue": "Holstein-Stadion",
         "tv_channels": [
             {
-                "country": "Andorra",
-                "country_code": "AD",
-                "channels": [
-                    "DAZN Spain"
-                ]
-            },
-            {
                 "country": "Argentina",
                 "country_code": "AR",
                 "channels": [
                     "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "beIN SPORTS 2"
                 ]
             },
             {
@@ -19391,10 +20394,24 @@
                 ]
             },
             {
+                "country": "Malta",
+                "country_code": "MT",
+                "channels": [
+                    "TSN7 Malta"
+                ]
+            },
+            {
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
                     "Bundesliga YouTube"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "MBC Action"
                 ]
             },
             {
@@ -19449,13 +20466,6 @@
                 ]
             },
             {
-                "country": "Singapore",
-                "country_code": "SG",
-                "channels": [
-                    "StarHub TV+"
-                ]
-            },
-            {
                 "country": "Slovakia",
                 "country_code": "SK",
                 "channels": [
@@ -19475,6 +20485,13 @@
                 "country_code": "CH",
                 "channels": [
                     "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "S Sport Plus"
                 ]
             },
             {
@@ -20643,6 +21660,13 @@
                 ]
             },
             {
+                "country": "Serbia",
+                "country_code": "RS",
+                "channels": [
+                    "Arena Sport 6 Serbia"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "country_code": "SK",
                 "channels": [
@@ -20780,7 +21804,6 @@
                 "channels": [
                     "Play Sports",
                     "Play Sports 4",
-                    "RTBF Auvio",
                     "Tipik"
                 ]
             }
@@ -20935,6 +21958,14 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Arena Sport 2 Croatia",
+                    "MAXtv To Go"
+                ]
+            },
+            {
                 "country": "Poland",
                 "country_code": "PL",
                 "channels": [
@@ -20967,6 +21998,14 @@
         "league": "Ekstraklasa",
         "venue": "Stadion Miejski Widzewa Łódź",
         "tv_channels": [
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Arena Sport 4",
+                    "MAXtv To Go"
+                ]
+            },
             {
                 "country": "Poland",
                 "country_code": "PL",
@@ -21006,6 +22045,27 @@
         "league": "Eredivisie",
         "venue": "Abe Lenstra Stadion",
         "tv_channels": [
+            {
+                "country": "Estonia",
+                "country_code": "EE",
+                "channels": [
+                    "Go3 Sport 3"
+                ]
+            },
+            {
+                "country": "Laos",
+                "country_code": "LA",
+                "channels": [
+                    "Go3 Sport 3"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
+                "channels": [
+                    "Go3 Sport 3"
+                ]
+            },
             {
                 "country": "Netherlands",
                 "country_code": "NL",
@@ -21331,6 +22391,7 @@
                 "country_code": "HR",
                 "channels": [
                     "MAX To Go",
+                    "MAXtv To Go",
                     "Max Sport 1"
                 ]
             }
@@ -21348,6 +22409,7 @@
                 "country": "Albania",
                 "country_code": "AL",
                 "channels": [
+                    "RTSH 1",
                     "RTSH App",
                     "RTSH Sport"
                 ]
@@ -21398,6 +22460,13 @@
                 ]
             },
             {
+                "country": "Malaysia",
+                "country_code": "MY",
+                "channels": [
+                    "Bein Sports 2"
+                ]
+            },
+            {
                 "country": "New Zealand",
                 "country_code": "NZ",
                 "channels": [
@@ -21409,6 +22478,14 @@
                 "country_code": "PT",
                 "channels": [
                     "DAZN 3"
+                ]
+            },
+            {
+                "country": "Russian Federation",
+                "country_code": "RU",
+                "channels": [
+                    "Match! Football 3",
+                    "matchtv.ru"
                 ]
             },
             {
@@ -21970,6 +23047,13 @@
                 ]
             },
             {
+                "country": "Serbia",
+                "country_code": "RS",
+                "channels": [
+                    "Arena Sport 7"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "country_code": "SK",
                 "channels": [
@@ -22146,13 +23230,12 @@
         "fixture": "Dinamo București vs Botoșani",
         "league_id": 189,
         "league": "Superliga",
-        "venue": "Baza Sportivă Oxigen Colentina",
+        "venue": "Arena Naţională",
         "tv_channels": [
             {
                 "country": "Croatia",
                 "country_code": "HR",
                 "channels": [
-                    "Arena Sport 5 Croatia",
                     "MAXtv To Go"
                 ]
             },
@@ -22297,10 +23380,24 @@
         "venue": "Turf Moor",
         "tv_channels": [
             {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "Super Sport 3 HD"
+                ]
+            },
+            {
                 "country": "Argentina",
                 "country_code": "AR",
                 "channels": [
                     "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "beIN SPORTS 3"
                 ]
             },
             {
@@ -22357,6 +23454,14 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Arena Sport 6",
+                    "MAXtv To Go"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
@@ -22391,7 +23496,16 @@
                 "country": "Ghana",
                 "country_code": "GH",
                 "channels": [
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Premier League ROA"
+                ]
+            },
+            {
+                "country": "Greece",
+                "country_code": "GR",
+                "channels": [
+                    "Magenta Sport Start",
+                    "MagentaSport 3"
                 ]
             },
             {
@@ -22437,11 +23551,34 @@
                 ]
             },
             {
+                "country": "Malta",
+                "country_code": "MT",
+                "channels": [
+                    "TSN1"
+                ]
+            },
+            {
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
                     "Disney+ Premium",
                     "ESPN 2"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "beIN Sports 1",
+                    "beIN Sports English 2"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "beIN Sports 1",
+                    "beIN Sports English 2"
                 ]
             },
             {
@@ -22464,6 +23601,13 @@
                 "channels": [
                     "Disney+ Premium",
                     "ESPN 2"
+                ]
+            },
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "SuperSport Premier League Nigeria"
                 ]
             },
             {
@@ -22507,11 +23651,39 @@
                 ]
             },
             {
+                "country": "Serbia",
+                "country_code": "RS",
+                "channels": [
+                    "Arena Premium 3"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "113 mio Sports 3"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "country_code": "SK",
                 "channels": [
                     "Nova Sport 6",
                     "Voyo"
+                ]
+            },
+            {
+                "country": "Slovenia",
+                "country_code": "SI",
+                "channels": [
+                    "Arena Sport 1 Slovenia"
+                ]
+            },
+            {
+                "country": "South Africa",
+                "country_code": "ZA",
+                "channels": [
+                    "SuperSport Premier League"
                 ]
             },
             {
@@ -22526,7 +23698,8 @@
                 "country": "Tanzania",
                 "country_code": "TZ",
                 "channels": [
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Premier League ROA"
                 ]
             },
             {
@@ -22545,7 +23718,10 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
-                    "Paramount+ (US)"
+                    "CBS Sports Golazo",
+                    "Paramount+ (US)",
+                    "Pluto (US)",
+                    "RokuChannel app (US)"
                 ]
             },
             {
