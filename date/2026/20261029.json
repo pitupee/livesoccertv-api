@@ -419,7 +419,7 @@
         "fixture": "CD Covadonga vs Real Valladolid",
         "league_id": 138,
         "league": "Copa del Rey",
-        "venue": "Estadio Juan Antonio Alvarez Rabanal",
+        "venue": "Estadio El Bayu",
         "tv_channels": []
     },
     {
@@ -1431,6 +1431,33 @@
         "tv_channels": []
     },
     {
+        "match_id": 6050523,
+        "kickoff": 1793280600,
+        "fixture": "Club Africain vs CA Bizertin",
+        "league_id": 544,
+        "league": "Ligue I",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6050536,
+        "kickoff": 1793280600,
+        "fixture": "CS Sfaxien vs Espérance",
+        "league_id": 544,
+        "league": "Ligue I",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6050541,
+        "kickoff": 1793280600,
+        "fixture": "Stade Tunisien vs Zarzis",
+        "league_id": 544,
+        "league": "Ligue I",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5906534,
         "kickoff": 1793216700,
         "fixture": "Carlisle United vs Harrogate Town",
@@ -1506,6 +1533,15 @@
         "match_id": 5998349,
         "kickoff": 1793210400,
         "fixture": "Coastal Union vs Kagera Sugar",
+        "league_id": 9066,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5998344,
+        "kickoff": 1793271600,
+        "fixture": "Pamba Jiji vs Singida Black Stars",
         "league_id": 9066,
         "league": "Premier League",
         "venue": "TBA",
@@ -2220,7 +2256,15 @@
         "league_id": 248,
         "league": "Premium liiga",
         "venue": "Laagri kunstmurustaadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Estonia",
+                "country_code": "EE",
+                "channels": [
+                    "Soccernet"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000007990,

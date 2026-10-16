@@ -428,7 +428,7 @@
         "fixture": "CD Covadonga vs Real Valladolid",
         "league_id": 138,
         "league": "Copa del Rey",
-        "venue": "Estadio Juan Antonio Alvarez Rabanal",
+        "venue": "Estadio El Bayu",
         "tv_channels": []
     },
     {
@@ -2628,24 +2628,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000021078,
-        "kickoff": 1793192400,
-        "fixture": "Rudeš vs Segesta",
-        "league_id": 275,
-        "league": "Croatian Cup - 8th Finals",
-        "venue": "Igralište NK Rudeš",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021079,
-        "kickoff": 1793203200,
-        "fixture": "NK Varaždin vs NK Lokomotiva",
-        "league_id": 275,
-        "league": "Croatian Cup - 8th Finals",
-        "venue": "Stadion Anđelko Herjavec",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000017277,
         "kickoff": 1793131200,
         "fixture": "ADC Juan Pablo II vs Sport Huancayo",
@@ -2831,7 +2813,7 @@
         "fixture": "FCI Levadia vs Tammeka",
         "league_id": 248,
         "league": "Premium liiga",
-        "venue": "A. Le Coq Arena",
+        "venue": "Sportland Arena",
         "tv_channels": []
     },
     {
@@ -2850,7 +2832,15 @@
         "league_id": 248,
         "league": "Premium liiga",
         "venue": "Laagri kunstmurustaadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Estonia",
+                "country_code": "EE",
+                "channels": [
+                    "Soccernet"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000007990,
@@ -2963,7 +2953,7 @@
     {
         "match_id": 1000021420,
         "kickoff": 1793145600,
-        "fixture": "St. Patrick's Athletic U19 vs Thor Akureyri U19/Žalgiris Vilnius U19",
+        "fixture": "St. Patrick's Athletic U19 vs Žalgiris Vilnius U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 2nd Round",
         "venue": "TBA",
@@ -3008,7 +2998,7 @@
     {
         "match_id": 1000021429,
         "kickoff": 1793145600,
-        "fixture": "Partizani U19/Valletta U19 vs Hradec Králové U19",
+        "fixture": "Partizani U19 vs Hradec Králové U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 2nd Round",
         "venue": "TBA",
@@ -3026,7 +3016,7 @@
     {
         "match_id": 1000021430,
         "kickoff": 1793145600,
-        "fixture": "MTK Budapest U19 vs Kairat Almaty U19/OFK Mladost Donja Gorica U19",
+        "fixture": "MTK Budapest U19 vs Kairat Almaty U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 2nd Round",
         "venue": "TBA",
@@ -3035,7 +3025,7 @@
     {
         "match_id": 1000021442,
         "kickoff": 1793145600,
-        "fixture": "AP Brera Strumica U19/FC Santa Coloma U19 vs Hoffenheim U19",
+        "fixture": "AP Brera Strumica U19 vs Hoffenheim U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 2nd Round",
         "venue": "TBA",
@@ -3071,7 +3061,7 @@
     {
         "match_id": 1000021431,
         "kickoff": 1793145600,
-        "fixture": "Hammarby U19 vs Cliftonville U19/SK Super Nova U19",
+        "fixture": "Hammarby U19 vs SK Super Nova U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 2nd Round",
         "venue": "TBA",
@@ -3080,7 +3070,7 @@
     {
         "match_id": 1000021432,
         "kickoff": 1793145600,
-        "fixture": "Dinamo Minsk U19/Dinamo Tbilisi U19 vs FC København U19",
+        "fixture": "Dinamo Tbilisi U19 vs FC København U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 2nd Round",
         "venue": "TBA",
@@ -3098,7 +3088,7 @@
     {
         "match_id": 1000021434,
         "kickoff": 1793145600,
-        "fixture": "Ballkani U19/HJK U19 vs Žilina U19",
+        "fixture": "HJK U19 vs Žilina U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 2nd Round",
         "venue": "TBA",
@@ -3107,7 +3097,7 @@
     {
         "match_id": 1000021435,
         "kickoff": 1793145600,
-        "fixture": "Stabæk U19 vs Cardiff Met FC U19/Una Strassen U19",
+        "fixture": "Stabæk U19 vs Cardiff Met FC U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 2nd Round",
         "venue": "TBA",
@@ -3116,7 +3106,7 @@
     {
         "match_id": 1000021426,
         "kickoff": 1793145600,
-        "fixture": "Flora Tallinn U19/Havnar Boltfelag U19 vs Chelsea U19",
+        "fixture": "Flora Tallinn U19 vs Chelsea U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 2nd Round",
         "venue": "TBA",
@@ -3588,6 +3578,15 @@
         "league_id": 9717,
         "league": "Women's League Cup",
         "venue": "SEAH Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021079,
+        "kickoff": 1793203200,
+        "fixture": "NK Varaždin vs NK Lokomotiva",
+        "league_id": 275,
+        "league": "Croatian Cup - 8th Finals",
+        "venue": "Stadion Anđelko Herjavec",
         "tv_channels": []
     },
     {
