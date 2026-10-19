@@ -1464,7 +1464,22 @@
         "league_id": 117,
         "league": "National League",
         "venue": "Brunton Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "DAZN US"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5906535,
@@ -1473,7 +1488,22 @@
         "league_id": 117,
         "league": "National League",
         "venue": "The New Lawn",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "DAZN US"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5906536,
@@ -1482,7 +1512,22 @@
         "league_id": 117,
         "league": "National League",
         "venue": "The 360 Engage Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "DAZN US"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5907651,
@@ -2070,69 +2115,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000017441,
-        "kickoff": 1793232000,
-        "fixture": "Sportivo San Lorenzo vs Cerro Porteño",
-        "league_id": 199,
-        "league": "Division Profesional",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000017442,
-        "kickoff": 1793232000,
-        "fixture": "Libertad vs Luqueño",
-        "league_id": 199,
-        "league": "Division Profesional",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000017443,
-        "kickoff": 1793232000,
-        "fixture": "Nacional vs Sportivo Trinidense",
-        "league_id": 199,
-        "league": "Division Profesional",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000017444,
-        "kickoff": 1793232000,
-        "fixture": "Rubio Ñú vs Guaraní",
-        "league_id": 199,
-        "league": "Division Profesional",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000017445,
-        "kickoff": 1793232000,
-        "fixture": "2 de Mayo vs Recoleta",
-        "league_id": 199,
-        "league": "Division Profesional",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000017446,
-        "kickoff": 1793232000,
-        "fixture": "Sportivo Ameliano vs Olimpia",
-        "league_id": 199,
-        "league": "Division Profesional",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000017280,
-        "kickoff": 1793203200,
-        "fixture": "Asociación Deportiva Tarma vs Club Deportivo Moquegua",
-        "league_id": 131,
-        "league": "Liga 1",
-        "venue": "Estadio Municipal Unión de Tarma",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000017274,
         "kickoff": 1793211300,
         "fixture": "FC Cajamarca vs CD UT Cajamarca",
@@ -2157,6 +2139,15 @@
         "league_id": 131,
         "league": "Liga 1",
         "venue": "Estadio Inca Garcilaso de la Vega",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017280,
+        "kickoff": 1793203200,
+        "fixture": "Asociación Deportiva Tarma vs Club Deportivo Moquegua",
+        "league_id": 131,
+        "league": "Liga 1",
+        "venue": "Estadio Municipal Unión de Tarma",
         "tv_channels": []
     },
     {
@@ -2277,21 +2268,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000014093,
-        "kickoff": 1793228400,
-        "fixture": "Once Caldas vs Alianza FC",
-        "league_id": 274,
-        "league": "Primera A",
-        "venue": "Estadio Palogrande",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000014088,
         "kickoff": 1793235900,
         "fixture": "Internacional de Bogotá vs Independiente Medellín",
         "league_id": 274,
         "league": "Primera A",
         "venue": "Estadio Metropolitano de Techo",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000014093,
+        "kickoff": 1793228400,
+        "fixture": "Once Caldas vs Alianza FC",
+        "league_id": 274,
+        "league": "Primera A",
+        "venue": "Estadio Palogrande",
         "tv_channels": []
     },
     {
@@ -2349,6 +2340,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000018618,
+        "kickoff": 1793283300,
+        "fixture": "Al-Waab SC vs Al-Kharaitiyat SC",
+        "league_id": 11030,
+        "league": "Second Division",
+        "venue": "Suheim Bin Hamad Stadium (Qatar SC Stadium)",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000018620,
         "kickoff": 1793205000,
         "fixture": "Al-Shamal II vs Muaither SC",
@@ -2361,15 +2361,6 @@
         "match_id": 1000018622,
         "kickoff": 1793205000,
         "fixture": "Al-Khor vs Al-Gharafa II",
-        "league_id": 11030,
-        "league": "Second Division",
-        "venue": "Suheim Bin Hamad Stadium (Qatar SC Stadium)",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000018618,
-        "kickoff": 1793283300,
-        "fixture": "Al-Waab SC vs Al-Kharaitiyat SC",
         "league_id": 11030,
         "league": "Second Division",
         "venue": "Suheim Bin Hamad Stadium (Qatar SC Stadium)",
@@ -2439,6 +2430,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000022275,
+        "kickoff": 1793210400,
+        "fixture": "Real Sociedad vs Fenerbahçe",
+        "league_id": 11129,
+        "league": "UEFA Women's Europa Cup - 8th Finals",
+        "venue": "Estadio Izan",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000022277,
         "kickoff": 1793206800,
         "fixture": "Brann vs Czarni Sosnowiec",
@@ -2448,21 +2448,21 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000022278,
+        "kickoff": 1793212200,
+        "fixture": "Ajax vs Malmö FF",
+        "league_id": 11129,
+        "league": "UEFA Women's Europa Cup - 8th Finals",
+        "venue": "Sportpark De Toekomst",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000022280,
         "kickoff": 1793206800,
         "fixture": "Spartak Myjava vs Hammarby IF",
         "league_id": 11129,
         "league": "UEFA Women's Europa Cup - 8th Finals",
         "venue": "Futbalový štadión",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000022275,
-        "kickoff": 1793210400,
-        "fixture": "Real Sociedad vs Fenerbahçe",
-        "league_id": 11129,
-        "league": "UEFA Women's Europa Cup - 8th Finals",
-        "venue": "Estadio Izan",
         "tv_channels": []
     },
     {
@@ -2484,15 +2484,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000022278,
-        "kickoff": 1793212200,
-        "fixture": "Ajax vs Malmö FF",
-        "league_id": 11129,
-        "league": "UEFA Women's Europa Cup - 8th Finals",
-        "venue": "Sportpark De Toekomst",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000022276,
         "kickoff": 1793293200,
         "fixture": "Rosenborg BK vs Brøndby IF",
@@ -2508,6 +2499,96 @@
         "league_id": 11129,
         "league": "UEFA Women's Europa Cup - 8th Finals",
         "venue": "epet ARENA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021427,
+        "kickoff": 1793203200,
+        "fixture": "Benfica U19 vs Pafos FC U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Benfica Campus - Campo Nº 1",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021420,
+        "kickoff": 1793215800,
+        "fixture": "St. Patrick's Athletic U19 vs Žalgiris Vilnius U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Richmond Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021439,
+        "kickoff": 1793210400,
+        "fixture": "FC Zuerich U19 vs Maccabi Tel Aviv U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Stadion Letzigrund",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021455,
+        "kickoff": 1793199600,
+        "fixture": "Zrinjski Mostar U19 vs PAOK Thessaloniki FC U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Pomoćni teren HŠK Zrinjski",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021422,
+        "kickoff": 1793206800,
+        "fixture": "NK Bravo U19 vs FK Crvena Zvezda U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Športni Center Stanko Mlakar",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021430,
+        "kickoff": 1793206800,
+        "fixture": "MTK Budapest U19 vs Kairat Almaty U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Hidegkuti Nándor Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021431,
+        "kickoff": 1793210400,
+        "fixture": "Hammarby U19 vs SK Super Nova U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Hammarby IP",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021432,
+        "kickoff": 1793199600,
+        "fixture": "Dinamo Tbilisi U19 vs FC København U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Boris Paichadze Dinamo Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021434,
+        "kickoff": 1793206800,
+        "fixture": "HJK U19 vs Žilina U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Bolt Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021426,
+        "kickoff": 1793206800,
+        "fixture": "Flora Tallinn U19 vs Chelsea U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "A. Le Coq Arena",
         "tv_channels": []
     },
     {

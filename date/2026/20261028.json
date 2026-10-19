@@ -111,7 +111,57 @@
         "league_id": 55,
         "league": "Serie A",
         "venue": "MAPEI Stadium - Città del Tricolore",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "Tring Sport 1"
+                ]
+            },
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Indonesia",
+                "country_code": "ID",
+                "channels": [
+                    "Vidio"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "STARZPLAY"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "STARZPLAY"
+                ]
+            },
+            {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "S Sport"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5749721,
@@ -120,7 +170,57 @@
         "league_id": 55,
         "league": "Serie A",
         "venue": "Stadio Olimpico",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "Tring Sport 1"
+                ]
+            },
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Indonesia",
+                "country_code": "ID",
+                "channels": [
+                    "Vidio"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "STARZPLAY"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "STARZPLAY"
+                ]
+            },
+            {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "S Sport"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5749728,
@@ -129,7 +229,57 @@
         "league_id": 55,
         "league": "Serie A",
         "venue": "Stadio Olimpico Grande Torino",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "Tring Sport 1"
+                ]
+            },
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Indonesia",
+                "country_code": "ID",
+                "channels": [
+                    "Vidio"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "STARZPLAY"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "STARZPLAY"
+                ]
+            },
+            {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "S Sport"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5749720,
@@ -1128,7 +1278,16 @@
         "league_id": 142,
         "league": "EFL Trophy Southern Grp. F",
         "venue": "The Cherry Red Records Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6014861,
@@ -1137,7 +1296,16 @@
         "league_id": 142,
         "league": "EFL Trophy Northern Grp. B",
         "venue": "Bloomfield Road",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6015008,
@@ -1146,7 +1314,16 @@
         "league_id": 142,
         "league": "EFL Trophy Northern Grp. D",
         "venue": "Vale Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6015014,
@@ -1155,7 +1332,16 @@
         "league_id": 142,
         "league": "EFL Trophy Northern Grp. E",
         "venue": "The Croud Meadow",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6280512,
@@ -1266,13 +1452,40 @@
         "tv_channels": []
     },
     {
+        "match_id": 6459900,
+        "kickoff": 1793130300,
+        "fixture": "Bray Wanderers vs Kerry FC",
+        "league_id": 218,
+        "league": "First Division Promotion Playoff",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6459898,
+        "kickoff": 1793130300,
+        "fixture": "UCD vs Longford Town",
+        "league_id": 218,
+        "league": "First Division Promotion Playoff",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5760513,
         "kickoff": 1793113200,
         "fixture": "Cherno More Varna vs Septemvri Sofia",
         "league_id": 270,
         "league": "First Professional League",
         "venue": "Ticha",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bulgaria",
+                "country_code": "BG",
+                "channels": [
+                    "Diema Sport",
+                    "Play Diema Xtra"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5760510,
@@ -1281,7 +1494,16 @@
         "league_id": 270,
         "league": "First Professional League",
         "venue": "Arena Arda",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bulgaria",
+                "country_code": "BG",
+                "channels": [
+                    "Diema Sport",
+                    "Play Diema Xtra"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5765944,
@@ -1290,7 +1512,16 @@
         "league_id": 252,
         "league": "HNL",
         "venue": "Stadion Maksimir",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "MAX To Go",
+                    "Max Sport 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6362007,
@@ -1582,38 +1813,38 @@
     },
     {
         "match_id": 6440871,
-        "kickoff": 1793185200,
+        "kickoff": 1793181600,
         "fixture": "Mito Hollyhock vs Cerezo Osaka",
         "league_id": 224,
         "league": "League Cup",
-        "venue": "TBA",
+        "venue": "Kasamatsu Stadium",
         "tv_channels": []
     },
     {
         "match_id": 6440874,
-        "kickoff": 1793185200,
+        "kickoff": 1793181600,
         "fixture": "Nagoya Grampus vs Urawa Red Diamonds",
         "league_id": 224,
         "league": "League Cup",
-        "venue": "TBA",
+        "venue": "Toyota Stadium",
         "tv_channels": []
     },
     {
         "match_id": 6440872,
-        "kickoff": 1793185200,
+        "kickoff": 1793181600,
         "fixture": "Sagan Tosu vs Kawasaki Frontale",
         "league_id": 224,
         "league": "League Cup",
-        "venue": "TBA",
+        "venue": "Ekimae Real Estate Stadium",
         "tv_channels": []
     },
     {
         "match_id": 6440873,
-        "kickoff": 1793185200,
+        "kickoff": 1793181600,
         "fixture": "Yokohama F.Marinos vs Sanfrecce Hiroshima",
         "league_id": 224,
         "league": "League Cup",
-        "venue": "TBA",
+        "venue": "NHK Spring Mitsuzawa Football Stadium",
         "tv_channels": []
     },
     {
@@ -1632,6 +1863,15 @@
         "league_id": 108,
         "league": "League One",
         "venue": "Kenilworth Road",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5837176,
+        "kickoff": 1793130300,
+        "fixture": "Milton Keynes Dons vs Bromley",
+        "league_id": 108,
+        "league": "League One",
+        "venue": "Stadium MK",
         "tv_channels": []
     },
     {
@@ -1687,6 +1927,13 @@
         "venue": "Mill Farm Stadium",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -1710,6 +1957,13 @@
         "league": "National League",
         "venue": "The J. Davidson Stadium",
         "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -1735,6 +1989,13 @@
         "venue": "The Jakemans Community Stadium",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -1758,6 +2019,13 @@
         "league": "National League",
         "venue": "The Shay Stadium",
         "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -1783,6 +2051,13 @@
         "venue": "Hornchurch Stadium",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -1806,6 +2081,13 @@
         "league": "National League",
         "venue": "The Lamb Ground",
         "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -1831,6 +2113,13 @@
         "venue": "Grosvenor Vale",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -1854,6 +2143,13 @@
         "league": "National League",
         "venue": "The Laithwaite Community Stadium",
         "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -1879,6 +2175,13 @@
         "venue": "Sussex Transport Community Stadium",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -1901,7 +2204,22 @@
         "league_id": 117,
         "league": "National League",
         "venue": "Brunton Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "DAZN US"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5906535,
@@ -1910,7 +2228,22 @@
         "league_id": 117,
         "league": "National League",
         "venue": "The New Lawn",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "DAZN US"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5906536,
@@ -1919,7 +2252,22 @@
         "league_id": 117,
         "league": "National League",
         "venue": "The 360 Engage Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "DAZN US"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5907122,
@@ -2213,7 +2561,15 @@
         "league_id": 9066,
         "league": "Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Tanzania",
+                "country_code": "TZ",
+                "channels": [
+                    "Azam Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5998346,
@@ -2222,7 +2578,15 @@
         "league_id": 9066,
         "league": "Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Tanzania",
+                "country_code": "TZ",
+                "channels": [
+                    "Azam Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5998347,
@@ -2828,15 +3192,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000017280,
-        "kickoff": 1793203200,
-        "fixture": "Asociación Deportiva Tarma vs Club Deportivo Moquegua",
-        "league_id": 131,
-        "league": "Liga 1",
-        "venue": "Estadio Municipal Unión de Tarma",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000017274,
         "kickoff": 1793211300,
         "fixture": "FC Cajamarca vs CD UT Cajamarca",
@@ -2852,6 +3207,15 @@
         "league_id": 131,
         "league": "Liga 1",
         "venue": "Estadio Campeones del '36",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017280,
+        "kickoff": 1793203200,
+        "fixture": "Asociación Deportiva Tarma vs Club Deportivo Moquegua",
+        "league_id": 131,
+        "league": "Liga 1",
+        "venue": "Estadio Municipal Unión de Tarma",
         "tv_channels": []
     },
     {
@@ -3005,7 +3369,15 @@
         "league_id": 248,
         "league": "Premium liiga",
         "venue": "Sportland Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Estonia",
+                "country_code": "EE",
+                "channels": [
+                    "Soccernet"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000007988,
@@ -3014,7 +3386,15 @@
         "league_id": 248,
         "league": "Premium liiga",
         "venue": "Narva Kalev-Fama Staadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Estonia",
+                "country_code": "EE",
+                "channels": [
+                    "Soccernet"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000007990,
@@ -3050,7 +3430,119 @@
         "league_id": 274,
         "league": "Primera A",
         "venue": "Estadio de La Independencia",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport 2 Digitalb"
+                ]
+            },
+            {
+                "country": "Bangladesh",
+                "country_code": "BD",
+                "channels": [
+                    "tapmad"
+                ]
+            },
+            {
+                "country": "Bosnia and Herzegovina",
+                "country_code": "BA",
+                "channels": [
+                    "Arena Sport 1P",
+                    "Arena Sport 2P"
+                ]
+            },
+            {
+                "country": "Georgia",
+                "country_code": "GE",
+                "channels": [
+                    "Setanta Sports Georgia"
+                ]
+            },
+            {
+                "country": "Ghana",
+                "country_code": "GH",
+                "channels": [
+                    "Max TV Ghana",
+                    "Sporty TV"
+                ]
+            },
+            {
+                "country": "Hungary",
+                "country_code": "HU",
+                "channels": [
+                    "M4 Sports"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 1"
+                ]
+            },
+            {
+                "country": "Malaysia",
+                "country_code": "MY",
+                "channels": [
+                    "RTM klik"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "SNRT Live"
+                ]
+            },
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "Sporty TV"
+                ]
+            },
+            {
+                "country": "Pakistan",
+                "country_code": "PK",
+                "channels": [
+                    "tapmad"
+                ]
+            },
+            {
+                "country": "Russian Federation",
+                "country_code": "RU",
+                "channels": [
+                    "Match Premier",
+                    "Match TV",
+                    "Match! Football 1"
+                ]
+            },
+            {
+                "country": "Slovenia",
+                "country_code": "SI",
+                "channels": [
+                    "Arena Sport 1 Slovenia"
+                ]
+            },
+            {
+                "country": "South Africa",
+                "country_code": "ZA",
+                "channels": [
+                    "SABC Plus",
+                    "Sporty TV"
+                ]
+            },
+            {
+                "country": "Tanzania",
+                "country_code": "TZ",
+                "channels": [
+                    "Azam Sports 2",
+                    "Sporty TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000018489,
@@ -3059,7 +3551,15 @@
         "league_id": 10721,
         "league": "Saudi First Division",
         "venue": "Prince Abdul Aziz bin Musa'ed Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Thmanyah"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000018490,
@@ -3068,7 +3568,15 @@
         "league_id": 10721,
         "league": "Saudi First Division",
         "venue": "King Abdulaziz Sports City Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Thmanyah"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000018491,
@@ -3077,7 +3585,15 @@
         "league_id": 10721,
         "league": "Saudi First Division",
         "venue": "Prince Abdullah bin Jalawi Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Thmanyah"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000018492,
@@ -3116,30 +3632,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000021427,
-        "kickoff": 1793145600,
-        "fixture": "Benfica U19 vs Pafos FC U19",
+        "match_id": 1000021424,
+        "kickoff": 1793120400,
+        "fixture": "AZ Alkmaar U19 vs Göztepe U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 2nd Round",
-        "venue": "Benfica Campus - Campo Nº 1",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021420,
-        "kickoff": 1793145600,
-        "fixture": "St. Patrick's Athletic U19 vs Žalgiris Vilnius U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 2nd Round",
-        "venue": "Richmond Park",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021428,
-        "kickoff": 1793145600,
-        "fixture": "FCV Farul Constanța U19 vs FC Sheriff U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 2nd Round",
-        "venue": "Stadionul Central",
+        "venue": "AFAS Trainingscomplex",
         "tv_channels": []
     },
     {
@@ -3152,123 +3650,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000021439,
-        "kickoff": 1793145600,
-        "fixture": "FC Zuerich U19 vs Maccabi Tel Aviv U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 2nd Round",
-        "venue": "Stadion Letzigrund",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021422,
-        "kickoff": 1793145600,
-        "fixture": "NK Bravo U19 vs FK Crvena Zvezda U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 2nd Round",
-        "venue": "Športni Center Stanko Mlakar",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021429,
-        "kickoff": 1793145600,
-        "fixture": "Partizani U19 vs Hradec Králové U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 2nd Round",
-        "venue": "Kompleksi Sportiv Dinamo 2",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021423,
-        "kickoff": 1793145600,
-        "fixture": "Dynamo Kyiv U19 vs Rangers U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 2nd Round",
-        "venue": "Podkarpackie Centrum Piłki Nożnej",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021430,
-        "kickoff": 1793145600,
-        "fixture": "MTK Budapest U19 vs Kairat Almaty U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 2nd Round",
-        "venue": "Hidegkuti Nándor Stadion",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021442,
-        "kickoff": 1793145600,
-        "fixture": "AP Brera Strumica U19 vs Hoffenheim U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 2nd Round",
-        "venue": "Stadion Blagoj Istatov",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021424,
-        "kickoff": 1793145600,
-        "fixture": "AZ Alkmaar U19 vs Göztepe U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 2nd Round",
-        "venue": "AFAS Trainingscomplex",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021444,
-        "kickoff": 1793145600,
-        "fixture": "PAOK Thessaloniki FC U19 vs Zrinjski Mostar U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 2nd Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021425,
-        "kickoff": 1793145600,
-        "fixture": "Legia Warszawa U19 vs Clermont Foot U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 2nd Round",
-        "venue": "Legia Training Center",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021431,
-        "kickoff": 1793145600,
-        "fixture": "Hammarby U19 vs SK Super Nova U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 2nd Round",
-        "venue": "Hammarby IP",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021432,
-        "kickoff": 1793145600,
-        "fixture": "Dinamo Tbilisi U19 vs FC København U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 2nd Round",
-        "venue": "Boris Paichadze Dinamo Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021433,
-        "kickoff": 1793145600,
-        "fixture": "Fiorentina U19 vs Septemvri Sofia U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 2nd Round",
-        "venue": "Stadio Curva Fiesole - Viola Park",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021434,
-        "kickoff": 1793145600,
-        "fixture": "HJK U19 vs Žilina U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 2nd Round",
-        "venue": "Bolt Arena",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000021435,
         "kickoff": 1793145600,
         "fixture": "Stabæk U19 vs Cardiff Met FC U19",
@@ -3278,21 +3659,156 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000021426,
-        "kickoff": 1793145600,
-        "fixture": "Flora Tallinn U19 vs Chelsea U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 2nd Round",
-        "venue": "A. Le Coq Arena",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000021436,
         "kickoff": 1793145600,
         "fixture": "Qarabağ FK U19 vs Dinamo Zagreb U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 2nd Round",
         "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021425,
+        "kickoff": 1793181600,
+        "fixture": "Legia Warszawa U19 vs Clermont Foot U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Legia Training Center",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021423,
+        "kickoff": 1793188800,
+        "fixture": "Dynamo Kyiv U19 vs Rangers U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Podkarpackie Centrum Piłki Nożnej",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021428,
+        "kickoff": 1793192400,
+        "fixture": "FCV Farul Constanța U19 vs FC Sheriff U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Stadionul Central",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021429,
+        "kickoff": 1793192400,
+        "fixture": "Partizani U19 vs Hradec Králové U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Kompleksi Sportiv Dinamo 2",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021442,
+        "kickoff": 1793192400,
+        "fixture": "AP Brera Strumica U19 vs Hoffenheim U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Stadion Blagoj Istatov",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021433,
+        "kickoff": 1793194200,
+        "fixture": "Fiorentina U19 vs Septemvri Sofia U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Stadio Curva Fiesole - Viola Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021427,
+        "kickoff": 1793203200,
+        "fixture": "Benfica U19 vs Pafos FC U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Benfica Campus - Campo Nº 1",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021420,
+        "kickoff": 1793215800,
+        "fixture": "St. Patrick's Athletic U19 vs Žalgiris Vilnius U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Richmond Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021439,
+        "kickoff": 1793210400,
+        "fixture": "FC Zuerich U19 vs Maccabi Tel Aviv U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Stadion Letzigrund",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021455,
+        "kickoff": 1793199600,
+        "fixture": "Zrinjski Mostar U19 vs PAOK Thessaloniki FC U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Pomoćni teren HŠK Zrinjski",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021422,
+        "kickoff": 1793206800,
+        "fixture": "NK Bravo U19 vs FK Crvena Zvezda U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Športni Center Stanko Mlakar",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021430,
+        "kickoff": 1793206800,
+        "fixture": "MTK Budapest U19 vs Kairat Almaty U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Hidegkuti Nándor Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021431,
+        "kickoff": 1793210400,
+        "fixture": "Hammarby U19 vs SK Super Nova U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Hammarby IP",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021432,
+        "kickoff": 1793199600,
+        "fixture": "Dinamo Tbilisi U19 vs FC København U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Boris Paichadze Dinamo Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021434,
+        "kickoff": 1793206800,
+        "fixture": "HJK U19 vs Žilina U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Bolt Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021426,
+        "kickoff": 1793206800,
+        "fixture": "Flora Tallinn U19 vs Chelsea U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "A. Le Coq Arena",
         "tv_channels": []
     },
     {
@@ -3782,6 +4298,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000022275,
+        "kickoff": 1793210400,
+        "fixture": "Real Sociedad vs Fenerbahçe",
+        "league_id": 11129,
+        "league": "UEFA Women's Europa Cup - 8th Finals",
+        "venue": "Estadio Izan",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000022277,
         "kickoff": 1793206800,
         "fixture": "Brann vs Czarni Sosnowiec",
@@ -3791,21 +4316,21 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000022278,
+        "kickoff": 1793212200,
+        "fixture": "Ajax vs Malmö FF",
+        "league_id": 11129,
+        "league": "UEFA Women's Europa Cup - 8th Finals",
+        "venue": "Sportpark De Toekomst",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000022280,
         "kickoff": 1793206800,
         "fixture": "Spartak Myjava vs Hammarby IF",
         "league_id": 11129,
         "league": "UEFA Women's Europa Cup - 8th Finals",
         "venue": "Futbalový štadión",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000022275,
-        "kickoff": 1793210400,
-        "fixture": "Real Sociedad vs Fenerbahçe",
-        "league_id": 11129,
-        "league": "UEFA Women's Europa Cup - 8th Finals",
-        "venue": "Estadio Izan",
         "tv_channels": []
     },
     {
@@ -3824,15 +4349,6 @@
         "league_id": 11129,
         "league": "UEFA Women's Europa Cup - 8th Finals",
         "venue": "AOK Stadion",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000022278,
-        "kickoff": 1793212200,
-        "fixture": "Ajax vs Malmö FF",
-        "league_id": 11129,
-        "league": "UEFA Women's Europa Cup - 8th Finals",
-        "venue": "Sportpark De Toekomst",
         "tv_channels": []
     }
 ]
