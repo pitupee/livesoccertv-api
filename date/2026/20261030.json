@@ -6,7 +6,16 @@
         "league_id": 133,
         "league": "EFL Cup",
         "venue": "Hill Dickinson Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5749723,
@@ -15,7 +24,57 @@
         "league_id": 55,
         "league": "Serie A",
         "venue": "Stadio Benito Stirpe",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "Tring Sport 1"
+                ]
+            },
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Indonesia",
+                "country_code": "ID",
+                "channels": [
+                    "Vidio"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "STARZPLAY"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "STARZPLAY"
+                ]
+            },
+            {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "S Sport"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5749722,
@@ -24,7 +83,57 @@
         "league_id": 55,
         "league": "Serie A",
         "venue": "Stadio Artemio Franchi",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "Tring Sport 1"
+                ]
+            },
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Indonesia",
+                "country_code": "ID",
+                "channels": [
+                    "Vidio"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "STARZPLAY"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "STARZPLAY"
+                ]
+            },
+            {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "S Sport"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6283982,
@@ -45,9 +154,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 6281883,
-        "kickoff": 1793329200,
-        "fixture": "CD Olimpia vs C.S. Cartaginés",
+        "match_id": 6281882,
+        "kickoff": 1793325600,
+        "fixture": "LD Alajuelense vs FC Motagua",
         "league_id": 9682,
         "league": "CONCACAF Central American Cup",
         "venue": "TBA",
@@ -104,7 +213,7 @@
         "fixture": "CD Laredo vs Burgos CF",
         "league_id": 138,
         "league": "Copa del Rey",
-        "venue": "Campo San Lorenzo",
+        "venue": "Estadio El Paloma",
         "tv_channels": []
     },
     {
@@ -113,7 +222,7 @@
         "fixture": "CD Varea vs FC Andorra",
         "league_id": 138,
         "league": "Copa del Rey",
-        "venue": "Estadio Municipal de Varea",
+        "venue": "Estadio Municipal Las Gaunas",
         "tv_channels": []
     },
     {
@@ -167,7 +276,7 @@
         "fixture": "Ribadesella CF vs Racing Santander",
         "league_id": 138,
         "league": "Copa del Rey",
-        "venue": "TBA",
+        "venue": "Estadio Oreyana",
         "tv_channels": []
     },
     {
@@ -176,7 +285,7 @@
         "fixture": "Sporting Hortaleza vs Sevilla",
         "league_id": 138,
         "league": "Copa del Rey",
-        "venue": "TBA",
+        "venue": "Estadio Municipal Virgen del Val",
         "tv_channels": []
     },
     {
@@ -261,22 +370,22 @@
         "tv_channels": []
     },
     {
-        "match_id": 6362008,
-        "kickoff": 1793368800,
-        "fixture": "Northeast United FC vs Bengaluru FC",
-        "league_id": 9478,
-        "league": "Indian Super League",
-        "venue": "Indira Gandhi Athletic Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 5944199,
         "kickoff": 1793295000,
         "fixture": "Egnatia vs Teuta Durrës",
         "league_id": 260,
         "league": "Kategoria Superiore",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "RTSH App",
+                    "RTSH Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6321630,
@@ -465,7 +574,15 @@
         "league_id": 8970,
         "league": "Ligue 3",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5996755,
@@ -555,7 +672,15 @@
         "league_id": 9066,
         "league": "Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Tanzania",
+                "country_code": "TZ",
+                "channels": [
+                    "Azam Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5833592,
@@ -726,7 +851,22 @@
         "league_id": 9375,
         "league": "Women's Champions League",
         "venue": "Generali Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Disney+ (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6148605,
@@ -735,7 +875,22 @@
         "league_id": 9375,
         "league": "Women's Champions League",
         "venue": "Stade Sébastien-Charléty",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Disney+ (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6148625,
@@ -744,7 +899,22 @@
         "league_id": 9375,
         "league": "Women's Champions League",
         "venue": "Capelli Sport Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Disney+ (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6148616,
@@ -753,7 +923,22 @@
         "league_id": 9375,
         "league": "Women's Champions League",
         "venue": "Joie Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Disney+ (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000017569,
@@ -798,6 +983,15 @@
         "league_id": 8982,
         "league": "I League",
         "venue": "TRC Polo Synthetic Turf Ground",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6362008,
+        "kickoff": 1793368800,
+        "fixture": "Northeast United FC vs Bengaluru FC",
+        "league_id": 9478,
+        "league": "Indian Super League",
+        "venue": "Indira Gandhi Athletic Stadium",
         "tv_channels": []
     },
     {
@@ -888,7 +1082,45 @@
         "league_id": 274,
         "league": "Primera A",
         "venue": "Estadio Olímpico Pascual Guerrero",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bosnia and Herzegovina",
+                "country_code": "BA",
+                "channels": [
+                    "Arena Sport 2P"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 1"
+                ]
+            },
+            {
+                "country": "Malaysia",
+                "country_code": "MY",
+                "channels": [
+                    "Unifi TV"
+                ]
+            },
+            {
+                "country": "Russian Federation",
+                "country_code": "RU",
+                "channels": [
+                    "Match Premier",
+                    "Match TV",
+                    "Match! Football 1"
+                ]
+            },
+            {
+                "country": "Ukraine",
+                "country_code": "UA",
+                "channels": [
+                    "Megogo"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000014087,
@@ -897,7 +1129,116 @@
         "league_id": 274,
         "league": "Primera A",
         "venue": "Estadio Atanasio Girardot",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport 2 Digitalb"
+                ]
+            },
+            {
+                "country": "Bangladesh",
+                "country_code": "BD",
+                "channels": [
+                    "T Sports"
+                ]
+            },
+            {
+                "country": "Bosnia and Herzegovina",
+                "country_code": "BA",
+                "channels": [
+                    "Moja TV"
+                ]
+            },
+            {
+                "country": "Georgia",
+                "country_code": "GE",
+                "channels": [
+                    "Setanta Sports Georgia"
+                ]
+            },
+            {
+                "country": "Ghana",
+                "country_code": "GH",
+                "channels": [
+                    "Max TV Ghana",
+                    "Sporty TV"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 1"
+                ]
+            },
+            {
+                "country": "Malaysia",
+                "country_code": "MY",
+                "channels": [
+                    "Unifi TV"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "SNRT Live"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "country_code": "NZ",
+                "channels": [
+                    "TVNZ+"
+                ]
+            },
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "Sporty TV"
+                ]
+            },
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Antena Play"
+                ]
+            },
+            {
+                "country": "Slovenia",
+                "country_code": "SI",
+                "channels": [
+                    "Arena Sport 1 Slovenia"
+                ]
+            },
+            {
+                "country": "South Africa",
+                "country_code": "ZA",
+                "channels": [
+                    "SABC Plus",
+                    "Sporty TV"
+                ]
+            },
+            {
+                "country": "Tanzania",
+                "country_code": "TZ",
+                "channels": [
+                    "Azam Sports 2",
+                    "Sporty TV"
+                ]
+            },
+            {
+                "country": "Ukraine",
+                "country_code": "UA",
+                "channels": [
+                    "Megogo"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000022227,
@@ -933,7 +1274,15 @@
         "league_id": 536,
         "league": "Saudi Pro League",
         "venue": "Al-Awwal Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Thmanyah"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5970194,
@@ -942,7 +1291,15 @@
         "league_id": 536,
         "league": "Saudi Pro League",
         "venue": "SHG Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Thmanyah"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5970182,
@@ -996,15 +1353,6 @@
         "league_id": 268,
         "league": "Série A",
         "venue": "Arena MRV",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5103691,
-        "kickoff": 1793313000,
-        "fixture": "Coritiba vs Vitória",
-        "league_id": 268,
-        "league": "Série A",
-        "venue": "Estádio Major Antônio Couto Pereira",
         "tv_channels": []
     },
     {
