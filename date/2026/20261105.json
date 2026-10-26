@@ -6,7 +6,24 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "ALLWYN Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "TNT Sports 3"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 3"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106330,
@@ -15,7 +32,24 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "TNT Sports 1"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106271,
@@ -24,7 +58,24 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "SIGNAL IDUNA PARK",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "TNT Sports 4"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 4"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106288,
@@ -33,7 +84,23 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Estádio Do Dragão",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "TNT Sports 6"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 6"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106416,
@@ -42,7 +109,23 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Stade Bollaert-Delelis",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "TNT Sports 7"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 7"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106303,
@@ -51,7 +134,23 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Philips Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "TNT Sports 5"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 5"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106322,
@@ -60,7 +159,24 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Red Bull Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "TNT Sports 2"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106389,
@@ -69,7 +185,24 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Fortuna Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "TNT Sports 1"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6106420,
@@ -78,7 +211,23 @@
         "league_id": 42,
         "league": "Champions League",
         "venue": "Lyse Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "TNT Sports 8"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 8"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5943695,
@@ -315,6 +464,33 @@
         "tv_channels": []
     },
     {
+        "match_id": 6028608,
+        "kickoff": 1793883600,
+        "fixture": "Al Kahrabaa vs Zakho",
+        "league_id": 524,
+        "league": "Stars League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6028615,
+        "kickoff": 1793886300,
+        "fixture": "Diyala vs Al Minaa",
+        "league_id": 524,
+        "league": "Stars League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6028610,
+        "kickoff": 1793892600,
+        "fixture": "Al-Mosul vs Duhok",
+        "league_id": 524,
+        "league": "Stars League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6054379,
         "kickoff": 1793808000,
         "fixture": "Al-Wahda vs Al Khalidiyah",
@@ -447,7 +623,30 @@
         "league_id": 48,
         "league": "Championship",
         "venue": "Ashton Gate Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports Football",
+                    "Sky Sports Main Event",
+                    "Sky Sports Main Event UHD",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports Football",
+                    "Sky Sports Main Event",
+                    "Sky Sports Main Event UHD",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000015487,
@@ -603,84 +802,30 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000021468,
-        "kickoff": 1793836800,
-        "fixture": "Al Ahli vs Al-Taawoun",
+        "match_id": 1000021474,
+        "kickoff": 1793885100,
+        "fixture": "Al Kholood vs Al Khaleej",
         "league_id": 536,
         "league": "Saudi Pro League",
-        "venue": "TBA",
+        "venue": "Ar-Rass Stadium (Al Hazm Club Stadium)",
         "tv_channels": []
     },
     {
         "match_id": 1000021469,
-        "kickoff": 1793836800,
+        "kickoff": 1793891400,
         "fixture": "Abha vs Al Shabab",
         "league_id": 536,
         "league": "Saudi Pro League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021470,
-        "kickoff": 1793836800,
-        "fixture": "Al-Ettifaq vs Al Hilal",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021471,
-        "kickoff": 1793836800,
-        "fixture": "Al Fateh FC vs Al Riyadh",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021472,
-        "kickoff": 1793836800,
-        "fixture": "Al Hazem vs Al Nassr FC",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021473,
-        "kickoff": 1793836800,
-        "fixture": "Al Ittihad vs Neom SC",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021474,
-        "kickoff": 1793836800,
-        "fixture": "Al Kholood vs Al Khaleej",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021475,
-        "kickoff": 1793836800,
-        "fixture": "Al-Faisaly vs Al Diriyah",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "TBA",
+        "venue": "Prince Sultan bin Abdulaziz Sports City Stadium",
         "tv_channels": []
     },
     {
         "match_id": 1000021476,
-        "kickoff": 1793836800,
+        "kickoff": 1793899800,
         "fixture": "Al Qadsiah vs Al-Fayha",
         "league_id": 536,
         "league": "Saudi Pro League",
-        "venue": "TBA",
+        "venue": "Prince Mohammed Bin Fahd Stadium",
         "tv_channels": []
     },
     {
