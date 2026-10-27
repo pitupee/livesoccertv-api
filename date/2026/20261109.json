@@ -432,6 +432,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 5897660,
+        "kickoff": 1794157200,
+        "fixture": "Spartak Kostroma vs Nizhny Novgorod",
+        "league_id": 338,
+        "league": "First League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5897663,
+        "kickoff": 1794241800,
+        "fixture": "Veles Moscow vs KamAZ",
+        "league_id": 338,
+        "league": "First League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5760520,
         "kickoff": 1794150000,
         "fixture": "Levski Sofia vs CSKA Sofia",
@@ -716,6 +734,24 @@
         "fixture": "Torreense vs União de Leiria",
         "league_id": 185,
         "league": "Liga Portugal 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5989877,
+        "kickoff": 1794156300,
+        "fixture": "ES Ben Aknoun vs CR Bélouizdad",
+        "league_id": 516,
+        "league": "Ligue 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5989876,
+        "kickoff": 1794156300,
+        "fixture": "JS Saoura vs CS Constantine",
+        "league_id": 516,
+        "league": "Ligue 1",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -1701,33 +1737,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5200692,
-        "kickoff": 1794153600,
-        "fixture": "Buxoro vs Nasaf Qarshi",
-        "league_id": 540,
-        "league": "Superliga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5200694,
-        "kickoff": 1794153600,
-        "fixture": "Neftchi Fargona vs AGMK",
-        "league_id": 540,
-        "league": "Superliga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5200695,
-        "kickoff": 1794153600,
-        "fixture": "Pakhtakor Tashkent vs Kokand 1912",
-        "league_id": 540,
-        "league": "Superliga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5739544,
         "kickoff": 1794150000,
         "fixture": "Randers FC vs Nordsjælland",
@@ -1813,7 +1822,7 @@
         "kickoff": 1794168000,
         "fixture": "Vasco da Gama vs Palmeiras",
         "league_id": 9067,
-        "league": "Copa do Brasil - Semi-finals",
+        "league": "Copa do Brasil",
         "venue": "Estádio São Januário",
         "tv_channels": []
     },
@@ -1836,15 +1845,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000017295,
-        "kickoff": 1794160800,
-        "fixture": "Los Chankas vs Alianza Lima",
-        "league_id": 131,
-        "league": "Liga 1",
-        "venue": "Estadio Los Chankas",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000017294,
         "kickoff": 1794169800,
         "fixture": "Sport Boys vs CD UT Cajamarca",
@@ -1854,12 +1854,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000017299,
-        "kickoff": 1794178800,
-        "fixture": "Deportivo Garcilaso vs Comerciantes Unidos",
+        "match_id": 1000017295,
+        "kickoff": 1794160800,
+        "fixture": "Los Chankas vs Alianza Lima",
         "league_id": 131,
         "league": "Liga 1",
-        "venue": "Estadio Inca Garcilaso de la Vega",
+        "venue": "Estadio Los Chankas",
         "tv_channels": []
     },
     {
@@ -1869,6 +1869,15 @@
         "league_id": 131,
         "league": "Liga 1",
         "venue": "Estadio Monumental U Marathon",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017299,
+        "kickoff": 1794178800,
+        "fixture": "Deportivo Garcilaso vs Comerciantes Unidos",
+        "league_id": 131,
+        "league": "Liga 1",
+        "venue": "Estadio Inca Garcilaso de la Vega",
         "tv_channels": []
     },
     {
@@ -1908,21 +1917,30 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000014223,
-        "kickoff": 1794164400,
-        "fixture": "Chicó FC vs Internacional de Bogotá",
-        "league_id": 274,
-        "league": "Primera A",
-        "venue": "Estadio de La Independencia",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000014218,
         "kickoff": 1794171900,
         "fixture": "CD Jaguares vs Bucaramanga",
         "league_id": 274,
         "league": "Primera A",
         "venue": "Estadio de Fútbol Jaraguay de Montería",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000014221,
+        "kickoff": 1794186900,
+        "fixture": "Alianza FC vs Llaneros FC",
+        "league_id": 274,
+        "league": "Primera A",
+        "venue": "Estadio Armando Maestre Pavajeau",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000014223,
+        "kickoff": 1794164400,
+        "fixture": "Chicó FC vs Internacional de Bogotá",
+        "league_id": 274,
+        "league": "Primera A",
+        "venue": "Estadio de La Independencia",
         "tv_channels": []
     },
     {
@@ -1935,12 +1953,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000014221,
-        "kickoff": 1794186900,
-        "fixture": "Alianza FC vs Llaneros FC",
-        "league_id": 274,
-        "league": "Primera A",
-        "venue": "Estadio Armando Maestre Pavajeau",
+        "match_id": 1000022584,
+        "kickoff": 1794173400,
+        "fixture": "Portuguesa FC vs Metropolitanos FC",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio General José Antonio Páez",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022585,
+        "kickoff": 1794180600,
+        "fixture": "Deportivo La Guaira vs Carabobo FC",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio Olímpico de la UCV",
         "tv_channels": []
     },
     {
@@ -1968,24 +1995,6 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio Ramón Aguilera Costas",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000022584,
-        "kickoff": 1794173400,
-        "fixture": "Portuguesa FC vs Metropolitanos FC",
-        "league_id": 339,
-        "league": "Primera División",
-        "venue": "Estadio General José Antonio Páez",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000022585,
-        "kickoff": 1794180600,
-        "fixture": "Deportivo La Guaira vs Carabobo FC",
-        "league_id": 339,
-        "league": "Primera División",
-        "venue": "Estadio Olímpico de la UCV",
         "tv_channels": []
     },
     {

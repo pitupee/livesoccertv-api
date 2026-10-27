@@ -28,7 +28,6 @@
                 "country_code": "AM",
                 "channels": [
                     "FAST TV",
-                    "Fast Sports 1",
                     "FastTV"
                 ]
             },
@@ -55,13 +54,6 @@
                 ]
             },
             {
-                "country": "Belgium",
-                "country_code": "BE",
-                "channels": [
-                    "DAZN (BE)"
-                ]
-            },
-            {
                 "country": "Bolivia",
                 "country_code": "BO",
                 "channels": [
@@ -75,13 +67,6 @@
                 "channels": [
                     "CazeTV",
                     "CazéTV YouTube"
-                ]
-            },
-            {
-                "country": "Canada",
-                "country_code": "CA",
-                "channels": [
-                    "TSN+"
                 ]
             },
             {
@@ -116,6 +101,13 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "MAXtv To Go"
+                ]
+            },
+            {
                 "country": "Cyprus",
                 "country_code": "CY",
                 "channels": [
@@ -124,13 +116,6 @@
                     "Cytavision Sports 4K",
                     "Cytavision Sports 8",
                     "Cytavision on the Go"
-                ]
-            },
-            {
-                "country": "Czechia",
-                "country_code": "CZ",
-                "channels": [
-                    "Nova Sport 4"
                 ]
             },
             {
@@ -154,24 +139,7 @@
                 "channels": [
                     "Go3 Extra Sports Estonia",
                     "Go3 Sport 2",
-                    "Setanta Sports",
                     "Setanta Sports 2"
-                ]
-            },
-            {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "Disney+ Suomi"
-                ]
-            },
-            {
-                "country": "France",
-                "country_code": "FR",
-                "channels": [
-                    "DAZN 1 (FR)",
-                    "DAZN.com (FR)",
-                    "Disney+ (FR)"
                 ]
             },
             {
@@ -179,13 +147,6 @@
                 "country_code": "GE",
                 "channels": [
                     "Silk Universal"
-                ]
-            },
-            {
-                "country": "Germany",
-                "country_code": "DE",
-                "channels": [
-                    "DAZN Deutschland"
                 ]
             },
             {
@@ -202,7 +163,6 @@
                 "country": "Greece",
                 "country_code": "GR",
                 "channels": [
-                    "Magenta Sport 3 League",
                     "MagentaSport 3"
                 ]
             },
@@ -230,13 +190,6 @@
                 ]
             },
             {
-                "country": "India",
-                "country_code": "IN",
-                "channels": [
-                    "Fancode"
-                ]
-            },
-            {
                 "country": "Indonesia",
                 "country_code": "ID",
                 "channels": [
@@ -254,17 +207,11 @@
                 ]
             },
             {
-                "country": "Italy",
-                "country_code": "IT",
-                "channels": [
-                    "DAZN Italia"
-                ]
-            },
-            {
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
-                    "DAZN"
+                    "DAZN",
+                    "U-NEXT"
                 ]
             },
             {
@@ -274,7 +221,6 @@
                     "Go3 Extra Sports Estonia",
                     "Go3 Extra Sports Latvia",
                     "Go3 Sport 2",
-                    "Setanta Sports",
                     "Setanta Sports 2"
                 ]
             },
@@ -285,7 +231,6 @@
                     "Go3 Extra Sports Estonia",
                     "Go3 Extra Sports Lithuania",
                     "Go3 Sport 2",
-                    "Setanta Sports",
                     "Setanta Sports 2"
                 ]
             },
@@ -324,7 +269,6 @@
                 "country": "Montenegro",
                 "country_code": "ME",
                 "channels": [
-                    "Bein Sports 4",
                     "TOD",
                     "beIN SPORTS CONNECT",
                     "beIN Sports 5",
@@ -335,18 +279,10 @@
                 "country": "Morocco",
                 "country_code": "MA",
                 "channels": [
-                    "Bein Sports 4",
                     "TOD",
                     "beIN SPORTS CONNECT",
                     "beIN Sports 5",
                     "beIN Sports English"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "Ziggo Sport 2"
                 ]
             },
             {
@@ -379,15 +315,6 @@
                 "channels": [
                     "ARENA SPORT PREMIUM 1",
                     "Arena Cloud"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "TV 2 Play (NO)",
-                    "TV 2 Sport 1",
-                    "Viaplay NO"
                 ]
             },
             {
@@ -447,6 +374,7 @@
                 "country": "Romania",
                 "country_code": "RO",
                 "channels": [
+                    "Digi Online",
                     "Orange TV Go",
                     "Prima Play",
                     "Prima Sport 3",
@@ -476,7 +404,6 @@
                 "country_code": "SG",
                 "channels": [
                     "StarHub TV+",
-                    "beIN SPORTS 1",
                     "beIN Sports Connect Singapore"
                 ]
             },
@@ -521,13 +448,6 @@
                 ]
             },
             {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "Disney+ Sverige"
-                ]
-            },
-            {
                 "country": "Switzerland",
                 "country_code": "CH",
                 "channels": [
@@ -556,8 +476,7 @@
                 "country": "Türkiye",
                 "country_code": "TR",
                 "channels": [
-                    "S Sport",
-                    "S Sport Plus"
+                    "S Sport"
                 ]
             },
             {
@@ -573,10 +492,7 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
-                    "ESPN Deportes",
-                    "ESPN Select",
-                    "ESPN Unlimited",
-                    "Fubo Sports"
+                    "ESPN Select"
                 ]
             },
             {
@@ -609,7 +525,6 @@
                 "country": "Albania",
                 "country_code": "AL",
                 "channels": [
-                    "Super Sport 2 HD",
                     "Super Sport 3 HD"
                 ]
             },
@@ -631,6 +546,13 @@
                 ]
             },
             {
+                "country": "Armenia",
+                "country_code": "AM",
+                "channels": [
+                    "FastTV"
+                ]
+            },
+            {
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
@@ -642,15 +564,6 @@
                 "country_code": "BD",
                 "channels": [
                     "STAR Sports Select 2"
-                ]
-            },
-            {
-                "country": "Belgium",
-                "country_code": "BE",
-                "channels": [
-                    "DAZN (BE)",
-                    "DAZN 1 (BE)",
-                    "DAZN 2 (BE)"
                 ]
             },
             {
@@ -684,13 +597,6 @@
                     "DIEMA SPORT 2 HD",
                     "Diema Sport 2",
                     "Play Diema Xtra"
-                ]
-            },
-            {
-                "country": "Canada",
-                "country_code": "CA",
-                "channels": [
-                    "beIN Sport Canada Espanol"
                 ]
             },
             {
@@ -738,7 +644,6 @@
                 "country_code": "CY",
                 "channels": [
                     "Cablenet Sports 2 HD",
-                    "Cablenet Sports 3",
                     "Cablenet TV Go",
                     "Cytavision on the Go"
                 ]
@@ -763,40 +668,22 @@
                 "country": "Estonia",
                 "country_code": "EE",
                 "channels": [
-                    "Go3 Sport 1",
                     "Go3 Sport 2",
                     "Setanta Sports 2"
-                ]
-            },
-            {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "V Sport Premium FI",
-                    "Viaplay FI"
                 ]
             },
             {
                 "country": "France",
                 "country_code": "FR",
                 "channels": [
-                    "DAZN.com (FR)",
                     "Ligue 1+"
-                ]
-            },
-            {
-                "country": "Germany",
-                "country_code": "DE",
-                "channels": [
-                    "DAZN Deutschland"
                 ]
             },
             {
                 "country": "Ghana",
                 "country_code": "GH",
                 "channels": [
-                    "DStv Now",
-                    "SuperSport Kickoff"
+                    "DStv Now"
                 ]
             },
             {
@@ -842,7 +729,6 @@
                 "country": "Israel",
                 "country_code": "IL",
                 "channels": [
-                    "Sport 5 HD",
                     "Sport 5MAX"
                 ]
             },
@@ -857,7 +743,6 @@
                 "country": "Laos",
                 "country_code": "LA",
                 "channels": [
-                    "Go3 Sport 1",
                     "Go3 Sport 2",
                     "Setanta Sports 2"
                 ]
@@ -866,7 +751,6 @@
                 "country": "Liechtenstein",
                 "country_code": "LI",
                 "channels": [
-                    "Go3 Sport 1",
                     "Go3 Sport 2",
                     "Setanta Sports 2"
                 ]
@@ -875,7 +759,8 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
-                    "FOX One"
+                    "FOX One",
+                    "FOX+"
                 ]
             },
             {
@@ -891,10 +776,8 @@
                 "country_code": "ME",
                 "channels": [
                     "TOD",
-                    "beIN 4K Arabia",
                     "beIN SPORTS CONNECT",
-                    "beIN Sports 1",
-                    "beIN Sports 2 France"
+                    "beIN Sports 1"
                 ]
             },
             {
@@ -902,17 +785,8 @@
                 "country_code": "MA",
                 "channels": [
                     "TOD",
-                    "beIN 4K Arabia",
                     "beIN SPORTS CONNECT",
-                    "beIN Sports 1",
-                    "beIN Sports 2 France"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "Viaplay NL"
+                    "beIN Sports 1"
                 ]
             },
             {
@@ -924,26 +798,11 @@
                 ]
             },
             {
-                "country": "Nigeria",
-                "country_code": "NG",
-                "channels": [
-                    "SuperSport Kickoff"
-                ]
-            },
-            {
                 "country": "North Macedonia",
                 "country_code": "MK",
                 "channels": [
                     "Arena Cloud",
                     "Arena Premium 3"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "TV 2 Play (NO)",
-                    "Viaplay NO"
                 ]
             },
             {
@@ -990,6 +849,7 @@
                 "country_code": "PT",
                 "channels": [
                     "Fanatiz",
+                    "Sport TV 2",
                     "Sport TV 4"
                 ]
             },
@@ -998,8 +858,7 @@
                 "country_code": "RS",
                 "channels": [
                     "Arena Cloud",
-                    "Arena Premium 3",
-                    "Arena Premium 4"
+                    "Arena Premium 3"
                 ]
             },
             {
@@ -1008,20 +867,6 @@
                 "channels": [
                     "Nova Sport 3",
                     "Voyo"
-                ]
-            },
-            {
-                "country": "Slovenia",
-                "country_code": "SI",
-                "channels": [
-                    "Arena Sport 1 Slovenia"
-                ]
-            },
-            {
-                "country": "South Africa",
-                "country_code": "ZA",
-                "channels": [
-                    "SuperSport Kickoff"
                 ]
             },
             {
@@ -1039,14 +884,6 @@
                 ]
             },
             {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "V Sport Premium",
-                    "Viaplay SE"
-                ]
-            },
-            {
                 "country": "Switzerland",
                 "country_code": "CH",
                 "channels": [
@@ -1057,8 +894,7 @@
                 "country": "Tanzania",
                 "country_code": "TZ",
                 "channels": [
-                    "DStv Now",
-                    "SuperSport Kickoff"
+                    "DStv Now"
                 ]
             },
             {
@@ -1074,8 +910,7 @@
                 "channels": [
                     "TOD",
                     "beIN CONNECT Turkey",
-                    "beIN SPORTS CONNECT",
-                    "beIN Sports 3 Turkey"
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
@@ -1083,14 +918,6 @@
                 "country_code": "UA",
                 "channels": [
                     "Megogo"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "Ligue 1+ (UK IR)",
-                    "Prime Video PPV (UK)"
                 ]
             },
             {
@@ -1159,10 +986,25 @@
                 ]
             },
             {
+                "country": "Bulgaria",
+                "country_code": "BG",
+                "channels": [
+                    "Diema Sport 3",
+                    "Play Diema Xtra"
+                ]
+            },
+            {
                 "country": "China",
                 "country_code": "CN",
                 "channels": [
                     "Migu"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "MAXtv To Go"
                 ]
             },
             {
@@ -1272,6 +1114,13 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "MAXtv To Go"
+                ]
+            },
+            {
                 "country": "Hong Kong",
                 "country_code": "HK",
                 "channels": [
@@ -1366,10 +1215,25 @@
                 ]
             },
             {
+                "country": "Bulgaria",
+                "country_code": "BG",
+                "channels": [
+                    "Nova Sport",
+                    "Nova Sport HD"
+                ]
+            },
+            {
                 "country": "China",
                 "country_code": "CN",
                 "channels": [
                     "Migu"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "MAXtv To Go"
                 ]
             },
             {
@@ -1471,6 +1335,13 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "MAXtv To Go"
+                ]
+            },
+            {
                 "country": "Hong Kong",
                 "country_code": "HK",
                 "channels": [
@@ -1562,10 +1433,25 @@
                 ]
             },
             {
+                "country": "Bulgaria",
+                "country_code": "BG",
+                "channels": [
+                    "Diema Sport 3",
+                    "Play Diema Xtra"
+                ]
+            },
+            {
                 "country": "China",
                 "country_code": "CN",
                 "channels": [
                     "Migu"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "MAXtv To Go"
                 ]
             },
             {
@@ -1662,10 +1548,25 @@
                 ]
             },
             {
+                "country": "Bulgaria",
+                "country_code": "BG",
+                "channels": [
+                    "Nova Sport",
+                    "Nova Sport HD"
+                ]
+            },
+            {
                 "country": "China",
                 "country_code": "CN",
                 "channels": [
                     "Migu"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "MAXtv To Go"
                 ]
             },
             {
@@ -1779,11 +1680,10 @@
                 ]
             },
             {
-                "country": "Germany",
-                "country_code": "DE",
+                "country": "Croatia",
+                "country_code": "HR",
                 "channels": [
-                    "Sportdigital+",
-                    "Sportdigital1+"
+                    "MAXtv To Go"
                 ]
             },
             {
@@ -1811,7 +1711,6 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "Astro Grandstand",
                     "sooka"
                 ]
             },
@@ -1819,27 +1718,23 @@
                 "country": "Montenegro",
                 "country_code": "ME",
                 "channels": [
-                    "Bein Sports 2",
                     "TOD",
-                    "beIN SPORTS CONNECT",
-                    "beIN Sports English"
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
                 "country": "Morocco",
                 "country_code": "MA",
                 "channels": [
-                    "Bein Sports 2",
                     "TOD",
-                    "beIN SPORTS CONNECT",
-                    "beIN Sports English"
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
-                "country": "Slovenia",
-                "country_code": "SI",
+                "country": "Portugal",
+                "country_code": "PT",
                 "channels": [
-                    "Sportklub 6 Slovenia"
+                    "Canal 11"
                 ]
             },
             {
@@ -1866,17 +1761,17 @@
                 ]
             },
             {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "D-Smart GO"
+                ]
+            },
+            {
                 "country": "Ukraine",
                 "country_code": "UA",
                 "channels": [
                     "Sport 1 Ukraine"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "Youtube UK"
                 ]
             }
         ]
@@ -1918,38 +1813,10 @@
                 ]
             },
             {
-                "country": "Malaysia",
-                "country_code": "MY",
-                "channels": [
-                    "Astro Arena Bola"
-                ]
-            },
-            {
-                "country": "Montenegro",
-                "country_code": "ME",
-                "channels": [
-                    "Bein Sports 3"
-                ]
-            },
-            {
-                "country": "Morocco",
-                "country_code": "MA",
-                "channels": [
-                    "Bein Sports 3"
-                ]
-            },
-            {
                 "country": "Spain",
                 "country_code": "ES",
                 "channels": [
                     "The AFC Hub YouTube"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "Youtube UK"
                 ]
             }
         ]
@@ -2052,15 +1919,6 @@
                 ]
             },
             {
-                "country": "Germany",
-                "country_code": "DE",
-                "channels": [
-                    "OneFootball Deutschland",
-                    "Sportdigital+",
-                    "Sportdigital1+"
-                ]
-            },
-            {
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
@@ -2106,7 +1964,6 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "Astro Football",
                     "sooka"
                 ]
             },
@@ -2121,7 +1978,6 @@
                 "country": "Montenegro",
                 "country_code": "ME",
                 "channels": [
-                    "Bein Sports 3",
                     "TOD",
                     "beIN SPORTS CONNECT"
                 ]
@@ -2130,7 +1986,6 @@
                 "country": "Morocco",
                 "country_code": "MA",
                 "channels": [
-                    "Bein Sports 3",
                     "TOD",
                     "beIN SPORTS CONNECT"
                 ]
@@ -2167,14 +2022,8 @@
                 "country": "Portugal",
                 "country_code": "PT",
                 "channels": [
-                    "CMTV"
-                ]
-            },
-            {
-                "country": "Slovenia",
-                "country_code": "SI",
-                "channels": [
-                    "Sportklub 6 Slovenia"
+                    "CMTV",
+                    "Canal 11"
                 ]
             },
             {
@@ -2213,13 +2062,6 @@
                 "country_code": "UA",
                 "channels": [
                     "Sport 1 Ukraine"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "Youtube UK"
                 ]
             },
             {
@@ -2355,40 +2197,11 @@
                 ]
             },
             {
-                "country": "Malaysia",
-                "country_code": "MY",
-                "channels": [
-                    "Astro Arena Bola 2"
-                ]
-            },
-            {
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
                     "Disney+ Premium",
                     "ESPN 3"
-                ]
-            },
-            {
-                "country": "Montenegro",
-                "country_code": "ME",
-                "channels": [
-                    "Bein Sports 2"
-                ]
-            },
-            {
-                "country": "Morocco",
-                "country_code": "MA",
-                "channels": [
-                    "Bein Sports 2"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "ESPN 2 NL",
-                    "ESPN Watch NL"
                 ]
             },
             {
@@ -2428,13 +2241,6 @@
                 "country_code": "ES",
                 "channels": [
                     "The AFC Hub YouTube"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "Youtube UK"
                 ]
             },
             {
@@ -2489,6 +2295,7 @@
                 "country": "Croatia",
                 "country_code": "HR",
                 "channels": [
+                    "MAXtv To Go",
                     "Sportklub 10 Croatia"
                 ]
             },
@@ -2517,7 +2324,6 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "Astro Arena Bola",
                     "Astro Go",
                     "sooka"
                 ]
@@ -2553,17 +2359,17 @@
                 ]
             },
             {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "D-Smart GO"
+                ]
+            },
+            {
                 "country": "Ukraine",
                 "country_code": "UA",
                 "channels": [
                     "Sport 2"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "Youtube UK"
                 ]
             }
         ]
@@ -2591,10 +2397,26 @@
                 ]
             },
             {
+                "country": "Bulgaria",
+                "country_code": "BG",
+                "channels": [
+                    "DIEMA SPORT 2 HD",
+                    "Diema Sport 2",
+                    "Play Diema Xtra"
+                ]
+            },
+            {
                 "country": "China",
                 "country_code": "CN",
                 "channels": [
                     "Migu"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "MAXtv To Go"
                 ]
             },
             {
@@ -2699,6 +2521,13 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "MAXtv To Go"
+                ]
+            },
+            {
                 "country": "Hong Kong",
                 "country_code": "HK",
                 "channels": [
@@ -2741,6 +2570,13 @@
                 "channels": [
                     "TOD",
                     "beIN SPORTS CONNECT"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Canal 11"
                 ]
             },
             {
@@ -3395,7 +3231,7 @@
     },
     {
         "match_id": 6462265,
-        "kickoff": 1793037900,
+        "kickoff": 1793038500,
         "fixture": "Prime FC vs Toma",
         "league_id": 10844,
         "league": "Baller League",
@@ -3986,7 +3822,7 @@
     },
     {
         "match_id": 6462263,
-        "kickoff": 1793041200,
+        "kickoff": 1793041800,
         "fixture": "Gold Devils vs SDS FC",
         "league_id": 10844,
         "league": "Baller League",
@@ -4577,7 +4413,7 @@
     },
     {
         "match_id": 6462264,
-        "kickoff": 1793045100,
+        "kickoff": 1793045700,
         "fixture": "Clutch FC vs NDL FC",
         "league_id": 10844,
         "league": "Baller League",
@@ -5168,7 +5004,7 @@
     },
     {
         "match_id": 6462262,
-        "kickoff": 1793048400,
+        "kickoff": 1793050200,
         "fixture": "P17 FC vs VZN FC",
         "league_id": 10844,
         "league": "Baller League",
@@ -5759,7 +5595,7 @@
     },
     {
         "match_id": 6462260,
-        "kickoff": 1793051400,
+        "kickoff": 1793053800,
         "fixture": "RTG FC vs Deportrio",
         "league_id": 10844,
         "league": "Baller League",
@@ -6429,10 +6265,29 @@
         "venue": "Dimotiko Stadio Serron",
         "tv_channels": [
             {
+                "country": "Bosnia and Herzegovina",
+                "country_code": "BA",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Premium 3",
+                    "Moja TV"
+                ]
+            },
+            {
                 "country": "Cyprus",
                 "country_code": "CY",
                 "channels": [
+                    "Cablenet TV Go",
+                    "Cytavision PPV6",
+                    "Cytavision Sports 7",
                     "Cytavision on the Go"
+                ]
+            },
+            {
+                "country": "Greece",
+                "country_code": "GR",
+                "channels": [
+                    "Sport FM TV"
                 ]
             }
         ]
@@ -6446,10 +6301,29 @@
         "venue": "Stadio Theodoros Kolokotronis",
         "tv_channels": [
             {
+                "country": "Bosnia and Herzegovina",
+                "country_code": "BA",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport Premium 2",
+                    "Moja TV"
+                ]
+            },
+            {
                 "country": "Cyprus",
                 "country_code": "CY",
                 "channels": [
+                    "Cablenet TV Go",
+                    "Cytavision Sports 2",
+                    "Cytavision Sports 6",
                     "Cytavision on the Go"
+                ]
+            },
+            {
+                "country": "Greece",
+                "country_code": "GR",
+                "channels": [
+                    "Sport FM TV"
                 ]
             }
         ]
@@ -6569,7 +6443,15 @@
         "league_id": 190,
         "league": "Cup Grp. C",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "FRF TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5975433,
@@ -6601,7 +6483,11 @@
                 "country": "Cyprus",
                 "country_code": "CY",
                 "channels": [
-                    "Cytavision on the Go"
+                    "Cytavision PPV1",
+                    "Cytavision Sports 1",
+                    "Cytavision Sports 4K",
+                    "Cytavision on the Go",
+                    "Omonoia TV"
                 ]
             },
             {
@@ -6650,8 +6536,17 @@
         ]
     },
     {
+        "match_id": 6280517,
+        "kickoff": 1793100600,
+        "fixture": "Olimpia Grudziądz vs Termalica Nieciecza",
+        "league_id": 198,
+        "league": "FA Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6280512,
-        "kickoff": 1793115000,
+        "kickoff": 1793118600,
         "fixture": "Motor Lublin vs Raków Częstochowa",
         "league_id": 198,
         "league": "FA Cup",
@@ -6697,7 +6592,6 @@
                 "channels": [
                     "Match Premier",
                     "Match TV",
-                    "Match! Premier",
                     "matchtv.ru"
                 ]
             }
@@ -6736,6 +6630,13 @@
                     "Diema Sport",
                     "Play Diema Xtra"
                 ]
+            },
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "MAXtv To Go"
+                ]
             }
         ]
     },
@@ -6772,6 +6673,13 @@
                     "Diema Sport",
                     "Play Diema Xtra"
                 ]
+            },
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "MAXtv To Go"
+                ]
             }
         ]
     },
@@ -6803,6 +6711,15 @@
         "venue": "Stadion Maksimir",
         "tv_channels": [
             {
+                "country": "Bosnia and Herzegovina",
+                "country_code": "BA",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 3",
+                    "Moja TV"
+                ]
+            },
+            {
                 "country": "Croatia",
                 "country_code": "HR",
                 "channels": [
@@ -6812,9 +6729,24 @@
                 ]
             },
             {
+                "country": "Mongolia",
+                "country_code": "MN",
+                "channels": [
+                    "Arena Cloud"
+                ]
+            },
+            {
+                "country": "North Macedonia",
+                "country_code": "MK",
+                "channels": [
+                    "Arena Cloud"
+                ]
+            },
+            {
                 "country": "Serbia",
                 "country_code": "RS",
                 "channels": [
+                    "Arena Cloud",
                     "Arena Sport 8"
                 ]
             }
@@ -6918,369 +6850,6 @@
         ]
     },
     {
-        "match_id": 5838013,
-        "kickoff": 1793044800,
-        "fixture": "Walsall vs Salford City",
-        "league_id": 109,
-        "league": "League Two",
-        "venue": "Pallet-Track Bescot Stadium",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "country_code": "AR",
-                "channels": [
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Bolivia",
-                "country_code": "BO",
-                "channels": [
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Brazil",
-                "country_code": "BR",
-                "channels": [
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Bulgaria",
-                "country_code": "BG",
-                "channels": [
-                    "DIEMA SPORT 2 HD",
-                    "Diema Sport 2",
-                    "Play Diema Xtra"
-                ]
-            },
-            {
-                "country": "Canada",
-                "country_code": "CA",
-                "channels": [
-                    "DAZN Canada"
-                ]
-            },
-            {
-                "country": "Chile",
-                "country_code": "CL",
-                "channels": [
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "country_code": "CO",
-                "channels": [
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Costa Rica",
-                "country_code": "CR",
-                "channels": [
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Croatia",
-                "country_code": "HR",
-                "channels": [
-                    "MAXtv To Go"
-                ]
-            },
-            {
-                "country": "Czechia",
-                "country_code": "CZ",
-                "channels": [
-                    "Nova Sport 6"
-                ]
-            },
-            {
-                "country": "Dominican Republic",
-                "country_code": "DO",
-                "channels": [
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "country_code": "EC",
-                "channels": [
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "V Sport 2 Suomi",
-                    "Viaplay FI",
-                    "Viaplay TV (FI)"
-                ]
-            },
-            {
-                "country": "Greece",
-                "country_code": "GR",
-                "channels": [
-                    "MagentaSport 3"
-                ]
-            },
-            {
-                "country": "Guatemala",
-                "country_code": "GT",
-                "channels": [
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Honduras",
-                "country_code": "HN",
-                "channels": [
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Hungary",
-                "country_code": "HU",
-                "channels": [
-                    "Match4",
-                    "Network4 streaming"
-                ]
-            },
-            {
-                "country": "Iceland",
-                "country_code": "IS",
-                "channels": [
-                    "Viaplay Iceland"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "NOW ROI",
-                    "Sky Sports Football",
-                    "Sky Sports Main Event",
-                    "Sky Sports Main Event UHD",
-                    "Sky Sports UHD 1",
-                    "Sky Sports+ app"
-                ]
-            },
-            {
-                "country": "Japan",
-                "country_code": "JP",
-                "channels": [
-                    "DAZN"
-                ]
-            },
-            {
-                "country": "Malta",
-                "country_code": "MT",
-                "channels": [
-                    "GO TV Anywhere"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "country_code": "MX",
-                "channels": [
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Mongolia",
-                "country_code": "MN",
-                "channels": [
-                    "Arena Cloud",
-                    "Arena Premium 3"
-                ]
-            },
-            {
-                "country": "Montenegro",
-                "country_code": "ME",
-                "channels": [
-                    "TOD",
-                    "beIN SPORTS CONNECT",
-                    "beIN Sports English 2"
-                ]
-            },
-            {
-                "country": "Morocco",
-                "country_code": "MA",
-                "channels": [
-                    "TOD",
-                    "beIN SPORTS CONNECT",
-                    "beIN Sports English 2"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "Viaplay NL",
-                    "ViaplayTV NL"
-                ]
-            },
-            {
-                "country": "New Zealand",
-                "country_code": "NZ",
-                "channels": [
-                    "beIN Sports Connect New Zealand"
-                ]
-            },
-            {
-                "country": "Nicaragua",
-                "country_code": "NI",
-                "channels": [
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "North Macedonia",
-                "country_code": "MK",
-                "channels": [
-                    "Arena Cloud",
-                    "Arena Premium 3"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "TV 2 Play (NO)",
-                    "Viaplay NO"
-                ]
-            },
-            {
-                "country": "Panama",
-                "country_code": "PA",
-                "channels": [
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Paraguay",
-                "country_code": "PY",
-                "channels": [
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Peru",
-                "country_code": "PE",
-                "channels": [
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Serbia",
-                "country_code": "RS",
-                "channels": [
-                    "Arena Cloud",
-                    "Arena Premium 3"
-                ]
-            },
-            {
-                "country": "Singapore",
-                "country_code": "SG",
-                "channels": [
-                    "111 Mio Sports 1"
-                ]
-            },
-            {
-                "country": "Slovakia",
-                "country_code": "SK",
-                "channels": [
-                    "Nova Sport 6",
-                    "Voyo"
-                ]
-            },
-            {
-                "country": "Slovenia",
-                "country_code": "SI",
-                "channels": [
-                    "ARENA SPORT PREMIUM 1"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "Viaplay SE",
-                    "Viaplay Sport"
-                ]
-            },
-            {
-                "country": "Thailand",
-                "country_code": "TH",
-                "channels": [
-                    "MONOMAX"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "NOW",
-                    "Sky Sports Football",
-                    "Sky Sports Main Event",
-                    "Sky Sports Main Event UHD",
-                    "Sky Sports UHD 1",
-                    "Sky Sports+ app"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "Paramount+ (US)"
-                ]
-            },
-            {
-                "country": "Uruguay",
-                "country_code": "UY",
-                "channels": [
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Venezuela",
-                "country_code": "VE",
-                "channels": [
-                    "Disney+ Premium"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5837956,
-        "kickoff": 1793130300,
-        "fixture": "Barnet vs York City",
-        "league_id": 109,
-        "league": "League Two",
-        "venue": "The Hive Stadium",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "NOW ROI",
-                    "Sky Sports+ app"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "NOW",
-                    "Sky Sports+ app"
-                ]
-            }
-        ]
-    },
-    {
         "match_id": 5976933,
         "kickoff": 1793026800,
         "fixture": "FC Metaloglobus București vs Râmnicu Vâlcea",
@@ -7333,6 +6902,7 @@
                 "country_code": "MX",
                 "channels": [
                     "FOX One",
+                    "FOX+",
                     "Tubi"
                 ]
             }
@@ -7351,6 +6921,7 @@
                 "country_code": "MX",
                 "channels": [
                     "FOX One",
+                    "FOX+",
                     "Tubi"
                 ]
             }
@@ -7390,13 +6961,6 @@
                     "Sportdigital Fussball",
                     "Sportdigital+ App",
                     "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Belgium",
-                "country_code": "BE",
-                "channels": [
-                    "DAZN (BE)"
                 ]
             },
             {
@@ -7474,28 +7038,10 @@
                 ]
             },
             {
-                "country": "France",
-                "country_code": "FR",
-                "channels": [
-                    "beIN Sports MAX 4 (FR)"
-                ]
-            },
-            {
-                "country": "Germany",
-                "country_code": "DE",
-                "channels": [
-                    "DAZN Deutschland",
-                    "OneFootball Deutschland",
-                    "Sportdigital FUSSBALL",
-                    "Sportdigital+"
-                ]
-            },
-            {
                 "country": "Greece",
                 "country_code": "GR",
                 "channels": [
-                    "Magenta Sport",
-                    "Magenta Sport Start"
+                    "Magenta Sport"
                 ]
             },
             {
@@ -7524,13 +7070,6 @@
                 ]
             },
             {
-                "country": "Italy",
-                "country_code": "IT",
-                "channels": [
-                    "DAZN Italia"
-                ]
-            },
-            {
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
@@ -7546,26 +7085,12 @@
                 ]
             },
             {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "Ziggo Sport 3"
-                ]
-            },
-            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
                     "Claro Sports 2",
                     "Claro Sports Premium YouTube",
                     "Claro Video"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "VG TV"
                 ]
             },
             {
@@ -7605,6 +7130,7 @@
                 "country": "Romania",
                 "country_code": "RO",
                 "channels": [
+                    "Digi Online",
                     "Orange TV Go",
                     "Prima Play"
                 ]
@@ -7614,6 +7140,7 @@
                 "country_code": "RU",
                 "channels": [
                     "Match! Football 3",
+                    "Sportbox.ru",
                     "matchtv.ru"
                 ]
             },
@@ -7629,14 +7156,6 @@
                 "country_code": "ES",
                 "channels": [
                     "DAZN"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "TV4 Play Sport",
-                    "TV4 Sportkanalen"
                 ]
             },
             {
@@ -7658,13 +7177,6 @@
                     "beIN CONNECT Turkey",
                     "beIN SPORTS CONNECT",
                     "beIN Sports 3 Turkey"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "beIN SPORTS 5"
                 ]
             },
             {
@@ -7730,13 +7242,6 @@
         "venue": "Stade de la Libération",
         "tv_channels": [
             {
-                "country": "France",
-                "country_code": "FR",
-                "channels": [
-                    "beIN Sports 2 (FR)"
-                ]
-            },
-            {
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
@@ -7768,13 +7273,6 @@
                 ]
             },
             {
-                "country": "Belgium",
-                "country_code": "BE",
-                "channels": [
-                    "DAZN (BE)"
-                ]
-            },
-            {
                 "country": "Cyprus",
                 "country_code": "CY",
                 "channels": [
@@ -7785,62 +7283,10 @@
                 ]
             },
             {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "Viaplay FI"
-                ]
-            },
-            {
-                "country": "France",
-                "country_code": "FR",
-                "channels": [
-                    "beIN Sports 1 (FR)"
-                ]
-            },
-            {
-                "country": "Germany",
-                "country_code": "DE",
-                "channels": [
-                    "DAZN Deutschland"
-                ]
-            },
-            {
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
                     "DAZN"
-                ]
-            },
-            {
-                "country": "Montenegro",
-                "country_code": "ME",
-                "channels": [
-                    "beIN Sports 9",
-                    "beIN Sports France"
-                ]
-            },
-            {
-                "country": "Morocco",
-                "country_code": "MA",
-                "channels": [
-                    "beIN Sports 9",
-                    "beIN Sports France"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "Viaplay NL"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "TV 2 Play (NO)",
-                    "Viaplay NO"
                 ]
             },
             {
@@ -7851,20 +7297,6 @@
                 ]
             },
             {
-                "country": "Serbia",
-                "country_code": "RS",
-                "channels": [
-                    "Arena Sport 1x2"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "Viaplay SE"
-                ]
-            },
-            {
                 "country": "Switzerland",
                 "country_code": "CH",
                 "channels": [
@@ -7872,17 +7304,9 @@
                 ]
             },
             {
-                "country": "Türkiye",
-                "country_code": "TR",
-                "channels": [
-                    "Bein Sports 4"
-                ]
-            },
-            {
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
-                    "beIN SPORTS 6",
                     "beIN SPORTS 7"
                 ]
             }
@@ -8016,75 +7440,6 @@
                 "channels": [
                     "FAST TV",
                     "Fast Sports"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 6018576,
-        "kickoff": 1793111400,
-        "fixture": "Al-Arabi vs Al Fahaheel",
-        "league_id": 529,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6018578,
-        "kickoff": 1793119800,
-        "fixture": "Al-Shabab SC vs Al-Qadsia",
-        "league_id": 529,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5998343,
-        "kickoff": 1793030400,
-        "fixture": "Geita Gold FC vs Fountain Gate FC",
-        "league_id": 9066,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Tanzania",
-                "country_code": "TZ",
-                "channels": [
-                    "Azam Sports"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5998345,
-        "kickoff": 1793115000,
-        "fixture": "Young Africans vs Mashujaa",
-        "league_id": 9066,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Tanzania",
-                "country_code": "TZ",
-                "channels": [
-                    "Azam Sports"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5998346,
-        "kickoff": 1793124000,
-        "fixture": "Dodoma Jiji FC vs JKT Tanzania",
-        "league_id": 9066,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Tanzania",
-                "country_code": "TZ",
-                "channels": [
-                    "Azam Sports"
                 ]
             }
         ]
@@ -9130,13 +8485,6 @@
         "venue": "Tüpraş Stadyumu",
         "tv_channels": [
             {
-                "country": "Albania",
-                "country_code": "AL",
-                "channels": [
-                    "Super Sport 3 HD"
-                ]
-            },
-            {
                 "country": "Argentina",
                 "country_code": "AR",
                 "channels": [
@@ -9167,13 +8515,6 @@
                 ]
             },
             {
-                "country": "Canada",
-                "country_code": "CA",
-                "channels": [
-                    "beIN Sport Canada"
-                ]
-            },
-            {
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
@@ -9197,6 +8538,13 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "MAXtv To Go"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
@@ -9209,13 +8557,6 @@
                 "channels": [
                     "Disney+ Premium",
                     "ESPN 7"
-                ]
-            },
-            {
-                "country": "France",
-                "country_code": "FR",
-                "channels": [
-                    "beIN Sports 1 (FR)"
                 ]
             },
             {
@@ -9289,8 +8630,7 @@
                 "country_code": "ME",
                 "channels": [
                     "TOD",
-                    "beIN SPORTS CONNECT",
-                    "beIN Sports France"
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
@@ -9298,8 +8638,7 @@
                 "country_code": "MA",
                 "channels": [
                     "TOD",
-                    "beIN SPORTS CONNECT",
-                    "beIN Sports France"
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
@@ -9375,6 +8714,7 @@
                 "country": "Russian Federation",
                 "country_code": "RU",
                 "channels": [
+                    "Sportbox.ru",
                     "matchtv.ru"
                 ]
             },
@@ -9390,7 +8730,6 @@
                 "country": "Singapore",
                 "country_code": "SG",
                 "channels": [
-                    "Bein Sports 3",
                     "StarHub TV+"
                 ]
             },
@@ -9431,7 +8770,6 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
-                    "beIN SPORTS (US)",
                     "beIN SPORTS 4"
                 ]
             },
@@ -9462,13 +8800,6 @@
         "venue": "Çaykur Didi Stadyumu",
         "tv_channels": [
             {
-                "country": "Albania",
-                "country_code": "AL",
-                "channels": [
-                    "Super Sport 2 HD"
-                ]
-            },
-            {
                 "country": "Argentina",
                 "country_code": "AR",
                 "channels": [
@@ -9498,13 +8829,6 @@
                 ]
             },
             {
-                "country": "Canada",
-                "country_code": "CA",
-                "channels": [
-                    "beIN Sport Canada Espanol"
-                ]
-            },
-            {
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
@@ -9526,6 +8850,13 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "MAXtv To Go"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
@@ -9537,13 +8868,6 @@
                 "country_code": "EC",
                 "channels": [
                     "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "France",
-                "country_code": "FR",
-                "channels": [
-                    "beIN Sports 2 (FR)"
                 ]
             },
             {
@@ -9609,8 +8933,7 @@
                 "country_code": "ME",
                 "channels": [
                     "TOD",
-                    "beIN SPORTS CONNECT",
-                    "beIN Sports 2 France"
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
@@ -9618,8 +8941,7 @@
                 "country_code": "MA",
                 "channels": [
                     "TOD",
-                    "beIN SPORTS CONNECT",
-                    "beIN Sports 2 France"
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
@@ -9699,8 +9021,7 @@
                 "country": "Singapore",
                 "country_code": "SG",
                 "channels": [
-                    "StarHub TV+",
-                    "beIN SPORTS 1"
+                    "StarHub TV+"
                 ]
             },
             {
@@ -9754,8 +9075,7 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
-                    "beIN SPORTS 3",
-                    "beIN SPORTS en Español (US)"
+                    "beIN SPORTS 3"
                 ]
             },
             {
@@ -9782,13 +9102,6 @@
         "league": "Super Lig",
         "venue": "RAMS Park",
         "tv_channels": [
-            {
-                "country": "Albania",
-                "country_code": "AL",
-                "channels": [
-                    "Super Sport 1 HD"
-                ]
-            },
             {
                 "country": "Argentina",
                 "country_code": "AR",
@@ -9820,13 +9133,6 @@
                 ]
             },
             {
-                "country": "Canada",
-                "country_code": "CA",
-                "channels": [
-                    "beIN Sport Canada"
-                ]
-            },
-            {
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
@@ -9851,6 +9157,13 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "MAXtv To Go"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
@@ -9864,13 +9177,6 @@
                 "channels": [
                     "Disney+ Premium",
                     "ESPN 7"
-                ]
-            },
-            {
-                "country": "France",
-                "country_code": "FR",
-                "channels": [
-                    "beIN Sports 3 (FR)"
                 ]
             },
             {
@@ -9978,7 +9284,6 @@
                 "country_code": "MK",
                 "channels": [
                     "Arena Cloud",
-                    "Arena Premium 3",
                     "Arena Sport Premium 2"
                 ]
             },
@@ -10029,6 +9334,7 @@
                 "country_code": "RU",
                 "channels": [
                     "Match! Football 1",
+                    "Sportbox.ru",
                     "matchtv.ru"
                 ]
             },
@@ -10044,7 +9350,6 @@
                 "country": "Singapore",
                 "country_code": "SG",
                 "channels": [
-                    "Bein Sports 3",
                     "StarHub TV+"
                 ]
             },
@@ -10093,7 +9398,6 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
-                    "beIN SPORTS (US)",
                     "beIN SPORTS 4"
                 ]
             },
@@ -10122,17 +9426,7 @@
         "league_id": 168,
         "league": "Superettan",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "TV12",
-                    "TV4 Play Sport",
-                    "TV4 Play Sport Fotboll"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5125663,
@@ -10224,8 +9518,301 @@
                     "TOD",
                     "TRT Spor",
                     "beIN CONNECT Turkey",
+                    "beIN SPORTS CONNECT"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5838013,
+        "kickoff": 1793044800,
+        "fixture": "Walsall vs Salford City",
+        "league_id": 109,
+        "league": "League Two",
+        "venue": "Pallet-Track Bescot Stadium",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Bulgaria",
+                "country_code": "BG",
+                "channels": [
+                    "DIEMA SPORT 2 HD",
+                    "Diema Sport 2",
+                    "Play Diema Xtra"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "MAXtv To Go"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Hungary",
+                "country_code": "HU",
+                "channels": [
+                    "Match4",
+                    "Network4"
+                ]
+            },
+            {
+                "country": "Iceland",
+                "country_code": "IS",
+                "channels": [
+                    "Viaplay Iceland"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports Football",
+                    "Sky Sports Main Event",
+                    "Sky Sports Main Event UHD",
+                    "Sky Sports UHD 1",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Malta",
+                "country_code": "MT",
+                "channels": [
+                    "GO TV Anywhere"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Mongolia",
+                "country_code": "MN",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Premium 3"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "TOD",
+                    "beIN SPORTS CONNECT"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "TOD",
                     "beIN SPORTS CONNECT",
-                    "beIN Sports MAX 1"
+                    "beIN Sports English 2"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "country_code": "NZ",
+                "channels": [
+                    "beIN Sports Connect New Zealand"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "North Macedonia",
+                "country_code": "MK",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Premium 3"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Serbia",
+                "country_code": "RS",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Premium 3"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "111 Mio Sports 1"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Nova Sport 6",
+                    "Voyo"
+                ]
+            },
+            {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "MONOMAX"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports Football",
+                    "Sky Sports Main Event",
+                    "Sky Sports Main Event UHD",
+                    "Sky Sports UHD 1",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5837956,
+        "kickoff": 1793130300,
+        "fixture": "Barnet vs York City",
+        "league_id": 109,
+        "league": "League Two",
+        "venue": "The Hive Stadium",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
                 ]
             }
         ]
@@ -10424,13 +10011,6 @@
                 ]
             },
             {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "Fanatiz"
-                ]
-            },
-            {
                 "country": "Uruguay",
                 "country_code": "UY",
                 "channels": [
@@ -10484,7 +10064,8 @@
                 "country": "Colombia",
                 "country_code": "CO",
                 "channels": [
-                    "TyC Sports Internacional"
+                    "TyC Sports Internacional",
+                    "Win Play"
                 ]
             },
             {
@@ -10582,7 +10163,7 @@
     },
     {
         "match_id": 1000015302,
-        "kickoff": 1793034000,
+        "kickoff": 1793035800,
         "fixture": "Maccabi Haifa vs Hapoel Beer Sheva",
         "league_id": 127,
         "league": "Ligat ha'Al",
@@ -10605,23 +10186,7 @@
         "league_id": 10872,
         "league": "Northern Super League",
         "venue": "BMO Field",
-        "tv_channels": [
-            {
-                "country": "Canada",
-                "country_code": "CA",
-                "channels": [
-                    "TSN+"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "ESPN Select",
-                    "ESPN Unlimited"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 1000019168,
@@ -10653,6 +10218,7 @@
                 "country": "Ireland",
                 "country_code": "IE",
                 "channels": [
+                    "Palace TV",
                     "SPURSPLAY"
                 ]
             }
@@ -10664,7 +10230,7 @@
         "fixture": "Derby County U21 vs Norwich City U21",
         "league_id": 9084,
         "league": "Premier League 2",
-        "venue": "Grange Park",
+        "venue": "Pride Park Stadium",
         "tv_channels": []
     },
     {
@@ -11101,14 +10667,8 @@
                 "country_code": "RU",
                 "channels": [
                     "Match! Football 3",
+                    "Sportbox.ru",
                     "matchtv.ru"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "Fanatiz"
                 ]
             }
         ]
@@ -11647,7 +11207,9 @@
                 "country": "Croatia",
                 "country_code": "HR",
                 "channels": [
+                    "Arena Sport 5",
                     "Arena Sport 5 Croatia",
+                    "MAX To Go",
                     "MAXtv To Go"
                 ]
             },
@@ -11703,6 +11265,13 @@
                 ]
             },
             {
+                "country": "Hungary",
+                "country_code": "HU",
+                "channels": [
+                    "Network4 streaming"
+                ]
+            },
+            {
                 "country": "Iceland",
                 "country_code": "IS",
                 "channels": [
@@ -11736,7 +11305,8 @@
                 "country": "Malta",
                 "country_code": "MT",
                 "channels": [
-                    "TSN5"
+                    "TSN5",
+                    "TSN5 Malta"
                 ]
             },
             {
@@ -11744,6 +11314,14 @@
                 "country_code": "MX",
                 "channels": [
                     "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Mongolia",
+                "country_code": "MN",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 9 Croatia"
                 ]
             },
             {
@@ -11788,6 +11366,14 @@
                 ]
             },
             {
+                "country": "North Macedonia",
+                "country_code": "MK",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 9 Croatia"
+                ]
+            },
+            {
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
@@ -11828,6 +11414,8 @@
                 "country": "Serbia",
                 "country_code": "RS",
                 "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 9 Croatia",
                     "Arena Sport 9 Serbia"
                 ]
             },
@@ -11881,7 +11469,10 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
-                    "Paramount+ (US)"
+                    "CBS Sports Golazo",
+                    "Paramount+ (US)",
+                    "Pluto (US)",
+                    "RokuChannel app (US)"
                 ]
             },
             {
@@ -11908,6 +11499,13 @@
         "league": "EFL Cup",
         "venue": "Highbury Stadium",
         "tv_channels": [
+            {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport 2 Digitalb"
+                ]
+            },
             {
                 "country": "Argentina",
                 "country_code": "AR",
@@ -11936,6 +11534,15 @@
                 "channels": [
                     "Disney+ Premium",
                     "ESPN"
+                ]
+            },
+            {
+                "country": "Bulgaria",
+                "country_code": "BG",
+                "channels": [
+                    "DIEMA SPORT 2 HD",
+                    "Diema Sport 2",
+                    "Play Diema Xtra"
                 ]
             },
             {
@@ -11974,6 +11581,7 @@
                 "country_code": "HR",
                 "channels": [
                     "Arena Sport 1",
+                    "MAX To Go",
                     "MAXtv To Go"
                 ]
             },
@@ -11981,6 +11589,9 @@
                 "country": "Cyprus",
                 "country_code": "CY",
                 "channels": [
+                    "Cablenet TV Go",
+                    "Cytavision PPV3",
+                    "Cytavision Sports 3HD",
                     "Cytavision on the Go"
                 ]
             },
@@ -12102,11 +11713,21 @@
                 ]
             },
             {
+                "country": "Mongolia",
+                "country_code": "MN",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 1"
+                ]
+            },
+            {
                 "country": "Montenegro",
                 "country_code": "ME",
                 "channels": [
+                    "Bein Sports 2",
                     "TOD",
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports English"
                 ]
             },
             {
@@ -12145,6 +11766,14 @@
                 "country_code": "NG",
                 "channels": [
                     "SuperSport MaXimo 1"
+                ]
+            },
+            {
+                "country": "North Macedonia",
+                "country_code": "MK",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 1"
                 ]
             },
             {
@@ -12191,20 +11820,25 @@
                 "country": "Romania",
                 "country_code": "RO",
                 "channels": [
-                    "Digi Sport 2"
+                    "Digi Online",
+                    "Digi Sport 2",
+                    "Orange TV Go"
                 ]
             },
             {
                 "country": "Saint Barthélemy",
                 "country_code": "BL",
                 "channels": [
-                    "Sport TV"
+                    "Sport TV",
+                    "Sport TV Belarus"
                 ]
             },
             {
                 "country": "Serbia",
                 "country_code": "RS",
                 "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 1",
                     "Arena Sport 1 Serbia"
                 ]
             },
@@ -12227,6 +11861,7 @@
                 "country": "Slovenia",
                 "country_code": "SI",
                 "channels": [
+                    "Arena Sport 1",
                     "Arena Sport 1 Slovenia"
                 ]
             },
@@ -12242,6 +11877,13 @@
                 "country_code": "KR",
                 "channels": [
                     "Coupang Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "* SIN TV EN DIRECTO *"
                 ]
             },
             {
@@ -12332,6 +11974,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
+                    "Fast Sports",
                     "FastTV"
                 ]
             },
@@ -12346,7 +11989,9 @@
                 "country": "Bosnia and Herzegovina",
                 "country_code": "BA",
                 "channels": [
-                    "Arena Cloud"
+                    "Arena Cloud",
+                    "Arena Sport Premium 2",
+                    "Moja TV"
                 ]
             },
             {
@@ -12441,6 +12086,21 @@
                 ]
             },
             {
+                "country": "Hungary",
+                "country_code": "HU",
+                "channels": [
+                    "Arena 4",
+                    "Network4 streaming"
+                ]
+            },
+            {
+                "country": "India",
+                "country_code": "IN",
+                "channels": [
+                    "Unite8 Sports 1"
+                ]
+            },
+            {
                 "country": "Indonesia",
                 "country_code": "ID",
                 "channels": [
@@ -12462,6 +12122,13 @@
                 ]
             },
             {
+                "country": "Laos",
+                "country_code": "LA",
+                "channels": [
+                    "Setanta Sports 2"
+                ]
+            },
+            {
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
@@ -12472,14 +12139,16 @@
                 "country": "Malta",
                 "country_code": "MT",
                 "channels": [
-                    "GO TV Anywhere"
+                    "GO TV Anywhere",
+                    "TSN8 Malta"
                 ]
             },
             {
                 "country": "Mongolia",
                 "country_code": "MN",
                 "channels": [
-                    "Arena Cloud"
+                    "Arena Cloud",
+                    "Arena Premium 5"
                 ]
             },
             {
@@ -12521,7 +12190,8 @@
                 "country": "North Macedonia",
                 "country_code": "MK",
                 "channels": [
-                    "Arena Cloud"
+                    "Arena Cloud",
+                    "Arena Premium 5"
                 ]
             },
             {
@@ -12598,6 +12268,7 @@
                 "country_code": "TR",
                 "channels": [
                     "S Sport",
+                    "S Sport 2",
                     "S Sport Plus"
                 ]
             },
@@ -12662,6 +12333,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
+                    "Fast Sports",
                     "FastTV"
                 ]
             },
@@ -12700,13 +12372,16 @@
                 "country": "Bosnia and Herzegovina",
                 "country_code": "BA",
                 "channels": [
-                    "Arena Cloud"
+                    "Arena Cloud",
+                    "Arena Sport Premium 2",
+                    "Moja TV"
                 ]
             },
             {
                 "country": "Brazil",
                 "country_code": "BR",
                 "channels": [
+                    "CazeTV",
                     "Disney+ Premium"
                 ]
             },
@@ -12859,6 +12534,21 @@
                 ]
             },
             {
+                "country": "Hungary",
+                "country_code": "HU",
+                "channels": [
+                    "Arena 4",
+                    "Network4 streaming"
+                ]
+            },
+            {
+                "country": "India",
+                "country_code": "IN",
+                "channels": [
+                    "Unite8 Sports 1"
+                ]
+            },
+            {
                 "country": "Indonesia",
                 "country_code": "ID",
                 "channels": [
@@ -12877,6 +12567,13 @@
                 "country_code": "JP",
                 "channels": [
                     "DAZN"
+                ]
+            },
+            {
+                "country": "Laos",
+                "country_code": "LA",
+                "channels": [
+                    "Setanta Sports"
                 ]
             },
             {
@@ -12899,7 +12596,8 @@
                 "country": "Mongolia",
                 "country_code": "MN",
                 "channels": [
-                    "Arena Cloud"
+                    "Arena Cloud",
+                    "Arena sport 2"
                 ]
             },
             {
@@ -12949,7 +12647,8 @@
                 "country": "North Macedonia",
                 "country_code": "MK",
                 "channels": [
-                    "Arena Cloud"
+                    "Arena Cloud",
+                    "Arena sport 2"
                 ]
             },
             {
@@ -13021,7 +12720,8 @@
                 "country_code": "RS",
                 "channels": [
                     "Arena Cloud",
-                    "Arena Sport 3"
+                    "Arena Sport 3",
+                    "Arena sport 2"
                 ]
             },
             {
@@ -13168,6 +12868,7 @@
                 "country": "Armenia",
                 "country_code": "AM",
                 "channels": [
+                    "Fast Sports 1",
                     "FastTV"
                 ]
             },
@@ -13203,7 +12904,9 @@
                 "country": "Bosnia and Herzegovina",
                 "country_code": "BA",
                 "channels": [
-                    "Arena Cloud"
+                    "Arena Cloud",
+                    "Arena Sport 3",
+                    "Moja TV"
                 ]
             },
             {
@@ -13349,6 +13052,13 @@
                 ]
             },
             {
+                "country": "Hungary",
+                "country_code": "HU",
+                "channels": [
+                    "Network4 streaming"
+                ]
+            },
+            {
                 "country": "Indonesia",
                 "country_code": "ID",
                 "channels": [
@@ -13375,7 +13085,8 @@
                 "country": "Malta",
                 "country_code": "MT",
                 "channels": [
-                    "GO TV Anywhere"
+                    "GO TV Anywhere",
+                    "TSN4"
                 ]
             },
             {
@@ -13389,7 +13100,8 @@
                 "country": "Mongolia",
                 "country_code": "MN",
                 "channels": [
-                    "Arena Cloud"
+                    "Arena Cloud",
+                    "Arena Sport 3"
                 ]
             },
             {
@@ -13431,7 +13143,8 @@
                 "country": "North Macedonia",
                 "country_code": "MK",
                 "channels": [
-                    "Arena Cloud"
+                    "Arena Cloud",
+                    "Arena Sport 3"
                 ]
             },
             {
@@ -13499,6 +13212,7 @@
                 "country_code": "RS",
                 "channels": [
                     "Arena Cloud",
+                    "Arena Sport 3",
                     "Arena Sport 4 Serbia"
                 ]
             },
@@ -13611,9 +13325,26 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Mongolia",
+                "country_code": "MN",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 10"
+                ]
+            },
+            {
+                "country": "North Macedonia",
+                "country_code": "MK",
+                "channels": [
+                    "Arena Cloud"
+                ]
+            },
+            {
                 "country": "Serbia",
                 "country_code": "RS",
                 "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 10",
                     "Arena Sport 10 Serbia"
                 ]
             }
@@ -13649,7 +13380,8 @@
                 "country": "Spain",
                 "country_code": "ES",
                 "channels": [
-                    "Aragón Play"
+                    "Aragón Play",
+                    "Aragón TV"
                 ]
             }
         ]
@@ -13662,6 +13394,62 @@
         "league": "Copa del Rey",
         "venue": "Estadio José Antonio Pérez",
         "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
             {
                 "country": "Spain",
                 "country_code": "ES",
@@ -13676,6 +13464,20 @@
                 "channels": [
                     "ESPN Select",
                     "ESPN Unlimited"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "Canal por confirmar"
                 ]
             }
         ]
@@ -13714,10 +13516,81 @@
         "venue": "Estadio Las Llanas",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "TV Azteca Guate"
+                ]
+            },
+            {
+                "country": "Hungary",
+                "country_code": "HU",
+                "channels": [
+                    "Sport 2 Hungary"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
                 "country": "Russian Federation",
                 "country_code": "RU",
                 "channels": [
                     "Match! Football 2",
+                    "Sportbox.ru",
                     "matchtv.ru"
                 ]
             },
@@ -13736,22 +13609,19 @@
                     "ESPN Select",
                     "ESPN Unlimited"
                 ]
-            }
-        ]
-    },
-    {
-        "match_id": 6386065,
-        "kickoff": 1793125800,
-        "fixture": "CE Manresa vs Sant Andreu",
-        "league_id": 138,
-        "league": "Copa del Rey",
-        "venue": "Estadio El Congost",
-        "tv_channels": [
+            },
             {
-                "country": "Spain",
-                "country_code": "ES",
+                "country": "Uruguay",
+                "country_code": "UY",
                 "channels": [
-                    "Esport3"
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "Canal por confirmar"
                 ]
             }
         ]
@@ -13800,23 +13670,6 @@
                 "country_code": "ES",
                 "channels": [
                     "Canal por confirmar"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 6386044,
-        "kickoff": 1793127600,
-        "fixture": "CD Atlético Paso vs Córdoba",
-        "league_id": 138,
-        "league": "Copa del Rey",
-        "venue": "Campo Municipal de El Paso",
-        "tv_channels": [
-            {
-                "country": "Spain",
-                "country_code": "ES",
-                "channels": [
-                    "TV Canaria"
                 ]
             }
         ]
@@ -13911,6 +13764,23 @@
         ]
     },
     {
+        "match_id": 6386065,
+        "kickoff": 1793129400,
+        "fixture": "CE Manresa vs Sant Andreu",
+        "league_id": 138,
+        "league": "Copa del Rey",
+        "venue": "Estadio El Congost",
+        "tv_channels": [
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Esport3"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 6386058,
         "kickoff": 1793129400,
         "fixture": "Don Benito vs CD Extremadura",
@@ -13959,6 +13829,23 @@
         ]
     },
     {
+        "match_id": 6386044,
+        "kickoff": 1793131200,
+        "fixture": "CD Atlético Paso vs Córdoba",
+        "league_id": 138,
+        "league": "Copa del Rey",
+        "venue": "Campo Municipal de El Paso",
+        "tv_channels": [
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "TV Canaria"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 6386064,
         "kickoff": 1793131200,
         "fixture": "CD Manacor vs Villarreal",
@@ -13967,10 +13854,45 @@
         "venue": "Poliesportiu Municipal Na Capellera",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
                     "DAZN"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Canal por confirmar"
                 ]
             },
             {
@@ -13979,6 +13901,41 @@
                 "channels": [
                     "Arena Sport 3 Croatia",
                     "MAXtv To Go"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "TV Azteca Guate"
+                ]
+            },
+            {
+                "country": "Hungary",
+                "country_code": "HU",
+                "channels": [
+                    "Sport 2 Hungary"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Canal por confirmar"
                 ]
             },
             {
@@ -13993,6 +13950,7 @@
                 "country_code": "RU",
                 "channels": [
                     "Match! Football 2",
+                    "Sportbox.ru",
                     "matchtv.ru"
                 ]
             },
@@ -14019,6 +13977,20 @@
                     "ESPN Select",
                     "ESPN Unlimited"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "Canal por confirmar"
+                ]
             }
         ]
     },
@@ -14031,6 +14003,41 @@
         "venue": "Estadio Nuevo Colombino",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
@@ -14042,6 +14049,13 @@
                 "country_code": "DO",
                 "channels": [
                     "SKY Sports"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Canal por confirmar"
                 ]
             },
             {
@@ -14080,11 +14094,26 @@
                 ]
             },
             {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
                 "country": "Spain",
                 "country_code": "ES",
                 "channels": [
                     "LaLiga TV M2",
-                    "M+ LALIGA"
+                    "M+ LALIGA",
+                    "M+ Liga de Campeones"
                 ]
             },
             {
@@ -14093,6 +14122,20 @@
                 "channels": [
                     "ESPN Select",
                     "ESPN Unlimited"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "Canal por confirmar"
                 ]
             }
         ]
@@ -14105,6 +14148,62 @@
         "league": "Copa del Rey",
         "venue": "Estadio Manuel Delgado Meco",
         "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
             {
                 "country": "Spain",
                 "country_code": "ES",
@@ -14119,6 +14218,20 @@
                 "channels": [
                     "ESPN Select",
                     "ESPN Unlimited"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "Canal por confirmar"
                 ]
             }
         ]
@@ -14259,7 +14372,21 @@
         "league_id": 190,
         "league": "Cup Grp. B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Online",
+                    "Digi Sport 1",
+                    "Digi Sport 1 Romania",
+                    "Orange Sport 1",
+                    "Orange TV Go",
+                    "Prima Sport",
+                    "Prima TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6093727,
@@ -14268,7 +14395,22 @@
         "league_id": 190,
         "league": "Cup Grp. A",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Online",
+                    "Digi Sport 1",
+                    "Digi Sport 1 Romania",
+                    "Orange Sport 1",
+                    "Orange TV Go",
+                    "Prima Play",
+                    "Prima Sport",
+                    "Prima TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6093726,
@@ -14277,7 +14419,21 @@
         "league_id": 190,
         "league": "Cup Grp. A",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Online",
+                    "Digi Sport 1",
+                    "Orange Sport 1",
+                    "Orange TV Go",
+                    "Prima Play",
+                    "Prima Sport",
+                    "Prima TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6298360,
@@ -14312,6 +14468,13 @@
         "venue": "Ruhrstadion",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
@@ -14332,10 +14495,59 @@
                 ]
             },
             {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "DAZN Canada"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
                 "country": "Czechia",
                 "country_code": "CZ",
                 "channels": [
                     "Nova Sport 5"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "DFB Play"
                 ]
             },
             {
@@ -14356,10 +14568,71 @@
                 ]
             },
             {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
                 "country": "Hong Kong",
                 "country_code": "HK",
                 "channels": [
-                    "M Plus Live"
+                    "M Plus Live",
+                    "Movistar Plus+"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "GAORA SPORTS",
+                    "GAORAオンデマンド",
+                    "U-NEXT"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Mongolia",
+                "country_code": "MN",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena sport 2"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "country_code": "NZ",
+                "channels": [
+                    "DAZN New Zealand"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "North Macedonia",
+                "country_code": "MK",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena sport 2"
                 ]
             },
             {
@@ -14367,6 +14640,27 @@
                 "country_code": "NO",
                 "channels": [
                     "VG TV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "DFB Play"
                 ]
             },
             {
@@ -14380,7 +14674,9 @@
                 "country": "Serbia",
                 "country_code": "RS",
                 "channels": [
-                    "Arena Sport 2 Serbia"
+                    "Arena Cloud",
+                    "Arena Sport 2 Serbia",
+                    "Arena sport 2"
                 ]
             },
             {
@@ -14397,6 +14693,20 @@
                 "channels": [
                     "OneFootball PPV"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "DFB Play"
+                ]
             }
         ]
     },
@@ -14409,6 +14719,13 @@
         "venue": "Volksparkstadion",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
@@ -14416,6 +14733,7 @@
                     "Sky Sport 3",
                     "Sky Sport Mix",
                     "Sky Sport News",
+                    "Sky Sport News Livestream",
                     "Sky Sport Top Event",
                     "Sky Stream",
                     "Sky X",
@@ -14432,6 +14750,13 @@
                 ]
             },
             {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "country_code": "BR",
                 "channels": [
@@ -14440,10 +14765,60 @@
                 ]
             },
             {
+                "country": "Bulgaria",
+                "country_code": "BG",
+                "channels": [
+                    "Diema Sport 3",
+                    "Play Diema Xtra"
+                ]
+            },
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "DAZN Canada"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
                 "country": "Czechia",
                 "country_code": "CZ",
                 "channels": [
                     "Nova Sport 3"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "DFB Play"
                 ]
             },
             {
@@ -14474,11 +14849,86 @@
                 ]
             },
             {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "Movistar Plus+"
+                ]
+            },
+            {
+                "country": "India",
+                "country_code": "IN",
+                "channels": [
+                    "DD Sports"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "GAORA SPORTS",
+                    "GAORAオンデマンド",
+                    "U-NEXT"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Mongolia",
+                "country_code": "MN",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 1"
+                ]
+            },
+            {
                 "country": "Netherlands",
                 "country_code": "NL",
                 "channels": [
                     "Ziggo Sport",
+                    "Ziggo Sport 3",
                     "Ziggo Sport Kanaal 14"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "country_code": "NZ",
+                "channels": [
+                    "DAZN New Zealand"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "North Macedonia",
+                "country_code": "MK",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 1"
                 ]
             },
             {
@@ -14486,6 +14936,27 @@
                 "country_code": "NO",
                 "channels": [
                     "VG TV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "DFB Play"
                 ]
             },
             {
@@ -14506,6 +14977,8 @@
                 "country": "Serbia",
                 "country_code": "RS",
                 "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 1",
                     "Arena Sport 1 Serbia"
                 ]
             },
@@ -14540,6 +15013,20 @@
                     "S Sport",
                     "S Sport Plus"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "DFB Play"
+                ]
             }
         ]
     },
@@ -14551,6 +15038,13 @@
         "league": "DFB Pokal",
         "venue": "Stadion an der Hafenstraße",
         "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
             {
                 "country": "Austria",
                 "country_code": "AT",
@@ -14573,10 +15067,47 @@
                 ]
             },
             {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
                 "country": "Bulgaria",
                 "country_code": "BG",
                 "channels": [
-                    "Nova Sport Bulgaria"
+                    "Nova Sport",
+                    "Nova Sport Bulgaria",
+                    "Nova Sport HD"
+                ]
+            },
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "DAZN Canada"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "DFB Play"
                 ]
             },
             {
@@ -14584,6 +15115,20 @@
                 "country_code": "CZ",
                 "channels": [
                     "Nova Sport 4"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "DFB Play"
                 ]
             },
             {
@@ -14605,10 +15150,32 @@
                 ]
             },
             {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
                 "country": "Hong Kong",
                 "country_code": "HK",
                 "channels": [
-                    "M Plus Live"
+                    "M Plus Live",
+                    "Movistar Plus+"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "GAORAオンデマンド"
                 ]
             },
             {
@@ -14619,10 +15186,52 @@
                 ]
             },
             {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "country_code": "NZ",
+                "channels": [
+                    "DAZN New Zealand"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
                     "VG TV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "DFB Play"
                 ]
             },
             {
@@ -14660,6 +15269,20 @@
                 "channels": [
                     "Sky Sport 2 D"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "DFB Play"
+                ]
             }
         ]
     },
@@ -14692,6 +15315,13 @@
                 ]
             },
             {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "DAZN Canada"
+                ]
+            },
+            {
                 "country": "Czechia",
                 "country_code": "CZ",
                 "channels": [
@@ -14719,7 +15349,22 @@
                 "country": "Hong Kong",
                 "country_code": "HK",
                 "channels": [
-                    "M Plus Live"
+                    "M Plus Live",
+                    "Movistar Plus+"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "GAORAオンデマンド"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "country_code": "NZ",
+                "channels": [
+                    "DAZN New Zealand"
                 ]
             },
             {
@@ -14755,6 +15400,13 @@
         "venue": "SIGNAL IDUNA PARK",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
@@ -14765,7 +15417,9 @@
                     "Sky Sport 2",
                     "Sky Sport Mix",
                     "Sky Sport News",
+                    "Sky Sport News Livestream",
                     "Sky Sport Top Event",
+                    "Sky Sport UHD",
                     "Sky Stream",
                     "Sky X",
                     "WOW"
@@ -14779,6 +15433,13 @@
                 ]
             },
             {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "country_code": "BR",
                 "channels": [
@@ -14787,9 +15448,39 @@
                 ]
             },
             {
+                "country": "Bulgaria",
+                "country_code": "BG",
+                "channels": [
+                    "Diema Sport 3",
+                    "Play Diema Xtra"
+                ]
+            },
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "DAZN Canada"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
+                    "DFB Play",
                     "Disney+ Premium",
                     "ESPN 3"
                 ]
@@ -14798,8 +15489,16 @@
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
+                    "DFB Play",
                     "Disney+ Premium",
                     "ESPN 3"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "DFB Play"
                 ]
             },
             {
@@ -14835,6 +15534,7 @@
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
+                    "DFB Play",
                     "Disney+ Premium",
                     "ESPN 3"
                 ]
@@ -14843,6 +15543,7 @@
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
+                    "DFB Play",
                     "Disney+ Premium",
                     "ESPN 3"
                 ]
@@ -14851,7 +15552,8 @@
                 "country": "Hong Kong",
                 "country_code": "HK",
                 "channels": [
-                    "M Plus Live"
+                    "M Plus Live",
+                    "Movistar Plus+"
                 ]
             },
             {
@@ -14860,6 +15562,13 @@
                 "channels": [
                     "NOW ROI",
                     "Premier Sports 1 ROI"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "GAORAオンデマンド"
                 ]
             },
             {
@@ -14875,8 +15584,17 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
+                    "DFB Play",
                     "Disney+ Premium",
                     "ESPN 3"
+                ]
+            },
+            {
+                "country": "Mongolia",
+                "country_code": "MN",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 4"
                 ]
             },
             {
@@ -14889,11 +15607,27 @@
                 ]
             },
             {
+                "country": "New Zealand",
+                "country_code": "NZ",
+                "channels": [
+                    "DAZN New Zealand"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
+                    "DFB Play",
                     "Disney+ Premium",
                     "ESPN 3"
+                ]
+            },
+            {
+                "country": "North Macedonia",
+                "country_code": "MK",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 4"
                 ]
             },
             {
@@ -14907,8 +15641,23 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
+                    "DFB Play",
                     "Disney+ Premium",
                     "ESPN 3"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "DFB Play"
                 ]
             },
             {
@@ -14926,10 +15675,19 @@
                 ]
             },
             {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Online"
+                ]
+            },
+            {
                 "country": "Serbia",
                 "country_code": "RS",
                 "channels": [
-                    "Arena Sport 2 Serbia"
+                    "Arena Cloud",
+                    "Arena Sport 2 Serbia",
+                    "Arena Sport 4"
                 ]
             },
             {
@@ -14938,7 +15696,8 @@
                 "channels": [
                     "Nova Sport 3",
                     "ProSieben MAXX",
-                    "Voyo"
+                    "Voyo",
+                    "ZDF"
                 ]
             },
             {
@@ -14973,6 +15732,20 @@
                     "Premier Sports 1 UK",
                     "Premier Sports Player"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "DFB Play"
+                ]
             }
         ]
     },
@@ -14984,6 +15757,13 @@
         "league": "DFB Pokal",
         "venue": "ista-Borussia-Park",
         "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
             {
                 "country": "Austria",
                 "country_code": "AT",
@@ -15006,10 +15786,68 @@
                 ]
             },
             {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Bosnia and Herzegovina",
+                "country_code": "BA",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport 4",
+                    "Moja TV"
+                ]
+            },
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "DAZN Canada"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
                 "country": "Czechia",
                 "country_code": "CZ",
                 "channels": [
                     "Nova Sport 5"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "DFB Play"
                 ]
             },
             {
@@ -15031,10 +15869,55 @@
                 ]
             },
             {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
                 "country": "Hong Kong",
                 "country_code": "HK",
                 "channels": [
-                    "M Plus Live"
+                    "M Plus Live",
+                    "Movistar Plus+"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "GAORA SPORTS",
+                    "GAORAオンデマンド",
+                    "U-NEXT"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "country_code": "NZ",
+                "channels": [
+                    "DAZN New Zealand"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "DFB Play"
                 ]
             },
             {
@@ -15042,6 +15925,27 @@
                 "country_code": "NO",
                 "channels": [
                     "VG TV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "DFB Play"
                 ]
             },
             {
@@ -15057,6 +15961,20 @@
                 "country_code": "ES",
                 "channels": [
                     "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "DFB Play"
                 ]
             }
         ]
@@ -15094,7 +16012,16 @@
                 "country": "Bulgaria",
                 "country_code": "BG",
                 "channels": [
-                    "Nova Sport Bulgaria"
+                    "Nova Sport",
+                    "Nova Sport Bulgaria",
+                    "Nova Sport HD"
+                ]
+            },
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "DAZN Canada"
                 ]
             },
             {
@@ -15119,7 +16046,22 @@
                 "country": "Hong Kong",
                 "country_code": "HK",
                 "channels": [
-                    "M Plus Live"
+                    "M Plus Live",
+                    "Movistar Plus+"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "GAORAオンデマンド"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "country_code": "NZ",
+                "channels": [
+                    "DAZN New Zealand"
                 ]
             },
             {
@@ -15147,6 +16089,13 @@
         "venue": "RheinEnergieSTADION",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
@@ -15168,10 +16117,59 @@
                 ]
             },
             {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "DAZN Canada"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
                 "country": "Czechia",
                 "country_code": "CZ",
                 "channels": [
                     "Nova Sport 4"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "DFB Play"
                 ]
             },
             {
@@ -15193,10 +16191,80 @@
                 ]
             },
             {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "Movistar Plus+"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "GAORAオンデマンド"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "country_code": "NZ",
+                "channels": [
+                    "DAZN New Zealand"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
                     "VG TV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "DFB Play"
                 ]
             },
             {
@@ -15233,6 +16301,20 @@
                 "country_code": "ES",
                 "channels": [
                     "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "DFB Play"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "DFB Play"
                 ]
             }
         ]
@@ -15337,6 +16419,24 @@
                 "channels": [
                     "NOW",
                     "Sky Sports+ app"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6385241,
+        "kickoff": 1793130300,
+        "fixture": "Penicuik Athletic vs Clyde",
+        "league_id": 137,
+        "league": "FA Cup",
+        "venue": "Montgomery Park",
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "BBC Sport online",
+                    "BBC iPlayer"
                 ]
             }
         ]
@@ -15667,143 +16767,6 @@
         ]
     },
     {
-        "match_id": 5837175,
-        "kickoff": 1793130300,
-        "fixture": "Leicester City vs Wigan Athletic",
-        "league_id": 108,
-        "league": "League One",
-        "venue": "King Power Stadium",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "NOW ROI",
-                    "Sky Sports+ app"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "NOW",
-                    "Sky Sports+ app"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5837189,
-        "kickoff": 1793130300,
-        "fixture": "Luton Town vs Doncaster Rovers",
-        "league_id": 108,
-        "league": "League One",
-        "venue": "Kenilworth Road",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "NOW ROI",
-                    "Sky Sports+ app"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "NOW",
-                    "Sky Sports+ app"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5837176,
-        "kickoff": 1793130300,
-        "fixture": "Milton Keynes Dons vs Bromley",
-        "league_id": 108,
-        "league": "League One",
-        "venue": "Stadium MK",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "NOW ROI",
-                    "Sky Sports+ app"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "NOW",
-                    "Sky Sports+ app"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5837190,
-        "kickoff": 1793130300,
-        "fixture": "Oxford United vs Stockport County",
-        "league_id": 108,
-        "league": "League One",
-        "venue": "The Kassam Stadium",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "NOW ROI",
-                    "Sky Sports+ app"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "NOW",
-                    "Sky Sports+ app"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "Paramount+ (US)"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5837193,
-        "kickoff": 1793130300,
-        "fixture": "Sheffield Wednesday vs Cambridge United",
-        "league_id": 108,
-        "league": "League One",
-        "venue": "Hillsborough",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "NOW ROI",
-                    "Sky Sports+ app"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "NOW",
-                    "Sky Sports+ app"
-                ]
-            }
-        ]
-    },
-    {
         "match_id": 5794547,
         "kickoff": 1793130300,
         "fixture": "Ross County vs Hamilton Academical",
@@ -15989,13 +16952,6 @@
                 "country_code": "MX",
                 "channels": [
                     "DAZN"
-                ]
-            },
-            {
-                "country": "Mongolia",
-                "country_code": "MN",
-                "channels": [
-                    "Arena Cloud"
                 ]
             },
             {
@@ -16300,13 +17256,6 @@
                 ]
             },
             {
-                "country": "Mongolia",
-                "country_code": "MN",
-                "channels": [
-                    "Arena Cloud"
-                ]
-            },
-            {
                 "country": "Netherlands",
                 "country_code": "NL",
                 "channels": [
@@ -16605,13 +17554,6 @@
                 "country_code": "MX",
                 "channels": [
                     "DAZN"
-                ]
-            },
-            {
-                "country": "Mongolia",
-                "country_code": "MN",
-                "channels": [
-                    "Arena Cloud"
                 ]
             },
             {
@@ -16916,13 +17858,6 @@
                 ]
             },
             {
-                "country": "Mongolia",
-                "country_code": "MN",
-                "channels": [
-                    "Arena Cloud"
-                ]
-            },
-            {
                 "country": "Netherlands",
                 "country_code": "NL",
                 "channels": [
@@ -17221,13 +18156,6 @@
                 "country_code": "MX",
                 "channels": [
                     "DAZN"
-                ]
-            },
-            {
-                "country": "Mongolia",
-                "country_code": "MN",
-                "channels": [
-                    "Arena Cloud"
                 ]
             },
             {
@@ -17532,13 +18460,6 @@
                 ]
             },
             {
-                "country": "Mongolia",
-                "country_code": "MN",
-                "channels": [
-                    "Arena Cloud"
-                ]
-            },
-            {
                 "country": "Netherlands",
                 "country_code": "NL",
                 "channels": [
@@ -17840,13 +18761,6 @@
                 ]
             },
             {
-                "country": "Mongolia",
-                "country_code": "MN",
-                "channels": [
-                    "Arena Cloud"
-                ]
-            },
-            {
                 "country": "Netherlands",
                 "country_code": "NL",
                 "channels": [
@@ -18138,13 +19052,6 @@
                 "country_code": "MX",
                 "channels": [
                     "DAZN"
-                ]
-            },
-            {
-                "country": "Mongolia",
-                "country_code": "MN",
-                "channels": [
-                    "Arena Cloud"
                 ]
             },
             {
@@ -18449,13 +19356,6 @@
                 ]
             },
             {
-                "country": "Mongolia",
-                "country_code": "MN",
-                "channels": [
-                    "Arena Cloud"
-                ]
-            },
-            {
                 "country": "Netherlands",
                 "country_code": "NL",
                 "channels": [
@@ -18637,6 +19537,90 @@
         "venue": "Halo Aerospace Stadium",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Belgium",
+                "country_code": "BE",
+                "channels": [
+                    "DAZN (BE)"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "DAZN Canada"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Finland",
                 "country_code": "FI",
                 "channels": [
@@ -18651,10 +19635,38 @@
                 ]
             },
             {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Italy",
                 "country_code": "IT",
                 "channels": [
                     "DAZN Italia"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "DAZN"
                 ]
             },
             {
@@ -18672,6 +19684,13 @@
                 ]
             },
             {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
@@ -18679,10 +19698,45 @@
                 ]
             },
             {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "country_code": "SE",
                 "channels": [
                     "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "DAZN"
                 ]
             },
             {
@@ -18697,6 +19751,20 @@
                 "country_code": "US",
                 "channels": [
                     "DAZN US"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "DAZN"
                 ]
             }
         ]
@@ -18746,6 +19814,90 @@
         "venue": "The Brewery Field",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Belgium",
+                "country_code": "BE",
+                "channels": [
+                    "DAZN (BE)"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "DAZN Canada"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Finland",
                 "country_code": "FI",
                 "channels": [
@@ -18760,10 +19912,38 @@
                 ]
             },
             {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Italy",
                 "country_code": "IT",
                 "channels": [
                     "DAZN Italia"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "DAZN"
                 ]
             },
             {
@@ -18781,6 +19961,13 @@
                 ]
             },
             {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
@@ -18788,10 +19975,45 @@
                 ]
             },
             {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "country_code": "SE",
                 "channels": [
                     "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "DAZN"
                 ]
             },
             {
@@ -18806,6 +20028,20 @@
                 "country_code": "US",
                 "channels": [
                     "DAZN US"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "DAZN"
                 ]
             }
         ]
@@ -18828,6 +20064,90 @@
         "venue": "Snows Stadium",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Belgium",
+                "country_code": "BE",
+                "channels": [
+                    "DAZN (BE)"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "DAZN Canada"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Finland",
                 "country_code": "FI",
                 "channels": [
@@ -18842,10 +20162,38 @@
                 ]
             },
             {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Italy",
                 "country_code": "IT",
                 "channels": [
                     "DAZN Italia"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "DAZN"
                 ]
             },
             {
@@ -18863,6 +20211,13 @@
                 ]
             },
             {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
@@ -18870,10 +20225,45 @@
                 ]
             },
             {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "country_code": "SE",
                 "channels": [
                     "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "DAZN"
                 ]
             },
             {
@@ -18888,6 +20278,20 @@
                 "country_code": "US",
                 "channels": [
                     "DAZN US"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "DAZN"
                 ]
             }
         ]
@@ -19195,6 +20599,90 @@
         "venue": "Gallagher Stadium",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Belgium",
+                "country_code": "BE",
+                "channels": [
+                    "DAZN (BE)"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "DAZN Canada"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Finland",
                 "country_code": "FI",
                 "channels": [
@@ -19209,10 +20697,38 @@
                 ]
             },
             {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Italy",
                 "country_code": "IT",
                 "channels": [
                     "DAZN Italia"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "DAZN"
                 ]
             },
             {
@@ -19230,6 +20746,13 @@
                 ]
             },
             {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
@@ -19237,10 +20760,45 @@
                 ]
             },
             {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "country_code": "SE",
                 "channels": [
                     "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "DAZN"
                 ]
             },
             {
@@ -19255,6 +20813,20 @@
                 "country_code": "US",
                 "channels": [
                     "DAZN US"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "DAZN"
                 ]
             }
         ]
@@ -19314,6 +20886,40 @@
         "tv_channels": []
     },
     {
+        "match_id": 5998345,
+        "kickoff": 1793115000,
+        "fixture": "Young Africans vs Mashujaa",
+        "league_id": 9066,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Tanzania",
+                "country_code": "TZ",
+                "channels": [
+                    "Azam Sports"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5998346,
+        "kickoff": 1793124000,
+        "fixture": "Dodoma Jiji FC vs JKT Tanzania",
+        "league_id": 9066,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Tanzania",
+                "country_code": "TZ",
+                "channels": [
+                    "Azam Sports"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5847411,
         "kickoff": 1793130300,
         "fixture": "Larne vs Limavady",
@@ -19349,7 +20955,8 @@
                 "country": "Slovenia",
                 "country_code": "SI",
                 "channels": [
-                    "SportKlub 1 Slovenia"
+                    "SportKlub 1 Slovenia",
+                    "Sportklub 1 Croatia"
                 ]
             }
         ]
@@ -19361,7 +20968,15 @@
         "league_id": 173,
         "league": "Prva Liga",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Slovenia",
+                "country_code": "SI",
+                "channels": [
+                    "Sportklub 1 Croatia"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5911580,
@@ -19589,10 +21204,91 @@
         "venue": "Stadion Fakel",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DGO",
+                    "DSports 2",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "DSports 2"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DAZN",
+                    "DGO",
+                    "DSports 2",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DAZN",
+                    "DGO",
+                    "DSports 2",
+                    "Paramount+",
+                    "Win Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "DAZN",
+                    "DGO",
+                    "DSports 2",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "DAZN",
+                    "DGO",
+                    "DSports 2",
+                    "Paramount+"
+                ]
+            },
+            {
                 "country": "Russian Federation",
                 "country_code": "RU",
                 "channels": [
-                    "Match! Premier"
+                    "Match TV",
+                    "Match! Premier",
+                    "Sportbox.ru",
+                    "matchtv.ru"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "DAZN",
+                    "DGO",
+                    "DSports 2",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "DAZN",
+                    "DSports 2"
                 ]
             }
         ]
@@ -19606,6 +21302,66 @@
         "venue": "Ozon Arena",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DGO",
+                    "DSports 2",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "DSports 2"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DAZN",
+                    "DGO",
+                    "DSports 2",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DAZN",
+                    "DGO",
+                    "DSports 2",
+                    "Paramount+",
+                    "Win Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "DAZN",
+                    "DGO",
+                    "DSports 2",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "DAZN",
+                    "DGO",
+                    "DSports 2",
+                    "Paramount+"
+                ]
+            },
+            {
                 "country": "Russian Federation",
                 "country_code": "RU",
                 "channels": [
@@ -19613,6 +21369,24 @@
                     "Match TV",
                     "Match! Premier",
                     "matchtv.ru"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "DAZN",
+                    "DGO",
+                    "DSports 2",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "DAZN",
+                    "DSports 2"
                 ]
             }
         ]
@@ -21161,6 +22935,20 @@
         "venue": "Al-Seeb Stadium",
         "tv_channels": [
             {
+                "country": "China",
+                "country_code": "CN",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "M Plus Live"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "country_code": "IE",
                 "channels": [
@@ -21194,6 +22982,13 @@
                 ]
             },
             {
+                "country": "South Korea",
+                "country_code": "KR",
+                "channels": [
+                    "Coupang Play"
+                ]
+            },
+            {
                 "country": "Spain",
                 "country_code": "ES",
                 "channels": [
@@ -21218,6 +23013,20 @@
         "venue": "Al-Zawraa Stadium",
         "tv_channels": [
             {
+                "country": "China",
+                "country_code": "CN",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "M Plus Live"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "country_code": "IE",
                 "channels": [
@@ -21240,6 +23049,13 @@
                     "Bein Sports 3",
                     "TOD",
                     "beIN SPORTS CONNECT"
+                ]
+            },
+            {
+                "country": "South Korea",
+                "country_code": "KR",
+                "channels": [
+                    "Coupang Play"
                 ]
             },
             {
@@ -21346,6 +23162,143 @@
         "league": "League Cup - 1st Round",
         "venue": "FNB Stadium (Soccer City)",
         "tv_channels": []
+    },
+    {
+        "match_id": 5837175,
+        "kickoff": 1793130300,
+        "fixture": "Leicester City vs Wigan Athletic",
+        "league_id": 108,
+        "league": "League One",
+        "venue": "King Power Stadium",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5837176,
+        "kickoff": 1793130300,
+        "fixture": "Milton Keynes Dons vs Bromley",
+        "league_id": 108,
+        "league": "League One",
+        "venue": "Stadium MK",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5837189,
+        "kickoff": 1793130300,
+        "fixture": "Luton Town vs Doncaster Rovers",
+        "league_id": 108,
+        "league": "League One",
+        "venue": "Kenilworth Road",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5837190,
+        "kickoff": 1793130300,
+        "fixture": "Oxford United vs Stockport County",
+        "league_id": 108,
+        "league": "League One",
+        "venue": "The Kassam Stadium",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5837193,
+        "kickoff": 1793130300,
+        "fixture": "Sheffield Wednesday vs Cambridge United",
+        "league_id": 108,
+        "league": "League One",
+        "venue": "Hillsborough",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "NOW",
+                    "Sky Sports+ app"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000017277,
