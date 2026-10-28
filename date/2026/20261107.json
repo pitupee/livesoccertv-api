@@ -105,7 +105,24 @@
         "league_id": 132,
         "league": "FA Cup",
         "venue": "The MGroup Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "TNT Sports 1"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6469309,
@@ -4244,7 +4261,7 @@
         "fixture": "UTA Arad vs Petrolul Ploiești",
         "league_id": 189,
         "league": "Superliga",
-        "venue": "Arena Francisc Neuman",
+        "venue": "Stadionul Francisc von Neuman",
         "tv_channels": []
     },
     {
@@ -4253,7 +4270,7 @@
         "fixture": "FC Argeș Pitesti vs Dinamo București",
         "league_id": 189,
         "league": "Superliga",
-        "venue": "Stadionul Orasenesc",
+        "venue": "Stadionul Orăşenesc",
         "tv_channels": []
     },
     {
@@ -4262,7 +4279,7 @@
         "fixture": "Csikszereda Miercurea Ciuc vs Universitatea Cluj",
         "league_id": 189,
         "league": "Superliga",
-        "venue": "Stadionul Municipal, Miercurea Ciuc",
+        "venue": "Stadionul Municipal",
         "tv_channels": []
     },
     {
@@ -4271,7 +4288,7 @@
         "fixture": "FCV Farul Constanța vs Rapid București",
         "league_id": 189,
         "league": "Superliga",
-        "venue": "Stadionul Viitorul",
+        "venue": "Stadionul Central",
         "tv_channels": []
     },
     {
@@ -4280,7 +4297,7 @@
         "fixture": "FCSB vs Corvinul Hunedoara",
         "league_id": 189,
         "league": "Superliga",
-        "venue": "Arena Nationala",
+        "venue": "Arena Naţională",
         "tv_channels": []
     },
     {
@@ -4527,15 +4544,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5908694,
-        "kickoff": 1794047400,
-        "fixture": "Keçiörengücü vs Manisa Futbol Kulübü",
-        "league_id": 165,
-        "league": "1. Lig",
-        "venue": "Aktepe Stadı",
-        "tv_channels": []
-    },
-    {
         "match_id": 5908696,
         "kickoff": 1793984400,
         "fixture": "Antalyaspor vs Bursaspor",
@@ -4551,6 +4559,15 @@
         "league_id": 165,
         "league": "1. Lig",
         "venue": "Yusuf Ziya Öniş Stadyumu",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5908694,
+        "kickoff": 1794047400,
+        "fixture": "Keçiörengücü vs Manisa Futbol Kulübü",
+        "league_id": 165,
+        "league": "1. Lig",
+        "venue": "Aktepe Stadı",
         "tv_channels": []
     },
     {
@@ -4608,6 +4625,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000020385,
+        "kickoff": 1794024000,
+        "fixture": "Central Coast Mariners vs Newcastle Jets",
+        "league_id": 9495,
+        "league": "A-League Women",
+        "venue": "polytec Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000020329,
         "kickoff": 1794031200,
         "fixture": "Brisbane Roar FC vs Melbourne Victory",
@@ -4623,15 +4649,6 @@
         "league_id": 9495,
         "league": "A-League Women",
         "venue": "HBF Park",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000020385,
-        "kickoff": 1794024000,
-        "fixture": "Central Coast Mariners vs Newcastle Jets",
-        "league_id": 9495,
-        "league": "A-League Women",
-        "venue": "polytec Stadium",
         "tv_channels": []
     },
     {
@@ -4671,21 +4688,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 5804612,
-        "kickoff": 1793992500,
-        "fixture": "Aarau vs Wil",
-        "league_id": 163,
-        "league": "Challenge League",
-        "venue": "Stadion Brügglifeld",
-        "tv_channels": []
-    },
-    {
         "match_id": 5804613,
         "kickoff": 1793989800,
         "fixture": "Kriens vs FC Rapperswil-Jona",
         "league_id": 163,
         "league": "Challenge League",
         "venue": "Stadion Kleinfeld",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5804612,
+        "kickoff": 1793992500,
+        "fixture": "Aarau vs Wil",
+        "league_id": 163,
+        "league": "Challenge League",
+        "venue": "Stadion Brügglifeld",
         "tv_channels": []
     },
     {
@@ -4698,21 +4715,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 5836924,
-        "kickoff": 1794054600,
-        "fixture": "Bristol City vs Norwich City",
-        "league_id": 48,
-        "league": "Championship",
-        "venue": "Ashton Gate Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 5836927,
         "kickoff": 1793995200,
         "fixture": "Derby County vs Bolton Wanderers",
         "league_id": 48,
         "league": "Championship",
         "venue": "Pride Park Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5836924,
+        "kickoff": 1794054600,
+        "fixture": "Bristol City vs Norwich City",
+        "league_id": 48,
+        "league": "Championship",
+        "venue": "Ashton Gate Stadium",
         "tv_channels": []
     },
     {
@@ -4851,15 +4868,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000015753,
-        "kickoff": 1794056400,
-        "fixture": "Česká Lípa vs FC Silon Táborsko",
-        "league_id": 253,
-        "league": "FNL",
-        "venue": "Městský stadion u Ploučnice",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000015755,
         "kickoff": 1793984400,
         "fixture": "Opava vs FC Vlašim",
@@ -4893,6 +4901,15 @@
         "league_id": 253,
         "league": "FNL",
         "venue": "Stadion Juliska",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000015753,
+        "kickoff": 1794056400,
+        "fixture": "Česká Lípa vs FC Silon Táborsko",
+        "league_id": 253,
+        "league": "FNL",
+        "venue": "Městský stadion u Ploučnice",
         "tv_channels": []
     },
     {
@@ -5004,21 +5021,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000017293,
-        "kickoff": 1794083400,
-        "fixture": "FC Cajamarca vs Alianza Atlético",
-        "league_id": 131,
-        "league": "Liga 1",
-        "venue": "Estadio Héroes de San Ramón",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000017297,
         "kickoff": 1794074400,
         "fixture": "Asociación Deportiva Tarma vs Sporting Cristal",
         "league_id": 131,
         "league": "Liga 1",
         "venue": "Estadio Municipal Unión de Tarma",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017293,
+        "kickoff": 1794083400,
+        "fixture": "FC Cajamarca vs Alianza Atlético",
+        "league_id": 131,
+        "league": "Liga 1",
+        "venue": "Estadio Héroes de San Ramón",
         "tv_channels": []
     },
     {
@@ -5058,21 +5075,21 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000015315,
+        "kickoff": 1794065400,
+        "fixture": "Maccabi Haifa vs Maccabi Netanya",
+        "league_id": 127,
+        "league": "Ligat ha'Al",
+        "venue": "Sammy Ofer Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000015312,
         "kickoff": 1794067200,
         "fixture": "Hapoel Ironi Kiryat Shmona vs Hapoel Haifa",
         "league_id": 127,
         "league": "Ligat ha'Al",
         "venue": "Miriam Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000015313,
-        "kickoff": 1794076200,
-        "fixture": "Ironi Tiberias vs Beitar Jerusalem",
-        "league_id": 127,
-        "league": "Ligat ha'Al",
-        "venue": "Barel Stadium",
         "tv_channels": []
     },
     {
@@ -5085,12 +5102,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000015315,
-        "kickoff": 1794065400,
-        "fixture": "Maccabi Haifa vs Maccabi Netanya",
+        "match_id": 1000015313,
+        "kickoff": 1794076200,
+        "fixture": "Ironi Tiberias vs Beitar Jerusalem",
         "league_id": 127,
         "league": "Ligat ha'Al",
-        "venue": "Sammy Ofer Stadium",
+        "venue": "Barel Stadium",
         "tv_channels": []
     },
     {
@@ -5301,21 +5318,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 5952298,
-        "kickoff": 1794060900,
-        "fixture": "Al-Shamal vs Al-Sailiya",
-        "league_id": 535,
-        "league": "Qatar Stars League",
-        "venue": "Abdullah bin Nasser bin Khalifa Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 5952301,
         "kickoff": 1793982600,
         "fixture": "Al-Wakrah vs Al-Shahaniya",
         "league_id": 535,
         "league": "Qatar Stars League",
         "venue": "Saoud Bin Abdulrahman Stadium (Al-Wakrah Stadium)",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5952298,
+        "kickoff": 1794060900,
+        "fixture": "Al-Shamal vs Al-Sailiya",
+        "league_id": 535,
+        "league": "Qatar Stars League",
+        "venue": "Abdullah bin Nasser bin Khalifa Stadium",
         "tv_channels": []
     },
     {
@@ -5355,15 +5372,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000021470,
-        "kickoff": 1794061800,
-        "fixture": "Al-Ettifaq vs Al Hilal",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "Al Ettifaq Club Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000021473,
         "kickoff": 1793986200,
         "fixture": "Al Ittihad vs Neom SC",
@@ -5379,6 +5387,15 @@
         "league_id": 536,
         "league": "Saudi Pro League",
         "venue": "Al Majma'ah Sports City Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021470,
+        "kickoff": 1794061800,
+        "fixture": "Al-Ettifaq vs Al Hilal",
+        "league_id": 536,
+        "league": "Saudi Pro League",
+        "venue": "Al Ettifaq Club Stadium",
         "tv_channels": []
     },
     {
@@ -5427,21 +5444,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 5190800,
-        "kickoff": 1794078600,
-        "fixture": "Novorizontino vs Fortaleza",
-        "league_id": 8814,
-        "league": "Série B",
-        "venue": "Estádio Dr. Jorge Ismael de Biasi",
-        "tv_channels": []
-    },
-    {
         "match_id": 5190805,
         "kickoff": 1794078000,
         "fixture": "Avaí vs São Bernardo",
         "league_id": 8814,
         "league": "Série B",
         "venue": "Estádio Dr. Aderbal Ramos da Silva",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5190800,
+        "kickoff": 1794078600,
+        "fixture": "Novorizontino vs Fortaleza",
+        "league_id": 8814,
+        "league": "Série B",
+        "venue": "Estádio Dr. Jorge Ismael de Biasi",
         "tv_channels": []
     },
     {
@@ -5919,6 +5936,15 @@
         "league_id": 337,
         "league": "Liga Nacional - Apertura",
         "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5906513,
+        "kickoff": 1794063600,
+        "fixture": "Gateshead FC vs Tamworth",
+        "league_id": 117,
+        "league": "National League",
+        "venue": "Gateshead International Stadium",
         "tv_channels": []
     },
     {
@@ -6471,6 +6497,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5953528,
+        "kickoff": 1794080700,
+        "fixture": "Leighton Town vs Hitchin Town",
+        "league_id": 8947,
+        "league": "Southern Premier Division Central",
+        "venue": "Bell Close",
+        "tv_channels": []
+    },
+    {
         "match_id": 5953975,
         "kickoff": 1794063600,
         "fixture": "Basingstoke vs Hanworth Villa",
@@ -6770,10 +6805,10 @@
     {
         "match_id": 1000021797,
         "kickoff": 1794078000,
-        "fixture": "2nd ranked vs 3rd ranked",
+        "fixture": "Ottawa Rapid FC vs AFC Toronto",
         "league_id": 10872,
         "league": "Northern Super League - Championship - Semi-finals",
-        "venue": "TD Place Stadium",
+        "venue": "TBA",
         "tv_channels": []
     },
     {

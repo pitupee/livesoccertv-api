@@ -396,24 +396,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5772223,
-        "kickoff": 1795271400,
-        "fixture": "DAC 1904 Dunajska Streda vs Komárno",
-        "league_id": 176,
-        "league": "1. Liga",
-        "venue": "MOL Aréna",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5772227,
-        "kickoff": 1795271400,
-        "fixture": "FC Košice vs Skalica",
-        "league_id": 176,
-        "league": "1. Liga",
-        "venue": "Košická futbalová aréna",
-        "tv_channels": []
-    },
-    {
         "match_id": 5772222,
         "kickoff": 1795271400,
         "fixture": "Ružomberok vs Slovan Bratislava",
@@ -432,21 +414,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 5772224,
-        "kickoff": 1795271400,
-        "fixture": "Zemplín Michalovce vs Spartak Trnava",
-        "league_id": 176,
-        "league": "1. Liga",
-        "venue": "Futbalový štadión MFK Zemplín",
-        "tv_channels": []
-    },
-    {
         "match_id": 5772225,
         "kickoff": 1795271400,
         "fixture": "Žilina vs Dukla Banská Bystrica",
         "league_id": 176,
         "league": "1. Liga",
         "venue": "Štadión Pod Dubňom",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5772224,
+        "kickoff": 1795280400,
+        "fixture": "Zemplín Michalovce vs Spartak Trnava",
+        "league_id": 176,
+        "league": "1. Liga",
+        "venue": "Futbalový štadión MFK Zemplín",
         "tv_channels": []
     },
     {
@@ -1472,7 +1454,7 @@
         "fixture": "Gangwon FC vs Daejeon Hana Citizen",
         "league_id": 9080,
         "league": "K-League 1 Final Group A",
-        "venue": "Chuncheon Songam Leports Town",
+        "venue": "Gangneung High1 Arena",
         "tv_channels": []
     },
     {
@@ -1490,7 +1472,7 @@
         "fixture": "Pohang Steelers vs FC Anyang",
         "league_id": 9080,
         "league": "K-League 1 Final Group B",
-        "venue": "Steelyard Stadium",
+        "venue": "Steelyard",
         "tv_channels": []
     },
     {
@@ -3528,15 +3510,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5908707,
-        "kickoff": 1795266000,
-        "fixture": "Kayserispor vs Sarıyer",
-        "league_id": 165,
-        "league": "1. Lig",
-        "venue": "RHG Enertürk Enerji Stadyumu",
-        "tv_channels": []
-    },
-    {
         "match_id": 5908708,
         "kickoff": 1795257000,
         "fixture": "İstanbulspor vs Keçiörengücü",
@@ -3552,6 +3525,15 @@
         "league_id": 165,
         "league": "1. Lig",
         "venue": "21 Kasım Şehir Stadyumu",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5908707,
+        "kickoff": 1795266000,
+        "fixture": "Kayserispor vs Sarıyer",
+        "league_id": 165,
+        "league": "1. Lig",
+        "venue": "RHG Enertürk Enerji Stadyumu",
         "tv_channels": []
     },
     {
@@ -3843,30 +3825,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000015761,
-        "kickoff": 1795264200,
-        "fixture": "Česká Lípa vs Hanácká Slavia Kromeriz",
-        "league_id": 253,
-        "league": "FNL",
-        "venue": "Městský stadion u Ploučnice",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000015762,
         "kickoff": 1795190400,
         "fixture": "FC Silon Táborsko vs Slavia Prague B",
         "league_id": 253,
         "league": "FNL",
         "venue": "Stadion Kvapilova",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000015763,
-        "kickoff": 1795264200,
-        "fixture": "Třinec vs Dukla Praha",
-        "league_id": 253,
-        "league": "FNL",
-        "venue": "Stadion Rudolfa Labaje",
         "tv_channels": []
     },
     {
@@ -3885,6 +3849,24 @@
         "league_id": 253,
         "league": "FNL",
         "venue": "Městský Stadión",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000015761,
+        "kickoff": 1795264200,
+        "fixture": "Česká Lípa vs Hanácká Slavia Kromeriz",
+        "league_id": 253,
+        "league": "FNL",
+        "venue": "Městský stadion u Ploučnice",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000015763,
+        "kickoff": 1795264200,
+        "fixture": "Třinec vs Dukla Praha",
+        "league_id": 253,
+        "league": "FNL",
+        "venue": "Stadion Rudolfa Labaje",
         "tv_channels": []
     },
     {
@@ -4221,21 +4203,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 5952303,
-        "kickoff": 1795266000,
-        "fixture": "Al-Wakrah vs Al-Sailiya",
-        "league_id": 535,
-        "league": "Qatar Stars League",
-        "venue": "Saoud Bin Abdulrahman Stadium (Al-Wakrah Stadium)",
-        "tv_channels": []
-    },
-    {
         "match_id": 5952307,
         "kickoff": 1795188600,
         "fixture": "Al-Duhail SC vs Qatar SC",
         "league_id": 535,
         "league": "Qatar Stars League",
         "venue": "Abdullah bin Nasser bin Khalifa Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5952303,
+        "kickoff": 1795266000,
+        "fixture": "Al-Wakrah vs Al-Sailiya",
+        "league_id": 535,
+        "league": "Qatar Stars League",
+        "venue": "Saoud Bin Abdulrahman Stadium (Al-Wakrah Stadium)",
         "tv_channels": []
     },
     {

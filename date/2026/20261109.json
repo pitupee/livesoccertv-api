@@ -1724,7 +1724,7 @@
         "fixture": "CFR Cluj vs Universitatea Craiova",
         "league_id": 189,
         "league": "Superliga",
-        "venue": "Stadionul Dr. Constantin Radulescu",
+        "venue": "Stadionul Dr. Constantin Rădulescu",
         "tv_channels": []
     },
     {
@@ -1733,7 +1733,7 @@
         "fixture": "Botoșani vs Oțelul Galați",
         "league_id": 189,
         "league": "Superliga",
-        "venue": "Stadionul Municipal, Botosani",
+        "venue": "Stadionul Municipal",
         "tv_channels": []
     },
     {
@@ -1845,15 +1845,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000017294,
-        "kickoff": 1794169800,
-        "fixture": "Sport Boys vs CD UT Cajamarca",
-        "league_id": 131,
-        "league": "Liga 1",
-        "venue": "Estadio Miguel Grau del Callao",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000017295,
         "kickoff": 1794160800,
         "fixture": "Los Chankas vs Alianza Lima",
@@ -1863,12 +1854,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000017298,
-        "kickoff": 1794187800,
-        "fixture": "Universitario de Deportes vs Club Deportivo Moquegua",
+        "match_id": 1000017294,
+        "kickoff": 1794169800,
+        "fixture": "Sport Boys vs CD UT Cajamarca",
         "league_id": 131,
         "league": "Liga 1",
-        "venue": "Estadio Monumental U Marathon",
+        "venue": "Estadio Miguel Grau del Callao",
         "tv_channels": []
     },
     {
@@ -1878,6 +1869,15 @@
         "league_id": 131,
         "league": "Liga 1",
         "venue": "Estadio Inca Garcilaso de la Vega",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017298,
+        "kickoff": 1794187800,
+        "fixture": "Universitario de Deportes vs Club Deportivo Moquegua",
+        "league_id": 131,
+        "league": "Liga 1",
+        "venue": "Estadio Monumental U Marathon",
         "tv_channels": []
     },
     {
@@ -1910,28 +1910,10 @@
     {
         "match_id": 1000021796,
         "kickoff": 1794171600,
-        "fixture": "Montréal Roses FC vs 4th ranked",
+        "fixture": "Montréal Roses FC vs Vancouver Rise FC",
         "league_id": 10872,
         "league": "Northern Super League - Championship - Semi-finals",
-        "venue": "Stade Boréale",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000014218,
-        "kickoff": 1794171900,
-        "fixture": "CD Jaguares vs Bucaramanga",
-        "league_id": 274,
-        "league": "Primera A",
-        "venue": "Estadio de Fútbol Jaraguay de Montería",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000014221,
-        "kickoff": 1794186900,
-        "fixture": "Alianza FC vs Llaneros FC",
-        "league_id": 274,
-        "league": "Primera A",
-        "venue": "Estadio Armando Maestre Pavajeau",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -1944,6 +1926,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000014218,
+        "kickoff": 1794171900,
+        "fixture": "CD Jaguares vs Bucaramanga",
+        "league_id": 274,
+        "league": "Primera A",
+        "venue": "Estadio de Fútbol Jaraguay de Montería",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000014224,
         "kickoff": 1794179400,
         "fixture": "Junior FC vs Cúcuta",
@@ -1953,21 +1944,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000022584,
-        "kickoff": 1794173400,
-        "fixture": "Portuguesa FC vs Metropolitanos FC",
-        "league_id": 339,
-        "league": "Primera División",
-        "venue": "Estadio General José Antonio Páez",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000022585,
-        "kickoff": 1794180600,
-        "fixture": "Deportivo La Guaira vs Carabobo FC",
-        "league_id": 339,
-        "league": "Primera División",
-        "venue": "Estadio Olímpico de la UCV",
+        "match_id": 1000014221,
+        "kickoff": 1794186900,
+        "fixture": "Alianza FC vs Llaneros FC",
+        "league_id": 274,
+        "league": "Primera A",
+        "venue": "Estadio Armando Maestre Pavajeau",
         "tv_channels": []
     },
     {
@@ -1995,6 +1977,24 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio Ramón Aguilera Costas",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022584,
+        "kickoff": 1794173400,
+        "fixture": "Portuguesa FC vs Metropolitanos FC",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio General José Antonio Páez",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022585,
+        "kickoff": 1794180600,
+        "fixture": "Deportivo La Guaira vs Carabobo FC",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio Olímpico de la UCV",
         "tv_channels": []
     },
     {
@@ -2076,6 +2076,15 @@
         "league_id": 8814,
         "league": "Série B",
         "venue": "Estádio de Hailé Pinheiro",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016506,
+        "kickoff": 1794153600,
+        "fixture": "Motherwell vs Celtic",
+        "league_id": 10791,
+        "league": "SWPL 1",
+        "venue": "The Bumblebee Stadium",
         "tv_channels": []
     },
     {
