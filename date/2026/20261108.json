@@ -6,7 +6,16 @@
         "league_id": 47,
         "league": "Premier League",
         "venue": "Emirates Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Premier Sports 1 ROI"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5795509,
@@ -24,7 +33,18 @@
         "league_id": 47,
         "league": "Premier League",
         "venue": "The City Ground",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "NBC",
+                    "NBC Sports 4K",
+                    "Peacock",
+                    "Telemundo"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5795506,
@@ -150,15 +170,6 @@
         "league_id": 132,
         "league": "FA Cup",
         "venue": "Mbanq Valley Parade",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6469281,
-        "kickoff": 1794063600,
-        "fixture": "Bristol Rovers vs Cambridge United",
-        "league_id": 132,
-        "league": "FA Cup",
-        "venue": "Memorial Stadium",
         "tv_channels": []
     },
     {
@@ -402,7 +413,30 @@
         "league_id": 132,
         "league": "FA Cup",
         "venue": "The J. Davidson Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "BBC Two NI",
+                    "NOW ROI",
+                    "TNT Sports 1"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "BBC Sport online",
+                    "BBC Two",
+                    "BBC Two Northern Ireland",
+                    "BBC Two Wales",
+                    "BBC iPlayer",
+                    "HBO Max (UK)",
+                    "TNT Sports 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6469304,
@@ -411,7 +445,52 @@
         "league_id": 132,
         "league": "FA Cup",
         "venue": "Weston Homes Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "TNT Sports 1",
+                    "TNT Sports 3"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 1",
+                    "TNT Sports 3"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6469309,
+        "kickoff": 1794139200,
+        "fixture": "Stafford Rangers vs Grimsby Town",
+        "league_id": 132,
+        "league": "FA Cup",
+        "venue": "The Stan Robinson Stadium",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "TNT Sports 1"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6469299,
@@ -972,6 +1051,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 6142312,
+        "kickoff": 1794141000,
+        "fixture": "APEA Akrotiri vs AEP Polemidion",
+        "league_id": 9100,
+        "league": "2. Division",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6142316,
+        "kickoff": 1794141000,
+        "fixture": "Iraklis Gerolakkou vs Digenis Morphou",
+        "league_id": 9100,
+        "league": "2. Division",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5875018,
         "kickoff": 1794069000,
         "fixture": "BW Linz vs Floridsdorfer AC",
@@ -1014,42 +1111,6 @@
         "league_id": 208,
         "league": "3. Liga",
         "venue": "AKON ARENA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5900587,
-        "kickoff": 1794140100,
-        "fixture": "Banga Gargzdai vs Žalgiris Vilnius",
-        "league_id": 228,
-        "league": "A Lyga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5900588,
-        "kickoff": 1794140100,
-        "fixture": "FK Panevėžys vs FA Šiauliai",
-        "league_id": 228,
-        "league": "A Lyga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5900590,
-        "kickoff": 1794140100,
-        "fixture": "FK TransINVEST vs FK Kauno Žalgiris",
-        "league_id": 228,
-        "league": "A Lyga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5900589,
-        "kickoff": 1794140100,
-        "fixture": "Sūduva vs Džiugas Telšiai",
-        "league_id": 228,
-        "league": "A Lyga",
-        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -1950,15 +2011,6 @@
         "league_id": 8947,
         "league": "Isthmian Premier Division",
         "venue": "The Bauvill Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5948158,
-        "kickoff": 1794063600,
-        "fixture": "Cray Wanderers vs Leatherhead",
-        "league_id": 8947,
-        "league": "Isthmian Premier Division",
-        "venue": "Flamingo Park",
         "tv_channels": []
     },
     {
@@ -2943,15 +2995,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5907149,
-        "kickoff": 1794063600,
-        "fixture": "Darlington vs Oxford City",
-        "league_id": 8944,
-        "league": "National League North",
-        "venue": "Blackwell Meadows",
-        "tv_channels": []
-    },
-    {
         "match_id": 5907150,
         "kickoff": 1794063600,
         "fixture": "Harborough Town FC vs Radcliffe",
@@ -3087,15 +3130,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5907672,
-        "kickoff": 1794063600,
-        "fixture": "Salisbury vs Dorking Wanderers",
-        "league_id": 8944,
-        "league": "National League South",
-        "venue": "The Raymond McEnhill Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 5907673,
         "kickoff": 1794063600,
         "fixture": "Slough Town vs Walton and Hersham",
@@ -3219,15 +3253,6 @@
         "league_id": 8947,
         "league": "Northern Premier Division",
         "venue": "Fantastic Media Welfare Ground",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5949345,
-        "kickoff": 1794063600,
-        "fixture": "Guiseley vs FC United of Manchester",
-        "league_id": 8947,
-        "league": "Northern Premier Division",
-        "venue": "Nethermoor Park, Guiseley",
         "tv_channels": []
     },
     {
@@ -3546,6 +3571,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 5973001,
+        "kickoff": 1794063600,
+        "fixture": "FC Noah vs Shirak",
+        "league_id": 118,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5973003,
+        "kickoff": 1794153600,
+        "fixture": "Urartu FC vs Ararat Armenia",
+        "league_id": 118,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6018585,
         "kickoff": 1794069600,
         "fixture": "Al-Jahra vs Al-Qadsia",
@@ -3749,6 +3792,33 @@
         "fixture": "Alianza FC vs CD Águila",
         "league_id": 335,
         "league": "Primera Division - Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5833831,
+        "kickoff": 1794096000,
+        "fixture": "Deportiva San Carlos vs Municipal Pérez Zeledón",
+        "league_id": 121,
+        "league": "Primera Division Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5833828,
+        "kickoff": 1794103200,
+        "fixture": "LD Alajuelense vs Sporting FC",
+        "league_id": 121,
+        "league": "Primera Division Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5961130,
+        "kickoff": 1794157200,
+        "fixture": "C.S. Cartaginés vs Escorpiones",
+        "league_id": 121,
+        "league": "Primera Division Apertura",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -5077,7 +5147,7 @@
     },
     {
         "match_id": 5943292,
-        "kickoff": 1794157200,
+        "kickoff": 1794155400,
         "fixture": "OFI Crete vs Atromitos",
         "league_id": 135,
         "league": "Super League",
@@ -5671,7 +5741,7 @@
     },
     {
         "match_id": 1000022620,
-        "kickoff": 1794096000,
+        "kickoff": 1794139200,
         "fixture": "TBC vs FAR Rabat",
         "league_id": 11011,
         "league": "CAF Women's Champions League",
@@ -6071,7 +6141,7 @@
         "fixture": "Instituto vs Newell's Old Boys",
         "league_id": 112,
         "league": "Liga Profesional",
-        "venue": "Estadio Juan Domingo Perón",
+        "venue": "Estadio Monumental Presidente Perón",
         "tv_channels": []
     },
     {
@@ -6359,8 +6429,16 @@
         "fixture": "Ottawa Rapid FC vs AFC Toronto",
         "league_id": 10872,
         "league": "Northern Super League - Championship - Semi-finals",
-        "venue": "TBA",
-        "tv_channels": []
+        "venue": "TD Place Stadium",
+        "tv_channels": [
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "CBC"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000021796,
@@ -6368,7 +6446,7 @@
         "fixture": "Montréal Roses FC vs Vancouver Rise FC",
         "league_id": 10872,
         "league": "Northern Super League - Championship - Semi-finals",
-        "venue": "TBA",
+        "venue": "Stade Boréale",
         "tv_channels": []
     },
     {
@@ -6989,7 +7067,7 @@
         "fixture": "Kasetsart vs Muang Loei United",
         "league_id": 9498,
         "league": "Thai League 2",
-        "venue": "Insee Chantarasatit Stadium",
+        "venue": "NT Stadium",
         "tv_channels": []
     },
     {
@@ -7196,51 +7274,6 @@
         "fixture": "Port City vs Holy Stars",
         "league_id": 522,
         "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5833830,
-        "kickoff": 1794171600,
-        "fixture": "Club Sport Herediano vs Inter San Carlos",
-        "league_id": 121,
-        "league": "Primera Division Apertura",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5961130,
-        "kickoff": 1794171600,
-        "fixture": "C.S. Cartaginés vs Escorpiones",
-        "league_id": 121,
-        "league": "Primera Division Apertura",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5833831,
-        "kickoff": 1794171600,
-        "fixture": "Deportiva San Carlos vs Municipal Pérez Zeledón",
-        "league_id": 121,
-        "league": "Primera Division Apertura",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5833832,
-        "kickoff": 1794171600,
-        "fixture": "Deportivo Saprissa vs Puntarenas FC",
-        "league_id": 121,
-        "league": "Primera Division Apertura",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5833828,
-        "kickoff": 1794171600,
-        "fixture": "LD Alajuelense vs Sporting FC",
-        "league_id": 121,
-        "league": "Primera Division Apertura",
         "venue": "TBA",
         "tv_channels": []
     },
