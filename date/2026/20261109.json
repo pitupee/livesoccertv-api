@@ -33,7 +33,24 @@
         "league_id": 132,
         "league": "FA Cup",
         "venue": "The Wyatt Homes Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "TNT Sports 1"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6469282,
@@ -42,7 +59,26 @@
         "league_id": 132,
         "league": "FA Cup",
         "venue": "Boundary Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "TNT Sports 1",
+                    "TNT Sports 3"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 1",
+                    "TNT Sports 3"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6469292,
@@ -626,7 +662,7 @@
         "fixture": "Deportivo de A Coruña (W) vs Valencia (W)",
         "league_id": 9907,
         "league": "Liga F",
-        "venue": "Dépor Training Center Campo Arsenio Iglesias",
+        "venue": "Estadio Abanca-Riazor",
         "tv_channels": []
     },
     {
@@ -1170,6 +1206,69 @@
         "tv_channels": []
     },
     {
+        "match_id": 5884252,
+        "kickoff": 1794150000,
+        "fixture": "UD Llanera vs Bergantiños CF",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5884251,
+        "kickoff": 1794151800,
+        "fixture": "Marino Luanco vs Rayo Cantabria",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5884255,
+        "kickoff": 1794153600,
+        "fixture": "Arosa SC vs Compostela",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5884253,
+        "kickoff": 1794153600,
+        "fixture": "Eibar B vs CD Arenteiro",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5884250,
+        "kickoff": 1794153600,
+        "fixture": "Ourense vs Portugalete",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5884248,
+        "kickoff": 1794153600,
+        "fixture": "RS Gimnástica vs SD Gernika",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5884238,
+        "kickoff": 1794155400,
+        "fixture": "Sestao vs Deportivo Alavés B",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5884602,
         "kickoff": 1794150000,
         "fixture": "Girona B vs UE Olot",
@@ -1215,15 +1314,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5921289,
-        "kickoff": 1794153600,
-        "fixture": "SD Logroñés vs CF Calamocha",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5884606,
         "kickoff": 1794153600,
         "fixture": "Tudelano vs Ebro",
@@ -1233,9 +1323,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 5884607,
-        "kickoff": 1794153600,
-        "fixture": "Utebo vs Osasuna B",
+        "match_id": 5921289,
+        "kickoff": 1794155400,
+        "fixture": "SD Logroñés vs CF Calamocha",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 2",
         "venue": "TBA",
@@ -1260,42 +1350,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5884933,
-        "kickoff": 1794153600,
-        "fixture": "Atlético Baleares vs La Nucía",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884934,
-        "kickoff": 1794153600,
-        "fixture": "Castellonense vs Alcoyano",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884935,
-        "kickoff": 1794153600,
-        "fixture": "CF Intercity vs Elche Ilicitano",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884936,
-        "kickoff": 1794153600,
-        "fixture": "Mallorca B vs Yeclano",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5884937,
         "kickoff": 1794153600,
         "fixture": "Orihuela vs UCAM Murcia",
@@ -1306,7 +1360,7 @@
     },
     {
         "match_id": 5884941,
-        "kickoff": 1794153600,
+        "kickoff": 1794157200,
         "fixture": "Valencia B vs Lorca Deportiva",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 3",
@@ -1314,17 +1368,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5885624,
-        "kickoff": 1794151800,
-        "fixture": "Atletico Madrid C vs Atlético Tordesillas",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 5",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5885622,
-        "kickoff": 1794153600,
+        "kickoff": 1794150000,
         "fixture": "Albacete B vs Gimnástica Segoviana",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 5",
@@ -1332,9 +1377,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 6147837,
-        "kickoff": 1794153600,
-        "fixture": "CD Atlético Paso vs RSD Alcalá",
+        "match_id": 5885624,
+        "kickoff": 1794151800,
+        "fixture": "Atletico Madrid C vs Atlético Tordesillas",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 5",
         "venue": "TBA",
@@ -1350,101 +1395,11 @@
         "tv_channels": []
     },
     {
-        "match_id": 5885629,
-        "kickoff": 1794153600,
-        "fixture": "Numancia vs CS Puertollano",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 5",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5885625,
         "kickoff": 1794153600,
         "fixture": "Real Ávila vs Salamanca CF UDS",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 5",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5885623,
-        "kickoff": 1794153600,
-        "fixture": "Real Madrid C vs Real Valladolid B",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 5",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884255,
-        "kickoff": 1794153600,
-        "fixture": "Arosa SC vs Compostela",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884253,
-        "kickoff": 1794153600,
-        "fixture": "Eibar B vs CD Arenteiro",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884251,
-        "kickoff": 1794153600,
-        "fixture": "Marino Luanco vs Rayo Cantabria",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884250,
-        "kickoff": 1794153600,
-        "fixture": "Ourense vs Portugalete",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884249,
-        "kickoff": 1794153600,
-        "fixture": "Real Oviedo B vs Coruxo FC",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884248,
-        "kickoff": 1794153600,
-        "fixture": "RS Gimnástica vs SD Gernika",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884252,
-        "kickoff": 1794153600,
-        "fixture": "UD Llanera vs Bergantiños CF",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884238,
-        "kickoff": 1794155400,
-        "fixture": "Sestao vs Deportivo Alavés B",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 1",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -1458,17 +1413,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5885319,
-        "kickoff": 1794153600,
-        "fixture": "Betis Deportivo Balompie vs Tenerife B",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 4",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5885314,
-        "kickoff": 1794153600,
+        "kickoff": 1794155400,
         "fixture": "Ciudad Lucena vs CD Badajoz",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 4",
@@ -1477,7 +1423,7 @@
     },
     {
         "match_id": 5885326,
-        "kickoff": 1794153600,
+        "kickoff": 1794155400,
         "fixture": "Recreativo Huelva vs Mijas-Las Lagunas",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 4",
@@ -2201,7 +2147,7 @@
         "fixture": "Middlesbrough U21 vs Derby County U21",
         "league_id": 9084,
         "league": "Premier League 2",
-        "venue": "Heritage Park",
+        "venue": "The Vest Construction Stadium",
         "tv_channels": []
     }
 ]
