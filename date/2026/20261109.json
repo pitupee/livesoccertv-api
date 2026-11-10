@@ -33,24 +33,7 @@
         "league_id": 132,
         "league": "FA Cup",
         "venue": "The Wyatt Homes Stadium",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "NOW ROI",
-                    "TNT Sports 1"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "HBO Max (UK)",
-                    "TNT Sports 1"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 6469282,
@@ -59,26 +42,7 @@
         "league_id": 132,
         "league": "FA Cup",
         "venue": "Boundary Park",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "NOW ROI",
-                    "TNT Sports 1",
-                    "TNT Sports 3"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "HBO Max (UK)",
-                    "TNT Sports 1",
-                    "TNT Sports 3"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 6469292,
@@ -87,7 +51,39 @@
         "league_id": 132,
         "league": "FA Cup",
         "venue": "Manadon Sports Hub",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "TNT Sports 1"
+                ]
+            },
+            {
+                "country": "Ukraine",
+                "country_code": "UA",
+                "channels": [
+                    "Megogo"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 1"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5868127,
@@ -186,6 +182,15 @@
         "league_id": 55,
         "league": "Serie A",
         "venue": "Stadio Artemio Franchi",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5796388,
+        "kickoff": 1794153600,
+        "fixture": "Dečić Tuzi vs OFK Mladost Donja Gorica",
+        "league_id": 232,
+        "league": "1. CFL",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -324,6 +329,50 @@
         "tv_channels": []
     },
     {
+        "match_id": 6543264,
+        "kickoff": 1794150000,
+        "fixture": "Modern Sport FC vs Olympic El Qanah FC",
+        "league_id": 9941,
+        "league": "Cup",
+        "venue": "Borg El Arab Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6543265,
+        "kickoff": 1794160800,
+        "fixture": "Tala'ea El Gaish vs Asyut Petroleum",
+        "league_id": 9941,
+        "league": "Cup",
+        "venue": "Gehaz El Reyada Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6543266,
+        "kickoff": 1794227400,
+        "fixture": "Wadi Degla FC vs Kahrbaa Ismailia",
+        "league_id": 9941,
+        "league": "Cup",
+        "venue": "New Suez Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6543267,
+        "kickoff": 1794236400,
+        "fixture": "ZED FC vs Samanod",
+        "league_id": 9941,
+        "league": "Cup",
+        "venue": "Borg El Arab Stadium",
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "ON Sport Max"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5975445,
         "kickoff": 1794157200,
         "fixture": "APOEL Nicosia vs Aris Limassol",
@@ -414,6 +463,23 @@
         "tv_channels": []
     },
     {
+        "match_id": 5105046,
+        "kickoff": 1794247200,
+        "fixture": "Kristiansund vs Vålerenga",
+        "league_id": 59,
+        "league": "Eliteserien",
+        "venue": "Nordmøre stadion",
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5781798,
         "kickoff": 1794152700,
         "fixture": "AZ Alkmaar vs FC Groningen",
@@ -456,7 +522,16 @@
         "league_id": 439,
         "league": "Erovnuli Liga",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Saint Barthélemy",
+                "country_code": "BL",
+                "channels": [
+                    "Sport TV",
+                    "Sport TV Belarus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6424802,
@@ -464,6 +539,24 @@
         "fixture": "Derry City vs Waterford FC",
         "league_id": 219,
         "league": "FAI Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6567720,
+        "kickoff": 1794168000,
+        "fixture": "Juventud Antoniana vs Club Cipolletti",
+        "league_id": 9213,
+        "league": "Federal A Promotion Playoff",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6567714,
+        "kickoff": 1794171600,
+        "fixture": "Sarmiento de La Banda vs CA Alvarado",
+        "league_id": 9213,
+        "league": "Federal A Promotion Playoff",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -483,7 +576,24 @@
         "league_id": 338,
         "league": "First League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Russian Federation",
+                "country_code": "RU",
+                "channels": [
+                    "Match TV",
+                    "Sportbox.ru",
+                    "matchtv.ru"
+                ]
+            },
+            {
+                "country": "Saint Barthélemy",
+                "country_code": "BL",
+                "channels": [
+                    "Sport TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5760520,
@@ -510,16 +620,115 @@
         "league_id": 9676,
         "league": "Frauen-Bundesliga",
         "venue": "Franz-Kremer-Stadion",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5765958,
-        "kickoff": 1794157200,
-        "fixture": "NK Varaždin vs Dinamo Zagreb",
-        "league_id": 252,
-        "league": "HNL",
-        "venue": "Stadion Anđelko Herjavec",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Magenta Sport"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN",
+                    "DAZN App Gratis"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "DAZN",
+                    "Sport1"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5861979,
@@ -576,15 +785,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5868533,
-        "kickoff": 1794159000,
-        "fixture": "Las Palmas vs Eldense",
-        "league_id": 140,
-        "league": "LaLiga2",
-        "venue": "Estadio de Gran Canaria",
-        "tv_channels": []
-    },
-    {
         "match_id": 5868535,
         "kickoff": 1794159000,
         "fixture": "Sporting Gijón vs Real Valladolid",
@@ -594,13 +794,152 @@
         "tv_channels": []
     },
     {
+        "match_id": 5868533,
+        "kickoff": 1794252600,
+        "fixture": "Las Palmas vs Eldense",
+        "league_id": 140,
+        "league": "LaLiga2",
+        "venue": "Estadio de Gran Canaria",
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN Spain"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN",
+                    "LALIGA TV Hypermotion 2"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5868534,
         "kickoff": 1794252600,
         "fixture": "Sabadell vs Real Sociedad B",
         "league_id": 140,
         "league": "LaLiga2",
         "venue": "Estadi Municipal de la Nova Creu Alta",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN Spain"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "SKY Sports",
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "SKY Sports"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "SKY Sports",
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "SKY Sports",
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "SKY Sports"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "SKY Sports",
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "SKY Sports",
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "DAZN 1"
+                ]
+            },
+            {
+                "country": "Russian Federation",
+                "country_code": "RU",
+                "channels": [
+                    "Sportbox.ru",
+                    "matchtv.ru"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN",
+                    "LALIGA TV Hypermotion",
+                    "LaLiga TV M2"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Ukraine",
+                "country_code": "UA",
+                "channels": [
+                    "Megogo"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5991238,
@@ -617,15 +956,6 @@
         "fixture": "Paços de Ferreira vs Trofense",
         "league_id": 9112,
         "league": "Liga 3 Zona A",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5991326,
-        "kickoff": 1794150000,
-        "fixture": "CF Os Belenenses vs Lusitano de Évora",
-        "league_id": 9112,
-        "league": "Liga 3 Zona B",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -654,7 +984,25 @@
         "league_id": 9907,
         "league": "Liga F",
         "venue": "Centro Deportivo Wanda",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN Spain"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN",
+                    "DAZN 1",
+                    "DAZN 1 Bar",
+                    "M+ Vamos 2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5882344,
@@ -663,7 +1011,25 @@
         "league_id": 9907,
         "league": "Liga F",
         "venue": "Estadio Abanca-Riazor",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN Spain"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN",
+                    "DAZN 2",
+                    "DAZN 2 Bar",
+                    "M+ Vamos 3"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5976957,
@@ -672,7 +1038,18 @@
         "league_id": 9113,
         "league": "Liga II",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Orange TV Go",
+                    "Prima Play",
+                    "Prima Sport",
+                    "Prima TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5976952,
@@ -681,7 +1058,21 @@
         "league_id": 9113,
         "league": "Liga II",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Online",
+                    "Digi Sport 1",
+                    "Orange Sport 1",
+                    "Orange TV Go",
+                    "Prima Play",
+                    "Prima Sport",
+                    "Prima TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6365915,
@@ -738,6 +1129,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5887676,
+        "kickoff": 1794151800,
+        "fixture": "Nacional vs Académico Viseu",
+        "league_id": 61,
+        "league": "Liga Portugal",
+        "venue": "Estádio da Madeira",
+        "tv_channels": []
+    },
+    {
         "match_id": 5887678,
         "kickoff": 1794151800,
         "fixture": "Santa Clara vs Gil Vicente",
@@ -789,7 +1189,15 @@
         "league_id": 185,
         "league": "Liga Portugal 2",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Sport TV 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5989877,
@@ -806,33 +1214,6 @@
         "fixture": "JS Saoura vs CS Constantine",
         "league_id": 516,
         "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5954379,
-        "kickoff": 1794171600,
-        "fixture": "CD Universitario vs Herrera FC",
-        "league_id": 9039,
-        "league": "LPF Apertura",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5954380,
-        "kickoff": 1794171600,
-        "fixture": "San Francisco FC vs Veraguas United",
-        "league_id": 9039,
-        "league": "LPF Apertura",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5954381,
-        "kickoff": 1794171600,
-        "fixture": "Union Cocle vs Independiente de La Chorrera",
-        "league_id": 9039,
-        "league": "LPF Apertura",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -882,24 +1263,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6103164,
-        "kickoff": 1794150000,
-        "fixture": "Ikorodu City vs Inter Lagos",
-        "league_id": 533,
-        "league": "NPFL",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6103165,
-        "kickoff": 1794150000,
-        "fixture": "Kun Khalifat vs Kano Pillars",
-        "league_id": 533,
-        "league": "NPFL",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6103166,
         "kickoff": 1794150000,
         "fixture": "Nasarawa United vs Plateau United",
@@ -924,6 +1287,41 @@
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6103164,
+        "kickoff": 1794236400,
+        "fixture": "Ikorodu City vs Inter Lagos",
+        "league_id": 533,
+        "league": "NPFL",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "NPFL Live"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6546052,
+        "kickoff": 1794159000,
+        "fixture": "Gotham FC (W) vs Seattle Reign FC (W)",
+        "league_id": 9134,
+        "league": "NWSL Playoff",
+        "venue": "Sports Illustrated Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6546053,
+        "kickoff": 1794168000,
+        "fixture": "Washington Spirit (W) vs Portland Thorns (W)",
+        "league_id": 9134,
+        "league": "NWSL Playoff",
+        "venue": "Audi Field",
         "tv_channels": []
     },
     {
@@ -954,6 +1352,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 6141012,
+        "kickoff": 1794155400,
+        "fixture": "Zrinjski Mostar vs FK Sarajevo",
+        "league_id": 267,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5973003,
         "kickoff": 1794153600,
         "fixture": "Urartu FC vs Ararat Armenia",
@@ -973,7 +1380,7 @@
     },
     {
         "match_id": 5975086,
-        "kickoff": 1794151800,
+        "kickoff": 1794150000,
         "fixture": "Ashanti Gold vs Young Apostles",
         "league_id": 522,
         "league": "Premier League",
@@ -982,7 +1389,7 @@
     },
     {
         "match_id": 5975087,
-        "kickoff": 1794151800,
+        "kickoff": 1794150000,
         "fixture": "Bechem United vs Samartex",
         "league_id": 522,
         "league": "Premier League",
@@ -991,7 +1398,7 @@
     },
     {
         "match_id": 5975088,
-        "kickoff": 1794151800,
+        "kickoff": 1794150000,
         "fixture": "Berekum Chelsea vs Asante Kotoko SC",
         "league_id": 522,
         "league": "Premier League",
@@ -1000,7 +1407,7 @@
     },
     {
         "match_id": 5975089,
-        "kickoff": 1794151800,
+        "kickoff": 1794150000,
         "fixture": "Bibiani Gold Stars vs Aduana Stars",
         "league_id": 522,
         "league": "Premier League",
@@ -1009,7 +1416,7 @@
     },
     {
         "match_id": 5975090,
-        "kickoff": 1794151800,
+        "kickoff": 1794150000,
         "fixture": "Dreams FC vs Debibi",
         "league_id": 522,
         "league": "Premier League",
@@ -1018,7 +1425,7 @@
     },
     {
         "match_id": 5975091,
-        "kickoff": 1794151800,
+        "kickoff": 1794150000,
         "fixture": "Hearts of Oak vs Heart of Lions",
         "league_id": 522,
         "league": "Premier League",
@@ -1026,17 +1433,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5975092,
-        "kickoff": 1794151800,
-        "fixture": "Karela United vs Vision FC",
-        "league_id": 522,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5975093,
-        "kickoff": 1794151800,
+        "kickoff": 1794150000,
         "fixture": "Medeama SC vs All Blacks",
         "league_id": 522,
         "league": "Premier League",
@@ -1045,7 +1443,7 @@
     },
     {
         "match_id": 5975094,
-        "kickoff": 1794151800,
+        "kickoff": 1794150000,
         "fixture": "Port City vs Holy Stars",
         "league_id": 522,
         "league": "Premier League",
@@ -1176,7 +1574,16 @@
         "league_id": 9096,
         "league": "Second Professional League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bulgaria",
+                "country_code": "BG",
+                "channels": [
+                    "Diema Sport",
+                    "Play Diema Xtra"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5874264,
@@ -1194,7 +1601,16 @@
         "league_id": 9096,
         "league": "Second Professional League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bulgaria",
+                "country_code": "BG",
+                "channels": [
+                    "Diema Sport",
+                    "Play Diema Xtra"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5874266,
@@ -1413,24 +1829,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5885314,
-        "kickoff": 1794155400,
-        "fixture": "Ciudad Lucena vs CD Badajoz",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 4",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5885326,
-        "kickoff": 1794155400,
-        "fixture": "Recreativo Huelva vs Mijas-Las Lagunas",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 4",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5977799,
         "kickoff": 1794157200,
         "fixture": "Lazio (W) vs S.S.D. Napoli Femminile (W)",
@@ -1463,7 +1861,7 @@
         "fixture": "Desenzano vs Ospitaletto",
         "league_id": 147,
         "league": "Serie C Grp. A",
-        "venue": "Stadio Comunale Ospitaletto",
+        "venue": "Stadio Tre Stelle",
         "tv_channels": []
     },
     {
@@ -1509,15 +1907,6 @@
         "league_id": 147,
         "league": "Serie C Grp. B",
         "venue": "Stadio Comunale Mimmo Pavone",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6028612,
-        "kickoff": 1794153600,
-        "fixture": "Al Shorta vs Al Naft",
-        "league_id": 524,
-        "league": "Stars League",
-        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -1584,93 +1973,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 6140255,
-        "kickoff": 1794153600,
-        "fixture": "Anagennisi Karditsas vs GS Marko",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140252,
-        "kickoff": 1794153600,
-        "fixture": "Athens Kallithea FC vs Panionios",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140254,
-        "kickoff": 1794153600,
-        "fixture": "Kalamaria vs Panserraikos FC",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140253,
-        "kickoff": 1794153600,
-        "fixture": "Nestos Chrisoupolis vs Asteras Tripolis B",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140256,
-        "kickoff": 1794153600,
-        "fixture": "Olympiacos B vs Hellas Syros",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140257,
-        "kickoff": 1794153600,
-        "fixture": "Panthrakikos Komotini vs AE Larissa",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140258,
-        "kickoff": 1794153600,
-        "fixture": "Pyrgos AFC vs PAOK Thessaloniki B",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6140259,
-        "kickoff": 1794153600,
+        "kickoff": 1794229200,
         "fixture": "Zakynthos APS vs Niki Volou",
         "league_id": 8815,
         "league": "Super League 2",
         "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5904796,
-        "kickoff": 1794151800,
-        "fixture": "Alanyaspor vs Trabzonspor",
-        "league_id": 71,
-        "league": "Super Lig",
-        "venue": "GAIN Park Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5904801,
-        "kickoff": 1794160800,
-        "fixture": "Beşiktaş vs Gençlerbirliği",
-        "league_id": 71,
-        "league": "Super Lig",
-        "venue": "Tüpraş Stadyumu",
         "tv_channels": []
     },
     {
@@ -1689,7 +1997,19 @@
         "league_id": 189,
         "league": "Superliga",
         "venue": "Stadionul Municipal",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Online",
+                    "Digi Sport 1",
+                    "Orange TV Go",
+                    "Prima Sport",
+                    "Prima TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5739544,
@@ -1707,15 +2027,6 @@
         "league_id": 46,
         "league": "Superligaen",
         "venue": "MCH Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5887403,
-        "kickoff": 1794168000,
-        "fixture": "DC Power FC (W) vs Lexington SC (W)",
-        "league_id": 10699,
-        "league": "USL Super League",
-        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -1782,6 +2093,55 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000017459,
+        "kickoff": 1794168000,
+        "fixture": "Cerro Porteño vs Recoleta",
+        "league_id": 199,
+        "league": "Division Profesional",
+        "venue": "Estadio ueno La Nueva Olla",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017461,
+        "kickoff": 1794177000,
+        "fixture": "Sportivo Trinidense vs Sportivo Ameliano",
+        "league_id": 199,
+        "league": "Division Profesional",
+        "venue": "Estadio Martín Torres",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017463,
+        "kickoff": 1794254400,
+        "fixture": "Sportivo San Lorenzo vs Rubio Ñú",
+        "league_id": 199,
+        "league": "Division Profesional",
+        "venue": "Estadio Gunther Vogel",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Fútbol Paraguayo"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Tigo Sports"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 1000015506,
         "kickoff": 1794150000,
         "fixture": "K. Lierse SK vs Eupen",
@@ -1797,6 +2157,33 @@
         "league_id": 264,
         "league": "First Division B",
         "venue": "Daknamstadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5765958,
+        "kickoff": 1794157200,
+        "fixture": "NK Varaždin vs Dinamo Zagreb",
+        "league_id": 252,
+        "league": "HNL",
+        "venue": "Stadion Anđelko Herjavec",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022912,
+        "kickoff": 1794153600,
+        "fixture": "Stellenbosch FC vs AmaZulu FC",
+        "league_id": 10708,
+        "league": "League Cup",
+        "venue": "Danie Craven Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022914,
+        "kickoff": 1794153600,
+        "fixture": "Kaizer Chiefs vs Siwelele",
+        "league_id": 10708,
+        "league": "League Cup",
+        "venue": "Peter Mokaba Stadium",
         "tv_channels": []
     },
     {
@@ -1836,6 +2223,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000022938,
+        "kickoff": 1794160800,
+        "fixture": "Leones Negros vs Alacranes de Durango",
+        "league_id": 8976,
+        "league": "Liga de Expansión MX - Apertura - Quarter-finals",
+        "venue": "Estadio Jalisco",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022940,
+        "kickoff": 1794186000,
+        "fixture": "Piratas vs Cancún FC",
+        "league_id": 8976,
+        "league": "Liga de Expansión MX - Apertura - Quarter-finals",
+        "venue": "Estadio Luis de la Fuente",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000014641,
         "kickoff": 1794182400,
         "fixture": "Querétaro FC vs Puebla",
@@ -1846,11 +2251,20 @@
     },
     {
         "match_id": 1000014642,
-        "kickoff": 1794189600,
+        "kickoff": 1794190200,
         "fixture": "León vs Chivas",
         "league_id": 230,
         "league": "Liga MX",
         "venue": "Estadio León (Nou Camp)",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000019620,
+        "kickoff": 1794177000,
+        "fixture": "Central Córdoba de Santiago vs Lanús",
+        "league_id": 112,
+        "league": "Liga Profesional",
+        "venue": "Estadio Alfredo Terrera",
         "tv_channels": []
     },
     {
@@ -1863,21 +2277,30 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000023069,
+        "kickoff": 1794178800,
+        "fixture": "Chattanooga FC vs Los Angeles FC II",
+        "league_id": 10282,
+        "league": "MLS Next Pro - Championship - Final",
+        "venue": "Finley Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000021796,
         "kickoff": 1794171600,
-        "fixture": "Montréal Roses FC vs Vancouver Rise FC",
+        "fixture": "Montréal Roses FC (W) vs Vancouver Rise FC (W)",
         "league_id": 10872,
         "league": "Northern Super League - Championship - Semi-finals",
         "venue": "Stade Boréale",
         "tv_channels": []
     },
     {
-        "match_id": 1000014223,
+        "match_id": 1000014222,
         "kickoff": 1794164400,
-        "fixture": "Chicó FC vs Internacional de Bogotá",
+        "fixture": "Santa Fe vs Deportivo Pasto",
         "league_id": 274,
         "league": "Primera A",
-        "venue": "Estadio de La Independencia",
+        "venue": "Estadio Nemesio Camacho El Campín",
         "tv_channels": []
     },
     {
@@ -1890,12 +2313,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000014224,
+        "match_id": 1000014219,
         "kickoff": 1794179400,
-        "fixture": "Junior FC vs Cúcuta",
+        "fixture": "Tolima vs Millonarios",
         "league_id": 274,
         "league": "Primera A",
-        "venue": "Estadio Romelio Martínez",
+        "venue": "Estadio Manuel Murillo Toro",
         "tv_channels": []
     },
     {
@@ -1905,6 +2328,60 @@
         "league_id": 274,
         "league": "Primera A",
         "venue": "Estadio Armando Maestre Pavajeau",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013261,
+        "kickoff": 1794151800,
+        "fixture": "Universidad Católica vs Deportes Limache",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Claro Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013265,
+        "kickoff": 1794151800,
+        "fixture": "Audax Italiano vs Coquimbo Unido",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio Bicentenario Municipal de La Florida",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013260,
+        "kickoff": 1794160800,
+        "fixture": "Universidad de Chile vs Cobresal",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio Codelco El Teniente",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013266,
+        "kickoff": 1794160800,
+        "fixture": "Ñublense vs Colo Colo",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio Bicentenario Municipal Nelson Oyarzún",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013263,
+        "kickoff": 1794169800,
+        "fixture": "Unión La Calera vs Huachipato",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio Municipal Nicolás Chahuán Nazar",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013267,
+        "kickoff": 1794178800,
+        "fixture": "Universidad de Concepción vs O'Higgins",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio Municipal Alcaldesa Ester Roa Rebolledo",
         "tv_channels": []
     },
     {
@@ -1936,7 +2413,7 @@
     },
     {
         "match_id": 1000022584,
-        "kickoff": 1794173400,
+        "kickoff": 1794171600,
         "fixture": "Portuguesa FC vs Metropolitanos FC",
         "league_id": 339,
         "league": "Primera División",
@@ -1945,7 +2422,7 @@
     },
     {
         "match_id": 1000022585,
-        "kickoff": 1794180600,
+        "kickoff": 1794173400,
         "fixture": "Deportivo La Guaira vs Carabobo FC",
         "league_id": 339,
         "league": "Primera División",
@@ -1990,11 +2467,11 @@
     },
     {
         "match_id": 1000018511,
-        "kickoff": 1794150300,
+        "kickoff": 1794151200,
         "fixture": "Al Akhdoud vs Al Jabalain",
         "league_id": 10721,
         "league": "Saudi First Division",
-        "venue": "Prince Hathloul Bin Abdul Aziz Sport City Stadium",
+        "venue": "King Abdullah Sports City Hall Stadium Legends",
         "tv_channels": []
     },
     {
@@ -2005,6 +2482,146 @@
         "league": "Saudi First Division",
         "venue": "King Abdulaziz Sports City Stadium",
         "tv_channels": []
+    },
+    {
+        "match_id": 1000022036,
+        "kickoff": 1794154500,
+        "fixture": "CSD Macará vs Universidad Católica",
+        "league_id": 246,
+        "league": "Serie A - Championship Round",
+        "venue": "Estadio Bellavista Universidad Indoamérica",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022035,
+        "kickoff": 1794163500,
+        "fixture": "Aucas vs Independiente del Valle",
+        "league_id": 246,
+        "league": "Serie A - Championship Round",
+        "venue": "Estadio Cooprogreso Gonzalo Pozo Ripalda",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022037,
+        "kickoff": 1794173400,
+        "fixture": "Barcelona SC vs LDU de Quito",
+        "league_id": 246,
+        "league": "Serie A - Championship Round",
+        "venue": "Estadio Monumental Banco Pichincha",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022077,
+        "kickoff": 1794155400,
+        "fixture": "Deportivo Cuenca vs Orense",
+        "league_id": 246,
+        "league": "Serie A - Relegation Round",
+        "venue": "Estadio Alejandro Serrano Aguilar Banco del Austro",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022078,
+        "kickoff": 1794247200,
+        "fixture": "Mushuc Runa vs Delfín",
+        "league_id": 246,
+        "league": "Serie A - Relegation Round",
+        "venue": "Estadio Mushuc Runa Cooperativa de Ahorro y Crédito",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Zapping Internacional"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Zapping Internacional"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Zapping Sports + Plus"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Zapping Internacional"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Zapping Internacional"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "Zapping Internacional"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 1000022079,
+        "kickoff": 1794256200,
+        "fixture": "Técnico Universitario vs Manta",
+        "league_id": 246,
+        "league": "Serie A - Relegation Round",
+        "venue": "Estadio Bellavista Universidad Indoamérica",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Zapping Internacional"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Zapping Internacional"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Zapping Sports + Plus"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Zapping Internacional"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Zapping Internacional"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "Zapping Internacional"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5190801,
@@ -2034,9 +2651,45 @@
         "tv_channels": []
     },
     {
+        "match_id": 5904796,
+        "kickoff": 1794151800,
+        "fixture": "Alanyaspor vs Trabzonspor",
+        "league_id": 71,
+        "league": "Süper Lig",
+        "venue": "GAIN Park Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5904801,
+        "kickoff": 1794160800,
+        "fixture": "Beşiktaş vs Gençlerbirliği",
+        "league_id": 71,
+        "league": "Süper Lig",
+        "venue": "Tüpraş Stadyumu",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000015169,
+        "kickoff": 1794153600,
+        "fixture": "Partizan Beograd vs Mačva Šabac",
+        "league_id": 182,
+        "league": "Super Liga",
+        "venue": "Stadion Partizana",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000015175,
+        "kickoff": 1794160800,
+        "fixture": "Vojvodina vs FK Crvena Zvezda",
+        "league_id": 182,
+        "league": "Super Liga",
+        "venue": "Stadion Karađorđe",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000016506,
         "kickoff": 1794153600,
-        "fixture": "Motherwell vs Celtic",
+        "fixture": "Motherwell (W) vs Celtic (W)",
         "league_id": 10791,
         "league": "SWPL 1",
         "venue": "The Bumblebee Stadium",
@@ -2045,16 +2698,25 @@
     {
         "match_id": 1000016507,
         "kickoff": 1794154200,
-        "fixture": "Rangers vs Heart of Midlothian",
+        "fixture": "Rangers (W) vs Heart of Midlothian (W)",
         "league_id": 10791,
         "league": "SWPL 1",
         "venue": "Broadwood Stadium",
         "tv_channels": []
     },
     {
+        "match_id": 1000023079,
+        "kickoff": 1794182400,
+        "fixture": "Charlotte Independence vs Forward Madison FC",
+        "league_id": 9296,
+        "league": "USL League One - Championship - Semi-finals",
+        "venue": "American Legion Memorial Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000018713,
         "kickoff": 1794150000,
-        "fixture": "Leicester City vs Watford",
+        "fixture": "Leicester City (W) vs Watford (W)",
         "league_id": 9294,
         "league": "WSL 2",
         "venue": "King Power Stadium",
@@ -2070,13 +2732,2395 @@
         "tv_channels": []
     },
     {
+        "match_id": 6558680,
+        "kickoff": 1794244800,
+        "fixture": "Toma vs N5 FC",
+        "league_id": 10844,
+        "league": "Baller League",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Armenia",
+                "country_code": "AM",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Azerbaijan",
+                "country_code": "AZ",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Bangladesh",
+                "country_code": "BD",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Belgium",
+                "country_code": "BE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Bosnia and Herzegovina",
+                "country_code": "BA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Bulgaria",
+                "country_code": "BG",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "China",
+                "country_code": "CN",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Czechia",
+                "country_code": "CZ",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Estonia",
+                "country_code": "EE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Georgia",
+                "country_code": "GE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Ghana",
+                "country_code": "GH",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Greece",
+                "country_code": "GR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Hungary",
+                "country_code": "HU",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Iceland",
+                "country_code": "IS",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "India",
+                "country_code": "IN",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Indonesia",
+                "country_code": "ID",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Italy",
+                "country_code": "IT",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Laos",
+                "country_code": "LA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Macao",
+                "country_code": "MO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Malaysia",
+                "country_code": "MY",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Malta",
+                "country_code": "MT",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Mongolia",
+                "country_code": "MN",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Myanmar",
+                "country_code": "MM",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "country_code": "NZ",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Pakistan",
+                "country_code": "PK",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Philippines",
+                "country_code": "PH",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Russian Federation",
+                "country_code": "RU",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Saint Barthélemy",
+                "country_code": "BL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Serbia",
+                "country_code": "RS",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Slovenia",
+                "country_code": "SI",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "South Africa",
+                "country_code": "ZA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "South Korea",
+                "country_code": "KR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Tanzania",
+                "country_code": "TZ",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Ukraine",
+                "country_code": "UA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6558681,
+        "kickoff": 1794248100,
+        "fixture": "Prime FC vs P17 FC",
+        "league_id": 10844,
+        "league": "Baller League",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Armenia",
+                "country_code": "AM",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Azerbaijan",
+                "country_code": "AZ",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Bangladesh",
+                "country_code": "BD",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Belgium",
+                "country_code": "BE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Bosnia and Herzegovina",
+                "country_code": "BA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Bulgaria",
+                "country_code": "BG",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "China",
+                "country_code": "CN",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Czechia",
+                "country_code": "CZ",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Estonia",
+                "country_code": "EE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Georgia",
+                "country_code": "GE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Ghana",
+                "country_code": "GH",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Greece",
+                "country_code": "GR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Hungary",
+                "country_code": "HU",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Iceland",
+                "country_code": "IS",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "India",
+                "country_code": "IN",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Indonesia",
+                "country_code": "ID",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Italy",
+                "country_code": "IT",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Laos",
+                "country_code": "LA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Macao",
+                "country_code": "MO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Malaysia",
+                "country_code": "MY",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Malta",
+                "country_code": "MT",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Mongolia",
+                "country_code": "MN",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Myanmar",
+                "country_code": "MM",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "country_code": "NZ",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Pakistan",
+                "country_code": "PK",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Philippines",
+                "country_code": "PH",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Russian Federation",
+                "country_code": "RU",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Saint Barthélemy",
+                "country_code": "BL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Serbia",
+                "country_code": "RS",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Slovenia",
+                "country_code": "SI",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "South Africa",
+                "country_code": "ZA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "South Korea",
+                "country_code": "KR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Tanzania",
+                "country_code": "TZ",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Ukraine",
+                "country_code": "UA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6558682,
+        "kickoff": 1794252000,
+        "fixture": "Clutch FC vs Gold Devils",
+        "league_id": 10844,
+        "league": "Baller League",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Armenia",
+                "country_code": "AM",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Azerbaijan",
+                "country_code": "AZ",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Bangladesh",
+                "country_code": "BD",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Belgium",
+                "country_code": "BE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Bosnia and Herzegovina",
+                "country_code": "BA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Bulgaria",
+                "country_code": "BG",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "China",
+                "country_code": "CN",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Czechia",
+                "country_code": "CZ",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Estonia",
+                "country_code": "EE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Georgia",
+                "country_code": "GE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Ghana",
+                "country_code": "GH",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Greece",
+                "country_code": "GR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Hungary",
+                "country_code": "HU",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Iceland",
+                "country_code": "IS",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "India",
+                "country_code": "IN",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Indonesia",
+                "country_code": "ID",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Italy",
+                "country_code": "IT",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Laos",
+                "country_code": "LA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Macao",
+                "country_code": "MO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Malaysia",
+                "country_code": "MY",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Malta",
+                "country_code": "MT",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Mongolia",
+                "country_code": "MN",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Myanmar",
+                "country_code": "MM",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "country_code": "NZ",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Pakistan",
+                "country_code": "PK",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Philippines",
+                "country_code": "PH",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Russian Federation",
+                "country_code": "RU",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Saint Barthélemy",
+                "country_code": "BL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Serbia",
+                "country_code": "RS",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Slovenia",
+                "country_code": "SI",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "South Africa",
+                "country_code": "ZA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "South Korea",
+                "country_code": "KR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Tanzania",
+                "country_code": "TZ",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Ukraine",
+                "country_code": "UA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6558683,
+        "kickoff": 1794256200,
+        "fixture": "Deportrio vs VZN FC",
+        "league_id": 10844,
+        "league": "Baller League",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Armenia",
+                "country_code": "AM",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Azerbaijan",
+                "country_code": "AZ",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Bangladesh",
+                "country_code": "BD",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Belgium",
+                "country_code": "BE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Bosnia and Herzegovina",
+                "country_code": "BA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Bulgaria",
+                "country_code": "BG",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Canada",
+                "country_code": "CA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "China",
+                "country_code": "CN",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Czechia",
+                "country_code": "CZ",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Estonia",
+                "country_code": "EE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Georgia",
+                "country_code": "GE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Ghana",
+                "country_code": "GH",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Greece",
+                "country_code": "GR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Hungary",
+                "country_code": "HU",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Iceland",
+                "country_code": "IS",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "India",
+                "country_code": "IN",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Indonesia",
+                "country_code": "ID",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Italy",
+                "country_code": "IT",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Laos",
+                "country_code": "LA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "country_code": "LI",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Macao",
+                "country_code": "MO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Malaysia",
+                "country_code": "MY",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Malta",
+                "country_code": "MT",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Mongolia",
+                "country_code": "MN",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Myanmar",
+                "country_code": "MM",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "country_code": "NZ",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Pakistan",
+                "country_code": "PK",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Philippines",
+                "country_code": "PH",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Russian Federation",
+                "country_code": "RU",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Saint Barthélemy",
+                "country_code": "BL",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Serbia",
+                "country_code": "RS",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Slovenia",
+                "country_code": "SI",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "South Africa",
+                "country_code": "ZA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "South Korea",
+                "country_code": "KR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Tanzania",
+                "country_code": "TZ",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Ukraine",
+                "country_code": "UA",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "Baller League UK YouTube"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6574944,
+        "kickoff": 1794252600,
+        "fixture": "CA Lito vs Danubio",
+        "league_id": 10342,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5832625,
         "kickoff": 1794243600,
         "fixture": "Hapoel Kfar Saba vs Maccabi Bnei Raina",
         "league_id": 128,
         "league": "Leumit League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "5 Live",
+                    "5 Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5832627,
@@ -2085,7 +5129,15 @@
         "league_id": 128,
         "league": "Leumit League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "5 Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5832631,
@@ -2094,7 +5146,15 @@
         "league_id": 128,
         "league": "Leumit League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 5 Stars"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5907508,
@@ -2103,15 +5163,6 @@
         "league_id": 8944,
         "league": "National League South",
         "venue": "Melbourne Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5991511,
-        "kickoff": 1794252600,
-        "fixture": "AZ Picerno vs Bari",
-        "league_id": 147,
-        "league": "Serie C Grp. C",
-        "venue": "Stadio Comunale Donato Curcio",
         "tv_channels": []
     },
     {
@@ -2133,6 +5184,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5991511,
+        "kickoff": 1794253500,
+        "fixture": "AZ Picerno vs Bari",
+        "league_id": 147,
+        "league": "Serie C Grp. C",
+        "venue": "Stadio Comunale Donato Curcio",
+        "tv_channels": []
+    },
+    {
         "match_id": 5953524,
         "kickoff": 1794253500,
         "fixture": "Redditch United vs Peterborough Sports",
@@ -2149,5 +5209,30 @@
         "league": "Premier League 2",
         "venue": "The Vest Construction Stadium",
         "tv_channels": []
+    },
+    {
+        "match_id": 6556309,
+        "kickoff": 1794256200,
+        "fixture": "Independiente Valle del Cauca vs Unión Magdalena",
+        "league_id": 9125,
+        "league": "Primera B",
+        "venue": "Estadio Francisco Rivera Escobar",
+        "tv_channels": [
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Win Fútbol +",
+                    "Win Play"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     }
 ]
