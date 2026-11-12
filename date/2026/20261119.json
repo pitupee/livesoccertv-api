@@ -24,7 +24,15 @@
         "league_id": 10651,
         "league": "Copa de la Reina",
         "venue": "Ciudad Deportiva de Buñol Campo 1",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6387565,
@@ -33,7 +41,15 @@
         "league_id": 10651,
         "league": "Copa de la Reina",
         "venue": "Estadio Manuel Sánchez Delgado",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6387569,
@@ -42,7 +58,15 @@
         "league_id": 10651,
         "league": "Copa de la Reina",
         "venue": "Estadio Municipal El Olivo",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6387567,
@@ -224,7 +248,15 @@
         "league_id": 512,
         "league": "Regionalliga North",
         "venue": "HASKAMP-Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "Leagues"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5884244,
@@ -339,10 +371,101 @@
         "venue": "Nordic Wellness Arena",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Armenia",
+                "country_code": "AM",
+                "channels": [
+                    "1TV"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
                 "country": "Belgium",
                 "country_code": "BE",
                 "channels": [
                     "Disney+ (BE)"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "China",
+                "country_code": "CN",
+                "channels": [
+                    "iQiyi"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "HRT"
+                ]
+            },
+            {
+                "country": "Czechia",
+                "country_code": "CZ",
+                "channels": [
+                    "ČT Sport"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -367,10 +490,74 @@
                 ]
             },
             {
+                "country": "Greece",
+                "country_code": "GR",
+                "channels": [
+                    "MEGA News"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "beIN Sports Connect Hong Kong"
+                ]
+            },
+            {
+                "country": "Hungary",
+                "country_code": "HU",
+                "channels": [
+                    "M4 Sport"
+                ]
+            },
+            {
+                "country": "Iceland",
+                "country_code": "IS",
+                "channels": [
+                    "RUV"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Disney+ (ROI)"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 5 HD"
+                ]
+            },
+            {
                 "country": "Italy",
                 "country_code": "IT",
                 "channels": [
                     "Disney+ (IT)"
+                ]
+            },
+            {
+                "country": "Malta",
+                "country_code": "MT",
+                "channels": [
+                    "GO TV Anywhere",
+                    "PBS"
                 ]
             },
             {
@@ -381,10 +568,66 @@
                 ]
             },
             {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
                     "Disney+ Norge"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Disney+"
                 ]
             },
             {
@@ -393,6 +636,20 @@
                 "channels": [
                     "Disney+ Sverige",
                     "TV12"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "TRT Spor"
                 ]
             },
             {
@@ -407,6 +664,20 @@
                 "country_code": "US",
                 "channels": [
                     "Paramount+ (US)"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "Disney+ Premium"
                 ]
             }
         ]
@@ -420,10 +691,101 @@
         "venue": "Estadio Alfredo Di Stéfano",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Armenia",
+                "country_code": "AM",
+                "channels": [
+                    "1TV"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
                 "country": "Belgium",
                 "country_code": "BE",
                 "channels": [
                     "Disney+ (BE)"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "China",
+                "country_code": "CN",
+                "channels": [
+                    "iQiyi"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "HRT"
+                ]
+            },
+            {
+                "country": "Czechia",
+                "country_code": "CZ",
+                "channels": [
+                    "ČT Sport"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -448,10 +810,74 @@
                 ]
             },
             {
+                "country": "Greece",
+                "country_code": "GR",
+                "channels": [
+                    "MEGA News"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "beIN Sports Connect Hong Kong"
+                ]
+            },
+            {
+                "country": "Hungary",
+                "country_code": "HU",
+                "channels": [
+                    "M4 Sport"
+                ]
+            },
+            {
+                "country": "Iceland",
+                "country_code": "IS",
+                "channels": [
+                    "RUV"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Disney+ (ROI)"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 5 HD"
+                ]
+            },
+            {
                 "country": "Italy",
                 "country_code": "IT",
                 "channels": [
                     "Disney+ (IT)"
+                ]
+            },
+            {
+                "country": "Malta",
+                "country_code": "MT",
+                "channels": [
+                    "GO TV Anywhere",
+                    "PBS"
                 ]
             },
             {
@@ -462,6 +888,13 @@
                 ]
             },
             {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
@@ -469,10 +902,73 @@
                 ]
             },
             {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "country_code": "SE",
                 "channels": [
                     "Disney+ Sverige"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "TRT Spor"
                 ]
             },
             {
@@ -491,6 +987,20 @@
                     "ESPN Unlimited",
                     "Fubo Sports",
                     "Paramount+ (US)"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "Disney+ Premium"
                 ]
             }
         ]
@@ -504,6 +1014,653 @@
         "venue": "The Cherry Red Records Stadium",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Armenia",
+                "country_code": "AM",
+                "channels": [
+                    "1TV"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Belgium",
+                "country_code": "BE",
+                "channels": [
+                    "Disney+ (BE)"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "China",
+                "country_code": "CN",
+                "channels": [
+                    "iQiyi"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "HRT"
+                ]
+            },
+            {
+                "country": "Czechia",
+                "country_code": "CZ",
+                "channels": [
+                    "ČT Sport"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "Disney+ Suomi"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "Disney+ (FR)"
+                ]
+            },
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Disney+ (DE)"
+                ]
+            },
+            {
+                "country": "Greece",
+                "country_code": "GR",
+                "channels": [
+                    "MEGA News"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "beIN Sports Connect Hong Kong"
+                ]
+            },
+            {
+                "country": "Hungary",
+                "country_code": "HU",
+                "channels": [
+                    "M4 Sport"
+                ]
+            },
+            {
+                "country": "Iceland",
+                "country_code": "IS",
+                "channels": [
+                    "RUV"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Disney+ (ROI)"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 5 HD"
+                ]
+            },
+            {
+                "country": "Italy",
+                "country_code": "IT",
+                "channels": [
+                    "Disney+ (IT)"
+                ]
+            },
+            {
+                "country": "Malta",
+                "country_code": "MT",
+                "channels": [
+                    "GO TV Anywhere",
+                    "PBS"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "Disney+ (NL)"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "Disney+ Norge"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Disney+",
+                    "ČT Sport"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Disney+ Sverige"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "TRT Spor"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Disney+ (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "ESPN Deportes",
+                    "ESPN Unlimited",
+                    "Fubo Sports",
+                    "Paramount+ (US)"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6148600,
+        "kickoff": 1795032000,
+        "fixture": "Juventus (W) vs Oud-Heverlee Leuven (W)",
+        "league_id": 9375,
+        "league": "Women's Champions League",
+        "venue": "Stadio Comunale Vittorio Pozzo Lamarmora",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Armenia",
+                "country_code": "AM",
+                "channels": [
+                    "1TV"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Belgium",
+                "country_code": "BE",
+                "channels": [
+                    "Disney+ (BE)",
+                    "Ketnet",
+                    "RTBF Auvio",
+                    "VRT MAX"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "China",
+                "country_code": "CN",
+                "channels": [
+                    "iQiyi"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "country_code": "HR",
+                "channels": [
+                    "HRT"
+                ]
+            },
+            {
+                "country": "Czechia",
+                "country_code": "CZ",
+                "channels": [
+                    "ČT Sport"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "Disney+ Suomi"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "Disney+ (FR)"
+                ]
+            },
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Disney+ (DE)"
+                ]
+            },
+            {
+                "country": "Greece",
+                "country_code": "GR",
+                "channels": [
+                    "MEGA News"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "beIN Sports Connect Hong Kong"
+                ]
+            },
+            {
+                "country": "Hungary",
+                "country_code": "HU",
+                "channels": [
+                    "M4 Sport"
+                ]
+            },
+            {
+                "country": "Iceland",
+                "country_code": "IS",
+                "channels": [
+                    "RUV"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Disney+ (ROI)"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 5 HD"
+                ]
+            },
+            {
+                "country": "Italy",
+                "country_code": "IT",
+                "channels": [
+                    "Disney+ (IT)"
+                ]
+            },
+            {
+                "country": "Malta",
+                "country_code": "MT",
+                "channels": [
+                    "GO TV Anywhere",
+                    "PBS"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "Disney+ (NL)"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "Disney+ Norge"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Disney+ Sverige"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "TRT Spor"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Disney+ (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "CBS Sports Network",
+                    "Fubo Sports",
+                    "Paramount+ (US)"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6148622,
+        "kickoff": 1795110300,
+        "fixture": "Austria Wien W (W) vs Bayern München (W)",
+        "league_id": 9375,
+        "league": "Women's Champions League",
+        "venue": "Generali Arena",
+        "tv_channels": [
+            {
                 "country": "Belgium",
                 "country_code": "BE",
                 "channels": [
@@ -570,6 +1727,7 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
+                    "CBS Sports Network",
                     "ESPN Deportes",
                     "ESPN Unlimited",
                     "Fubo Sports",
@@ -579,21 +1737,18 @@
         ]
     },
     {
-        "match_id": 6148600,
-        "kickoff": 1795032000,
-        "fixture": "Juventus (W) vs Oud-Heverlee Leuven (W)",
+        "match_id": 6148606,
+        "kickoff": 1795110300,
+        "fixture": "Paris FC (W) vs HB Køge (W)",
         "league_id": 9375,
         "league": "Women's Champions League",
-        "venue": "Stadio Comunale Vittorio Pozzo Lamarmora",
+        "venue": "Stade Sébastien-Charléty",
         "tv_channels": [
             {
                 "country": "Belgium",
                 "country_code": "BE",
                 "channels": [
-                    "Disney+ (BE)",
-                    "Ketnet",
-                    "RTBF Auvio",
-                    "VRT MAX"
+                    "Disney+ (BE)"
                 ]
             },
             {
@@ -645,56 +1800,6 @@
                     "Disney+ Sverige"
                 ]
             },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "Disney+ (UK)"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "CBS Sports Network",
-                    "Fubo Sports",
-                    "Paramount+ (US)"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 6148622,
-        "kickoff": 1795110300,
-        "fixture": "Austria Wien W (W) vs Bayern München (W)",
-        "league_id": 9375,
-        "league": "Women's Champions League",
-        "venue": "Generali Arena",
-        "tv_channels": [
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "Disney+ (UK)"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "Paramount+ (US)"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 6148606,
-        "kickoff": 1795110300,
-        "fixture": "Paris FC (W) vs HB Køge (W)",
-        "league_id": 9375,
-        "league": "Women's Champions League",
-        "venue": "Stade Sébastien-Charléty",
-        "tv_channels": [
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -720,6 +1825,64 @@
         "venue": "Mangata Developments Stadium Meadow Park",
         "tv_channels": [
             {
+                "country": "Belgium",
+                "country_code": "BE",
+                "channels": [
+                    "Disney+ (BE)"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "Disney+ Suomi"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "Disney+ (FR)",
+                    "la chaine L'Équipe"
+                ]
+            },
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Disney+ (DE)"
+                ]
+            },
+            {
+                "country": "Italy",
+                "country_code": "IT",
+                "channels": [
+                    "Disney+ (IT)"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "Disney+ (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "Disney+ Norge",
+                    "TV 2 Play (NO)"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Disney+ Sverige"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -744,6 +1907,62 @@
         "venue": "Estadi Johan Cruyff",
         "tv_channels": [
             {
+                "country": "Belgium",
+                "country_code": "BE",
+                "channels": [
+                    "Disney+ (BE)"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "Disney+ Suomi"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "Disney+ (FR)"
+                ]
+            },
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Disney+ (DE)"
+                ]
+            },
+            {
+                "country": "Italy",
+                "country_code": "IT",
+                "channels": [
+                    "Disney+ (IT)"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "Disney+ (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "Disney+ Norge"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Disney+ Sverige"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -754,6 +1973,10 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
+                    "CBS Sports Network",
+                    "ESPN Deportes",
+                    "ESPN Unlimited",
+                    "Fubo Sports",
                     "Paramount+ (US)"
                 ]
             }
@@ -767,6 +1990,62 @@
         "league": "Women's Champions League",
         "venue": "Estádio do Sport Lisboa e Benfica (da Luz)",
         "tv_channels": [
+            {
+                "country": "Belgium",
+                "country_code": "BE",
+                "channels": [
+                    "Disney+ (BE)"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "Disney+ Suomi"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "Disney+ (FR)"
+                ]
+            },
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Disney+ (DE)"
+                ]
+            },
+            {
+                "country": "Italy",
+                "country_code": "IT",
+                "channels": [
+                    "Disney+ (IT)"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "Disney+ (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "Disney+ Norge"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Disney+ Sverige"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -792,10 +2071,108 @@
         "venue": "Copperjax Community Stadium",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
+                ]
+            },
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "WSL YouTube"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
                     "WSL YouTube"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
                 ]
             }
         ]
@@ -955,7 +2332,15 @@
         "league_id": 138,
         "league": "Copa del Rey - 1st Round",
         "venue": "Estadio La Florida",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6386088,
@@ -966,10 +2351,11 @@
         "venue": "Estadio Santa Ana",
         "tv_channels": [
             {
-                "country": "Andorra",
-                "country_code": "AD",
+                "country": "Spain",
+                "country_code": "ES",
                 "channels": [
-                    "DAZN France"
+                    "Aragón Play",
+                    "Aragón TV"
                 ]
             }
         ]
@@ -981,7 +2367,16 @@
         "league_id": 138,
         "league": "Copa del Rey - 1st Round",
         "venue": "Campo Municipal El Collao",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "IB3",
+                    "À Punt"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000023510,
@@ -990,7 +2385,15 @@
         "league_id": 138,
         "league": "Copa del Rey - 1st Round",
         "venue": "Estadio Municipal Nuevo Vivero",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "TV Canaria"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6386057,
@@ -999,7 +2402,15 @@
         "league_id": 138,
         "league": "Copa del Rey - 1st Round",
         "venue": "Estadio Municipal Ángel Celdrán",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6386077,
@@ -1008,7 +2419,15 @@
         "league_id": 138,
         "league": "Copa del Rey - 1st Round",
         "venue": "Estadio Camp Nou Municipal",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000022440,
@@ -1017,7 +2436,16 @@
         "league_id": 8982,
         "league": "I League",
         "venue": "Jawaharlal Nehru Stadium Goa",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "India",
+                "country_code": "IN",
+                "channels": [
+                    "DD Sports",
+                    "Waves OTT"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000022441,
@@ -1026,7 +2454,16 @@
         "league_id": 8982,
         "league": "I League",
         "venue": "Birsa Munda Athletics Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "India",
+                "country_code": "IN",
+                "channels": [
+                    "DD Sports",
+                    "Waves OTT"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000017301,
@@ -1035,7 +2472,185 @@
         "league_id": 131,
         "league": "Liga 1",
         "venue": "Estadio Campeones del '36",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Fanatiz",
+                    "L1 Max",
+                    "L1 Play"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000017041,
@@ -1188,10 +2803,33 @@
         "venue": "Estádio Major Antônio Couto Pereira",
         "tv_channels": [
             {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "CazéTV YouTube",
+                    "Premiere",
+                    "RecordTV"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "L1 Play"
+                ]
+            },
+            {
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
                     "Fanatiz"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "RecordTV"
                 ]
             }
         ]
@@ -1204,6 +2842,20 @@
         "league": "Série A",
         "venue": "Estádio Estadual Jornalista Edgar Augusto Proença",
         "tv_channels": [
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Premiere"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "L1 Play"
+                ]
+            },
             {
                 "country": "United States",
                 "country_code": "US",
@@ -1222,6 +2874,27 @@
         "venue": "Estádio Governador Magalhães Pinto",
         "tv_channels": [
             {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Premiere"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "Azteca Deportes Network"
+                ]
+            },
+            {
                 "country": "Germany",
                 "country_code": "DE",
                 "channels": [
@@ -1235,7 +2908,30 @@
                 "country_code": "IE",
                 "channels": [
                     "NOW ROI",
-                    "Premier Sports 2"
+                    "Premier Sports 2 ROI"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "L1 Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "M+ #Vamos Bar",
+                    "M+ Vamos"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "DAZN",
+                    "Sportdigital Fussball"
                 ]
             },
             {
@@ -1264,10 +2960,144 @@
         "venue": "Estadio Jornalista Mário Filho (Maracanã)",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Flamengo TV YouTube"
+                ]
+            },
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "Flamengo TV YouTube"
+                ]
+            },
+            {
+                "country": "Austria",
+                "country_code": "AT",
+                "channels": [
+                    "Flamengo TV YouTube"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "Flamengo TV YouTube"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Premiere",
+                    "SporTV"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Flamengo TV YouTube"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Flamengo TV YouTube"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "Flamengo TV YouTube"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "Flamengo TV YouTube"
+                ]
+            },
+            {
+                "country": "Japan",
+                "country_code": "JP",
+                "channels": [
+                    "Flamengo TV YouTube"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "country_code": "PY",
+                "channels": [
+                    "Flamengo TV YouTube"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "Flamengo TV YouTube"
+                ]
+            },
+            {
+                "country": "Poland",
+                "country_code": "PL",
+                "channels": [
+                    "Flamengo TV YouTube"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Flamengo TV YouTube"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "country_code": "SK",
+                "channels": [
+                    "Flamengo TV YouTube"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "Flamengo TV YouTube"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "country_code": "CH",
+                "channels": [
+                    "Flamengo TV YouTube"
+                ]
+            },
+            {
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
                     "Fanatiz"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "Flamengo TV YouTube"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "Flamengo TV YouTube"
                 ]
             }
         ]
@@ -1279,7 +3109,22 @@
         "league_id": 268,
         "league": "Série A",
         "venue": "Neo Química Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Premiere"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5103710,
@@ -1288,7 +3133,22 @@
         "league_id": 268,
         "league": "Série A",
         "venue": "Arena do Grêmio",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Premiere"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000016502,
@@ -1315,6 +3175,39 @@
         "league_id": 85,
         "league": "1. Division",
         "venue": "Monjasa Park",
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "Viaplay FI"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Viaplay SE"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6628833,
+        "kickoff": 1795122000,
+        "fixture": "Danubio vs Juventud de las Piedras",
+        "league_id": 10342,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6628834,
+        "kickoff": 1795122000,
+        "fixture": "Montevideo City Torque vs Nacional",
+        "league_id": 10342,
+        "league": "Cup",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -1330,6 +3223,14 @@
                 "country_code": "AD",
                 "channels": [
                     "DAZN"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "DAZN.com (FR)",
+                    "Ligue 1+"
                 ]
             }
         ]

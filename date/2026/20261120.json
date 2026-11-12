@@ -54,7 +54,22 @@
         "league_id": 85,
         "league": "1. Division",
         "venue": "Monjasa Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "Viaplay FI"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Viaplay SE"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5764472,
@@ -111,6 +126,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 6628833,
+        "kickoff": 1795122000,
+        "fixture": "Danubio vs Juventud de las Piedras",
+        "league_id": 10342,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6628834,
+        "kickoff": 1795122000,
+        "fixture": "Montevideo City Torque vs Nacional",
+        "league_id": 10342,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6146317,
         "kickoff": 1795174500,
         "fixture": "Beijing Guoan vs Shanghai Port",
@@ -153,7 +186,15 @@
         "league_id": 223,
         "league": "J. League",
         "venue": "Mercari Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "China",
+                "country_code": "CN",
+                "channels": [
+                    "Kball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5803661,
@@ -162,7 +203,15 @@
         "league_id": 223,
         "league": "J. League",
         "venue": "SANKYO FRONTIER Kashiwa Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "China",
+                "country_code": "CN",
+                "channels": [
+                    "Kball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5803667,
@@ -171,7 +220,15 @@
         "league_id": 223,
         "league": "J. League",
         "venue": "NOEVIR Stadium Kobe",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "China",
+                "country_code": "CN",
+                "channels": [
+                    "Kball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5976965,
@@ -189,7 +246,17 @@
         "league_id": 8985,
         "league": "Liga Super",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Malaysia",
+                "country_code": "MY",
+                "channels": [
+                    "Astro Go",
+                    "RTM klik",
+                    "sooka"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5998177,
@@ -198,7 +265,17 @@
         "league_id": 8985,
         "league": "Liga Super",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Malaysia",
+                "country_code": "MY",
+                "channels": [
+                    "Astro Go",
+                    "RTM klik",
+                    "sooka"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5989878,
@@ -258,7 +335,15 @@
         "league_id": 516,
         "league": "Ligue 1",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "ENTV DZ"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5989885,
@@ -267,7 +352,15 @@
         "league_id": 516,
         "league": "Ligue 1",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "ENTV DZ"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5989880,
@@ -276,7 +369,15 @@
         "league_id": 516,
         "league": "Ligue 1",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "ENTV DZ"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5886582,
@@ -292,6 +393,14 @@
                 "channels": [
                     "DAZN"
                 ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "DAZN.com (FR)",
+                    "Ligue 1+"
+                ]
             }
         ]
     },
@@ -302,7 +411,15 @@
         "league_id": 262,
         "league": "Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Azerbaijan",
+                "country_code": "AZ",
+                "channels": [
+                    "CBC Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5987562,
@@ -311,7 +428,15 @@
         "league_id": 262,
         "league": "Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Azerbaijan",
+                "country_code": "AZ",
+                "channels": [
+                    "CBC Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5972944,
@@ -320,7 +445,16 @@
         "league_id": 118,
         "league": "Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Armenia",
+                "country_code": "AM",
+                "channels": [
+                    "FAST TV",
+                    "Fast Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5973009,
@@ -329,7 +463,16 @@
         "league_id": 118,
         "league": "Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Armenia",
+                "country_code": "AM",
+                "channels": [
+                    "FAST TV",
+                    "Fast Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5973214,
@@ -347,7 +490,15 @@
         "league_id": 9066,
         "league": "Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Tanzania",
+                "country_code": "TZ",
+                "channels": [
+                    "Azam Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5998361,
@@ -356,7 +507,15 @@
         "league_id": 9066,
         "league": "Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Tanzania",
+                "country_code": "TZ",
+                "channels": [
+                    "Azam Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5998362,
@@ -365,7 +524,15 @@
         "league_id": 9066,
         "league": "Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Tanzania",
+                "country_code": "TZ",
+                "channels": [
+                    "Azam Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5804972,
@@ -417,7 +584,15 @@
         "league_id": 524,
         "league": "Stars League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Almanasa"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6028621,
@@ -426,7 +601,15 @@
         "league_id": 524,
         "league": "Stars League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Almanasa"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6028622,
@@ -435,7 +618,15 @@
         "league_id": 524,
         "league": "Stars League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Almanasa"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6028619,
@@ -444,7 +635,15 @@
         "league_id": 524,
         "league": "Stars League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Almanasa"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6011909,
@@ -453,7 +652,15 @@
         "league_id": 8983,
         "league": "Super League",
         "venue": "Pakansari Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Indonesia",
+                "country_code": "ID",
+                "channels": [
+                    "Vidio"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6011910,
@@ -462,7 +669,15 @@
         "league_id": 8983,
         "league": "Super League",
         "venue": "Maguwoharjo Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Indonesia",
+                "country_code": "ID",
+                "channels": [
+                    "Vidio"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6011911,
@@ -471,7 +686,15 @@
         "league_id": 8983,
         "league": "Super League",
         "venue": "Indomilk Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Indonesia",
+                "country_code": "ID",
+                "channels": [
+                    "Vidio"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5200705,
@@ -536,6 +759,62 @@
         "venue": "Generali Arena",
         "tv_channels": [
             {
+                "country": "Belgium",
+                "country_code": "BE",
+                "channels": [
+                    "Disney+ (BE)"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "Disney+ Suomi"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "Disney+ (FR)"
+                ]
+            },
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Disney+ (DE)"
+                ]
+            },
+            {
+                "country": "Italy",
+                "country_code": "IT",
+                "channels": [
+                    "Disney+ (IT)"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "Disney+ (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "Disney+ Norge"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Disney+ Sverige"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -546,6 +825,10 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
+                    "CBS Sports Network",
+                    "ESPN Deportes",
+                    "ESPN Unlimited",
+                    "Fubo Sports",
                     "Paramount+ (US)"
                 ]
             }
@@ -559,6 +842,62 @@
         "league": "Women's Champions League",
         "venue": "Stade Sébastien-Charléty",
         "tv_channels": [
+            {
+                "country": "Belgium",
+                "country_code": "BE",
+                "channels": [
+                    "Disney+ (BE)"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "Disney+ Suomi"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "Disney+ (FR)"
+                ]
+            },
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Disney+ (DE)"
+                ]
+            },
+            {
+                "country": "Italy",
+                "country_code": "IT",
+                "channels": [
+                    "Disney+ (IT)"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "Disney+ (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "Disney+ Norge"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Disney+ Sverige"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -584,6 +923,64 @@
         "venue": "Mangata Developments Stadium Meadow Park",
         "tv_channels": [
             {
+                "country": "Belgium",
+                "country_code": "BE",
+                "channels": [
+                    "Disney+ (BE)"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "Disney+ Suomi"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "Disney+ (FR)",
+                    "la chaine L'Équipe"
+                ]
+            },
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Disney+ (DE)"
+                ]
+            },
+            {
+                "country": "Italy",
+                "country_code": "IT",
+                "channels": [
+                    "Disney+ (IT)"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "Disney+ (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "Disney+ Norge",
+                    "TV 2 Play (NO)"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Disney+ Sverige"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -608,6 +1005,62 @@
         "venue": "Estadi Johan Cruyff",
         "tv_channels": [
             {
+                "country": "Belgium",
+                "country_code": "BE",
+                "channels": [
+                    "Disney+ (BE)"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "Disney+ Suomi"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "Disney+ (FR)"
+                ]
+            },
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Disney+ (DE)"
+                ]
+            },
+            {
+                "country": "Italy",
+                "country_code": "IT",
+                "channels": [
+                    "Disney+ (IT)"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "Disney+ (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "Disney+ Norge"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Disney+ Sverige"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -618,6 +1071,10 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
+                    "CBS Sports Network",
+                    "ESPN Deportes",
+                    "ESPN Unlimited",
+                    "Fubo Sports",
                     "Paramount+ (US)"
                 ]
             }
@@ -631,6 +1088,62 @@
         "league": "Women's Champions League",
         "venue": "Estádio do Sport Lisboa e Benfica (da Luz)",
         "tv_channels": [
+            {
+                "country": "Belgium",
+                "country_code": "BE",
+                "channels": [
+                    "Disney+ (BE)"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "Disney+ Suomi"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "Disney+ (FR)"
+                ]
+            },
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Disney+ (DE)"
+                ]
+            },
+            {
+                "country": "Italy",
+                "country_code": "IT",
+                "channels": [
+                    "Disney+ (IT)"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "Disney+ (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "Disney+ Norge"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "Disney+ Sverige"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "country_code": "GB",
@@ -878,7 +1391,15 @@
         "league_id": 535,
         "league": "Qatar Stars League",
         "venue": "Jassim Bin Hamad Stadium (Al-Sadd Stadium)",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Shoof"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5952307,
@@ -887,7 +1408,15 @@
         "league_id": 535,
         "league": "Qatar Stars League",
         "venue": "Abdullah bin Nasser bin Khalifa Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Shoof"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5103705,
@@ -896,7 +1425,23 @@
         "league_id": 268,
         "league": "Série A",
         "venue": "Estádio São Januário",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Sportdigital FUSSBALL",
+                    "Sportdigital+"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5103712,
@@ -905,7 +1450,15 @@
         "league_id": 268,
         "league": "Série A",
         "venue": "Estádio Manoel Barradas",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5103706,
@@ -914,7 +1467,16 @@
         "league_id": 268,
         "league": "Série A",
         "venue": "MorumBIS",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Premier Sports Events",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000018198,
@@ -923,7 +1485,16 @@
         "league_id": 9498,
         "league": "Thai League 2",
         "venue": "NT Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "AIS PLAY",
+                    "MONOMAX"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5881226,
@@ -932,7 +1503,45 @@
         "league_id": 54,
         "league": "Bundesliga",
         "venue": "Allianz Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "TOD",
+                    "beIN SPORTS CONNECT"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "TOD",
+                    "beIN SPORTS CONNECT"
+                ]
+            },
+            {
+                "country": "Philippines",
+                "country_code": "PH",
+                "channels": [
+                    "beIN Sports Connect Philippines"
+                ]
+            },
+            {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "AIS PLAY"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Peacock (Español)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5868132,
@@ -941,7 +1550,108 @@
         "league_id": 87,
         "league": "LaLiga",
         "venue": "Estadio de San Mamés",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Armenia",
+                "country_code": "AM",
+                "channels": [
+                    "FAST TV"
+                ]
+            },
+            {
+                "country": "Bangladesh",
+                "country_code": "BD",
+                "channels": [
+                    "FanCode"
+                ]
+            },
+            {
+                "country": "China",
+                "country_code": "CN",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Hong Kong",
+                "country_code": "HK",
+                "channels": [
+                    "Now Player"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "beIN SPORTS CONNECT"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "beIN SPORTS CONNECT"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "TV 2 Play"
+                ]
+            },
+            {
+                "country": "Pakistan",
+                "country_code": "PK",
+                "channels": [
+                    "FanCode"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "country_code": "SG",
+                "channels": [
+                    "beIN Sports Connect Singapore"
+                ]
+            },
+            {
+                "country": "South Korea",
+                "country_code": "KR",
+                "channels": [
+                    "Coupang Play"
+                ]
+            },
+            {
+                "country": "Thailand",
+                "country_code": "TH",
+                "channels": [
+                    "beIN SPORTS CONNECT"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "LaLigaTV",
+                    "Premier Sports Player"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5802999,
@@ -950,7 +1660,52 @@
         "league_id": 53,
         "league": "Ligue 1",
         "venue": "Stade de l'Aube",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "Ligue 1+"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "TOD",
+                    "beIN SPORTS CONNECT"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "country_code": "MA",
+                "channels": [
+                    "TOD",
+                    "beIN SPORTS CONNECT"
+                ]
+            },
+            {
+                "country": "South Korea",
+                "country_code": "KR",
+                "channels": [
+                    "Coupang Play"
+                ]
+            },
+            {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "beIN SPORTS CONNECT"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5881726,
@@ -1031,7 +1786,15 @@
         "league_id": 208,
         "league": "3. Liga",
         "venue": "Eilenriedestadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Magenta Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5903870,
@@ -1166,7 +1929,15 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Aker Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5760536,
@@ -1175,7 +1946,16 @@
         "league_id": 270,
         "league": "First Professional League",
         "venue": "Vasil Levski",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bulgaria",
+                "country_code": "BG",
+                "channels": [
+                    "Diema Sport",
+                    "Play Diema Xtra"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5934576,
@@ -1184,7 +1964,15 @@
         "league_id": 9676,
         "league": "Frauen-Bundesliga",
         "venue": "Stadion An der Alten Försterei",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "country_code": "DE",
+                "channels": [
+                    "Magenta Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5861985,
@@ -1274,7 +2062,22 @@
         "league_id": 117,
         "league": "National League",
         "venue": "Roots Hall",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "DAZN US"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6103186,
@@ -1292,7 +2095,17 @@
         "league_id": 63,
         "league": "Premier League",
         "venue": "Rostov Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Russian Federation",
+                "country_code": "RU",
+                "channels": [
+                    "Match TV",
+                    "Match! Premier",
+                    "matchtv.ru"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5909336,
@@ -1310,7 +2123,15 @@
         "league_id": 116,
         "league": "Premier League",
         "venue": "The Hollingsworth Group Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Cymru Football TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5882153,
@@ -1319,7 +2140,15 @@
         "league_id": 116,
         "league": "Premier League",
         "venue": "Old Road",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Cymru Football TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5882154,
@@ -1328,7 +2157,15 @@
         "league_id": 116,
         "league": "Premier League",
         "venue": "The Go Goodwins Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Cymru Football TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5882155,
@@ -1337,7 +2174,15 @@
         "league_id": 116,
         "league": "Premier League",
         "venue": "Cyncoed Campus",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Cymru Football TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5882156,
@@ -1346,7 +2191,15 @@
         "league_id": 116,
         "league": "Premier League",
         "venue": "Essity Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Cymru Football TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5882157,
@@ -1355,7 +2208,15 @@
         "league_id": 116,
         "league": "Premier League",
         "venue": "The Go Goodwins Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Cymru Football TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5882158,
@@ -1364,7 +2225,15 @@
         "league_id": 116,
         "league": "Premier League",
         "venue": "SDM Glass Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Cymru Football TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5882159,
@@ -1373,7 +2242,15 @@
         "league_id": 116,
         "league": "Premier League",
         "venue": "Park Hall Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Cymru Football TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6018591,
@@ -1409,7 +2286,15 @@
         "league_id": 129,
         "league": "Premiership",
         "venue": "Solitude",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "NIFL TV (Int)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5883745,
@@ -1580,7 +2465,19 @@
         "league_id": 189,
         "league": "Superliga",
         "venue": "Stadionul Municipal",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Online",
+                    "Digi Sport 1",
+                    "Orange TV Go",
+                    "Prima Sport",
+                    "Prima TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5853555,
@@ -1589,7 +2486,19 @@
         "league_id": 189,
         "league": "Superliga",
         "venue": "Stadionul Central",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Digi Online",
+                    "Digi Sport 1",
+                    "Orange TV Go",
+                    "Prima Sport",
+                    "Prima TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5739551,
@@ -1634,7 +2543,17 @@
         "league_id": 165,
         "league": "1. Lig",
         "venue": "Aktepe Stadı",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Türkiye",
+                "country_code": "TR",
+                "channels": [
+                    "Digiturk Play",
+                    "TRT Spor",
+                    "beIN SPORTS CONNECT"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5804618,
@@ -1760,6 +2679,42 @@
         "league_id": 536,
         "league": "Saudi Pro League",
         "venue": "Alinma Bank Stadium at King Abdullah Sport City",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "SuperSport 6"
+                ]
+            },
+            {
+                "country": "Ghana",
+                "country_code": "GH",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Thmanyah"
+                ]
+            },
+            {
+                "country": "Tanzania",
+                "country_code": "TZ",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Ukraine",
+                "country_code": "UA",
+                "channels": [
+                    "Megogo"
+                ]
+            }
+        ]
     }
 ]

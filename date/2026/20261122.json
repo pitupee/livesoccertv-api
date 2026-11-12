@@ -6,7 +6,15 @@
         "league_id": 47,
         "league": "Premier League",
         "venue": "Vitality Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Peacock"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5795516,
@@ -15,7 +23,15 @@
         "league_id": 47,
         "league": "Premier League",
         "venue": "Villa Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Peacock"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5795518,
@@ -24,7 +40,24 @@
         "league_id": 47,
         "league": "Premier League",
         "venue": "Stamford Bridge",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "NOW ROI",
+                    "Premier Sports 1 ROI"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Peacock",
+                    "Peacock (Español)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5795519,
@@ -33,7 +66,15 @@
         "league_id": 47,
         "league": "Premier League",
         "venue": "Coventry Building Society Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Peacock"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5795524,
@@ -114,7 +155,16 @@
         "league_id": 87,
         "league": "LaLiga",
         "venue": "Estadio Ramón Sánchez Pizjuán",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "LaLigaTV",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5868139,
@@ -716,7 +766,7 @@
         "fixture": "Zagłębie Lubin vs Górnik Zabrze",
         "league_id": 196,
         "league": "Ekstraklasa",
-        "venue": "KGHM Zagłębie Arena",
+        "venue": "Synerise Arena - Stadion Miejski im. Henryka Reymana",
         "tv_channels": []
     },
     {
@@ -807,6 +857,15 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Sarpsborg Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6629688,
+        "kickoff": 1795350600,
+        "fixture": "Odds Ballklubb vs Bryne",
+        "league_id": 60,
+        "league": "Eliteserien Qualification",
+        "venue": "Skagerak Arena",
         "tv_channels": []
     },
     {
@@ -948,60 +1007,6 @@
         "match_id": 5897665,
         "kickoff": 1795276800,
         "fixture": "FC Chelyabinsk vs Leningradets",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5897673,
-        "kickoff": 1795276800,
-        "fixture": "FC Yenisey Krasnoyarsk vs Volga Ulyanovsk",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5897666,
-        "kickoff": 1795276800,
-        "fixture": "KamAZ vs Spartak Kostroma",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5897670,
-        "kickoff": 1795276800,
-        "fixture": "PFC Sochi vs Veles Moscow",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5897668,
-        "kickoff": 1795276800,
-        "fixture": "Shinnik Yaroslavl vs Neftekhimik",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5897669,
-        "kickoff": 1795276800,
-        "fixture": "SKA-Khabarovsk vs FC Rotor Volgograd",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5897671,
-        "kickoff": 1795276800,
-        "fixture": "Tekstilshchik vs Arsenal Tula",
         "league_id": 338,
         "league": "First League",
         "venue": "TBA",
@@ -1329,7 +1334,16 @@
         "league_id": 140,
         "league": "LaLiga2",
         "venue": "Estadio Heliodoro Rodríguez Lopéz",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Premier Sports Events",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5868552,
@@ -1508,7 +1522,7 @@
         "fixture": "Real Sociedad (W) vs Sevilla (W)",
         "league_id": 9907,
         "league": "Liga F",
-        "venue": "Campo José Luis Orbegozo",
+        "venue": "Estadio Izan",
         "tv_channels": []
     },
     {
@@ -1733,7 +1747,7 @@
         "fixture": "CS Sfaxien vs JS Omrane",
         "league_id": 544,
         "league": "Ligue I",
-        "venue": "TBA",
+        "venue": "Stade Taïeb Mhiri",
         "tv_channels": []
     },
     {
@@ -1760,7 +1774,7 @@
         "fixture": "Stade Tunisien vs CA Bizertin",
         "league_id": 544,
         "league": "Ligue I",
-        "venue": "TBA",
+        "venue": "Stade Hédi-Enneifer",
         "tv_channels": []
     },
     {
@@ -1769,7 +1783,7 @@
         "fixture": "US Monastir vs Etoile du Sahel",
         "league_id": 544,
         "league": "Ligue I",
-        "venue": "TBA",
+        "venue": "Stade Mustapha Ben Jannet",
         "tv_channels": []
     },
     {
@@ -4338,6 +4352,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 6506249,
+        "kickoff": 1795276800,
+        "fixture": "Estoril vs Felgueiras 1932",
+        "league_id": 186,
+        "league": "Taca de Portugal",
+        "venue": "Estádio António Coimbra da Mota",
+        "tv_channels": []
+    },
+    {
         "match_id": 6506255,
         "kickoff": 1795280400,
         "fixture": "Marítimo vs Chaves",
@@ -4353,15 +4376,6 @@
         "league_id": 186,
         "league": "Taca de Portugal",
         "venue": "Estádio José Alvalade",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6506249,
-        "kickoff": 1795291200,
-        "fixture": "Estoril vs Felgueiras 1932",
-        "league_id": 186,
-        "league": "Taca de Portugal",
-        "venue": "Estádio António Coimbra da Mota",
         "tv_channels": []
     },
     {
@@ -5378,7 +5392,7 @@
         "fixture": "Instituto vs Huracán",
         "league_id": 112,
         "league": "Liga Profesional - Clausura - 8th Finals",
-        "venue": "Estadio Monumental Presidente Perón",
+        "venue": "Estadio Mario Alberto Kempes",
         "tv_channels": []
     },
     {
@@ -5508,12 +5522,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000022597,
-        "kickoff": 1795303800,
-        "fixture": "Academia Puerto Cabello vs Monagas SC",
+        "match_id": 1000022586,
+        "kickoff": 1795381200,
+        "fixture": "Metropolitanos FC vs Deportivo La Guaira",
         "league_id": 339,
         "league": "Primera División",
-        "venue": "Estadio La Bombonerita",
+        "venue": "Estadio Olímpico de la UCV",
         "tv_channels": []
     },
     {
@@ -5576,7 +5590,7 @@
         "fixture": "Independiente del Valle vs CSD Macará",
         "league_id": 246,
         "league": "Serie A - Championship Round",
-        "venue": "TBA",
+        "venue": "Estadio Banco Guayaquil",
         "tv_channels": []
     },
     {
@@ -5585,7 +5599,7 @@
         "fixture": "LDU de Quito vs Aucas",
         "league_id": 246,
         "league": "Serie A - Championship Round",
-        "venue": "TBA",
+        "venue": "Estadio Rodrigo Paz Delgado",
         "tv_channels": []
     },
     {
@@ -5594,7 +5608,7 @@
         "fixture": "Universidad Católica vs Barcelona SC",
         "league_id": 246,
         "league": "Serie A - Championship Round",
-        "venue": "TBA",
+        "venue": "Estadio Olímpico Atahualpa",
         "tv_channels": []
     },
     {
@@ -5603,7 +5617,7 @@
         "fixture": "Manta vs Delfín",
         "league_id": 246,
         "league": "Serie A - Relegation Round",
-        "venue": "TBA",
+        "venue": "Estadio Jocay",
         "tv_channels": []
     },
     {
@@ -5612,7 +5626,7 @@
         "fixture": "Orense vs Mushuc Runa",
         "league_id": 246,
         "league": "Serie A - Relegation Round",
-        "venue": "TBA",
+        "venue": "Estadio 9 de Mayo Banco de Machala",
         "tv_channels": []
     },
     {
@@ -5621,7 +5635,7 @@
         "fixture": "Técnico Universitario vs Deportivo Cuenca",
         "league_id": 246,
         "league": "Serie A - Relegation Round",
-        "venue": "TBA",
+        "venue": "Estadio Bellavista Universidad Indoamérica",
         "tv_channels": []
     },
     {
