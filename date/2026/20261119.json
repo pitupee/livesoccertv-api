@@ -6,7 +6,15 @@
         "league_id": 8938,
         "league": "Australian Championship Grp. D",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "country_code": "AU",
+                "channels": [
+                    "SBS2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6284037,
@@ -269,26 +277,18 @@
         ]
     },
     {
+        "match_id": 6652347,
+        "kickoff": 1795051800,
+        "fixture": "Independiente de La Chorrera vs Tauro FC",
+        "league_id": 9039,
+        "league": "LPF Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6103148,
         "kickoff": 1795014000,
         "fixture": "Ranchers Bees vs Doma United",
-        "league_id": 533,
-        "league": "NPFL",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Nigeria",
-                "country_code": "NG",
-                "channels": [
-                    "NPFL Live"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 6103160,
-        "kickoff": 1795014000,
-        "fixture": "Sporting Lagos vs Rivers United FC",
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
@@ -545,6 +545,13 @@
                 ]
             },
             {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Cablenet Sports 3"
+                ]
+            },
+            {
                 "country": "Czechia",
                 "country_code": "CZ",
                 "channels": [
@@ -672,6 +679,7 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
+                    "Bein Sports 3",
                     "beIN Sports Connect Malaysia",
                     "sooka"
                 ]
@@ -685,11 +693,19 @@
                 ]
             },
             {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "beIN Sports English 2"
+                ]
+            },
+            {
                 "country": "Morocco",
                 "country_code": "MA",
                 "channels": [
                     "TOD",
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports English 2"
                 ]
             },
             {
@@ -748,6 +764,14 @@
                 "country_code": "PT",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "Russian Federation",
+                "country_code": "RU",
+                "channels": [
+                    "Sportbox.ru",
+                    "matchtv.ru"
                 ]
             },
             {
@@ -924,6 +948,13 @@
                 ]
             },
             {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Cablenet Sports 2"
+                ]
+            },
+            {
                 "country": "Czechia",
                 "country_code": "CZ",
                 "channels": [
@@ -970,7 +1001,8 @@
                 "country": "Ghana",
                 "country_code": "GH",
                 "channels": [
-                    "DStv Now"
+                    "DStv Now",
+                    "ESPN Africa"
                 ]
             },
             {
@@ -1020,7 +1052,8 @@
                 "country": "Indonesia",
                 "country_code": "ID",
                 "channels": [
-                    "Vidio"
+                    "Vidio",
+                    "beIN Sports Connect Indonesia"
                 ]
             },
             {
@@ -1056,6 +1089,7 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
+                    "beIN Sports 1 Malaysia",
                     "beIN Sports Connect Malaysia",
                     "sooka"
                 ]
@@ -1073,7 +1107,9 @@
                 "country_code": "ME",
                 "channels": [
                     "TOD",
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports 1",
+                    "beIN Sports English"
                 ]
             },
             {
@@ -1081,7 +1117,9 @@
                 "country_code": "MA",
                 "channels": [
                     "TOD",
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports 1",
+                    "beIN Sports English"
                 ]
             },
             {
@@ -1096,6 +1134,13 @@
                 "country_code": "NI",
                 "channels": [
                     "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Nigeria",
+                "country_code": "NG",
+                "channels": [
+                    "ESPN Africa"
                 ]
             },
             {
@@ -1143,6 +1188,14 @@
                 ]
             },
             {
+                "country": "Russian Federation",
+                "country_code": "RU",
+                "channels": [
+                    "Sportbox.ru",
+                    "matchtv.ru"
+                ]
+            },
+            {
                 "country": "Singapore",
                 "country_code": "SG",
                 "channels": [
@@ -1182,7 +1235,8 @@
                 "country": "Tanzania",
                 "country_code": "TZ",
                 "channels": [
-                    "DStv Now"
+                    "DStv Now",
+                    "ESPN Africa"
                 ]
             },
             {
@@ -1333,6 +1387,13 @@
                 ]
             },
             {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Cablenet Sports 2"
+                ]
+            },
+            {
                 "country": "Czechia",
                 "country_code": "CZ",
                 "channels": [
@@ -1429,7 +1490,8 @@
                 "country": "Indonesia",
                 "country_code": "ID",
                 "channels": [
-                    "Vidio"
+                    "Vidio",
+                    "beIN Sports Connect Indonesia"
                 ]
             },
             {
@@ -1465,6 +1527,7 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
+                    "beIN Sports 1 Malaysia",
                     "beIN Sports Connect Malaysia",
                     "sooka"
                 ]
@@ -1482,7 +1545,9 @@
                 "country_code": "ME",
                 "channels": [
                     "TOD",
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports 1",
+                    "beIN Sports English"
                 ]
             },
             {
@@ -1490,7 +1555,9 @@
                 "country_code": "MA",
                 "channels": [
                     "TOD",
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports 1",
+                    "beIN Sports English"
                 ]
             },
             {
@@ -1549,6 +1616,14 @@
                 "country_code": "PT",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "Russian Federation",
+                "country_code": "RU",
+                "channels": [
+                    "Sportbox.ru",
+                    "matchtv.ru"
                 ]
             },
             {
@@ -1735,6 +1810,13 @@
                 ]
             },
             {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Cablenet Sports 3"
+                ]
+            },
+            {
                 "country": "Czechia",
                 "country_code": "CZ",
                 "channels": [
@@ -1825,7 +1907,8 @@
                 "country": "Indonesia",
                 "country_code": "ID",
                 "channels": [
-                    "Vidio"
+                    "Vidio",
+                    "beIN Sports Connect Indonesia"
                 ]
             },
             {
@@ -1861,6 +1944,7 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
+                    "Bein Sports 3",
                     "beIN Sports Connect Malaysia",
                     "sooka"
                 ]
@@ -1878,7 +1962,8 @@
                 "country_code": "ME",
                 "channels": [
                     "TOD",
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports English 2"
                 ]
             },
             {
@@ -1886,7 +1971,8 @@
                 "country_code": "MA",
                 "channels": [
                     "TOD",
-                    "beIN SPORTS CONNECT"
+                    "beIN SPORTS CONNECT",
+                    "beIN Sports English 2"
                 ]
             },
             {
@@ -1945,6 +2031,14 @@
                 "country_code": "PT",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "Russian Federation",
+                "country_code": "RU",
+                "channels": [
+                    "Sportbox.ru",
+                    "matchtv.ru"
                 ]
             },
             {
@@ -3168,6 +3262,13 @@
                 ]
             },
             {
+                "country": "Cyprus",
+                "country_code": "CY",
+                "channels": [
+                    "Cablenet Sports 1"
+                ]
+            },
+            {
                 "country": "Czechia",
                 "country_code": "CZ",
                 "channels": [
@@ -3622,7 +3723,8 @@
                 "country": "Indonesia",
                 "country_code": "ID",
                 "channels": [
-                    "Vidio"
+                    "Vidio",
+                    "beIN Sports Connect Indonesia"
                 ]
             },
             {
@@ -4054,7 +4156,15 @@
         "league_id": 306,
         "league": "World Cup U17 Grp. B",
         "venue": "ASPIRE Academy Pitch 1",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "ViX Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6139102,
@@ -4063,7 +4173,60 @@
         "league_id": 306,
         "league": "World Cup U17 Grp. D",
         "venue": "Aspire Zone Pitch 9",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "DAZN (FI)"
+                ]
+            },
+            {
+                "country": "France",
+                "country_code": "FR",
+                "channels": [
+                    "la chaine L'Équipe"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "DAZN (NL)"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "FOX One",
+                    "FOX Sports 2",
+                    "Fox Sports online",
+                    "Fubo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6139103,
@@ -4072,7 +4235,130 @@
         "league_id": 306,
         "league": "World Cup U17 Grp. D",
         "venue": "ASPIRE Academy Pitch 5",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DGO",
+                    "DSports",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Bolivia",
+                "country_code": "BO",
+                "channels": [
+                    "DSports"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DAZN",
+                    "DGO",
+                    "DSports",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DAZN",
+                    "DGO",
+                    "DSports",
+                    "Paramount+",
+                    "Win Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "DAZN",
+                    "DGO",
+                    "DSports",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "DAZN (FI)"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "DAZN (NL)"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "DAZN",
+                    "DGO",
+                    "DSports",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "FOX Soccer Plus",
+                    "Fox Sports online",
+                    "Fubo Sports"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "DAZN",
+                    "DGO",
+                    "DSports",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "DAZN",
+                    "DSports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6139072,
@@ -4081,7 +4367,43 @@
         "league_id": 306,
         "league": "World Cup U17 Grp. A",
         "venue": "ASPIRE Academy Pitch 7",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "DAZN (FI)"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "DAZN (NL)"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6139073,
@@ -4090,7 +4412,32 @@
         "league_id": 306,
         "league": "World Cup U17 Grp. A",
         "venue": "ASPIRE Academy Pitch 2",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "TUDN",
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Russian Federation",
+                "country_code": "RU",
+                "channels": [
+                    "Sportbox.ru",
+                    "matchtv.ru"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "RTVE Play",
+                    "Teledeporte"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000014450,
@@ -4597,6 +4944,13 @@
                 ]
             },
             {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 4"
+                ]
+            },
+            {
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
@@ -4758,6 +5112,13 @@
                 ]
             },
             {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 2"
+                ]
+            },
+            {
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
@@ -4766,10 +5127,25 @@
                 ]
             },
             {
+                "country": "Mongolia",
+                "country_code": "MN",
+                "channels": [
+                    "Arena Cloud"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
                     "Azteca Deportes Network"
+                ]
+            },
+            {
+                "country": "North Macedonia",
+                "country_code": "MK",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Premium 3"
                 ]
             },
             {
@@ -4790,8 +5166,17 @@
                 "country": "Russian Federation",
                 "country_code": "RU",
                 "channels": [
+                    "Match! Football 3",
                     "Sportbox.ru",
                     "matchtv.ru"
+                ]
+            },
+            {
+                "country": "Serbia",
+                "country_code": "RS",
+                "channels": [
+                    "Arena Cloud",
+                    "Arena Sport Premium 2"
                 ]
             },
             {
@@ -5172,13 +5557,44 @@
         ]
     },
     {
+        "match_id": 5874253,
+        "kickoff": 1795100400,
+        "fixture": "Dobrudzha Dobrich vs Fratria",
+        "league_id": 9096,
+        "league": "Second Professional League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6139096,
         "kickoff": 1795100400,
         "fixture": "Mozambique U17 vs Denmark U17",
         "league_id": 306,
         "league": "World Cup U17 Grp. C",
         "venue": "ASPIRE Academy Pitch 3",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "DAZN NO"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "DAZN Sverige"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6139095,
@@ -5187,15 +5603,140 @@
         "league_id": 306,
         "league": "World Cup U17 Grp. C",
         "venue": "Aspire Zone Pitch 8",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DGO",
+                    "DSPORTS+ Plus",
+                    "Paramount+",
+                    "TyC Sports",
+                    "TyC Sports Play"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DAZN",
+                    "DGO",
+                    "DSPORTS+ Plus",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DAZN",
+                    "DGO",
+                    "DSPORTS+ Plus",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "DAZN",
+                    "DGO",
+                    "DSPORTS+ Plus",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "DAZN (FI)"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "DAZN (NL)"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "DAZN",
+                    "DGO",
+                    "DSPORTS+ Plus",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "FOX Soccer Plus",
+                    "Fox Sports online",
+                    "Fubo Sports"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "DAZN",
+                    "DGO",
+                    "DSPORTS+ Plus",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "DAZN",
+                    "DSPORTS+ Plus"
+                ]
+            }
+        ]
     },
     {
-        "match_id": 5952304,
+        "match_id": 5952302,
         "kickoff": 1795102200,
-        "fixture": "Al-Gharafa vs Al-Arabi",
+        "fixture": "Al-Ahli vs Al-Shamal",
         "league_id": 535,
         "league": "Qatar Stars League",
-        "venue": "Thani Bin Jassim Stadium (Al-Gharafah Stadium)",
-        "tv_channels": []
+        "venue": "Al Thumama Stadium",
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Shoof"
+                ]
+            }
+        ]
     }
 ]
