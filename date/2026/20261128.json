@@ -194,7 +194,7 @@
         "fixture": "Bjarg vs Sogndal",
         "league_id": 9754,
         "league": "1. Divisjon Qualification",
-        "venue": "Stavollen Kunstgress",
+        "venue": "Stavollen Stadion",
         "tv_channels": []
     },
     {
@@ -3047,7 +3047,7 @@
         "fixture": "Petrolul Ploiești vs FC Argeș Pitesti",
         "league_id": 189,
         "league": "Superliga",
-        "venue": "Stadionul Ilie Oana",
+        "venue": "Stadionul Ilie Oană",
         "tv_channels": []
     },
     {
@@ -3056,7 +3056,7 @@
         "fixture": "FC Voluntari vs CFR Cluj",
         "league_id": 189,
         "league": "Superliga",
-        "venue": "Stadionul Anghel Iordanescu",
+        "venue": "Stadionul Anghel Iordănescu",
         "tv_channels": []
     },
     {
@@ -3065,7 +3065,7 @@
         "fixture": "Corvinul Hunedoara vs FCV Farul Constanța",
         "league_id": 189,
         "league": "Superliga",
-        "venue": "Stadionul Michael Klein",
+        "venue": "Stadionul Petre Libardi",
         "tv_channels": []
     },
     {
@@ -3074,7 +3074,7 @@
         "fixture": "FCSB vs Csikszereda Miercurea Ciuc",
         "league_id": 189,
         "league": "Superliga",
-        "venue": "Arena Nationala",
+        "venue": "Arena Naţională",
         "tv_channels": []
     },
     {
@@ -3543,7 +3543,22 @@
         "league_id": 48,
         "league": "Championship",
         "venue": "St. Mary's Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports UHD 2"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Sky Sports UHD 2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5836959,
@@ -3681,21 +3696,21 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000015771,
+        "kickoff": 1795791600,
+        "fixture": "Vysočina Jihlava vs Třinec",
+        "league_id": 253,
+        "league": "FNL",
+        "venue": "Stadion v Jiráskově ulici",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000015770,
         "kickoff": 1795798800,
         "fixture": "Dukla Praha vs FC Silon Táborsko",
         "league_id": 253,
         "league": "FNL",
         "venue": "Stadion Juliska",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000015771,
-        "kickoff": 1795798800,
-        "fixture": "Vysočina Jihlava vs Třinec",
-        "league_id": 253,
-        "league": "FNL",
-        "venue": "Stadion v Jiráskově ulici",
         "tv_channels": []
     },
     {
@@ -4142,7 +4157,7 @@
     {
         "match_id": 5955127,
         "kickoff": 1795872600,
-        "fixture": "AmaZulu vs Milford FC",
+        "fixture": "AmaZulu FC vs Milford FC",
         "league_id": 537,
         "league": "Premier Soccer League",
         "venue": "Moses Mabhida Stadium",
@@ -4164,6 +4179,42 @@
         "league_id": 537,
         "league": "Premier Soccer League",
         "venue": "Mbombela Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000024448,
+        "kickoff": 1795824000,
+        "fixture": "Antofagasta vs Deportes Copiapó",
+        "league_id": 9126,
+        "league": "Primera B - Promotion Play-offs - 1st Round",
+        "venue": "Estadio Regional Calvo y Bascuñán",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000024453,
+        "kickoff": 1795824000,
+        "fixture": "Antofagasta vs Deportes Copiapó",
+        "league_id": 9126,
+        "league": "Primera B - Promotion Play-offs - 1st Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000024447,
+        "kickoff": 1795899600,
+        "fixture": "Magallanes vs San Marcos",
+        "league_id": 9126,
+        "league": "Primera B - Promotion Play-offs - 1st Round",
+        "venue": "Estadio Municipal Luis Navarro Avilés",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000024452,
+        "kickoff": 1795899600,
+        "fixture": "Magallanes vs San Marcos",
+        "league_id": 9126,
+        "league": "Primera B - Promotion Play-offs - 1st Round",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -6036,6 +6087,15 @@
         "league_id": 9545,
         "league": "Lowland League West",
         "venue": "Alliance Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016795,
+        "kickoff": 1795878000,
+        "fixture": "Celtic B vs Kilwinning Rangers",
+        "league_id": 9545,
+        "league": "Lowland League West",
+        "venue": "Albert Bartlett Stadium",
         "tv_channels": []
     },
     {

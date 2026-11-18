@@ -113,6 +113,15 @@
         ]
     },
     {
+        "match_id": 6505596,
+        "kickoff": 1795017600,
+        "fixture": "NK Rače vs Radomlje",
+        "league_id": 174,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6505597,
         "kickoff": 1795017600,
         "fixture": "Tabor vs Fužinar",
@@ -188,7 +197,15 @@
         "league_id": 9941,
         "league": "Cup",
         "venue": "New Suez Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "ON Sport 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6622723,
@@ -351,7 +368,17 @@
         "league_id": 9039,
         "league": "LPF Apertura",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "FOX",
+                    "Medcom GO",
+                    "RPC TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6103148,
@@ -780,6 +807,8 @@
                 "country": "Montenegro",
                 "country_code": "ME",
                 "channels": [
+                    "TOD",
+                    "beIN SPORTS CONNECT",
                     "beIN Sports English 2"
                 ]
             },
@@ -998,7 +1027,8 @@
                 "country": "Brazil",
                 "country_code": "BR",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN 4"
                 ]
             },
             {
@@ -1028,7 +1058,8 @@
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -1042,7 +1073,10 @@
                 "country": "Cyprus",
                 "country_code": "CY",
                 "channels": [
-                    "Cablenet Sports 2"
+                    "Cablenet Sports 2",
+                    "Cablenet Sports 2 HD",
+                    "Cablenet TV Go",
+                    "Cytavision on the Go"
                 ]
             },
             {
@@ -1056,7 +1090,8 @@
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -1107,14 +1142,16 @@
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -1137,6 +1174,13 @@
                 "country_code": "IS",
                 "channels": [
                     "RUV"
+                ]
+            },
+            {
+                "country": "India",
+                "country_code": "IN",
+                "channels": [
+                    "Tata Play Fancode Sports"
                 ]
             },
             {
@@ -1231,7 +1275,8 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -1252,7 +1297,8 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -1489,7 +1535,8 @@
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -1503,7 +1550,10 @@
                 "country": "Cyprus",
                 "country_code": "CY",
                 "channels": [
-                    "Cablenet Sports 2"
+                    "Cablenet Sports 2",
+                    "Cablenet Sports 2 HD",
+                    "Cablenet TV Go",
+                    "Cytavision on the Go"
                 ]
             },
             {
@@ -1517,7 +1567,8 @@
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -1567,14 +1618,16 @@
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -1691,7 +1744,8 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -1705,7 +1759,8 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -1900,7 +1955,8 @@
                 "country": "Brazil",
                 "country_code": "BR",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN 4"
                 ]
             },
             {
@@ -1943,7 +1999,9 @@
                 "country": "Cyprus",
                 "country_code": "CY",
                 "channels": [
-                    "Cablenet Sports 3"
+                    "Cablenet Sports 3",
+                    "Cablenet TV Go",
+                    "Cytavision on the Go"
                 ]
             },
             {
@@ -2296,6 +2354,7 @@
                 "country_code": "AT",
                 "channels": [
                     "Disney+",
+                    "ORF 1",
                     "ORF ON App",
                     "ORF Sport +"
                 ]
@@ -2367,7 +2426,10 @@
                 "country": "Cyprus",
                 "country_code": "CY",
                 "channels": [
-                    "Cablenet Sports 2"
+                    "Cablenet Sports 2",
+                    "Cablenet Sports 2 HD",
+                    "Cablenet TV Go",
+                    "Cytavision on the Go"
                 ]
             },
             {
@@ -2747,7 +2809,8 @@
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -2761,7 +2824,9 @@
                 "country": "Cyprus",
                 "country_code": "CY",
                 "channels": [
-                    "Cablenet Sports 3"
+                    "Cablenet Sports 3",
+                    "Cablenet TV Go",
+                    "Cytavision on the Go"
                 ]
             },
             {
@@ -2775,7 +2840,8 @@
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -2824,14 +2890,16 @@
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -2930,7 +2998,8 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -2951,7 +3020,8 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -3572,7 +3642,8 @@
                 "country": "Costa Rica",
                 "country_code": "CR",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -3586,7 +3657,9 @@
                 "country": "Cyprus",
                 "country_code": "CY",
                 "channels": [
-                    "Cablenet Sports 1"
+                    "Cablenet Sports 1",
+                    "Cablenet TV Go",
+                    "Cytavision on the Go"
                 ]
             },
             {
@@ -3600,7 +3673,8 @@
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -3642,14 +3716,16 @@
                 "country": "Guatemala",
                 "country_code": "GT",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Honduras",
                 "country_code": "HN",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -3753,7 +3829,8 @@
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -3767,7 +3844,8 @@
                 "country": "Panama",
                 "country_code": "PA",
                 "channels": [
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -4316,6 +4394,13 @@
                 ]
             },
             {
+                "country": "Brazil",
+                "country_code": "BR",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
+                ]
+            },
+            {
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
@@ -4330,8 +4415,36 @@
                 ]
             },
             {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "country_code": "DO",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
+                ]
+            },
+            {
                 "country": "Ecuador",
                 "country_code": "EC",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
                 "channels": [
                     "Barclays Women's Super League YouTube"
                 ]
@@ -4351,10 +4464,31 @@
                 ]
             },
             {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
+                ]
+            },
+            {
                 "country": "Norway",
                 "country_code": "NO",
                 "channels": [
                     "VG TV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
                 ]
             },
             {
@@ -4374,6 +4508,13 @@
             {
                 "country": "Portugal",
                 "country_code": "PT",
+                "channels": [
+                    "Barclays Women's Super League YouTube"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
                 "channels": [
                     "Barclays Women's Super League YouTube"
                 ]
@@ -4512,6 +4653,13 @@
         "venue": "ASPIRE Academy Pitch 4",
         "tv_channels": [
             {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "DAZN (FI)"
+                ]
+            },
+            {
                 "country": "Netherlands",
                 "country_code": "NL",
                 "channels": [
@@ -4554,6 +4702,13 @@
                 "country_code": "FI",
                 "channels": [
                     "DAZN (FI)"
+                ]
+            },
+            {
+                "country": "Indonesia",
+                "country_code": "ID",
+                "channels": [
+                    "Vidio"
                 ]
             },
             {
@@ -4862,6 +5017,13 @@
         "venue": "ASPIRE Academy Pitch 2",
         "tv_channels": [
             {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "DAZN (FI)"
+                ]
+            },
+            {
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
@@ -4887,6 +5049,7 @@
                 "country": "Russian Federation",
                 "country_code": "RU",
                 "channels": [
+                    "Match! Football 3",
                     "Sportbox.ru",
                     "matchtv.ru"
                 ]
@@ -4897,6 +5060,20 @@
                 "channels": [
                     "RTVE Play",
                     "Teledeporte"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
                 ]
             }
         ]
@@ -5115,7 +5292,8 @@
                 "country": "Chile",
                 "country_code": "CL",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "Fanatiz1"
                 ]
             },
             {
@@ -5325,7 +5503,15 @@
         "league_id": 538,
         "league": "Pro League",
         "venue": "Zabeel Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Montenegro",
+                "country_code": "ME",
+                "channels": [
+                    "Abu Dhabi Sports 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000022241,
@@ -5365,6 +5551,7 @@
                 "country": "Brazil",
                 "country_code": "BR",
                 "channels": [
+                    "CazeTV",
                     "CazéTV YouTube",
                     "Premiere",
                     "RecordTV"
@@ -5484,6 +5671,13 @@
                 "country_code": "BR",
                 "channels": [
                     "Premiere"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Fanatiz1"
                 ]
             },
             {
@@ -5913,6 +6107,13 @@
                 "channels": [
                     "Fanatiz"
                 ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "Fanatiz"
+                ]
             }
         ]
     },
@@ -6021,8 +6222,42 @@
                 "channels": [
                     "Viaplay Iceland"
                 ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "Viaplay NL"
+                ]
             }
         ]
+    },
+    {
+        "match_id": 6674102,
+        "kickoff": 1795116600,
+        "fixture": "Boston River vs Deportivo Maldonado",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Clausura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6674103,
+        "kickoff": 1795116600,
+        "fixture": "Club Atletico Peñarol vs Cerro Largo",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Clausura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6674104,
+        "kickoff": 1795116600,
+        "fixture": "Club Atlético Progreso vs Montevideo City Torque",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Clausura",
+        "venue": "TBA",
+        "tv_channels": []
     },
     {
         "match_id": 5886582,
@@ -6057,7 +6292,16 @@
         "league_id": 9096,
         "league": "Second Professional League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bulgaria",
+                "country_code": "BG",
+                "channels": [
+                    "Diema Sport",
+                    "Play Diema Xtra"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6139096,
