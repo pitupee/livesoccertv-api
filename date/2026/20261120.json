@@ -22,13 +22,6 @@
                 ]
             },
             {
-                "country": "Armenia",
-                "country_code": "AM",
-                "channels": [
-                    "MLS Pass on Apple TV"
-                ]
-            },
-            {
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
@@ -120,13 +113,6 @@
                 ]
             },
             {
-                "country": "Czechia",
-                "country_code": "CZ",
-                "channels": [
-                    "Apple TV"
-                ]
-            },
-            {
                 "country": "Dominican Republic",
                 "country_code": "DO",
                 "channels": [
@@ -159,13 +145,6 @@
                 "country_code": "FR",
                 "channels": [
                     "Apple TV (FR)"
-                ]
-            },
-            {
-                "country": "Georgia",
-                "country_code": "GE",
-                "channels": [
-                    "Apple TV"
                 ]
             },
             {
@@ -274,13 +253,6 @@
                 ]
             },
             {
-                "country": "Macao",
-                "country_code": "MO",
-                "channels": [
-                    "MLS Pass on Apple TV"
-                ]
-            },
-            {
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
@@ -299,20 +271,6 @@
                 "country_code": "MX",
                 "channels": [
                     "Apple TV"
-                ]
-            },
-            {
-                "country": "Mongolia",
-                "country_code": "MN",
-                "channels": [
-                    "Apple TV"
-                ]
-            },
-            {
-                "country": "Montenegro",
-                "country_code": "ME",
-                "channels": [
-                    "MLS Pass on Apple TV"
                 ]
             },
             {
@@ -347,7 +305,6 @@
                 "country": "Nigeria",
                 "country_code": "NG",
                 "channels": [
-                    "Apple TV",
                     "MLS Season Pass"
                 ]
             },
@@ -1022,22 +979,7 @@
         "league_id": 85,
         "league": "1. Division",
         "venue": "Monjasa Park",
-        "tv_channels": [
-            {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "Viaplay FI"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "Viaplay SE"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5764472,
@@ -1247,29 +1189,7 @@
         "league_id": 10316,
         "league": "Damallsvenskan Qualification",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Iceland",
-                "country_code": "IS",
-                "channels": [
-                    "Viaplay Iceland"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "Viaplay NL"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "Viaplay NO"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5165405,
@@ -2663,6 +2583,7 @@
                 "channels": [
                     "Digi Online",
                     "Digi Sport 1",
+                    "Digi Sport 1 Romania",
                     "Orange Sport 1",
                     "Orange TV Go",
                     "Prima Sport",
@@ -2826,14 +2747,6 @@
                     "DAZN",
                     "DAZN France"
                 ]
-            },
-            {
-                "country": "France",
-                "country_code": "FR",
-                "channels": [
-                    "DAZN.com (FR)",
-                    "Ligue 1+"
-                ]
             }
         ]
     },
@@ -2947,7 +2860,8 @@
                 "country_code": "SG",
                 "channels": [
                     "112 Mio Sports 2",
-                    "StarHub TV+"
+                    "StarHub TV+",
+                    "meWATCH"
                 ]
             }
         ]
@@ -3079,15 +2993,7 @@
         "league_id": 524,
         "league": "Stars League",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Montenegro",
-                "country_code": "ME",
-                "channels": [
-                    "Almanasa"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 6028627,
@@ -3252,13 +3158,6 @@
                 ]
             },
             {
-                "country": "Armenia",
-                "country_code": "AM",
-                "channels": [
-                    "1TV"
-                ]
-            },
-            {
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
@@ -3266,13 +3165,6 @@
                     "ORF 1",
                     "ORF ON App",
                     "ORF Sport +"
-                ]
-            },
-            {
-                "country": "Belgium",
-                "country_code": "BE",
-                "channels": [
-                    "Disney+ (BE)"
                 ]
             },
             {
@@ -3288,13 +3180,6 @@
                 "channels": [
                     "Disney+ Premium",
                     "ESPN 4"
-                ]
-            },
-            {
-                "country": "Canada",
-                "country_code": "CA",
-                "channels": [
-                    "OneSoccer"
                 ]
             },
             {
@@ -3326,13 +3211,6 @@
                 ]
             },
             {
-                "country": "Croatia",
-                "country_code": "HR",
-                "channels": [
-                    "HRT"
-                ]
-            },
-            {
                 "country": "Cyprus",
                 "country_code": "CY",
                 "channels": [
@@ -3340,13 +3218,6 @@
                     "Cablenet Sports 2 HD",
                     "Cablenet TV Go",
                     "Cytavision on the Go"
-                ]
-            },
-            {
-                "country": "Czechia",
-                "country_code": "CZ",
-                "channels": [
-                    "ČT Sport"
                 ]
             },
             {
@@ -3361,35 +3232,6 @@
                 "country_code": "EC",
                 "channels": [
                     "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "Disney+ Suomi"
-                ]
-            },
-            {
-                "country": "France",
-                "country_code": "FR",
-                "channels": [
-                    "Disney+ (FR)"
-                ]
-            },
-            {
-                "country": "Germany",
-                "country_code": "DE",
-                "channels": [
-                    "Disney+ (DE)",
-                    "ZDF Livestream"
-                ]
-            },
-            {
-                "country": "Greece",
-                "country_code": "GR",
-                "channels": [
-                    "MEGA News"
                 ]
             },
             {
@@ -3414,38 +3256,10 @@
                 ]
             },
             {
-                "country": "Hungary",
-                "country_code": "HU",
-                "channels": [
-                    "M4 Sport"
-                ]
-            },
-            {
                 "country": "Iceland",
                 "country_code": "IS",
                 "channels": [
                     "RUV"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "Disney+ (ROI)"
-                ]
-            },
-            {
-                "country": "Israel",
-                "country_code": "IL",
-                "channels": [
-                    "Sport 5 HD"
-                ]
-            },
-            {
-                "country": "Italy",
-                "country_code": "IT",
-                "channels": [
-                    "Disney+ (IT)"
                 ]
             },
             {
@@ -3497,24 +3311,10 @@
                 ]
             },
             {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "Disney+ (NL)"
-                ]
-            },
-            {
                 "country": "Nicaragua",
                 "country_code": "NI",
                 "channels": [
                     "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "Disney+ Norge"
                 ]
             },
             {
@@ -3571,13 +3371,6 @@
                 "country_code": "ES",
                 "channels": [
                     "Disney+"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "Disney+ Sverige"
                 ]
             },
             {
@@ -3621,9 +3414,6 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
-                    "ESPN Deportes",
-                    "ESPN Unlimited",
-                    "Fubo Sports",
                     "Paramount+ (US)"
                 ]
             },
@@ -3659,24 +3449,10 @@
                 ]
             },
             {
-                "country": "Armenia",
-                "country_code": "AM",
-                "channels": [
-                    "1TV"
-                ]
-            },
-            {
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
                     "Disney+"
-                ]
-            },
-            {
-                "country": "Belgium",
-                "country_code": "BE",
-                "channels": [
-                    "Disney+ (BE)"
                 ]
             },
             {
@@ -3723,26 +3499,12 @@
                 ]
             },
             {
-                "country": "Croatia",
-                "country_code": "HR",
-                "channels": [
-                    "HRT"
-                ]
-            },
-            {
                 "country": "Cyprus",
                 "country_code": "CY",
                 "channels": [
                     "Cablenet Sports 3",
                     "Cablenet TV Go",
                     "Cytavision on the Go"
-                ]
-            },
-            {
-                "country": "Czechia",
-                "country_code": "CZ",
-                "channels": [
-                    "ČT Sport"
                 ]
             },
             {
@@ -3761,38 +3523,10 @@
                 ]
             },
             {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "Disney+ Suomi"
-                ]
-            },
-            {
-                "country": "France",
-                "country_code": "FR",
-                "channels": [
-                    "Disney+ (FR)"
-                ]
-            },
-            {
-                "country": "Germany",
-                "country_code": "DE",
-                "channels": [
-                    "Disney+ (DE)"
-                ]
-            },
-            {
                 "country": "Ghana",
                 "country_code": "GH",
                 "channels": [
                     "ESPN Africa"
-                ]
-            },
-            {
-                "country": "Greece",
-                "country_code": "GR",
-                "channels": [
-                    "MEGA News"
                 ]
             },
             {
@@ -3819,38 +3553,10 @@
                 ]
             },
             {
-                "country": "Hungary",
-                "country_code": "HU",
-                "channels": [
-                    "M4 Sport"
-                ]
-            },
-            {
                 "country": "Iceland",
                 "country_code": "IS",
                 "channels": [
                     "RUV"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "Disney+ (ROI)"
-                ]
-            },
-            {
-                "country": "Israel",
-                "country_code": "IL",
-                "channels": [
-                    "Sport 5 HD"
-                ]
-            },
-            {
-                "country": "Italy",
-                "country_code": "IT",
-                "channels": [
-                    "Disney+ (IT)"
                 ]
             },
             {
@@ -3883,24 +3589,10 @@
                 ]
             },
             {
-                "country": "Montenegro",
-                "country_code": "ME",
-                "channels": [
-                    "beIN SPORTS XTRA"
-                ]
-            },
-            {
                 "country": "Morocco",
                 "country_code": "MA",
                 "channels": [
                     "beIN SPORTS XTRA"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "Disney+ (NL)"
                 ]
             },
             {
@@ -3916,13 +3608,6 @@
                 "country_code": "NG",
                 "channels": [
                     "ESPN Africa"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "Disney+ Norge"
                 ]
             },
             {
@@ -3976,13 +3661,6 @@
                 ]
             },
             {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "Disney+ Sverige"
-                ]
-            },
-            {
                 "country": "Switzerland",
                 "country_code": "CH",
                 "channels": [
@@ -4021,8 +3699,6 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
-                    "ESPN Select",
-                    "ESPN Unlimited",
                     "Paramount+ (US)"
                 ]
             },
@@ -4058,13 +3734,6 @@
                 ]
             },
             {
-                "country": "Armenia",
-                "country_code": "AM",
-                "channels": [
-                    "1TV"
-                ]
-            },
-            {
                 "country": "Australia",
                 "country_code": "AU",
                 "channels": [
@@ -4076,13 +3745,6 @@
                 "country_code": "AT",
                 "channels": [
                     "Disney+"
-                ]
-            },
-            {
-                "country": "Belgium",
-                "country_code": "BE",
-                "channels": [
-                    "Disney+ (BE)"
                 ]
             },
             {
@@ -4099,13 +3761,6 @@
                 "channels": [
                     "Disney+ Premium",
                     "ESPN"
-                ]
-            },
-            {
-                "country": "Canada",
-                "country_code": "CA",
-                "channels": [
-                    "OneSoccer"
                 ]
             },
             {
@@ -4140,13 +3795,6 @@
                 ]
             },
             {
-                "country": "Croatia",
-                "country_code": "HR",
-                "channels": [
-                    "HRT"
-                ]
-            },
-            {
                 "country": "Cyprus",
                 "country_code": "CY",
                 "channels": [
@@ -4154,13 +3802,6 @@
                     "Cablenet Sports 2 HD",
                     "Cablenet TV Go",
                     "Cytavision on the Go"
-                ]
-            },
-            {
-                "country": "Czechia",
-                "country_code": "CZ",
-                "channels": [
-                    "ČT Sport"
                 ]
             },
             {
@@ -4180,39 +3821,10 @@
                 ]
             },
             {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "Disney+ Suomi"
-                ]
-            },
-            {
-                "country": "France",
-                "country_code": "FR",
-                "channels": [
-                    "Disney+ (FR)",
-                    "la chaine L'Équipe"
-                ]
-            },
-            {
-                "country": "Germany",
-                "country_code": "DE",
-                "channels": [
-                    "Disney+ (DE)"
-                ]
-            },
-            {
                 "country": "Ghana",
                 "country_code": "GH",
                 "channels": [
                     "ESPN Africa"
-                ]
-            },
-            {
-                "country": "Greece",
-                "country_code": "GR",
-                "channels": [
-                    "MEGA News"
                 ]
             },
             {
@@ -4239,39 +3851,10 @@
                 ]
             },
             {
-                "country": "Hungary",
-                "country_code": "HU",
-                "channels": [
-                    "M4 Sport"
-                ]
-            },
-            {
                 "country": "Iceland",
                 "country_code": "IS",
                 "channels": [
                     "RUV"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "BBC Three",
-                    "Disney+ (ROI)"
-                ]
-            },
-            {
-                "country": "Israel",
-                "country_code": "IL",
-                "channels": [
-                    "Sport 5 HD"
-                ]
-            },
-            {
-                "country": "Italy",
-                "country_code": "IT",
-                "channels": [
-                    "Disney+ (IT)"
                 ]
             },
             {
@@ -4304,26 +3887,10 @@
                 ]
             },
             {
-                "country": "Montenegro",
-                "country_code": "ME",
-                "channels": [
-                    "Bein Sports 2",
-                    "beIN Sports English 2"
-                ]
-            },
-            {
                 "country": "Morocco",
                 "country_code": "MA",
                 "channels": [
-                    "Bein Sports 2",
                     "beIN Sports English 2"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "Disney+ (NL)"
                 ]
             },
             {
@@ -4339,15 +3906,6 @@
                 "country_code": "NG",
                 "channels": [
                     "ESPN Africa"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "Disney+ Norge",
-                    "TV 2 Play (NO)",
-                    "TV 2 Sport 1"
                 ]
             },
             {
@@ -4403,13 +3961,6 @@
                 ]
             },
             {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "Disney+ Sverige"
-                ]
-            },
-            {
                 "country": "Switzerland",
                 "country_code": "CH",
                 "channels": [
@@ -4441,9 +3992,6 @@
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
-                    "BBC Sport online",
-                    "BBC Three",
-                    "BBC iPlayer",
                     "Disney+ (UK)"
                 ]
             },
@@ -4452,11 +4000,9 @@
                 "country_code": "US",
                 "channels": [
                     "CBS Sports Golazo",
-                    "ESPN Select",
-                    "ESPN Unlimited",
                     "Paramount+ (US)",
                     "Pluto (US)",
-                    "RokuChannel app (US)"
+                    "Roku Channel app (US)"
                 ]
             },
             {
@@ -4493,24 +4039,10 @@
                 ]
             },
             {
-                "country": "Armenia",
-                "country_code": "AM",
-                "channels": [
-                    "1TV"
-                ]
-            },
-            {
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
                     "Disney+"
-                ]
-            },
-            {
-                "country": "Belgium",
-                "country_code": "BE",
-                "channels": [
-                    "Disney+ (BE)"
                 ]
             },
             {
@@ -4535,13 +4067,6 @@
                 ]
             },
             {
-                "country": "China",
-                "country_code": "CN",
-                "channels": [
-                    "iQiyi"
-                ]
-            },
-            {
                 "country": "Colombia",
                 "country_code": "CO",
                 "channels": [
@@ -4557,26 +4082,12 @@
                 ]
             },
             {
-                "country": "Croatia",
-                "country_code": "HR",
-                "channels": [
-                    "HRT"
-                ]
-            },
-            {
                 "country": "Cyprus",
                 "country_code": "CY",
                 "channels": [
                     "Cablenet Sports 1",
                     "Cablenet TV Go",
                     "Cytavision on the Go"
-                ]
-            },
-            {
-                "country": "Czechia",
-                "country_code": "CZ",
-                "channels": [
-                    "ČT Sport"
                 ]
             },
             {
@@ -4592,34 +4103,6 @@
                 "country_code": "EC",
                 "channels": [
                     "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "Disney+ Suomi"
-                ]
-            },
-            {
-                "country": "France",
-                "country_code": "FR",
-                "channels": [
-                    "Disney+ (FR)"
-                ]
-            },
-            {
-                "country": "Germany",
-                "country_code": "DE",
-                "channels": [
-                    "Disney+ (DE)"
-                ]
-            },
-            {
-                "country": "Greece",
-                "country_code": "GR",
-                "channels": [
-                    "MEGA News"
                 ]
             },
             {
@@ -4639,48 +4122,6 @@
                 ]
             },
             {
-                "country": "Hong Kong",
-                "country_code": "HK",
-                "channels": [
-                    "beIN Sports Connect Hong Kong"
-                ]
-            },
-            {
-                "country": "Hungary",
-                "country_code": "HU",
-                "channels": [
-                    "M4 Sport"
-                ]
-            },
-            {
-                "country": "Iceland",
-                "country_code": "IS",
-                "channels": [
-                    "RUV"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "Disney+ (ROI)"
-                ]
-            },
-            {
-                "country": "Israel",
-                "country_code": "IL",
-                "channels": [
-                    "Sport 5 HD"
-                ]
-            },
-            {
-                "country": "Italy",
-                "country_code": "IT",
-                "channels": [
-                    "Disney+ (IT)"
-                ]
-            },
-            {
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
@@ -4692,15 +4133,7 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "Bein Sports 3",
                     "beIN Sports Connect Malaysia"
-                ]
-            },
-            {
-                "country": "Malta",
-                "country_code": "MT",
-                "channels": [
-                    "PBS"
                 ]
             },
             {
@@ -4714,25 +4147,16 @@
                 "country": "Montenegro",
                 "country_code": "ME",
                 "channels": [
-                    "beIN SPORTS CONNECT",
-                    "beIN Sports 1",
-                    "beIN Sports English"
+                    "TOD",
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
                 "country": "Morocco",
                 "country_code": "MA",
                 "channels": [
-                    "beIN SPORTS CONNECT",
-                    "beIN Sports 1",
-                    "beIN Sports English"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "Disney+ (NL)"
+                    "TOD",
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
@@ -4741,13 +4165,6 @@
                 "channels": [
                     "Disney+ Premium",
                     "ESPN"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "Disney+ Norge"
                 ]
             },
             {
@@ -4808,13 +4225,6 @@
                 ]
             },
             {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "Disney+ Sverige"
-                ]
-            },
-            {
                 "country": "Switzerland",
                 "country_code": "CH",
                 "channels": [
@@ -4830,20 +4240,6 @@
                 ]
             },
             {
-                "country": "Türkiye",
-                "country_code": "TR",
-                "channels": [
-                    "TRT Spor"
-                ]
-            },
-            {
-                "country": "Ukraine",
-                "country_code": "UA",
-                "channels": [
-                    "Suspilne Sport"
-                ]
-            },
-            {
                 "country": "United Kingdom",
                 "country_code": "GB",
                 "channels": [
@@ -4854,10 +4250,6 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
-                    "CBS Sports Network",
-                    "ESPN Deportes",
-                    "ESPN Unlimited",
-                    "Fubo Sports",
                     "Paramount+ (US)"
                 ]
             },
@@ -4893,24 +4285,10 @@
                 ]
             },
             {
-                "country": "Armenia",
-                "country_code": "AM",
-                "channels": [
-                    "1TV"
-                ]
-            },
-            {
                 "country": "Austria",
                 "country_code": "AT",
                 "channels": [
                     "Disney+"
-                ]
-            },
-            {
-                "country": "Belgium",
-                "country_code": "BE",
-                "channels": [
-                    "Disney+ (BE)"
                 ]
             },
             {
@@ -4957,25 +4335,11 @@
                 ]
             },
             {
-                "country": "Croatia",
-                "country_code": "HR",
-                "channels": [
-                    "HRT"
-                ]
-            },
-            {
                 "country": "Cyprus",
                 "country_code": "CY",
                 "channels": [
                     "Cablenet Sports 3",
                     "Cablenet TV Go"
-                ]
-            },
-            {
-                "country": "Czechia",
-                "country_code": "CZ",
-                "channels": [
-                    "ČT Sport"
                 ]
             },
             {
@@ -4990,34 +4354,6 @@
                 "country_code": "EC",
                 "channels": [
                     "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "Disney+ Suomi"
-                ]
-            },
-            {
-                "country": "France",
-                "country_code": "FR",
-                "channels": [
-                    "Disney+ (FR)"
-                ]
-            },
-            {
-                "country": "Germany",
-                "country_code": "DE",
-                "channels": [
-                    "Disney+ (DE)"
-                ]
-            },
-            {
-                "country": "Greece",
-                "country_code": "GR",
-                "channels": [
-                    "MEGA News"
                 ]
             },
             {
@@ -5043,13 +4379,6 @@
                 ]
             },
             {
-                "country": "Hungary",
-                "country_code": "HU",
-                "channels": [
-                    "M4 Sport"
-                ]
-            },
-            {
                 "country": "Iceland",
                 "country_code": "IS",
                 "channels": [
@@ -5065,27 +4394,6 @@
                 ]
             },
             {
-                "country": "Ireland",
-                "country_code": "IE",
-                "channels": [
-                    "Disney+ (ROI)"
-                ]
-            },
-            {
-                "country": "Israel",
-                "country_code": "IL",
-                "channels": [
-                    "Sport 5 HD"
-                ]
-            },
-            {
-                "country": "Italy",
-                "country_code": "IT",
-                "channels": [
-                    "Disney+ (IT)"
-                ]
-            },
-            {
                 "country": "Japan",
                 "country_code": "JP",
                 "channels": [
@@ -5097,7 +4405,6 @@
                 "country": "Malaysia",
                 "country_code": "MY",
                 "channels": [
-                    "Bein Sports 2",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -5119,6 +4426,7 @@
                 "country": "Montenegro",
                 "country_code": "ME",
                 "channels": [
+                    "TOD",
                     "beIN SPORTS CONNECT"
                 ]
             },
@@ -5126,14 +4434,8 @@
                 "country": "Morocco",
                 "country_code": "MA",
                 "channels": [
+                    "TOD",
                     "beIN SPORTS CONNECT"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "Disney+ (NL)"
                 ]
             },
             {
@@ -5141,13 +4443,6 @@
                 "country_code": "NI",
                 "channels": [
                     "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "Disney+ Norge"
                 ]
             },
             {
@@ -5210,13 +4505,6 @@
                 ]
             },
             {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "Disney+ Sverige"
-                ]
-            },
-            {
                 "country": "Switzerland",
                 "country_code": "CH",
                 "channels": [
@@ -5256,8 +4544,6 @@
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
-                    "ESPN Select",
-                    "ESPN Unlimited",
                     "Paramount+ (US)"
                 ]
             },
@@ -5273,723 +4559,6 @@
                 "country_code": "VE",
                 "channels": [
                     "Disney+ Premium"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 6139096,
-        "kickoff": 1795100400,
-        "fixture": "Mozambique U17 vs Denmark U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. C",
-        "venue": "ASPIRE Academy Pitch 3",
-        "tv_channels": [
-            {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "DAZN (FI)"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "country_code": "MX",
-                "channels": [
-                    "ViX Premium"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "DAZN (NL)"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "DAZN NO"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "DAZN Sverige"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "DAZN UK"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "FOX One",
-                    "FOX Sports 2",
-                    "Fox Sports online",
-                    "Fubo Sports"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 6139095,
-        "kickoff": 1795104000,
-        "fixture": "Argentina U17 vs Australia U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. C",
-        "venue": "Aspire Zone Pitch 8",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "country_code": "AR",
-                "channels": [
-                    "Amazon Prime Video",
-                    "DGO",
-                    "DSPORTS+ Plus",
-                    "Paramount+",
-                    "TyC Sports",
-                    "TyC Sports Play"
-                ]
-            },
-            {
-                "country": "Chile",
-                "country_code": "CL",
-                "channels": [
-                    "Amazon Prime Video",
-                    "DAZN",
-                    "DGO",
-                    "DSPORTS+ Plus",
-                    "Paramount+"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "country_code": "CO",
-                "channels": [
-                    "Amazon Prime Video",
-                    "DAZN",
-                    "DGO",
-                    "DSPORTS+ Plus",
-                    "Paramount+"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "country_code": "EC",
-                "channels": [
-                    "DAZN",
-                    "DGO",
-                    "DSPORTS+ Plus",
-                    "Paramount+"
-                ]
-            },
-            {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "DAZN (FI)"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "country_code": "MX",
-                "channels": [
-                    "ViX Premium"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "DAZN (NL)"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "DAZN NO"
-                ]
-            },
-            {
-                "country": "Peru",
-                "country_code": "PE",
-                "channels": [
-                    "DAZN",
-                    "DGO",
-                    "DSPORTS+ Plus",
-                    "Paramount+"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "DAZN Sverige"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "DAZN UK"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "FOX Soccer Plus",
-                    "Fox Sports online",
-                    "Fubo Sports"
-                ]
-            },
-            {
-                "country": "Uruguay",
-                "country_code": "UY",
-                "channels": [
-                    "DAZN",
-                    "DGO",
-                    "DSPORTS+ Plus",
-                    "Paramount+"
-                ]
-            },
-            {
-                "country": "Venezuela",
-                "country_code": "VE",
-                "channels": [
-                    "DAZN",
-                    "DSPORTS+ Plus"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 6139073,
-        "kickoff": 1795102200,
-        "fixture": "Qatar U17 vs Panama U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. A",
-        "venue": "ASPIRE Academy Pitch 2",
-        "tv_channels": [
-            {
-                "country": "Colombia",
-                "country_code": "CO",
-                "channels": [
-                    "Canal RCN App",
-                    "Caracol HD2",
-                    "RCN HD2",
-                    "ditu"
-                ]
-            },
-            {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "DAZN (FI)"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "country_code": "MX",
-                "channels": [
-                    "TUDN",
-                    "ViX Premium"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "DAZN (NL)"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "DAZN NO"
-                ]
-            },
-            {
-                "country": "Peru",
-                "country_code": "PE",
-                "channels": [
-                    "América tvGO"
-                ]
-            },
-            {
-                "country": "Russian Federation",
-                "country_code": "RU",
-                "channels": [
-                    "Match! Football 3",
-                    "Sportbox.ru",
-                    "matchtv.ru"
-                ]
-            },
-            {
-                "country": "Spain",
-                "country_code": "ES",
-                "channels": [
-                    "RTVE Play",
-                    "Teledeporte"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "DAZN Sverige"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "DAZN UK"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 6139072,
-        "kickoff": 1795104000,
-        "fixture": "Egypt U17 vs Greece U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. A",
-        "venue": "ASPIRE Academy Pitch 7",
-        "tv_channels": [
-            {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "DAZN (FI)"
-                ]
-            },
-            {
-                "country": "Greece",
-                "country_code": "GR",
-                "channels": [
-                    "ERT 2"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "country_code": "MX",
-                "channels": [
-                    "ViX Premium"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "DAZN (NL)"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "DAZN NO"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "DAZN Sverige"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "DAZN UK"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 6139531,
-        "kickoff": 1795179600,
-        "fixture": "Cuba U17 vs Tajikistan U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. F",
-        "venue": "ASPIRE Academy Pitch 4",
-        "tv_channels": [
-            {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "DAZN (FI)"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "country_code": "MX",
-                "channels": [
-                    "ViX Premium"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "DAZN (NL)"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "DAZN NO"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "DAZN Sverige"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "DAZN UK"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 6139530,
-        "kickoff": 1795188600,
-        "fixture": "Senegal U17 vs Croatia U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. F",
-        "venue": "ASPIRE Academy Pitch 2",
-        "tv_channels": [
-            {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "DAZN (FI)"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "country_code": "MX",
-                "channels": [
-                    "ViX Premium"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "DAZN (NL)"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "DAZN NO"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "DAZN Sverige"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "DAZN UK"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "FOX Soccer Plus",
-                    "Fox Sports online",
-                    "Fubo Sports"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 6139547,
-        "kickoff": 1795179600,
-        "fixture": "Belgium U17 vs Vietnam U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. G",
-        "venue": "Aspire Zone Pitch 9",
-        "tv_channels": [
-            {
-                "country": "Belgium",
-                "country_code": "BE",
-                "channels": [
-                    "Pickx Sports Pop-up",
-                    "Pickx+ Sports 1",
-                    "Proximus Showcase",
-                    "RTBF Auvio",
-                    "VRT MAX"
-                ]
-            },
-            {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "DAZN (FI)"
-                ]
-            },
-            {
-                "country": "Indonesia",
-                "country_code": "ID",
-                "channels": [
-                    "Vidio"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "country_code": "MX",
-                "channels": [
-                    "ViX Premium"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "DAZN (NL)"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "DAZN NO"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "DAZN Sverige"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "DAZN UK"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "FOX One",
-                    "FOX Sports 2",
-                    "Fox Sports online",
-                    "Fubo Sports"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 6139546,
-        "kickoff": 1795181400,
-        "fixture": "Mali U17 vs New Zealand U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. G",
-        "venue": "ASPIRE Academy Pitch 1",
-        "tv_channels": [
-            {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "DAZN (FI)"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "country_code": "MX",
-                "channels": [
-                    "ViX Premium"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "DAZN (NL)"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "DAZN NO"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "DAZN Sverige"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "DAZN UK"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "FOX Soccer Plus",
-                    "Fox Sports online",
-                    "Fubo Sports"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 6139554,
-        "kickoff": 1795183200,
-        "fixture": "Fiji U17 vs Morocco U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. H",
-        "venue": "ASPIRE Academy Pitch 7",
-        "tv_channels": [
-            {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "DAZN (FI)"
-                ]
-            },
-            {
-                "country": "Indonesia",
-                "country_code": "ID",
-                "channels": [
-                    "Vidio"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "country_code": "MX",
-                "channels": [
-                    "ViX Premium"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "DAZN (NL)"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "DAZN NO"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "DAZN Sverige"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "DAZN UK"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "FOX Soccer Plus",
-                    "Fox Sports online",
-                    "Fubo Sports"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 6139553,
-        "kickoff": 1795190400,
-        "fixture": "Spain U17 vs China U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. H",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "DAZN (FI)"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "DAZN (NL)"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "DAZN NO"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "DAZN Sverige"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "DAZN UK"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "FOX Soccer Plus",
-                    "Fox Sports online",
-                    "Fubo Sports"
                 ]
             }
         ]
@@ -6103,6 +4672,13 @@
                 "country_code": "MX",
                 "channels": [
                     "A-Leagues YouTube"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "country_code": "NZ",
+                "channels": [
+                    "Sky Sport 3 NZ"
                 ]
             },
             {
@@ -6356,7 +4932,7 @@
     },
     {
         "match_id": 1000022442,
-        "kickoff": 1795170600,
+        "kickoff": 1795167000,
         "fixture": "Rajasthan United FC vs Chanmari FC",
         "league_id": 8982,
         "league": "I League",
@@ -6378,7 +4954,7 @@
         "fixture": "Mohammedan SC vs Gokulam FC",
         "league_id": 8982,
         "league": "I League",
-        "venue": "East Bengal Ground",
+        "venue": "Kishore Bharati Krirangan",
         "tv_channels": [
             {
                 "country": "India",
@@ -6470,7 +5046,22 @@
         "league_id": 9125,
         "league": "Primera B",
         "venue": "Estadio Francisco Rivera Escobar",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Win Fútbol +"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000024442,
@@ -6479,7 +5070,22 @@
         "league_id": 9125,
         "league": "Primera B",
         "venue": "Estadio Sierra Nevada",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Win Sports"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000024455,
@@ -6488,7 +5094,22 @@
         "league_id": 9125,
         "league": "Primera B",
         "venue": "Estadio Olímpico Jaime Morón León",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Win Sports"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000024456,
@@ -6497,7 +5118,22 @@
         "league_id": 9125,
         "league": "Primera B",
         "venue": "Estadio Municipal de Mosquera",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Win Fútbol +"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "country_code": "PT",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000022241,
@@ -6695,6 +5331,14 @@
                 ]
             },
             {
+                "country": "Bosnia and Herzegovina",
+                "country_code": "BA",
+                "channels": [
+                    "Arena Cloud",
+                    "Moja TV"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "country_code": "BR",
                 "channels": [
@@ -6741,15 +5385,6 @@
                     "ECDF Partidos YouTube",
                     "ECDF Web",
                     "Fanatiz"
-                ]
-            },
-            {
-                "country": "Germany",
-                "country_code": "DE",
-                "channels": [
-                    "OneFootball Deutschland",
-                    "Sportdigital FUSSBALL",
-                    "Sportdigital+"
                 ]
             },
             {
@@ -6857,8 +5492,7 @@
                 "country": "Serbia",
                 "country_code": "RS",
                 "channels": [
-                    "Arena Cloud",
-                    "Arena Premium 3"
+                    "Arena Cloud"
                 ]
             },
             {
@@ -6884,13 +5518,6 @@
                     "Fanatiz",
                     "OneFootball PPV",
                     "Sportdigital Fussball"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "Fanatiz"
                 ]
             },
             {
@@ -7080,13 +5707,6 @@
                 ]
             },
             {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "Fanatiz"
-                ]
-            },
-            {
                 "country": "Uruguay",
                 "country_code": "UY",
                 "channels": [
@@ -7139,6 +5759,14 @@
                 "channels": [
                     "Fanatiz",
                     "Globo Internacional"
+                ]
+            },
+            {
+                "country": "Bosnia and Herzegovina",
+                "country_code": "BA",
+                "channels": [
+                    "Arena Cloud",
+                    "Moja TV"
                 ]
             },
             {
@@ -7318,8 +5946,7 @@
                 "country": "Serbia",
                 "country_code": "RS",
                 "channels": [
-                    "Arena Cloud",
-                    "Arena Premium 3"
+                    "Arena Cloud"
                 ]
             },
             {
@@ -7391,6 +6018,867 @@
                 "channels": [
                     "AIS PLAY",
                     "MONOMAX"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6139096,
+        "kickoff": 1795100400,
+        "fixture": "Mozambique U17 vs Denmark U17",
+        "league_id": 306,
+        "league": "World Cup U17 - C",
+        "venue": "ASPIRE Academy Pitch 3",
+        "tv_channels": [
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 3"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "ViX Premium"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6139095,
+        "kickoff": 1795104000,
+        "fixture": "Argentina U17 vs Australia U17",
+        "league_id": 306,
+        "league": "World Cup U17 - C",
+        "venue": "Aspire Zone Pitch 8",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DGO",
+                    "DSPORTS+ Plus",
+                    "Paramount+",
+                    "TyC Sports",
+                    "TyC Sports Play"
+                ]
+            },
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DAZN",
+                    "DGO",
+                    "DSPORTS+ Plus",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DAZN",
+                    "DGO",
+                    "DSPORTS+ Plus",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "DAZN",
+                    "DGO",
+                    "DSPORTS+ Plus",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 4"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "DAZN",
+                    "DGO",
+                    "DSPORTS+ Plus",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "country_code": "UY",
+                "channels": [
+                    "DAZN",
+                    "DGO",
+                    "DSPORTS+ Plus",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Venezuela",
+                "country_code": "VE",
+                "channels": [
+                    "DAZN",
+                    "DSPORTS+ Plus"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6139554,
+        "kickoff": 1795190400,
+        "fixture": "Fiji U17 vs Morocco U17",
+        "league_id": 306,
+        "league": "World Cup U17 - C",
+        "venue": "ASPIRE Academy Pitch 7",
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "DAZN (FI)"
+                ]
+            },
+            {
+                "country": "Indonesia",
+                "country_code": "ID",
+                "channels": [
+                    "Vidio"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 4"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "DAZN (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "DAZN NO"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "FOX Soccer Plus",
+                    "Fox Sports online",
+                    "Fubo Sports"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6139073,
+        "kickoff": 1795102200,
+        "fixture": "Qatar U17 vs Panama U17",
+        "league_id": 306,
+        "league": "World Cup U17 - A",
+        "venue": "ASPIRE Academy Pitch 2",
+        "tv_channels": [
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "channels": [
+                    "Canal RCN App",
+                    "Caracol HD2",
+                    "RCN HD2",
+                    "ditu"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "TDMAX",
+                    "Teletica Canal 7.2"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 2"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "TUDN",
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Peru",
+                "country_code": "PE",
+                "channels": [
+                    "América tvGO"
+                ]
+            },
+            {
+                "country": "Russian Federation",
+                "country_code": "RU",
+                "channels": [
+                    "Match! Football 3",
+                    "Sportbox.ru",
+                    "matchtv.ru"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "RTVE Play",
+                    "Teledeporte"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6139072,
+        "kickoff": 1795104000,
+        "fixture": "Egypt U17 vs Greece U17",
+        "league_id": 306,
+        "league": "World Cup U17 - A",
+        "venue": "ASPIRE Academy Pitch 7",
+        "tv_channels": [
+            {
+                "country": "Greece",
+                "country_code": "GR",
+                "channels": [
+                    "ERT 2"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "ViX Premium"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6139554,
+        "kickoff": 1795190400,
+        "fixture": "Fiji U17 vs Morocco U17",
+        "league_id": 306,
+        "league": "World Cup U17 - A",
+        "venue": "ASPIRE Academy Pitch 7",
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "DAZN (FI)"
+                ]
+            },
+            {
+                "country": "Indonesia",
+                "country_code": "ID",
+                "channels": [
+                    "Vidio"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 4"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "DAZN (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "DAZN NO"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "FOX Soccer Plus",
+                    "Fox Sports online",
+                    "Fubo Sports"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6139531,
+        "kickoff": 1795179600,
+        "fixture": "Cuba U17 vs Tajikistan U17",
+        "league_id": 306,
+        "league": "World Cup U17 - F",
+        "venue": "ASPIRE Academy Pitch 4",
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "DAZN (FI)"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 2"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "DAZN (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "DAZN NO"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6139554,
+        "kickoff": 1795190400,
+        "fixture": "Fiji U17 vs Morocco U17",
+        "league_id": 306,
+        "league": "World Cup U17 - F",
+        "venue": "ASPIRE Academy Pitch 7",
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "DAZN (FI)"
+                ]
+            },
+            {
+                "country": "Indonesia",
+                "country_code": "ID",
+                "channels": [
+                    "Vidio"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 4"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "DAZN (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "DAZN NO"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "FOX Soccer Plus",
+                    "Fox Sports online",
+                    "Fubo Sports"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6139547,
+        "kickoff": 1795179600,
+        "fixture": "Belgium U17 vs Vietnam U17",
+        "league_id": 306,
+        "league": "World Cup U17 - G",
+        "venue": "Aspire Zone Pitch 9",
+        "tv_channels": [
+            {
+                "country": "Belgium",
+                "country_code": "BE",
+                "channels": [
+                    "Pickx Sports Pop-up",
+                    "Pickx+ Sports 1",
+                    "Proximus Showcase",
+                    "RTBF Auvio",
+                    "VRT MAX"
+                ]
+            },
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "DAZN (FI)"
+                ]
+            },
+            {
+                "country": "Indonesia",
+                "country_code": "ID",
+                "channels": [
+                    "Vidio"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 1"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "DAZN (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "DAZN NO"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "FOX One",
+                    "FOX Sports 2",
+                    "Fox Sports online",
+                    "Fubo Sports"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6139546,
+        "kickoff": 1795181400,
+        "fixture": "Mali U17 vs New Zealand U17",
+        "league_id": 306,
+        "league": "World Cup U17 - G",
+        "venue": "ASPIRE Academy Pitch 1",
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "DAZN (FI)"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 6"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "DAZN (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "DAZN NO"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "FOX Soccer Plus",
+                    "Fox Sports online",
+                    "Fubo Sports"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6139554,
+        "kickoff": 1795190400,
+        "fixture": "Fiji U17 vs Morocco U17",
+        "league_id": 306,
+        "league": "World Cup U17 - G",
+        "venue": "ASPIRE Academy Pitch 7",
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "DAZN (FI)"
+                ]
+            },
+            {
+                "country": "Indonesia",
+                "country_code": "ID",
+                "channels": [
+                    "Vidio"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 4"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "DAZN (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "DAZN NO"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "FOX Soccer Plus",
+                    "Fox Sports online",
+                    "Fubo Sports"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6139553,
+        "kickoff": 1795183200,
+        "fixture": "Spain U17 vs China U17",
+        "league_id": 306,
+        "league": "World Cup U17 - H",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "DAZN (FI)"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 3"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "DAZN (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "DAZN NO"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "FOX Soccer Plus",
+                    "Fox Sports online",
+                    "Fubo Sports"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 6139554,
+        "kickoff": 1795190400,
+        "fixture": "Fiji U17 vs Morocco U17",
+        "league_id": 306,
+        "league": "World Cup U17 - H",
+        "venue": "ASPIRE Academy Pitch 7",
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "country_code": "FI",
+                "channels": [
+                    "DAZN (FI)"
+                ]
+            },
+            {
+                "country": "Indonesia",
+                "country_code": "ID",
+                "channels": [
+                    "Vidio"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 4"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "ViX Premium"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "country_code": "NL",
+                "channels": [
+                    "DAZN (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "country_code": "NO",
+                "channels": [
+                    "DAZN NO"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "country_code": "SE",
+                "channels": [
+                    "DAZN Sverige"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "FOX Soccer Plus",
+                    "Fox Sports online",
+                    "Fubo Sports"
                 ]
             }
         ]
@@ -7485,7 +6973,10 @@
                 "country": "Brazil",
                 "country_code": "BR",
                 "channels": [
-                    "CazéTV YouTube"
+                    "CazeTV",
+                    "CazéTV YouTube",
+                    "SportyNet",
+                    "SportyNet YouTube"
                 ]
             },
             {
@@ -7554,6 +7045,7 @@
                 "country_code": "CY",
                 "channels": [
                     "Cablenet TV Go",
+                    "Cytavision PPV2",
                     "Cytavision Sports 4K",
                     "Cytavision Sports 8",
                     "Cytavision on the Go"
@@ -8126,6 +7618,7 @@
                 "country": "Brazil",
                 "country_code": "BR",
                 "channels": [
+                    "Canal GOAT",
                     "OneFootball",
                     "OneFootball PPV"
                 ]
@@ -8208,7 +7701,15 @@
                 "country_code": "HK",
                 "channels": [
                     "Now Player",
-                    "beIN Sports 1 Hong Kong"
+                    "beIN Sports 1 Hong Kong",
+                    "beIN Sports Connect Hong Kong"
+                ]
+            },
+            {
+                "country": "Hungary",
+                "country_code": "HU",
+                "channels": [
+                    "Network4 streaming"
                 ]
             },
             {
@@ -8367,6 +7868,13 @@
                 ]
             },
             {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Bundesliga App"
+                ]
+            },
+            {
                 "country": "Uruguay",
                 "country_code": "UY",
                 "channels": [
@@ -8516,7 +8024,8 @@
                 "country_code": "HK",
                 "channels": [
                     "Bein Sports 2",
-                    "Now Player"
+                    "Now Player",
+                    "beIN Sports Connect Hong Kong"
                 ]
             },
             {
@@ -8624,6 +8133,13 @@
                 ]
             },
             {
+                "country": "Romania",
+                "country_code": "RO",
+                "channels": [
+                    "Prima Play"
+                ]
+            },
+            {
                 "country": "Serbia",
                 "country_code": "RS",
                 "channels": [
@@ -8668,6 +8184,13 @@
                 "country_code": "TH",
                 "channels": [
                     "beIN SPORTS CONNECT"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Bundesliga App"
                 ]
             },
             {
@@ -10355,6 +9878,13 @@
                 ]
             },
             {
+                "country": "India",
+                "country_code": "IN",
+                "channels": [
+                    "DD Sports"
+                ]
+            },
+            {
                 "country": "Italy",
                 "country_code": "IT",
                 "channels": [
@@ -10388,6 +9918,14 @@
                 "country_code": "PE",
                 "channels": [
                     "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN",
+                    "DAZN App Gratis"
                 ]
             },
             {
@@ -10461,27 +9999,67 @@
         ]
     },
     {
-        "match_id": 5868547,
-        "kickoff": 1795203000,
-        "fixture": "FC Andorra vs Leganés",
-        "league_id": 140,
-        "league": "LaLiga2",
-        "venue": "Estadi de la FAF d'Encamp",
+        "match_id": 5944215,
+        "kickoff": 1795186800,
+        "fixture": "Skënderbeu vs Egnatia",
+        "league_id": 260,
+        "league": "Kategoria Superiore",
+        "venue": "TBA",
         "tv_channels": [
+            {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "RTSH App",
+                    "RTSH Sport"
+                ]
+            },
             {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
+                    "DAZN France",
                     "DAZN Spain"
                 ]
             },
             {
-                "country": "Spain",
-                "country_code": "ES",
+                "country": "New Zealand",
+                "country_code": "NZ",
                 "channels": [
-                    "DAZN",
-                    "LALIGA TV Hypermotion",
-                    "LaLiga TV M2"
+                    "DAZN New Zealand"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5944213,
+        "kickoff": 1795195800,
+        "fixture": "Elbasani vs FC Dinamo City",
+        "league_id": 260,
+        "league": "Kategoria Superiore",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Albania",
+                "country_code": "AL",
+                "channels": [
+                    "RTSH App",
+                    "RTSH Sport"
+                ]
+            },
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN France",
+                    "DAZN Spain"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "country_code": "NZ",
+                "channels": [
+                    "DAZN New Zealand"
                 ]
             }
         ]
@@ -11321,24 +10899,6 @@
         ]
     },
     {
-        "match_id": 6018591,
-        "kickoff": 1795200300,
-        "fixture": "Kazma vs Al Fahaheel",
-        "league_id": 529,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6018588,
-        "kickoff": 1795200300,
-        "fixture": "Kuwait SC vs Al-Salmiyah",
-        "league_id": 529,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5901207,
         "kickoff": 1795204800,
         "fixture": "Toulouse (W) vs Marseille (W)",
@@ -11359,6 +10919,13 @@
                 "channels": [
                     "Canal+ Foot",
                     "myCANAL"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "country_code": "MX",
+                "channels": [
+                    "FOX One"
                 ]
             },
             {
@@ -12062,7 +11629,25 @@
                 "country": "Argentina",
                 "country_code": "AR",
                 "channels": [
-                    "FOX Sports"
+                    "FOX Sports",
+                    "RTP Internacional"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "country_code": "EC",
+                "channels": [
+                    "ECDF App",
+                    "ECDF Web",
+                    "El Canal del Fútbol",
+                    "RTP Internacional"
+                ]
+            },
+            {
+                "country": "Israel",
+                "country_code": "IL",
+                "channels": [
+                    "Sport 3"
                 ]
             },
             {
@@ -12089,6 +11674,13 @@
                 ]
             },
             {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "RTP Play África"
+                ]
+            },
+            {
                 "country": "United States",
                 "country_code": "US",
                 "channels": [
@@ -12098,204 +11690,12 @@
                     "beIN SPORTS en Español (US)",
                     "beIN Sports CONNECT (US)"
                 ]
-            }
-        ]
-    },
-    {
-        "match_id": 6139111,
-        "kickoff": 1795186800,
-        "fixture": "Italy U17 vs Jamaica U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. E",
-        "venue": "ASPIRE Academy Pitch 3",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "country_code": "AR",
-                "channels": [
-                    "Amazon Prime Video",
-                    "DGO",
-                    "DSPORTS+ Plus",
-                    "DSports 2",
-                    "Paramount+"
-                ]
-            },
-            {
-                "country": "Bolivia",
-                "country_code": "BO",
-                "channels": [
-                    "DSports 2"
-                ]
-            },
-            {
-                "country": "Chile",
-                "country_code": "CL",
-                "channels": [
-                    "Amazon Prime Video",
-                    "DAZN",
-                    "DGO",
-                    "DSPORTS+ Plus",
-                    "DSports 2",
-                    "Paramount+"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "country_code": "CO",
-                "channels": [
-                    "Amazon Prime Video",
-                    "DAZN",
-                    "DGO",
-                    "DSPORTS+ Plus",
-                    "DSports 2",
-                    "Paramount+",
-                    "Win Play"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "country_code": "EC",
-                "channels": [
-                    "DAZN",
-                    "DGO",
-                    "DSPORTS+ Plus",
-                    "DSports 2",
-                    "Paramount+"
-                ]
-            },
-            {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "DAZN (FI)"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "country_code": "MX",
-                "channels": [
-                    "ViX Premium"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "DAZN (NL)"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "DAZN NO"
-                ]
-            },
-            {
-                "country": "Peru",
-                "country_code": "PE",
-                "channels": [
-                    "DAZN",
-                    "DGO",
-                    "DSPORTS+ Plus",
-                    "DSports 2",
-                    "Paramount+"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "DAZN Sverige"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "DAZN UK"
-                ]
-            },
-            {
-                "country": "United States",
-                "country_code": "US",
-                "channels": [
-                    "FOX One",
-                    "FOX Sports 2",
-                    "Fox Sports online",
-                    "Fubo Sports"
-                ]
-            },
-            {
-                "country": "Uruguay",
-                "country_code": "UY",
-                "channels": [
-                    "DAZN",
-                    "DGO",
-                    "DSPORTS+ Plus",
-                    "DSports 2",
-                    "Paramount+"
-                ]
             },
             {
                 "country": "Venezuela",
                 "country_code": "VE",
                 "channels": [
-                    "DAZN",
-                    "DSPORTS+ Plus",
-                    "DSports 2"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 6139112,
-        "kickoff": 1795190400,
-        "fixture": "Ivory Coast U17 vs Uzbekistan U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. E",
-        "venue": "Aspire Zone Pitch 8",
-        "tv_channels": [
-            {
-                "country": "Finland",
-                "country_code": "FI",
-                "channels": [
-                    "DAZN (FI)"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "country_code": "MX",
-                "channels": [
-                    "ViX Premium"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "country_code": "NL",
-                "channels": [
-                    "DAZN (NL)"
-                ]
-            },
-            {
-                "country": "Norway",
-                "country_code": "NO",
-                "channels": [
-                    "DAZN NO"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "country_code": "SE",
-                "channels": [
-                    "DAZN Sverige"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "country_code": "GB",
-                "channels": [
-                    "DAZN UK"
+                    "RTP Internacional"
                 ]
             }
         ]
@@ -12330,6 +11730,7 @@
                 "country_code": "AM",
                 "channels": [
                     "FAST TV",
+                    "Fast Sports",
                     "Setanta Sports 2"
                 ]
             },
@@ -12391,8 +11792,11 @@
                 "country": "Brazil",
                 "country_code": "BR",
                 "channels": [
+                    "CazeTV",
                     "OneFootball",
-                    "OneFootball PPV"
+                    "OneFootball PPV",
+                    "SporTV",
+                    "Xsports"
                 ]
             },
             {
@@ -12428,6 +11832,13 @@
                 ]
             },
             {
+                "country": "Costa Rica",
+                "country_code": "CR",
+                "channels": [
+                    "FOX+"
+                ]
+            },
+            {
                 "country": "Croatia",
                 "country_code": "HR",
                 "channels": [
@@ -12439,7 +11850,8 @@
                 "country": "Cyprus",
                 "country_code": "CY",
                 "channels": [
-                    "Nova Sports 3"
+                    "Nova Sports 3",
+                    "Novasports 3"
                 ]
             },
             {
@@ -12512,6 +11924,20 @@
                 ]
             },
             {
+                "country": "Guatemala",
+                "country_code": "GT",
+                "channels": [
+                    "FOX+"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "country_code": "HN",
+                "channels": [
+                    "FOX+"
+                ]
+            },
+            {
                 "country": "Hong Kong",
                 "country_code": "HK",
                 "channels": [
@@ -12523,6 +11949,7 @@
                 "country_code": "HU",
                 "channels": [
                     "Arena 4",
+                    "Network4",
                     "Network4 streaming"
                 ]
             },
@@ -12600,6 +12027,7 @@
                 "country": "Mexico",
                 "country_code": "MX",
                 "channels": [
+                    "FOX",
                     "FOX One"
                 ]
             },
@@ -12639,6 +12067,13 @@
                 ]
             },
             {
+                "country": "Nicaragua",
+                "country_code": "NI",
+                "channels": [
+                    "FOX+"
+                ]
+            },
+            {
                 "country": "North Macedonia",
                 "country_code": "MK",
                 "channels": [
@@ -12653,6 +12088,13 @@
                     "TV 2 Play (NO)",
                     "V sport 1 NO",
                     "Viaplay NO"
+                ]
+            },
+            {
+                "country": "Panama",
+                "country_code": "PA",
+                "channels": [
+                    "FOX+"
                 ]
             },
             {
@@ -12752,7 +12194,10 @@
                 "country_code": "ES",
                 "channels": [
                     "DAZN",
-                    "LaLiga TV M3"
+                    "LaLiga TV M3",
+                    "M+ Liga de Campeones",
+                    "M+ Vamos 2",
+                    "Orange Fútbol 3"
                 ]
             },
             {
@@ -12793,7 +12238,8 @@
                 "country_code": "UA",
                 "channels": [
                     "Kyivstar",
-                    "Setanta Sports"
+                    "Setanta Sports",
+                    "Setanta Sports Ukraine"
                 ]
             },
             {
@@ -12891,6 +12337,7 @@
                 "country": "Brazil",
                 "country_code": "BR",
                 "channels": [
+                    "CazeTV",
                     "CazéTV YouTube"
                 ]
             },
@@ -12899,6 +12346,7 @@
                 "country_code": "BG",
                 "channels": [
                     "Nova Sport",
+                    "Nova Sport Bulgaria",
                     "Nova Sport HD"
                 ]
             },
@@ -13411,10 +12859,17 @@
         "venue": "Estadio Ameliano Villeta",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "country_code": "AR",
+                "channels": [
+                    "Fútbol Paraguayo"
+                ]
+            },
+            {
                 "country": "Paraguay",
                 "country_code": "PY",
                 "channels": [
-                    "Canal por confirmar"
+                    "Tigo Sports"
                 ]
             }
         ]
@@ -13482,6 +12937,32 @@
         "tv_channels": []
     },
     {
+        "match_id": 5868547,
+        "kickoff": 1795203000,
+        "fixture": "FC Andorra vs Leganés",
+        "league_id": 140,
+        "league": "LaLiga2",
+        "venue": "Estadi de la FAF d'Encamp",
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "country_code": "AD",
+                "channels": [
+                    "DAZN Spain"
+                ]
+            },
+            {
+                "country": "Spain",
+                "country_code": "ES",
+                "channels": [
+                    "DAZN",
+                    "LALIGA TV Hypermotion",
+                    "LaLiga TV M2"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5837267,
         "kickoff": 1795204800,
         "fixture": "Barnsley vs Sheffield Wednesday",
@@ -13532,6 +13013,13 @@
                 "channels": [
                     "Magenta Sport Start",
                     "MagentaSport 3"
+                ]
+            },
+            {
+                "country": "Hungary",
+                "country_code": "HU",
+                "channels": [
+                    "Network4 streaming"
                 ]
             },
             {
@@ -13680,7 +13168,7 @@
                     "CBS Sports Golazo",
                     "Paramount+ (US)",
                     "Pluto (US)",
-                    "RokuChannel app (US)"
+                    "Roku Channel app (US)"
                 ]
             }
         ]
@@ -13692,7 +13180,16 @@
         "league_id": 9126,
         "league": "Primera B - Promotion Play-offs - 1st Round",
         "venue": "Estadio Municipal de La Pintana",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "country_code": "CL",
+                "channels": [
+                    "HBO MAX",
+                    "TNT Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000013269,
@@ -13721,17 +13218,17 @@
         "venue": "Alinma Bank Stadium at King Abdullah Sport City",
         "tv_channels": [
             {
-                "country": "Albania",
-                "country_code": "AL",
-                "channels": [
-                    "SuperSport 6"
-                ]
-            },
-            {
                 "country": "Andorra",
                 "country_code": "AD",
                 "channels": [
                     "DAZN France"
+                ]
+            },
+            {
+                "country": "Armenia",
+                "country_code": "AM",
+                "channels": [
+                    "Fast Sports"
                 ]
             },
             {
@@ -13763,7 +13260,10 @@
                 "country": "Brazil",
                 "country_code": "BR",
                 "channels": [
-                    "OneFootball"
+                    "BandSports",
+                    "Canal GOAT",
+                    "OneFootball",
+                    "Xsports"
                 ]
             },
             {
@@ -13791,6 +13291,7 @@
                 "country": "France",
                 "country_code": "FR",
                 "channels": [
+                    "DAZN 1 (FR)",
                     "DAZN.com (FR)"
                 ]
             },
@@ -13903,6 +13404,7 @@
                 "country_code": "ES",
                 "channels": [
                     "M+ #Vamos Bar",
+                    "M+ Liga de Campeones",
                     "M+ Vamos"
                 ]
             },
@@ -13920,8 +13422,7 @@
                 "country": "Tanzania",
                 "country_code": "TZ",
                 "channels": [
-                    "DStv Now",
-                    "ESPN Africa"
+                    "DStv Now"
                 ]
             },
             {

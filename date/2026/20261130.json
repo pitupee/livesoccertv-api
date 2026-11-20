@@ -198,6 +198,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 6530890,
+        "kickoff": 1795968000,
+        "fixture": "Petro Atlético vs FC Nouadhibou",
+        "league_id": 526,
+        "league": "CAF Champions League Grp. A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6530925,
+        "kickoff": 1795978800,
+        "fixture": "Al Hilal Omdurman vs Horoya AC",
+        "league_id": 526,
+        "league": "CAF Champions League Grp. D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5975462,
         "kickoff": 1795971600,
         "fixture": "Pafos FC vs Aris Limassol",
@@ -378,39 +396,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 5868566,
-        "kickoff": 1795965300,
-        "fixture": "Mallorca vs Castellón",
-        "league_id": 140,
-        "league": "LaLiga2",
-        "venue": "Estadi Mallorca Son Moix",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5868560,
+        "match_id": 5944219,
         "kickoff": 1795973400,
-        "fixture": "Cádiz vs Córdoba",
-        "league_id": 140,
-        "league": "LaLiga2",
-        "venue": "JP Financial Estadio",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5868559,
-        "kickoff": 1795982400,
-        "fixture": "Almería vs Sporting Gijón",
-        "league_id": 140,
-        "league": "LaLiga2",
-        "venue": "UD Almería Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5868567,
-        "kickoff": 1796067000,
-        "fixture": "Real Oviedo vs Celta Fortuna",
-        "league_id": 140,
-        "league": "LaLiga2",
-        "venue": "Estadio Municipal Carlos Tartiere",
+        "fixture": "Egnatia vs Elbasani",
+        "league_id": 260,
+        "league": "Kategoria Superiore",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -783,36 +774,36 @@
         "tv_channels": []
     },
     {
-        "match_id": 6141492,
+        "match_id": 6018589,
         "kickoff": 1795977900,
-        "fixture": "Al Nasr vs Al-Salibikhaet",
+        "fixture": "Al Nasr vs Al-Jahra",
         "league_id": 529,
         "league": "Premier League",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 6018593,
+        "match_id": 6141489,
         "kickoff": 1795977900,
-        "fixture": "Al-Jahra vs Al-Tadhamon",
+        "fixture": "Al Sahel SC vs Al-Shabab SC",
         "league_id": 529,
         "league": "Premier League",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 6018594,
+        "match_id": 6141490,
         "kickoff": 1796064300,
-        "fixture": "Al-Qadsia vs Kazma",
+        "fixture": "Al-Salibikhaet vs Al-Qadsia",
         "league_id": 529,
         "league": "Premier League",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 6018595,
+        "match_id": 6018591,
         "kickoff": 1796064300,
-        "fixture": "Al-Shabab SC vs Kuwait SC",
+        "fixture": "Kazma vs Al Fahaheel",
         "league_id": 529,
         "league": "Premier League",
         "venue": "TBA",
@@ -915,52 +906,22 @@
         "league_id": 64,
         "league": "Premiership",
         "venue": "Tynecastle Park",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5961132,
-        "kickoff": 1795986000,
-        "fixture": "Club Sport Herediano vs Escorpiones",
-        "league_id": 121,
-        "league": "Primera Division Apertura",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5833838,
-        "kickoff": 1795986000,
-        "fixture": "C.S. Cartaginés vs Municipal Pérez Zeledón",
-        "league_id": 121,
-        "league": "Primera Division Apertura",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5833840,
-        "kickoff": 1795986000,
-        "fixture": "Deportiva San Carlos vs LD Alajuelense",
-        "league_id": 121,
-        "league": "Primera Division Apertura",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5833841,
-        "kickoff": 1795986000,
-        "fixture": "Deportivo Saprissa vs Inter San Carlos",
-        "league_id": 121,
-        "league": "Primera Division Apertura",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5833842,
-        "kickoff": 1795986000,
-        "fixture": "Sporting FC vs Puntarenas FC",
-        "league_id": 121,
-        "league": "Primera Division Apertura",
-        "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "country_code": "IE",
+                "channels": [
+                    "Sky Sports UHD 2"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "channels": [
+                    "Sky Sports UHD 2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5883751,
@@ -1396,11 +1357,47 @@
     },
     {
         "match_id": 6362028,
-        "kickoff": 1796047200,
+        "kickoff": 1796038200,
         "fixture": "Northeast United FC vs Punjab FC",
         "league_id": 9478,
         "league": "Indian Super League",
         "venue": "Indira Gandhi Athletic Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5868566,
+        "kickoff": 1795965300,
+        "fixture": "Mallorca vs Castellón",
+        "league_id": 140,
+        "league": "LaLiga2",
+        "venue": "Estadi Mallorca Son Moix",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5868560,
+        "kickoff": 1795973400,
+        "fixture": "Cádiz vs Córdoba",
+        "league_id": 140,
+        "league": "LaLiga2",
+        "venue": "JP Financial Estadio",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5868559,
+        "kickoff": 1795982400,
+        "fixture": "Almería vs Sporting Gijón",
+        "league_id": 140,
+        "league": "LaLiga2",
+        "venue": "UD Almería Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5868567,
+        "kickoff": 1796067000,
+        "fixture": "Real Oviedo vs Celta Fortuna",
+        "league_id": 140,
+        "league": "LaLiga2",
+        "venue": "Estadio Municipal Carlos Tartiere",
         "tv_channels": []
     },
     {
@@ -1482,6 +1479,15 @@
         "league_id": 537,
         "league": "Premier Soccer League",
         "venue": "Peter Mokaba Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000024575,
+        "kickoff": 1795995000,
+        "fixture": "Independiente Medellín vs Once Caldas",
+        "league_id": 274,
+        "league": "Primera A",
+        "venue": "Estadio Atanasio Girardot",
         "tv_channels": []
     },
     {
@@ -1904,6 +1910,15 @@
         "fixture": "Hapoel Rishon LeZion vs Ironi Modiin",
         "league_id": 128,
         "league": "Leumit League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5922839,
+        "kickoff": 1796066100,
+        "fixture": "Kecskeméti TE vs Soroksár SC",
+        "league_id": 9117,
+        "league": "NB II",
         "venue": "TBA",
         "tv_channels": []
     },
