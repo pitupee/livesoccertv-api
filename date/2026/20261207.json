@@ -6,7 +6,15 @@
         "league_id": 47,
         "league": "Premier League",
         "venue": "Tottenham Hotspur Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "country_code": "US",
+                "channels": [
+                    "USA Network 4K"
+                ]
+            }
+        ]
     },
     {
         "match_id": 6615122,
@@ -195,6 +203,33 @@
         "league_id": 525,
         "league": "AFC Champions League Elite West",
         "venue": "Basra International Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6813260,
+        "kickoff": 1796572800,
+        "fixture": "Renaissance Club Zemamra vs Wydad Casablanca",
+        "league_id": 530,
+        "league": "Botola Pro",
+        "venue": "Ahmed Choukri Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6813261,
+        "kickoff": 1796580000,
+        "fixture": "MAT Tetouan vs Union Touarga Sport",
+        "league_id": 530,
+        "league": "Botola Pro",
+        "venue": "Saniat Rmel Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6813262,
+        "kickoff": 1796587200,
+        "fixture": "FUS Rabat vs Ittihad Tanger",
+        "league_id": 530,
+        "league": "Botola Pro",
+        "venue": "Moulay Hassan Stadium",
         "tv_channels": []
     },
     {
@@ -780,6 +815,24 @@
         "league_id": 63,
         "league": "Premier League",
         "venue": "Ozon Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5909232,
+        "kickoff": 1796641200,
+        "fixture": "Veres Rivne vs Liviy Bereh",
+        "league_id": 441,
+        "league": "Premier League",
+        "venue": "Stadion Avanhard, Rivne",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5909227,
+        "kickoff": 1796641200,
+        "fixture": "Zorya vs Kudrivka",
+        "league_id": 441,
+        "league": "Premier League",
+        "venue": "Slavutych Arena",
         "tv_channels": []
     },
     {
@@ -1536,6 +1589,51 @@
         "league_id": 127,
         "league": "Ligat ha'Al",
         "venue": "Doha Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013285,
+        "kickoff": 1796590800,
+        "fixture": "Cobresal vs Colo Colo",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio El Cobre Codelco Salvador",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013286,
+        "kickoff": 1796590800,
+        "fixture": "La Serena vs Audax Italiano",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio La Portada",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013289,
+        "kickoff": 1796590800,
+        "fixture": "O'Higgins vs Coquimbo Unido",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio Codelco El Teniente",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013284,
+        "kickoff": 1796590800,
+        "fixture": "Universidad de Chile vs Unión La Calera",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013291,
+        "kickoff": 1796590800,
+        "fixture": "Universidad de Concepción vs Universidad Católica",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio Municipal Alcaldesa Ester Roa Rebolledo",
         "tv_channels": []
     },
     {
